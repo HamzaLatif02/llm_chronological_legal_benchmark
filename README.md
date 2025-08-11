@@ -26,22 +26,22 @@ The benchmark tests **semantic, numerical, and timeline-based reasoning**, with 
 ## Folder Structure
 project_root/
 
-- database/ # Python scripts & JSON files for building the legal database
--- temporal_relationships/ # Scripts for linking laws and creating timelines
--- *.py, *.json
+1 database/ # Python scripts & JSON files for building the legal database
+  - temporal_relationships/ # Scripts for linking laws and creating timelines
+  - *.py, *.json
 
-- tasks/ # Scripts to generate 12 task types + generated task files
--- semantic_tasks/
--- numerical_tasks/
--- timeline_tasks/
+2 tasks/ # Scripts to generate 12 task types + generated task files
+  - semantic_tasks/
+  - numerical_tasks/
+  - timeline_tasks/
 
-- test/ # Scripts to generate LLM answers + response JSONs
+3 test/ # Scripts to generate LLM answers + response JSONs
 
-- results/ # Evaluation scripts & visualisations
--- visualisation/ # Tableau project + visualisation images
--- compare_all_results.py
+4 results/ # Evaluation scripts & visualisations
+  - visualisation/ # Tableau project + visualisation images
+  - compare_all_results.py
 
-- README.md
+5 README.md
 
 ---
 
