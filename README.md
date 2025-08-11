@@ -25,23 +25,23 @@ The benchmark tests **semantic, numerical, and timeline-based reasoning**, with 
 
 ## Folder Structure
 project_root/
-│
-├── database/ # Python scripts & JSON files for building the legal database
-│ ├── temporal_relationships/ # Scripts for linking laws and creating timelines
-│ └── *.py, *.json
-│
-├── tasks/ # Scripts to generate 12 task types + generated task files
-│ ├── semantic_tasks/
-│ ├── numerical_tasks/
-│ └── timeline_tasks/
-│
-├── test/ # Scripts to generate LLM answers + response JSONs
-│
-├── results/ # Evaluation scripts & visualisations
-│ ├── visualisation/ # Tableau project + visualisation images
-│ └── compare_all_results.py
-│
-└── README.md
+
+- database/ # Python scripts & JSON files for building the legal database
+--- temporal_relationships/ # Scripts for linking laws and creating timelines
+--- *.py, *.json
+
+- tasks/ # Scripts to generate 12 task types + generated task files
+--- semantic_tasks/
+--- numerical_tasks/
+--- timeline_tasks/
+
+- test/ # Scripts to generate LLM answers + response JSONs
+
+- results/ # Evaluation scripts & visualisations
+--- visualisation/ # Tableau project + visualisation images
+--- compare_all_results.py
+
+- README.md
 
 ---
 
@@ -89,10 +89,10 @@ Inside `test/`:
   - Together.ai (`TOGETHER_API_KEY`)
 
 Create a `.env` file in the root directory:
-OPENAI_API_KEY=your_key_here
-ANTHROPIC_API_KEY=your_key_here
-GEMINI_API_KEY=your_key_here
-TOGETHER_API_KEY=your_key_here
+- OPENAI_API_KEY=your_key_here
+- ANTHROPIC_API_KEY=your_key_here
+- GEMINI_API_KEY=your_key_here
+- TOGETHER_API_KEY=your_key_here
 
 ---
 
