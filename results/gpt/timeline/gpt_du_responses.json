@@ -1,0 +1,1002 @@
+[
+  {
+    "task_id": "DU001",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Budget Act (Northern Ireland) 2010** is not \"during\" the **National Debt Act 1972**. \n\nThe **National Debt Act 1972** is a specific piece of legislation enacted in 1972, while the **Budget A",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **'Budget Act (Northern Ireland) 2010'** is during the **'National Debt Act 1972'**.\n\n- **Budget Act (Northern Ireland) 2010**: from **2010-03-12** to"
+  },
+  {
+    "task_id": "DU002",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "The **Bell’s Bridge Order Confirmation Act 1995** and the **Pests Act 1954** are two separate pieces of legislation enacted in different years and concerning different matters.\n\n- The **Pests Act 1954",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both acts:\n\n- **Bell’s Bridge Order Confirmation Act 1995**: from 1995-07-19 to 2025-07-01  \n- **Pests Act 1954**: from 1954-11-25 to 2025-07-01\n\nThe question is whet"
+  },
+  {
+    "task_id": "DU003",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Statutory Instruments (Production and Sale) Act 1996** and the **Budget Act (Northern Ireland) 2009** are two separate pieces of legislation enacted at different times.\n\n- The **Statutory Instru",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **'Statutory Instruments (Production and Sale) Act 1996'** (from **1996-07-24** to **2025-07-01**) is *during* the **'Budget Act (Northern Ireland) 20"
+  },
+  {
+    "task_id": "DU004",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Public Trustee (Liability and Fees) Act 2002** is a separate piece of legislation enacted in 2002, whereas the **Road Races (Amendment) Act (Northern Ireland) 2014** was enacted in 2014. The",
+    "gpt_with_dates_snippet": "Let's analyze the time periods of the two Acts:\n\n1. **Public Trustee (Liability and Fees) Act 2002**  \n   - From: 2002-11-07  \n   - To: 2025-07-01\n\n2. **Road Races (Amendment) Act (Northern Ireland) 2"
+  },
+  {
+    "task_id": "DU005",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Armed Forces Act 2006** was not enacted during the **Deer Act 1991**. \n\n- The **Deer Act 1991** was passed in the year **1991**.\n- The **Armed Forces Act 2006** was passed much later, in the",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Armed Forces Act 2006:** from 2006-11-08 to 2024-10-17  \n- **Deer Act 1991:** from 1991-07-25 to 2018-08-19\n\nTo determine if the Armed Forces Act 2006"
+  },
+  {
+    "task_id": "DU006",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **\"Veterans Advisory and Pensions Committees Act 2023\"** is not part of or during the **\"Regulation of Registered Social Landlords (Wales) Act 2018.\"**\n\nThese are two separate pieces of legisl",
+    "gpt_with_dates_snippet": "Yes, the **\"Veterans Advisory and Pensions Committees Act 2023\"** (from 2023-09-18 to 2025-07-01) occurs during the period of the **\"Regulation of Registered Social Landlords (Wales) Act 2018\"** (from"
+  },
+  {
+    "task_id": "DU007",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012** is not during the **National Health Service (Amendment) Act 1949**. \n\nThe **National Health Service (Amendment) Act 1949** ",
+    "gpt_with_dates_snippet": "Let's analyze the dates for both Acts:\n\n- **Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012**: from **2012-12-11** to **2017-12-15**\n- **National Health Service (Amendment) Act 1949**"
+  },
+  {
+    "task_id": "DU008",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "The **Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021** and the **Mental Health (Approval Functions) Act 2012** are two separate pieces of legislation enacted at diffe",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021** is \"during\" the **Mental Health (Approval Functions) Act 2012**.\n"
+  },
+  {
+    "task_id": "DU009",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Post Office Act 1953** and the **Succession to the Crown Act 2013** are two separate pieces of legislation enacted in different years and concerning different subject matters.\n\n- The **Post Offi",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **Post Office Act 1953** (from 1953-07-31 to 2015-10-21) is *during* the **Succession to the Crown Act 2013** (from 2013-04-25 to 2025-07-01).\n\n- Post"
+  },
+  {
+    "task_id": "DU010",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "The **Harris Tweed Act 1993** and the **Civil Evidence Act 1995** are two separate pieces of legislation enacted by the UK Parliament, but they are not the same act, nor is one \"during\" the other in t",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Harris Tweed Act 1993:** from 1993-07-20 to 2025-07-01  \n- **Civil Evidence Act 1995:** from 1995-11-08 to 2024-05-23\n\nTo determine if the Harris Twee"
+  },
+  {
+    "task_id": "DU011",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **British Railways Order Confirmation Act 1994** is not \"during\" the **Friendly Societies Act 1974** in terms of time, because the two Acts were enacted in different years, 20 years apart.\n\n- ",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **British Railways Order Confirmation Act 1994** (from **1994-03-24** to **2025-07-01**) is during the **Friendly Societies Act 1974** (from **1974-07"
+  },
+  {
+    "task_id": "DU012",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016** was enacted in 2016, whereas the **London Local Authorities Act 1995** was enacted in 1995. Therefore, the 2",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges of the two Acts to determine if the **Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016** is \"during\" the **London Local Authorities Act 199"
+  },
+  {
+    "task_id": "DU013",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Building Societies (Funding) and Mutual Societies (Transfers) Act 2007** was enacted in 2007, whereas the **Supreme Court (Offices) Act 1997** was enacted in 1997. Therefore, the 2007 Act wa",
+    "gpt_with_dates_snippet": "Let's analyze the dates for both Acts:\n\n- **Building Societies (Funding) and Mutual Societies (Transfers) Act 2007**: from 2007-10-23 to 2021-10-25  \n- **Supreme Court (Offices) Act 1997**: from 1997-"
+  },
+  {
+    "task_id": "DU014",
+    "expected": "yes",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Consolidated Fund (No. 2) Act 2004** was enacted in the year 2004, whereas the **Railways (Electrical Power) Act 1903** was enacted much earlier, in the year 1903. Therefore, the Consolidate",
+    "gpt_with_dates_snippet": "Let's analyze the dates to determine if the **'Consolidated Fund (No. 2) Act 2004'** (from **2004-12-16** to **2015-01-28**) is during the **'Railways (Electrical Power) Act 1903'** (from **1903-08-14"
+  },
+  {
+    "task_id": "DU015",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Paymaster General Act 1848** is not part of the **Companies (Consolidation) Act 1908**. \n\nThe **Paymaster General Act 1848** is a separate piece of legislation enacted in 1848, dealing with ",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both acts:\n\n- **Paymaster General Act 1848**: from **2025-07-14** to **2025-07-01**\n- **Companies (Consolidation) Act 1908**: from **1908-12-21** to **2025-07-01**\n\nF"
+  },
+  {
+    "task_id": "DU016",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Hill Samuel Bank and United Dominions Trust Act 1994** is not \"during\" the **Nurseries and Child-Minders Regulation Act 1948**. \n\nThese are two separate Acts passed in different years:\n\n- **",
+    "gpt_with_dates_snippet": "Yes, the **Hill Samuel Bank and United Dominions Trust Act 1994** (from 1994-07-21 to 2025-07-01) is during the **Nurseries and Child-Minders Regulation Act 1948** (from 1948-07-30 to 2025-07-01).\n\nEx"
+  },
+  {
+    "task_id": "DU017",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Pensions Act 2011** and the **Supply and Appropriation (Main Estimates) Act 2019** are two separate pieces of UK legislation enacted at different times and concerning different subject matters.\n",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Pensions Act 2011:** from 2011-11-03 to 2024-02-01  \n- **Supply and Appropriation (Main Estimates) Act 2019:** from 2019-07-17 to 2025-07-01\n\nThe ques"
+  },
+  {
+    "task_id": "DU018",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **National Gallery and Tate Gallery Act 1954** was enacted well after the **Accession Declaration Act 1910**. \n\n- The **Accession Declaration Act 1910** was passed in 1910.\n- The **National Ga",
+    "gpt_with_dates_snippet": "Yes, the **National Gallery and Tate Gallery Act 1954** (from 1954-11-25 to 2025-07-01) is during the **Accession Declaration Act 1910** (from 1910-08-03 to 2025-07-01).\n\nThis is because the entire du"
+  },
+  {
+    "task_id": "DU019",
+    "expected": "yes",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Corporate Manslaughter and Corporate Homicide Act 2007** was **not** enacted during the time of the **Trade Union Act 1984**. \n\n- The **Trade Union Act 1984** was passed in the year **1984**",
+    "gpt_with_dates_snippet": "Yes, the **Corporate Manslaughter and Corporate Homicide Act 2007** (from 2007-07-26 to 2024-04-18) falls entirely within the time span of the **Trade Union Act 1984** (from 1984-07-26 to 2025-07-01)."
+  },
+  {
+    "task_id": "DU020",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "The **Agricultural Land (Utilisation) Act 1931** and the **Safeguarding and Clergy Discipline Measure 2016** are two distinct pieces of legislation from very different time periods and contexts.\n\n- Th",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **Agricultural Land (Utilisation) Act 1931** was \"during\" the **Safeguarding and Clergy Discipline Measure 2016**.\n\n- **Agricultural Land (Utilisation"
+  },
+  {
+    "task_id": "DU021",
+    "expected": "yes",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Criminal Injuries Compensation Act 1995** was enacted **after** the **Land Charges Act 1972**.\n\n- The **Land Charges Act 1972** was enacted in **1972**.\n- The **Criminal Injuries Compensatio",
+    "gpt_with_dates_snippet": "Let's analyze the time periods for both Acts:\n\n- **Criminal Injuries Compensation Act 1995**: from 1995-11-08 to 2016-08-31  \n- **Land Charges Act 1972**: from 1972-08-09 to 2018-08-24\n\nThe question i"
+  },
+  {
+    "task_id": "DU022",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Broads Authority Act 2009** was enacted much later than the **Education Act 1976**. \n\n- The **Education Act 1976** was passed in the year **1976**.\n- The **Broads Authority Act 2009** was pa",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both acts:\n\n- **Broads Authority Act 2009**: from 2009-07-02 to 2025-07-01  \n- **Education Act 1976**: from 1976-11-22 to 2025-07-01\n\nThe question is whether the Broa"
+  },
+  {
+    "task_id": "DU023",
+    "expected": "yes",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **\"Northern Ireland (Executive Formation etc) Act 2019\"** is not during the **\"Enterprise and New Towns (Scotland) Act 1990\"**.\n\nTo clarify:\n\n- The **Enterprise and New Towns (Scotland) Act 19",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Northern Ireland (Executive Formation etc) Act 2019**: from 2019-07-24 to 2022-11-24  \n- **Enterprise and New Towns (Scotland) Act 1990**: from 1990-0"
+  },
+  {
+    "task_id": "DU024",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Visiting Forces Act 1952** and the **Curriculum and Assessment (Wales) Act 2021** are separate pieces of legislation enacted many years apart.\n\n- The **Visiting Forces Act 1952** was enacted",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Visiting Forces Act 1952**: from 1952-10-30 to 2024-04-18  \n- **Curriculum and Assessment (Wales) Act 2021**: from 2021-04-29 to 2025-07-01\n\nThe quest"
+  },
+  {
+    "task_id": "DU025",
+    "expected": "yes",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Derelict Land Act 1982** was enacted much later than the **India (Consequential Provision) Act 1949**. \n\n- The **India (Consequential Provision) Act 1949** was passed in 1949, shortly after ",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **Derelict Land Act 1982** (from **1982-07-30** to **2018-08-24**) is *during* the **India (Consequential Provision) Act 1949** (from **1949-12-16** t"
+  },
+  {
+    "task_id": "DU026",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Consolidated Fund (No. 2) Act 1995** is not during the **Children Act 2004**. \n\nThe **Consolidated Fund (No. 2) Act 1995** was enacted in the year 1995, whereas the **Children Act 2004** was",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **'Consolidated Fund (No. 2) Act 1995'** was \"during\" the **'Children Act 2004'**.\n\n- **Consolidated Fund (No. 2) Act 1995**: from **1995-12-19** to *"
+  },
+  {
+    "task_id": "DU027",
+    "expected": "yes",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Business and Planning Act 2020** was enacted in the year 2020, whereas the **Woodgrange Park Cemetery Act 1993** was enacted in 1993. Therefore, the Business and Planning Act 2020 did not oc",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Business and Planning Act 2020:** from 2020-07-22 to 2025-04-08  \n- **Woodgrange Park Cemetery Act 1993:** from 1993-11-05 to 2025-07-01\n\nTo determine"
+  },
+  {
+    "task_id": "DU028",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Human Fertilisation and Embryology Act 2008** and the **London Olympic Games and Paralympic Games (Amendment) Act 2011** are two separate pieces of UK legislation enacted at different times.\n\n- ",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Human Fertilisation and Embryology Act 2008**: from 2008-11-13 to 2024-11-05  \n- **London Olympic Games and Paralympic Games (Amendment) Act 2011**: f"
+  },
+  {
+    "task_id": "DU029",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "The **National Audit Act 1983** and the **Civil Aviation Act 2012** are two separate pieces of legislation enacted at different times.\n\n- The **National Audit Act 1983** was enacted in the year **1983",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both acts:\n\n- **National Audit Act 1983**: from 1983-05-13 to 2018-06-08  \n- **Civil Aviation Act 2012**: from 2012-12-19 to 2025-05-29\n\nThe question is whether the N"
+  },
+  {
+    "task_id": "DU030",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Superannuation Act (Northern Ireland) 2013** was not enacted during the time of the **Civil List Act 1975**. \n\n- The **Civil List Act 1975** was enacted in the year **1975**.\n- The **Superan",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Superannuation Act (Northern Ireland) 2013**: from 2013-01-09 to 2025-07-01  \n- **Civil List Act 1975**: from 1975-12-19 to 2015-11-12\n\nTo determine i"
+  },
+  {
+    "task_id": "DU031",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "The **Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016** was enacted in 2016.\n\nThe **Parliamentary Buildings (Restoration and Renewal) Act 2019** was enacted ",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016**:  \n  From **2016-04-22** to **2025-07-01**\n\n- **Parliamen"
+  },
+  {
+    "task_id": "DU032",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Administration of Justice Act 1969** and the **Local Government (Contracts) Act 1997** are two separate pieces of legislation enacted at different times.\n\n- The **Administration of Justice A",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Administration of Justice Act 1969**: from 1969-10-22 to 2024-11-20  \n- **Local Government (Contracts) Act 1997**: from 1997-11-27 to 2017-10-17\n\nThe "
+  },
+  {
+    "task_id": "DU033",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Work and Families Act (Northern Ireland) 2015** was enacted in the year 2015, whereas the **Highway Act 1835** was enacted much earlier, in the year 1835. Therefore, the Work and Families Ac",
+    "gpt_with_dates_snippet": "Let's analyze the dates and see if the \"Work and Families Act (Northern Ireland) 2015\" is during the \"Highway Act 1835.\"\n\n- **Work and Families Act (Northern Ireland) 2015**: from 2015-01-08 to 2025-0"
+  },
+  {
+    "task_id": "DU034",
+    "expected": "yes",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Rent (Agriculture) Act 1976** and the **Coal-Mining (Subsidence) Act 1957** are two separate pieces of legislation enacted in different years.\n\n- The **Coal-Mining (Subsidence) Act 1957** was en",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges of the two Acts:\n\n- **Rent (Agriculture) Act 1976**: from 1976-11-22 to 2024-11-20  \n- **Coal-Mining (Subsidence) Act 1957**: from 1957-07-31 to 2025-07-01\n\nTo determine "
+  },
+  {
+    "task_id": "DU035",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Armed Forces Act 1981** and the **Income Tax (Trading and Other Income) Act 2005** are two separate pieces of UK legislation, enacted at different times and covering different subject matters.\n\n",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Armed Forces Act 1981:** from 1981-07-28 to 2020-09-04  \n- **Income Tax (Trading and Other Income) Act 2005:** from 2005-03-24 to 2025-05-14\n\nTo deter"
+  },
+  {
+    "task_id": "DU036",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Human Rights Act 1998** was enacted much later than the **Post Office Act 1969**. \n\n- The **Post Office Act 1969** was passed in the year **1969**.\n- The **Human Rights Act 1998** was passed",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges of the two Acts:\n\n- **Human Rights Act 1998:** from 1998-11-09 to 2024-04-29  \n- **Post Office Act 1969:** from 1969-07-25 to 2018-06-26\n\nThe question is whether the Huma"
+  },
+  {
+    "task_id": "DU037",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Killingholme Generating Stations (Ancillary Powers) Act 1991** and the **Landlord and Tenant Act 1985** are two separate pieces of legislation enacted at different times and concerning different",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges of the two Acts:\n\n- **Killingholme Generating Stations (Ancillary Powers) Act 1991**: from 1991-06-27 to 2025-07-01  \n- **Landlord and Tenant Act 1985**: from 1985-10-30 "
+  },
+  {
+    "task_id": "DU038",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **War Pensions Act 1921** is not \"during\" the **Sexual Offences (Amendment) Act 2000**. \n\nThe War Pensions Act 1921 was enacted in the year 1921, while the Sexual Offences (Amendment) Act was ",
+    "gpt_with_dates_snippet": "No, the **War Pensions Act 1921** (from 1921-08-19 to 2025-07-01) is not during the **Sexual Offences (Amendment) Act 2000** (from 2000-11-30 to 2017-12-05).\n\nExplanation:\n- The War Pensions Act 1921 "
+  },
+  {
+    "task_id": "DU039",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Concealment of Birth (Scotland) Act 1809** is not \"during\" the **Patents Act 1949**. \n\nThe Concealment of Birth (Scotland) Act was enacted in the year **1809**, while the Patents Act was ena",
+    "gpt_with_dates_snippet": "Let's analyze the dates to determine if the **\"Concealment of Birth (Scotland) Act 1809\"** (from 2025-07-20 to 2025-07-01) is during the **\"Patents Act 1949\"** (from 1949-12-16 to 2013-10-11).\n\n---\n\n#"
+  },
+  {
+    "task_id": "DU040",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Electronic Communications Act (Northern Ireland) 2001** was enacted in the year 2001, whereas the **Sale of Farming Stock Act 1814** was enacted much earlier, in the year 1814. Therefore, th",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges you provided for the two Acts:\n\n1. **Electronic Communications Act (Northern Ireland) 2001**  \n   - From: 2001-04-05  \n   - To: 2025-07-01\n\n2. **Sale of Farming Stock Act"
+  },
+  {
+    "task_id": "DU041",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Trees Act 1970** was enacted much later than the **Duchy of Lancaster Act 1808**. \n\n- The **Duchy of Lancaster Act 1808** was passed in the year **1808**.\n- The **Trees Act 1970** was passed",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges you provided for the two Acts:\n\n- **Trees Act 1970**: from 1970-05-29 to 2025-07-01  \n- **Duchy of Lancaster Act 1808**: from 2025-07-18 to 2025-07-01\n\nFirst, note that t"
+  },
+  {
+    "task_id": "DU042",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988** is not \"during\" the **Local Government (Boundaries) Act (Northern Ireland) 2008**. \n\nHere's why:\n\n- The **Church of ",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **'Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988'** (from **1988-02-09** to **2019-06-13**) is during the **'Local Governmen"
+  },
+  {
+    "task_id": "DU043",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992** was enacted much later than the **Merchant Shipping Act 1894**. \n\n- The **Merchant Shipping Act 1894** was passed in the year",
+    "gpt_with_dates_snippet": "Let's analyze the time periods of the two Acts:\n\n- **Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992**: from 1992-12-03 to 2017-10-16  \n- **Merchant Shipping Act 1894**: from 1894-08-25"
+  },
+  {
+    "task_id": "DU044",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "The **Sexual Offences (Scotland) Act 1976** and the **National Insurance Contributions (Reduction in Rates) Act 2023** are two separate pieces of legislation enacted at very different times and concer",
+    "gpt_with_dates_snippet": "Let's analyze the time periods for both Acts:\n\n- **Sexual Offences (Scotland) Act 1976**: from 1976-11-15 to 2025-07-01  \n- **National Insurance Contributions (Reduction in Rates) Act 2023**: from 202"
+  },
+  {
+    "task_id": "DU045",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Small Charitable Donations Act 2012** was enacted in 2012, whereas the **Consolidated Fund (No. 2) Act 2004** was enacted in 2004. Therefore, the Small Charitable Donations Act 2012 did not ",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **Small Charitable Donations Act 2012** (2012-12-19 to 2017-04-04) is *during* the **Consolidated Fund (No. 2) Act 2004** (2004-12-16 to 2015-01-28).\n"
+  },
+  {
+    "task_id": "DU046",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Crown Benefices (Parish Representatives) Measure 2010** was enacted in 2010, whereas the **Local Authority Social Services Act 1970** was enacted in 1970. They are separate pieces of legisla",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both:\n\n- **Crown Benefices (Parish Representatives) Measure 2010**: from 2010-03-18 to 2025-07-01  \n- **Local Authority Social Services Act 1970**: from 1970-05-29 to"
+  },
+  {
+    "task_id": "DU047",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **'Senedd Cymru (Members and Elections) Act 2024'** is a modern piece of legislation passed in the year 2024, whereas the **'Bills of Exchange (Ireland) Act 1828'** is a historical act passed ",
+    "gpt_with_dates_snippet": "Let's analyze the dates you provided:\n\n- **Senedd Cymru (Members and Elections) Act 2024**: from 2024-06-24 to 2025-02-27\n- **Bills of Exchange (Ireland) Act 1828**: from 2025-07-19 to 2025-07-01\n\nFir"
+  },
+  {
+    "task_id": "DU048",
+    "expected": "yes",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Finance (No. 2) Act 2005** is not \"during\" the **Midland Metro (No. 2) Act 1992**. \n\nThe **Midland Metro (No. 2) Act 1992** was enacted in 1992, while the **Finance (No. 2) Act 2005** was en",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the period of the **Finance (No. 2) Act 2005** falls during the period of the **Midland Metro (No. 2) Act 1992**.\n\n- **Finance (No. 2) Act 2005**: from **"
+  },
+  {
+    "task_id": "DU049",
+    "expected": "yes",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Scottish Land Court Act 1993** was enacted much later than the **Railway Companies Act 1867**. \n\n- The **Railway Companies Act 1867** was passed in the year **1867**.\n- The **Scottish Land C",
+    "gpt_with_dates_snippet": "Yes, the **Scottish Land Court Act 1993** (from 1993-11-05 to 2016-11-14) is during the **Railway Companies Act 1867** (from 1867-08-20 to 2025-07-01).\n\nExplanation:\n- The Railway Companies Act 1867 i"
+  },
+  {
+    "task_id": "DU050",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Hospital Parking Charges Act (Northern Ireland) 2024** is not \"during\" the **Church of England (Miscellaneous Provisions) Measure 2005**.\n\nHere's why:\n\n- The **Church of England (Miscellaneo",
+    "gpt_with_dates_snippet": "Let's analyze the dates for both pieces of legislation:\n\n- **Hospital Parking Charges Act (Northern Ireland) 2024**:  \n  From **2024-05-16** to **2025-07-01**\n\n- **Church of England (Miscellaneous Pro"
+  },
+  {
+    "task_id": "DU051",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Hunting Act 2004** and the **Borders, Citizenship and Immigration Act 2009** are two separate pieces of legislation enacted at different times.\n\n- The **Hunting Act 2004** was enacted in 200",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Hunting Act 2004:** from 2004-11-18 to 2020-04-16  \n- **Borders, Citizenship and Immigration Act 2009:** from 2009-07-21 to 2023-11-21\n\nTo determine i"
+  },
+  {
+    "task_id": "DU052",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013** was enacted in 2013, whereas the **Appellate Jurisdiction Act 1887** was enacted in 1887. These are two separate Acts fr",
+    "gpt_with_dates_snippet": "Yes, the **Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013** (from 2013-04-25 to 2025-07-01) is during the **Appellate Jurisdiction Act 1887** (from 1887-09-16 to 2025-07-01).\n\nThi"
+  },
+  {
+    "task_id": "DU053",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Employers' Liability (Compulsory Insurance) Act 1969** was enacted long before the **Parliamentary Constituencies Act 2020**. \n\n- The **Employers' Liability (Compulsory Insurance) Act 1969**",
+    "gpt_with_dates_snippet": "Let's analyze the dates to determine if the **Employers' Liability (Compulsory Insurance) Act 1969** was \"during\" the **Parliamentary Constituencies Act 2020**.\n\n- **Employers' Liability (Compulsory I"
+  },
+  {
+    "task_id": "DU054",
+    "expected": "yes",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Consolidated Fund (No. 2) Act 1995** is not during the **Easter Act 1928**. \n\nThe **Easter Act 1928** is a piece of legislation passed in the year 1928, while the **Consolidated Fund (No. 2)",
+    "gpt_with_dates_snippet": "Let's analyze the dates to determine if the **'Consolidated Fund (No. 2) Act 1995'** (from **1995-12-19** to **2013-10-12**) falls during the period of the **'Easter Act 1928'** (from **1928-08-03** t"
+  },
+  {
+    "task_id": "DU055",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Sheriff Courts and Legal Officers (Scotland) Act 1927** was enacted in the year **1927**, whereas the **Family Allowances and National Insurance Act 1967** was enacted in **1967**. \n\nTherefo",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Sheriff Courts and Legal Officers (Scotland) Act 1927**: from **1927-12-22** to **2013-10-11**\n- **Family Allowances and National Insurance Act 1967**"
+  },
+  {
+    "task_id": "DU056",
+    "expected": "yes",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Sex Discrimination Act 1975** was not enacted during the time of the **Executors (Scotland) Act 1900**. \n\n- The **Executors (Scotland) Act 1900** was passed in the year **1900**.\n- The **Sex",
+    "gpt_with_dates_snippet": "Yes, the **Sex Discrimination Act 1975** (effective from 1975-11-12 to 2021-12-08) was in force during the period of the **Executors (Scotland) Act 1900** (effective from 1900-08-08 to 2025-07-01).\n\nT"
+  },
+  {
+    "task_id": "DU057",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Courts and Tribunals (Judiciary and Functions of Staff) Act 2018** was enacted in 2018, whereas the **Political Parties and Elections Act 2009** was enacted in 2009. Therefore, the 2018 Act ",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **Courts and Tribunals (Judiciary and Functions of Staff) Act 2018** (2018-12-20 to 2025-07-01) is \"during\" the **Political Parties and Elections Act "
+  },
+  {
+    "task_id": "DU058",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "The **Breeding of Dogs Act 1973** and the **Nottingham City Council Act 2013** are two separate pieces of legislation enacted at different times.\n\n- The **Breeding of Dogs Act 1973** is a UK-wide Act ",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both acts:\n\n- **Breeding of Dogs Act 1973:** from 1973-10-25 to 2021-11-12  \n- **Nottingham City Council Act 2013:** from 2013-02-28 to 2025-07-01\n\nThe question is wh"
+  },
+  {
+    "task_id": "DU059",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Local Authorities (Restoration of Works Powers) Act 1977** is a separate piece of legislation enacted in 1977, whereas the **Church of England (Miscellaneous Provisions) Measure 2018** is a ",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both:\n\n- **Local Authorities (Restoration of Works Powers) Act 1977**: from **1977-07-29** to **2025-07-01**\n- **Church of England (Miscellaneous Provisions) Measure "
+  },
+  {
+    "task_id": "DU060",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Green Energy (Definition and Promotion) Act 2009** was enacted in 2009, whereas the **Children Act 2004** was enacted earlier, in 2004. Therefore, the Green Energy Act did not occur *during*",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **\"Green Energy (Definition and Promotion) Act 2009\"** is during the **\"Children Act 2004\"**.\n\n- **Green Energy (Definition and Promotion) Act 2009**:"
+  },
+  {
+    "task_id": "DU061",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Police (Northern Ireland) Act 1998** was enacted in the year **1998**.\n\nThe **Concessionary Bus Travel Act 2007** was enacted in the year **2007**.\n\nSince 1998 is before 2007, the Police (Northe",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Police (Northern Ireland) Act 1998**: from 1998-07-24 to 2025-04-22  \n- **Concessionary Bus Travel Act 2007**: from 2007-07-19 to 2025-07-01\n\nThe ques"
+  },
+  {
+    "task_id": "DU062",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Pastoral (Amendment) Measure 2006** is not \"during\" the **House of Commons (Disqualifications) Act 1801**. \n\nThese are two distinct legal instruments from very different times and contexts:\n",
+    "gpt_with_dates_snippet": "Let's analyze the dates you provided:\n\n- **Pastoral (Amendment) Measure 2006**: from 2006-07-11 to 2015-10-23  \n- **House of Commons (Disqualifications) Act 1801**: from 2025-07-20 to 2025-07-01\n\nFirs"
+  },
+  {
+    "task_id": "DU063",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Bus Services Act 2017** was enacted in the year 2017, whereas the **Removal Terms (Scotland) Act 1886** was enacted in 1886. Therefore, the Bus Services Act 2017 did not exist during the tim",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Bus Services Act 2017**: from 2017-04-27 to 2025-07-01  \n- **Removal Terms (Scotland) Act 1886**: from 1886-06-25 to 2025-07-01\n\nThe question is wheth"
+  },
+  {
+    "task_id": "DU064",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Consolidated Fund Act 1816** and the **British Technology Group Act 1991** are separate Acts passed in different years—1816 and 1991 respectively. The Consolidated Fund Act 1816 is not \"duri",
+    "gpt_with_dates_snippet": "Let's analyze the dates for both Acts:\n\n- **Consolidated Fund Act 1816**: from **2025-07-01** to **2025-07-01**\n- **British Technology Group Act 1991**: from **1991-10-22** to **2015-09-11**\n\nThe **Co"
+  },
+  {
+    "task_id": "DU065",
+    "expected": "yes",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Tobacco Advertising and Promotion Act 2002** was enacted much later than the **Light Railways Act 1912**. \n\n- The **Light Railways Act 1912** was passed in the year **1912**.\n- The **Tobacco",
+    "gpt_with_dates_snippet": "Let's analyze the time periods of the two Acts:\n\n- **Tobacco Advertising and Promotion Act 2002**: from 2002-11-07 to 2023-09-26  \n- **Light Railways Act 1912**: from 1912-12-13 to 2025-07-01\n\nThe que"
+  },
+  {
+    "task_id": "DU066",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Ivory Act 2018** was enacted after the **Energy Act 2013**. \n\n- The **Energy Act 2013** was passed in the year 2013.\n- The **Ivory Act 2018** was passed in the year 2018.\n\nSo, the Ivory Act ",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both acts:\n\n- **Ivory Act 2018:** from 2018-12-20 to 2025-07-01  \n- **Energy Act 2013:** from 2013-12-18 to 2024-10-30\n\nTo determine if the Ivory Act 2018 is *during*"
+  },
+  {
+    "task_id": "DU067",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Chequers Estate Act 1917** was enacted in the year 1917, whereas the **Industrial Common Ownership Act 1976** was enacted much later, in 1976. Therefore, the Chequers Estate Act 1917 was **n",
+    "gpt_with_dates_snippet": "Let's analyze the time periods of the two Acts:\n\n- **Chequers Estate Act 1917**: from 1917-12-20 to 2025-07-01  \n- **Industrial Common Ownership Act 1976**: from 1976-11-22 to 2015-05-22\n\nThe question"
+  },
+  {
+    "task_id": "DU068",
+    "expected": "no",
+    "gpt_main_answer": "yes",
+    "gpt_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Local Authorities (Goods and Services) Act 1970** and the **Trustee Savings Banks Act 1981** are two separate pieces of UK legislation enacted at different times.\n\n- The **Local Authorities (Goo",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **Local Authorities (Goods and Services) Act 1970** was \"during\" the **Trustee Savings Banks Act 1981**.\n\n- **Local Authorities (Goods and Services) A"
+  },
+  {
+    "task_id": "DU069",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Law Officers Act 1997** is not part of the **Incumbents (Vacation of Benefices) (Amendment) Measure 1993**. \n\nThe **Incumbents (Vacation of Benefices) (Amendment) Measure 1993** is a specifi",
+    "gpt_with_dates_snippet": "Yes, the **Law Officers Act 1997** (from 1997-07-31 to 2025-07-01) is during the **Incumbents (Vacation of Benefices) (Amendment) Measure 1993** (from 1993-07-27 to 2025-07-01).\n\nThis is because the e"
+  },
+  {
+    "task_id": "DU070",
+    "expected": "no",
+    "gpt_main_answer": "yes",
+    "gpt_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Pensions Act 2007** and the **Antarctic Act 2013** are two separate pieces of legislation enacted at different times.\n\n- The **Pensions Act 2007** was enacted in the year **2007**.\n- The **Antar",
+    "gpt_with_dates_snippet": "The **Pensions Act 2007** was in effect from **2007-07-26** to **2022-01-19**.  \nThe **Antarctic Act 2013** was in effect from **2013-03-26** to **2025-07-01**.\n\nTo determine if the Pensions Act 2007 "
+  },
+  {
+    "task_id": "DU071",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Agriculture Act 1986** was enacted in the year 1986, whereas the **Hairdressers (Registration) Act 1964** was enacted in 1964. Therefore, the Agriculture Act 1986 did **not** occur during th",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Agriculture Act 1986**: from 1986-07-25 to 2025-06-10  \n- **Hairdressers (Registration) Act 1964**: from 1964-07-31 to 2015-06-10\n\nTo determine if the"
+  },
+  {
+    "task_id": "DU072",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015** was enacted in 2015, whereas the **Improvement of Land Act 1864** was enacted in 1864. These two Acts were passe",
+    "gpt_with_dates_snippet": "Let's analyze the dates and see if the two Acts overlap or if one is \"during\" the other.\n\n1. **Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015**  \n   - From: 2015-04-29  \n "
+  },
+  {
+    "task_id": "DU073",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Education Act 2005** was not enacted during the **Police and Criminal Evidence Act 1984**. \n\nThe **Police and Criminal Evidence Act 1984** (often abbreviated as PACE) was passed in 1984, whi",
+    "gpt_with_dates_snippet": "Let's analyze the time periods for both acts:\n\n- **Education Act 2005**: from 2005-04-07 to 2025-04-09  \n- **Police and Criminal Evidence Act 1984**: from 1984-10-31 to 2024-05-01\n\nThe question is whe"
+  },
+  {
+    "task_id": "DU074",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Dawat-e-Hadiyah Act, 1993** and the **Mines and Quarries Act, 1954** are two separate pieces of legislation enacted at different times and dealing with different subject matters.\n\n- The **Mines ",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges of the two acts:\n\n- **Dawat-e-Hadiyah Act 1993**: from 1993-07-01 to 2025-07-01  \n- **Mines and Quarries Act 1954**: from 1954-11-25 to 2025-04-14\n\nTo determine if the Da"
+  },
+  {
+    "task_id": "DU075",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Finance Act 1988** was enacted much later than the **Sailors and Soldiers (Gifts for Land Settlement) Act 1916**.\n\n- The **Sailors and Soldiers (Gifts for Land Settlement) Act 1916** was pas",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Finance Act 1988**: from 1988-07-29 to 2025-03-03  \n- **Sailors and Soldiers (Gifts for Land Settlement) Act 1916**: from 1916-12-22 to 2013-12-04\n\nTh"
+  },
+  {
+    "task_id": "DU076",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Penalties for Drunkenness Act 1962** and the **Sports Grounds Safety Authority Act 2011** are two separate pieces of legislation enacted nearly 50 years apart.\n\n- The **Penalties for Drunken",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Penalties for Drunkenness Act 1962**: from 1962-08-01 to 2025-07-01  \n- **Sports Grounds Safety Authority Act 2011**: from 2011-07-12 to 2025-07-01\n\nT"
+  },
+  {
+    "task_id": "DU077",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Supreme Court (Offices) Act 1997** and the **Drugs Act 2005** are two separate pieces of legislation enacted in different years.\n\n- The **Supreme Court (Offices) Act 1997** was enacted in the ye",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **'Supreme Court (Offices) Act 1997'** (from 1997-12-17 to 2013-08-23) is *during* the **'Drugs Act 2005'** (from 2005-04-07 to 2023-07-25).\n\n- Suprem"
+  },
+  {
+    "task_id": "DU078",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "The **Diocesan Stipends Funds (Amendment) Measure 2016** and the **Pensions Act 2007** are separate legislative instruments enacted at different times and dealing with different subject matters.\n\n- Th",
+    "gpt_with_dates_snippet": "Let's analyze the dates to determine if the \"Diocesan Stipends Funds (Amendment) Measure 2016\" falls during the period of the \"Pensions Act 2007.\"\n\n- **Diocesan Stipends Funds (Amendment) Measure 2016"
+  },
+  {
+    "task_id": "DU079",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Parliamentary Standards Act 2009** and the **Strikes (Minimum Service Levels) Act 2023** are two separate pieces of legislation enacted at different times.\n\n- The **Parliamentary Standards Act 2",
+    "gpt_with_dates_snippet": "No, the **Parliamentary Standards Act 2009** (from 2009-07-21 to 2023-03-08) is **not** during the **Strikes (Minimum Service Levels) Act 2023** (from 2023-07-20 to 2025-07-01).\n\nThe Parliamentary Sta"
+  },
+  {
+    "task_id": "DU080",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Solicitors (Scotland) Act 1988** was not enacted during the **Public Registers and Records (Scotland) Act 1948**. \n\nTo clarify:\n\n- The **Public Registers and Records (Scotland) Act 1948** wa",
+    "gpt_with_dates_snippet": "Let's analyze the time periods of the two Acts:\n\n- **Solicitors (Scotland) Act 1988**: from 1988-07-29 to 2025-07-01  \n- **Public Registers and Records (Scotland) Act 1948**: from 1948-07-30 to 2022-0"
+  },
+  {
+    "task_id": "DU081",
+    "expected": "yes",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Consolidated Fund Act 2008** was not enacted during the **Administration of Justice Act 1960**. \n\nThe **Administration of Justice Act 1960** is a specific piece of legislation passed in the ",
+    "gpt_with_dates_snippet": "Yes, the **Consolidated Fund Act 2008** (from 2008-12-18 to 2015-02-17) falls entirely within the period of the **Administration of Justice Act 1960** (from 1960-10-27 to 2022-07-19).\n\n- Administratio"
+  },
+  {
+    "task_id": "DU082",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **School Grants Act 1855** is not \"during\" the **Housing Act 1974**. \n\nThe **School Grants Act 1855** was enacted in the year 1855, while the **Housing Act 1974** was enacted much later, in 19",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges given:\n\n- **School Grants Act 1855:** from 2025-07-14 to 2025-07-01  \n- **Housing Act 1974:** from 1974-07-31 to 2025-07-01\n\nFirst, note that the date range for the Schoo"
+  },
+  {
+    "task_id": "DU083",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "The **Refreshment Houses Act 1964** and the **Criminal Law (Consolidation) (Scotland) Act 1995** are two separate pieces of legislation.\n\n- The **Refreshment Houses Act 1964** is an older Act that pri",
+    "gpt_with_dates_snippet": "Yes, the **Refreshment Houses Act 1964** (effective from 1964-07-31 to 2015-03-18) was in effect during the period of the **Criminal Law (Consolidation) (Scotland) Act 1995** (effective from 1995-11-0"
+  },
+  {
+    "task_id": "DU084",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Railways Act 1921** and the **Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010** are two distinct pieces of legislation enacted at very different times and concerning differen",
+    "gpt_with_dates_snippet": "Let's analyze the time periods of the two Acts:\n\n- **Railways Act 1921**: from 1921-08-19 to 2025-07-01  \n- **Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010**: from 2010-03-12 to "
+  },
+  {
+    "task_id": "DU085",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Product Security and Telecommunications Infrastructure Act 2022** and the **Powers of Attorney Act 2023** are two separate pieces of legislation enacted in different years.\n\n- The **Product Secu",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both acts:\n\n- **Product Security and Telecommunications Infrastructure Act 2022**: from 2022-12-06 to 2025-07-01  \n- **Powers of Attorney Act 2023**: from 2023-09-18 "
+  },
+  {
+    "task_id": "DU086",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "The **Criminal Justice (Terrorism and Conspiracy) Act 1998** and the **Mission and Pastoral Measure 2011** are two distinct pieces of legislation from the UK, enacted at different times and covering e",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **'Criminal Justice (Terrorism and Conspiracy) Act 1998'** (from **1998-09-04** to **2021-10-12**) was \"during\" the **'Mission and Pastoral Measure 20"
+  },
+  {
+    "task_id": "DU087",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **\"Veterans Advisory and Pensions Committees Act 2023\"** is not from the time of the **\"European Communities (Finance) Act 2001\"**. \n\nThe **European Communities (Finance) Act 2001** was enacte",
+    "gpt_with_dates_snippet": "No, the **'Veterans Advisory and Pensions Committees Act 2023'** (effective from 2023-09-18 to 2025-07-01) is **not during** the period of the **'European Communities (Finance) Act 2001'** (effective "
+  },
+  {
+    "task_id": "DU088",
+    "expected": "yes",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Export Control Act 2002** was enacted in the year 2002, whereas the **Belfast Charitable Society Act 1996** was enacted in 1996. Therefore, the Export Control Act 2002 did **not** occur duri",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **Export Control Act 2002** (from **2002-07-24** to **2021-10-05**) is *during* the **Belfast Charitable Society Act 1996** (from **1996-07-18** to **"
+  },
+  {
+    "task_id": "DU089",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Consolidated Fund (No. 2) Act 1998** is not \"during\" the **Solicitors Act 1974** in the sense of being part of or enacted under it. \n\nTo clarify:\n\n- The **Solicitors Act 1974** is a specific",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **'Consolidated Fund (No. 2) Act 1998'** (from **1998-12-17** to **2025-07-01**) is *during* the **'Solicitors Act 1974'** (from **1974-07-31** to **2"
+  },
+  {
+    "task_id": "DU090",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Justices of the Peace Act 1949** and the **Aberdeen Harbour Order Confirmation Act 1992** are two separate pieces of legislation enacted at different times.\n\n- The **Justices of the Peace Act 19",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges to determine if the **Justices of the Peace Act 1949** (valid from **1949-12-16** to **2015-05-07**) is \"during\" the **Aberdeen Harbour Order Confirmation Act 1992** (val"
+  },
+  {
+    "task_id": "DU091",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Offices, Shops and Railway Premises Act 1963** was enacted in 1963, while the **Sustainable Communities Act** was passed much later, in 2007. \n\nSo, the Offices, Shops and Railway Premises Ac",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Offices, Shops and Railway Premises Act 1963**: from **1963-07-31** to **2021-09-29**\n- **Sustainable Communities Act 2007**: from **2007-10-23** to *"
+  },
+  {
+    "task_id": "DU092",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "The **Northern Ireland (Loans) Act 1975** and the **Housing Act 1974** are two separate pieces of legislation enacted in different years.\n\n- The **Housing Act 1974** was enacted in **1974**.\n- The **N",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Northern Ireland (Loans) Act 1975**: from 1975-12-19 to 2025-07-01  \n- **Housing Act 1974**: from 1974-07-31 to 2025-07-01\n\nTo determine if the **Nort"
+  },
+  {
+    "task_id": "DU093",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "The **Sustainable Communities Act 2007** and the **Autism Act (Northern Ireland) 2011** are two separate pieces of legislation enacted at different times.\n\n- The **Sustainable Communities Act 2007** w",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both acts:\n\n- **Sustainable Communities Act 2007**: from 2007-10-23 to 2018-08-24  \n- **Autism Act (Northern Ireland) 2011**: from 2011-05-09 to 2025-07-01\n\nThe quest"
+  },
+  {
+    "task_id": "DU094",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Non-Domestic Rating Act 2023** was enacted in 2023, whereas the **Modern Slavery Act 2015** was enacted in 2015. Therefore, the Non-Domestic Rating Act 2023 did not exist during the time the",
+    "gpt_with_dates_snippet": "No, the **Non-Domestic Rating Act 2023** (from 2023-10-26 to 2025-06-08) is **not during** the **Modern Slavery Act 2015** (from 2015-03-26 to 2022-07-29).\n\nThe Non-Domestic Rating Act 2023 starts aft"
+  },
+  {
+    "task_id": "DU095",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "The **Geological Survey Act 1845** and the **Water Act 2014** are two separate pieces of legislation enacted in very different time periods.\n\n- The **Geological Survey Act 1845** was enacted in the ye",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both acts:\n\n- **Geological Survey Act 1845**: from 2025-07-31 to 2025-07-01  \n  (Note: The end date is earlier than the start date, which is unusual and likely an err"
+  },
+  {
+    "task_id": "DU096",
+    "expected": "no",
+    "gpt_main_answer": null,
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "The **Prevention of Crimes Act 1871** and the **Public Audit (Wales) Act 2013** are two distinct pieces of legislation from very different time periods and contexts.\n\n- The **Prevention of Crimes Act ",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Prevention of Crimes Act 1871**: from 1871-08-21 to 2025-07-01  \n- **Public Audit (Wales) Act 2013**: from 2013-04-29 to 2023-02-17\n\nThe question is w"
+  },
+  {
+    "task_id": "DU097",
+    "expected": "yes",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016** is not \"during\" the **City of London (Approved Premises for Marriage) Act 1996**.\n\nTo clarify:\n\n- The **City of ",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016**: from **2016-05-12** to **2022-09-26**\n- **City of London (Approved Prem"
+  },
+  {
+    "task_id": "DU098",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, **The Environmental Protection (Single-use Plastic Products) (Wales) Act 2023** was enacted in 2023, whereas the **Medway Ports Authority Act 1973** was enacted in 1973. \n\nThese are two separate A",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **The Environmental Protection (Single-use Plastic Products) (Wales) Act 2023**: from 2023-06-06 to 2025-07-01  \n- **Medway Ports Authority Act 1973**: "
+  },
+  {
+    "task_id": "DU099",
+    "expected": "no",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gpt_main_snippet": "No, the **Employment Act (Northern Ireland) 2010** was enacted well after the **Commons Registration (East Sussex) Act 1994**.\n\n- **Commons Registration (East Sussex) Act 1994** was passed in 1994.\n- ",
+    "gpt_with_dates_snippet": "Let's analyze the date ranges for both Acts:\n\n- **Employment Act (Northern Ireland) 2010**: from 2010-08-02 to 2025-07-01  \n- **Commons Registration (East Sussex) Act 1994**: from 1994-07-05 to 2025-0"
+  },
+  {
+    "task_id": "DU100",
+    "expected": "yes",
+    "gpt_main_answer": "no",
+    "gpt_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gpt_main_snippet": "No, the **United Kingdom Internal Market Act 2020** was enacted in the year 2020, whereas the **Matrimonial Homes (Family Protection) (Scotland) Act 1981** was enacted much earlier, in 1981. \n\nTherefo",
+    "gpt_with_dates_snippet": "Yes, the **United Kingdom Internal Market Act 2020** (from 2020-12-17 to 2024-02-21) is during the **Matrimonial Homes (Family Protection) (Scotland) Act 1981** (from 1981-10-30 to 2025-04-23).\n\nThis "
+  }
+]

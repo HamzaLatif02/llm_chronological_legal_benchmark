@@ -1,0 +1,1374 @@
+[
+  {
+    "task_id": "RC001",
+    "correct": false,
+    "found": [
+      "Succession to the Crown Act 2013"
+    ],
+    "missing": [
+      "Armed Forces Act 2006",
+      "Constitutional Reform and Governance Act 2010",
+      "Courts Act 2003",
+      "Electoral Administration Act 2006",
+      "Government of Wales Act 1998",
+      "Northern Ireland (Elections) Act 1998",
+      "Northern Ireland Act 1998",
+      "Scotland Act 1998",
+      "The Armed Forces Act 2006 (Commencement No. 4) Order 2009",
+      "The Armed Forces Act 2006 (Commencement No. 5) Order 2009",
+      "The Courts Act 2003 (Commencement No. 6 and Savings) Order 2004",
+      "The Electoral Administration Act 2006 (Commencement No. 2, Transitional and Savings Provisions) Order 2006",
+      "The Electoral Administration Act 2006 (Commencement No.7) Order 2008",
+      "The Government of Wales Act 1998 (Commencement No. 2) Order 1998",
+      "The Northern Ireland (Elections) Act 1998(Commencement) Order 1998",
+      "The Northern Ireland Act 1998 (Commencement No. 5) Order 1999"
+    ],
+    "gemini_text_snippet": "The Act of Settlement 1700 (or 1701 in modern dating) is a cornerstone of the British constitution, primarily establishing the succession to the Crown in the Protestant line of the House of Hanover and ensuring judicial independence. While some of its provisions have remained foundational, others ha"
+  },
+  {
+    "task_id": "RC002",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Kew Gardens (Leases) Act 2019",
+      "Land at Palace Avenue, Kensington (Acquisition of Freehold) Act 2002"
+    ],
+    "gemini_text_snippet": "The Crown Lands Act 1702 (often cited as 1 Anne c. 7 or 1 Anne St. 1 c. 7) was a pivotal piece of legislation. Its primary purpose was to prevent the monarch from alienating, selling, or leasing Crown lands for more than 31 years (or three lives) without the express consent of Parliament. This was a"
+  },
+  {
+    "task_id": "RC003",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Crime and Disorder Act 1998",
+      "The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998"
+    ],
+    "gemini_text_snippet": "The Act 1 Anne Stat. 2 1702 is officially known as the **Crown Lands Act 1702** (or sometimes the Demise of the Crown Act 1702). Its full citation is `1702 c. 2`.\n\nThis Act was primarily concerned with ensuring the continuity of the Crown and government upon the death of the monarch, particularly re"
+  },
+  {
+    "task_id": "RC004",
+    "correct": false,
+    "found": [
+      "Scotland Act 1998"
+    ],
+    "missing": [
+      "Electoral Administration Act 2006",
+      "The Electoral Administration Act 2006 (Commencement No. 2, Transitional and Savings Provisions) Order 2006",
+      "The Electoral Administration Act 2006 (Commencement No.3) Order 2007",
+      "The Scotland Act 1998 (Commencement) Order 1998"
+    ],
+    "gemini_text_snippet": "The Union with Scotland Act 1706 (passed by the Parliament of England) was one of two parallel Acts of Union (the other being the Union with England Act 1707, passed by the Parliament of Scotland) that created the Kingdom of Great Britain and merged the Parliaments of England and Scotland into a sin"
+  },
+  {
+    "task_id": "RC005",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Electoral Administration Act 2006",
+      "The Electoral Administration Act 2006 (Commencement No. 2, Transitional and Savings Provisions) Order 2006",
+      "The Electoral Administration Act 2006 (Commencement No.3) Order 2007"
+    ],
+    "gemini_text_snippet": "The Election Act 1707 (formally, \"An Act for regulating the Qualifications of Members, and for preventing of clandestine and fraudulent Conveyances\") was a significant piece of legislation enacted shortly after the Act of Union between England and Scotland in 1707. It set out rules for parliamentary"
+  },
+  {
+    "task_id": "RC006",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Dissolution and Calling of Parliament Act 2022",
+      "Fixed-term Parliaments Act 2011"
+    ],
+    "gemini_text_snippet": "The Succession to the Crown Act 1707 was a consolidating Act that essentially reaffirmed and brought together the rules of succession to the British Crown, primarily those established by the **Bill of Rights 1689** and the **Act of Settlement 1701**. These foundational acts established the Protestan"
+  },
+  {
+    "task_id": "RC007",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Constitutional Reform Act 2005",
+      "The Constitutional Reform Act 2005 (Commencement No. 5) Order 2006"
+    ],
+    "gemini_text_snippet": "The Cestui Que Vie Act 1707 (6 Anne c.18) is still largely in force in the UK, but its practical application has been significantly affected and, in many cases, superseded by more modern legislation and legal developments.\n\nHere are the main acts and legal principles that have affected or interacted"
+  },
+  {
+    "task_id": "RC008",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Access to Justice Act 1999",
+      "Courts Act 2003",
+      "Ecclesiastical Jurisdiction and Care of Churches Measure 2018",
+      "Statute Law (Repeals) Act 2004",
+      "Statute Law (Repeals) Measure 2018",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Local Government Changes for England (Magistrates' Courts) Regulations 1996",
+      "The Magistrates' Courts (Wales) (Consequences of Local Government Changes) Order 1996"
+    ],
+    "gemini_text_snippet": "The primary and most direct act that affected (specifically, **repealed**) the Parochial Libraries Act 1708 was the:\n\n1.  **Public Libraries and Museums Act 1964**\n\n    This Act comprehensively reformed and updated the law relating to public libraries and museums in England and Wales. It specificall"
+  },
+  {
+    "task_id": "RC009",
+    "correct": false,
+    "found": [
+      "Gambling Act 2005"
+    ],
+    "missing": [
+      "The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006"
+    ],
+    "gemini_text_snippet": "The Gaming Act 1710 (also known as the \"Act for the better preventing of excessive and deceitful Gaming\") was an early attempt to regulate gambling in Great Britain, primarily aimed at preventing excessive losses and fraud, particularly among the wealthy.\n\nOver time, various acts have significantly "
+  },
+  {
+    "task_id": "RC010",
+    "correct": false,
+    "found": [
+      "Tribunals, Courts and Enforcement Act 2007"
+    ],
+    "missing": [
+      "Access to Justice Act 1999",
+      "Courts Act 2003",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Local Government Changes for England (Magistrates' Courts) Regulations 1996",
+      "The Magistrates' Courts (Wales) (Consequences of Local Government Changes) Order 1996",
+      "The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022"
+    ],
+    "gemini_text_snippet": "The Distress for Rent Act 1737 was a significant piece of legislation that expanded the landlord's common law right to distrain (seize goods) for unpaid rent. It allowed landlords to distrain goods fraudulently removed from the premises and provided for the sale of seized goods.\n\nHowever, the remedy"
+  },
+  {
+    "task_id": "RC011",
+    "correct": false,
+    "found": [
+      "Gambling Act 2005"
+    ],
+    "missing": [
+      "The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006"
+    ],
+    "gemini_text_snippet": "The Gaming Act 1738 was a significant piece of legislation in its time, aiming to curb \"excessive and immoderate gaming.\" However, due to its age and the fundamental changes in society, technology, and attitudes towards gambling, it has been **superseded and ultimately repealed** by a series of late"
+  },
+  {
+    "task_id": "RC012",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Licensing Act 2003",
+      "The Licensing Act 2003 (Commencement No. 7 and Transitional Provisions) Order 2005"
+    ],
+    "gemini_text_snippet": "The Universities (Wine Licences) Act 1743 (sometimes referred to as the Universities (Wine Cellars) Act 1743 or by its full title \"An Act for repealing an Act made in the nineteenth Year of the Reign of King Henry the Seventh, intituled, An Act for the Licence of Wine to be dranke in the University "
+  },
+  {
+    "task_id": "RC013",
+    "correct": false,
+    "found": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000"
+    ],
+    "missing": [
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ],
+    "gemini_text_snippet": "The Tenures Abolition Act 1746 (formally titled \"An Act for taking away the Tenure of Ward-holding in Scotland, and for abolining Heritable Jurisdictions, etc.\") was a significant piece of legislation passed by the British Parliament in the aftermath of the 1745 Jacobite Rising. Its primary aim was "
+  },
+  {
+    "task_id": "RC014",
+    "correct": false,
+    "found": [
+      "Licensing Act 2003"
+    ],
+    "missing": [
+      "Statute Law (Repeals) Act 2008",
+      "The Licensing Act 2003 (Commencement No. 7 and Transitional Provisions) Order 2005"
+    ],
+    "gemini_text_snippet": "The Disorderly Houses Act 1751 was a significant piece of legislation in its time, aimed at suppressing brothels, gambling dens, and other places deemed to be \"disorderly\" and promoting vice. Over the centuries, its provisions have been gradually superseded, amended, and eventually largely repealed "
+  },
+  {
+    "task_id": "RC015",
+    "correct": false,
+    "found": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000"
+    ],
+    "missing": [
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ],
+    "gemini_text_snippet": "The Entail Improvement Act 1770 (often known as the \"Montgomery Act\" after its proponent, the Lord Advocate Sir James Montgomery) was a Scottish Act of Parliament. It was designed to encourage agricultural improvements by allowing heirs of entail to borrow money and grant leases for longer periods t"
+  },
+  {
+    "task_id": "RC016",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Marine and Coastal Access Act 2009",
+      "The Marine and Coastal Access Act 2009 (Commencement No.2 and Transitional Provisions) Order 2010"
+    ],
+    "gemini_text_snippet": "The White Herring Fisheries Act 1771 (11 Geo. 3 c. 31) was a key piece of legislation designed to encourage the British herring fishing industry, primarily through the provision of **bounties** and regulations concerning the curing and packing of herring.\n\nLike many old acts focused on bounties and "
+  },
+  {
+    "task_id": "RC017",
+    "correct": false,
+    "found": [
+      "Wildlife and Natural Environment (Scotland) Act 2011"
+    ],
+    "missing": [
+      "The Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 1) Order 2011"
+    ],
+    "gemini_text_snippet": "The Game (Scotland) Act 1772 has been significantly affected, and largely repealed, by more modern acts.\n\nThe primary act that directly repealed much of it is the:\n\n*   **Statute Law (Repeals) Act 1993:** This Act was part of a series designed to clear obsolete and redundant legislation from the sta"
+  },
+  {
+    "task_id": "RC018",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Access to Justice Act 1999",
+      "Courts Act 2003",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Local Government Changes for England (Magistrates' Courts) Regulations 1996",
+      "The Magistrates' Courts (Wales) (Consequences of Local Government Changes) Order 1996",
+      "Tribunals, Courts and Enforcement Act 2007"
+    ],
+    "gemini_text_snippet": "The Inclosure Act of 1773, formally known as the **General Inclosure Act**, was a landmark piece of legislation because it streamlined and standardized the process by which common lands and open fields in England (and later Wales) could be enclosed.\n\nIt wasn't *affected* by specific \"acts\" in the se"
+  },
+  {
+    "task_id": "RC019",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Justice Act (Northern Ireland) 2011",
+      "Local Government Act (Northern Ireland) 2014",
+      "Police (Insurance of Voluntary Assistants) Act 1997",
+      "Police (Northern Ireland) Act 2003",
+      "The Justice (2011 Act) (Commencement No. 3) Order (Northern Ireland) 2012",
+      "The Local Government (2014 Act) (Commencement No. 2) Order (Northern Ireland) 2014",
+      "The Police (Northern Ireland) Act 2003 (Commencement No.2) Order 2007",
+      "The Police Act 1997 (Provisions in relation to the NCIS Service Authority) Order 1998"
+    ],
+    "gemini_text_snippet": "The Life Assurance Act 1774 is a foundational piece of legislation in UK insurance law, primarily known for requiring an \"insurable interest\" for life assurance policies. While parts of it have been repealed or superseded, its core principle remains important.\n\nHere are the key acts that have affect"
+  },
+  {
+    "task_id": "RC020",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Deregulation and Contracting Out Act 1994",
+      "Licensing Act 2003",
+      "The Deregulation (Sunday Dancing) Order 2000",
+      "The Licensing Act 2003 (Commencement No. 7 and Transitional Provisions) Order 2005"
+    ],
+    "gemini_text_snippet": "The Sunday Observance Act 1780, also known as the \"Disorderly Houses Act 1780\" or \"Sunday Entertainments Act 1780\", was a very specific piece of legislation. It aimed to prevent public lectures, debates, and entertainments on Sundays if admission was charged, considering them \"disorderly houses\" and"
+  },
+  {
+    "task_id": "RC021",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Bank of England Act 1998",
+      "The Bank of England Act 1998 (Commencement) Order 1998"
+    ],
+    "gemini_text_snippet": "The National Debt Reduction Act of 1786, often referred to as **Pitt's Sinking Fund**, was a significant piece of legislation introduced by Prime Minister William Pitt the Younger. Its primary aim was to reduce the national debt accumulated from various wars, particularly the American War of Indepen"
+  },
+  {
+    "task_id": "RC022",
+    "correct": false,
+    "found": [
+      "Crime and Disorder Act 1998"
+    ],
+    "missing": [
+      "The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998"
+    ],
+    "gemini_text_snippet": "The Treason Act 1790 was primarily affected by legislation that either modified its scope, its penalties, or ultimately repealed it. Given its repeal on 30th September 1998, we're looking for acts that had an impact *before* or *at the time of* its repeal.\n\nHere are the key acts that affected the Tr"
+  },
+  {
+    "task_id": "RC023",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Criminal Justice and Licensing (Scotland) Act 2010",
+      "The Criminal Justice and Licensing (Scotland) Act 2010 (Commencement No. 8, Transitional and Savings Provisions) Order 2011"
+    ],
+    "gemini_text_snippet": "The Libel Act 1792, also known as **Fox's Libel Act**, was a landmark piece of legislation. Its primary effect was to establish that in libel cases, the **jury**, not just the judge, had the right to determine whether the material was libellous, as well as the fact of its publication. Before this, j"
+  },
+  {
+    "task_id": "RC024",
+    "correct": false,
+    "found": [
+      "Crime and Disorder Act 1998"
+    ],
+    "missing": [
+      "The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998"
+    ],
+    "gemini_text_snippet": "The Treason Act 1795 was a significant piece of legislation, expanding the definition of treason beyond the Treason Act 1351, particularly in response to revolutionary sentiments after the French Revolution. It made it treason to \"compass, imagine, invent, devise or intend\" the death or destruction "
+  },
+  {
+    "task_id": "RC025",
+    "correct": false,
+    "found": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000"
+    ],
+    "missing": [
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ],
+    "gemini_text_snippet": "The Burghs of Barony (Scotland) Act 1795 was a significant piece of legislation that empowered the inhabitants of Burghs of Barony to elect their own magistrates (bailies and councillors) and hold corporate property, rather than having them appointed by the baron. This was a step towards greater loc"
+  },
+  {
+    "task_id": "RC026",
+    "correct": false,
+    "found": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000"
+    ],
+    "missing": [
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ],
+    "gemini_text_snippet": "The Thirlage Act 1799 (specifically, the Thirlage Act 1799 c 55, or 39 Geo 3 c 55) was a significant piece of legislation in Scotland. It didn't abolish thirlage (the feudal obligation for tenants to grind their grain at a specific mill), but rather provided a mechanism for its *commutation* (paying"
+  },
+  {
+    "task_id": "RC027",
+    "correct": false,
+    "found": [
+      "Statute Law (Repeals) Act 1998"
+    ],
+    "missing": [
+      "Cathedrals Measure 1999"
+    ],
+    "gemini_text_snippet": "The Ecclesiastical Leases Act 1800 (41 Geo 3 (UK) c 25) was ultimately **repealed on 19th November 1998** by the **Statute Law (Repeals) Act 1998**.\n\nHowever, over its nearly 200-year lifespan, its operation and relevance were significantly affected, amended, or superseded by numerous other acts. Th"
+  },
+  {
+    "task_id": "RC028",
+    "correct": false,
+    "found": [
+      "Access to Justice Act 1999",
+      "Legal Services Act 2007"
+    ],
+    "missing": [
+      "The Access to Justice Act 1999 (Commencement No. 1) Order 1999",
+      "The Legal Services Act 2007 (Commencement No. 6, Transitory, Transitional and Saving Provisions) Order 2009"
+    ],
+    "gemini_text_snippet": "The Public Notaries Act 1801, while still foundational, has been significantly affected and amended by various subsequent Acts of Parliament in England and Wales. These amendments have primarily focused on the admission, regulation, and discipline of Notaries Public.\n\nHere are the most significant a"
+  },
+  {
+    "task_id": "RC029",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ],
+    "gemini_text_snippet": "The Teinds Act 1808, formally known as the **Glebe (Scotland) Act 1808**, was primarily concerned with the provision and management of glebes (land allocated to ministers for their support) for ministers of the Church of Scotland.\n\nWhile it has not been entirely repealed, its practical effect and re"
+  },
+  {
+    "task_id": "RC030",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Bank of England Act 1998",
+      "The Bank of England Act 1998 (Commencement) Order 1998"
+    ],
+    "gemini_text_snippet": "The Life Annuities Act 1808 (also known as the \"Annuities (Government) Act 1808\") was a significant piece of legislation at the time, related to the management of government annuities, often used to raise funds for the state.\n\nThe primary act that **affected** it by **repealing** it was:\n\n*   **The "
+  },
+  {
+    "task_id": "RC031",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Finance Act 2004",
+      "The Finance Act 2004, Section 294 (Appointed Day) Order 2004",
+      "The Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (Commencement No. 13) Order 1996",
+      "The Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (Commencement No.13) (Amendment) Order 1996"
+    ],
+    "gemini_text_snippet": "The Probate and Legacy Duties Act 1808 was a significant act that consolidated and rationalised the various probate and legacy duties that had existed in earlier forms. However, like many tax acts, it was eventually superseded and absorbed into later, more comprehensive legislation rather than being"
+  },
+  {
+    "task_id": "RC032",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Commons Act 2006",
+      "The Commons Act 2006 (Commencement No. 3, Transitional Provisions and Savings) (England) Order 2007"
+    ],
+    "gemini_text_snippet": "The Gifts for Churches Act 1811 (also known as the Gifts for Churches, etc., Act 1811, or sometimes \"Gifts to Churches Act\") was passed to facilitate the donation of land for churches, chapels, and glebe (church land), by making an exception to the strict **Mortmain Acts**. The Mortmain Acts were a "
+  },
+  {
+    "task_id": "RC033",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Crime and Disorder Act 1998",
+      "The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998"
+    ],
+    "gemini_text_snippet": "The Treason Act 1814 (which made permanent certain provisions from the temporary Treason Act 1795) primarily extended the scope of treason to include specific acts against the Prince Regent and codified certain forms of treason (like compassing his death, levying war, or inciting invasion) as high t"
+  },
+  {
+    "task_id": "RC034",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Courts Act 2003",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Courts Act 2003 (Commencement No. 3 and Transitional Provisions) Order 2004"
+    ],
+    "gemini_text_snippet": "The Sale of Farming Stock Act 1816 (also known as the \"An Act for regulating the Sale of Farming Stock taken in Execution\") was an important piece of legislation that regulated how farming stock (like crops, cattle, farm implements) could be sold when seized under a writ of execution for debt, parti"
+  },
+  {
+    "task_id": "RC035",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Access to Justice Act 1999",
+      "Courts Act 2003",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Local Government Changes for England (Magistrates' Courts) Regulations 1996",
+      "The Magistrates' Courts (Wales) (Consequences of Local Government Changes) Order 1996"
+    ],
+    "gemini_text_snippet": "The Burial Ground Act 1816 (56 Geo. 3 c. 141) was an early piece of legislation aimed at allowing parishes to acquire land for new burial grounds to address the growing problem of overcrowded churchyards.\n\nWhile not necessarily \"amended\" directly by many subsequent acts, its relevance and impact wer"
+  },
+  {
+    "task_id": "RC036",
+    "correct": false,
+    "found": [
+      "Crime and Disorder Act 1998"
+    ],
+    "missing": [
+      "The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998"
+    ],
+    "gemini_text_snippet": "The Treason Act 1817 was a significant piece of legislation that broadened the scope of treasonable offences. Given its repeal on 30th September 1998, the most direct and impactful acts affecting it were those that led to or constituted its repeal, and those that otherwise altered the nature of trea"
+  },
+  {
+    "task_id": "RC037",
+    "correct": false,
+    "found": [
+      "Statute Law (Repeals) Act 1995"
+    ],
+    "missing": [
+      "The Local Government Changes for England (Magistrates' Courts) Regulations 1996",
+      "The Magistrates' Courts (Wales) (Consequences of Local Government Changes) Order 1996"
+    ],
+    "gemini_text_snippet": "The Distress (Costs) Act 1817 regulated the fees and costs associated with the process of distress (seizing goods for unpaid rent or other debts).\n\nAs you noted, it was **repealed on 8th November 1995**.\n\nHere are the main acts that affected it, either directly by amending it, implicitly by changing"
+  },
+  {
+    "task_id": "RC038",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Agricultural Tenancies Act 1995",
+      "Commonhold and Leasehold Reform Act 2002",
+      "The Commonhold and Leasehold Reform Act 2002 (Commencement No. 2 and Savings) (England) Order 2003",
+      "The Commonhold and Leasehold Reform Act 2002 (Commencement No. 2 and Savings) (Wales) Order 2004",
+      "The Commonhold and Leasehold Reform Act 2002 (Commencement No. 3 and Saving and Transitional Provision) (Wales) Order 2005",
+      "The Legislative Reform (Duchy of Lancaster) Order 2015"
+    ],
+    "gemini_text_snippet": "The Duchy of Lancaster Act 1817 (57 Geo 3 c 97) was a significant piece of legislation that effectively made the estates and revenues of the Duchy of Lancaster inalienable from the Crown, establishing a framework for their management and use.\n\nWhile the 1817 Act remains foundational, several subsequ"
+  },
+  {
+    "task_id": "RC039",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Northern Ireland (Emergency Provisions) Act 1996",
+      "Serious Organised Crime and Police Act 2005",
+      "Statute Law (Repeals) Act 1995",
+      "Statute Law (Repeals) Act 2008",
+      "The Firearms (Northern Ireland) Order 2004",
+      "The Firearms (Northern Ireland) Order 2004 (Commencement and Transitional Provisions) Order 2005",
+      "The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007",
+      "The Serious Organised Crime and Police Act 2005 (Commencement No. 4 and Transitory Provision) Order 2005"
+    ],
+    "gemini_text_snippet": "The Unlawful Drilling Act 1819 (also known as 60 Geo. 3 & 1 Geo. 4 c. 1) was **fully repealed** by the following act:\n\n*   **Repeal of Obsolete Enactments Act 1856** (19 & 20 Vict. c. 64)\n\nThis act, as its name suggests, was part of a process to clear out old and no longer relevant legislation from "
+  },
+  {
+    "task_id": "RC040",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Coroners and Justice Act 2009",
+      "Criminal Justice and Immigration Act 2008",
+      "Criminal Justice and Licensing (Scotland) Act 2010",
+      "The Criminal Justice and Licensing (Scotland) Act 2010 (Commencement No. 8, Transitional and Savings Provisions) Order 2011"
+    ],
+    "gemini_text_snippet": "The Criminal Libel Act 1819 (also known as \"An Act for the more effectual prevention and punishment of Blasphemous and Seditious Libels\") was a significant piece of legislation in its time, aiming to curb perceived threats to public order and religious sentiment. Over time, its provisions have been "
+  },
+  {
+    "task_id": "RC041",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Local Government etc. (Scotland) Act 1994",
+      "Merchant Shipping Act 1995",
+      "The Local Government etc. (Scotland) Act 1994 (Commencement No.7 and Savings) Order 1996"
+    ],
+    "gemini_text_snippet": "The Riotous Assemblies (Scotland) Act 1822 was primarily affected by a single, comprehensive \"act\":\n\n1.  **Statute Law (Repeals) Act 1993:** This Act fully **repealed** the Riotous Assemblies (Scotland) Act 1822.\n\nThe 1822 Act, like many old \"Riot Acts,\" was part of a larger body of legislation desi"
+  },
+  {
+    "task_id": "RC042",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Electoral Administration Act 2006",
+      "The Electoral Administration Act 2006 (Commencement No. 2, Transitional and Savings Provisions) Order 2006",
+      "The Electoral Administration Act 2006 (Commencement No.3) Order 2007"
+    ],
+    "gemini_text_snippet": "The Parliamentary Elections (Ireland) Act 1823 (4 Geo. 4 c. 55), titled \"An Act to amend the Laws for regulating the Election of Members to serve in Parliament for Ireland,\" aimed to regulate election procedures, the registration of voters (particularly the \"40-shilling freeholders\"), and to combat "
+  },
+  {
+    "task_id": "RC043",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Succession (Scotland) Act 2016",
+      "The Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (Commencement No. 13) Order 1996",
+      "The Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (Commencement No.13) (Amendment) Order 1996"
+    ],
+    "gemini_text_snippet": "The Confirmation of Executors (Scotland) Act 1823 was a foundational piece of legislation in Scottish succession law, governing the process by which executors are confirmed to administer a deceased person's estate. However, it has been **heavily amended, largely superseded, and its provisions have b"
+  },
+  {
+    "task_id": "RC044",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Criminal Justice Act 2003",
+      "Justice Act (Northern Ireland) 2011",
+      "Museums and Galleries (Northern Ireland) Order 1997",
+      "Police, Crime, Sentencing and Courts Act 2022",
+      "Serious Organised Crime and Police Act 2005",
+      "Sexual Offences Act 2003",
+      "The Serious Organised Crime and Police Act 2005 (Commencement No. 4 and Transitory Provision) Order 2005",
+      "The Sexual Offences Act 2003 (Commencement) Order 2004"
+    ],
+    "gemini_text_snippet": "The Vagrancy Act 1824 was a foundational piece of legislation for dealing with homelessness, begging, and other forms of perceived idleness in England and Wales. Over nearly two centuries, its provisions were progressively undermined, superseded, or directly repealed by a variety of acts, reflecting"
+  },
+  {
+    "task_id": "RC045",
+    "correct": false,
+    "found": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000"
+    ],
+    "missing": [
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ],
+    "gemini_text_snippet": "The Entail Provisions Act 1824 (also known as the Entail Amendment Act 1824, or specifically, \"An Act to alter and amend an Act passed in the Parliament of Scotland in the year one thousand six hundred and eighty-five, for entailing Estates in Scotland\") was an early attempt to modify the very stric"
+  },
+  {
+    "task_id": "RC046",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Criminal Justice (Scotland) Act 1995",
+      "Criminal Procedure (Consequential Provisions) (Scotland) Act 1995",
+      "The Criminal Justice (Scotland) Act 1995 (Commencement No.2, Transitional Provisions and Savings) Order 1996"
+    ],
+    "gemini_text_snippet": "The Jurors (Scotland) Act 1825 was a foundational piece of legislation for the Scottish jury system, but it has been very heavily amended, repealed in parts, and superseded by numerous subsequent acts. Its principles, however, still underpin much of modern Scottish jury law.\n\nHere are some of the mo"
+  },
+  {
+    "task_id": "RC047",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Constitutional Reform Act 2005",
+      "Statute Law (Repeals) Act 2008",
+      "The Constitutional Reform Act 2005 (Commencement No. 11) Order 2009"
+    ],
+    "gemini_text_snippet": "The Chelsea and Kilmainham Hospitals Act 1826 (7 Geo 4 c. 16) was a significant piece of legislation for the administration of army pensions and the two Royal Hospitals. However, its provisions, particularly concerning Kilmainham, were quite quickly superseded and affected by subsequent acts.\n\nHere "
+  },
+  {
+    "task_id": "RC048",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Serious Organised Crime and Police Act 2005",
+      "Statute Law (Repeals) Act 1998",
+      "The Serious Organised Crime and Police Act 2005 (Commencement No. 4 and Transitory Provision) Order 2005"
+    ],
+    "gemini_text_snippet": "The Criminal Law Act 1826 (c. 64) was an important early consolidating act, bringing together and amending laws related to:\n*   Benefit of Clergy (an archaic legal loophole)\n*   Larceny and related offences\n*   Malicious Injuries to Property\n*   Remedies against the Hundred (a historical mechanism f"
+  },
+  {
+    "task_id": "RC049",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Criminal Procedure (Consequential Provisions) (Scotland) Act 1995",
+      "Criminal Procedure (Scotland) Act 1995",
+      "Police, Crime, Sentencing and Courts Act 2022",
+      "The Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 1) Order 2011",
+      "Wildlife and Natural Environment (Scotland) Act 2011"
+    ],
+    "gemini_text_snippet": "The Night Poaching Act 1828 (often cited as the Night Poaching Act or NPA 1828) has been significantly affected by various subsequent acts over time, mostly through partial repeals, amendments, and the general evolution of criminal and wildlife law in the UK.\n\nHere are the key acts that have affecte"
+  },
+  {
+    "task_id": "RC050",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Church of Scotland (Lord High Commissioner) Act 2025",
+      "House of Commons (Removal of Clergy Disqualification) Act 2001"
+    ],
+    "gemini_text_snippet": "The Roman Catholic Relief Act 1829 was the culmination of centuries of anti-Catholic legislation and the increasing pressure for Catholic emancipation. It essentially undid many of the restrictions imposed by previous \"Penal Laws\" and political acts.\n\nHere are the key acts (pieces of legislation and"
+  },
+  {
+    "task_id": "RC051",
+    "correct": false,
+    "found": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000"
+    ],
+    "missing": [
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ],
+    "gemini_text_snippet": "The Register of Sasines Act 1829 was a foundational piece of legislation for the Register of Sasines in Scotland, regulating the recording of deeds relating to heritable (real) property. While the 1829 Act itself might not have been extensively *amended* line-by-line, its operation and the broader s"
+  },
+  {
+    "task_id": "RC052",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Statute Law (Repeals) Act 2004",
+      "Transport for London Act 2008"
+    ],
+    "gemini_text_snippet": "The London Hackney Carriage Act 1831 was a landmark piece of legislation, essentially the first major attempt to regulate London's iconic black cabs. While it laid crucial groundwork, its specific provisions have been largely **repealed and superseded** by subsequent acts as the industry evolved, ve"
+  },
+  {
+    "task_id": "RC053",
+    "correct": false,
+    "found": [
+      "Hunting Act 2004"
+    ],
+    "missing": [
+      "Criminal Justice and Public Order Act 1994",
+      "Police, Crime, Sentencing and Courts Act 2022",
+      "The Local Authorities (Functions and Responsibilities) (England) Regulations 2000",
+      "The Regulatory Reform (Game) Order 2007",
+      "The Wildlife and Natural Environment (2011 Act) (Commencement No.2) Order (Northern Ireland) 2011",
+      "The Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 1) Order 2011",
+      "Wildlife and Natural Environment (Scotland) Act 2011",
+      "Wildlife and Natural Environment Act (Northern Ireland) 2011"
+    ],
+    "gemini_text_snippet": "The Game Act 1831 was a significant piece of legislation that reformed game laws in England and Wales, legalising the sale of game, introducing game certificates, and setting out penalties for poaching. However, like many old statutes, it has been **significantly affected by numerous subsequent acts"
+  },
+  {
+    "task_id": "RC054",
+    "correct": false,
+    "found": [
+      "Protection of Wild Mammals (Scotland) Act 2002",
+      "Wildlife and Natural Environment (Scotland) Act 2011"
+    ],
+    "missing": [
+      "Criminal Justice and Public Order Act 1994",
+      "The Criminal Justice and Public Order Act 1994 (Commencement No. 5 and Transitional Provisions) Order 1995",
+      "The Protection of Wild Mammals (Scotland) Act 2002 (Commencement) Order 2002",
+      "The Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 1) Order 2011"
+    ],
+    "gemini_text_snippet": "The Game (Scotland) Act 1832 has been significantly affected, amended, and partially repealed by numerous subsequent acts over the years. While some parts of it technically remain in force, much of its original effect has been superseded or removed by more modern legislation.\n\nHere are some of the k"
+  },
+  {
+    "task_id": "RC055",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019",
+      "The Cross-Border Mediation (EU Directive) Regulations 2011"
+    ],
+    "gemini_text_snippet": "The Prescription Act 1832 remains largely in force in England and Wales, but its practical application and interaction with other land law principles have been significantly affected by subsequent legislation.\n\nThe most notable acts that have had an impact are:\n\n1.  **The Land Registration Act 1925 "
+  },
+  {
+    "task_id": "RC056",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Public Service Pensions Act 2013",
+      "The Judicial Pensions and Retirement Act 1993 (Commencement) Order 1995"
+    ],
+    "gemini_text_snippet": "The Lord Chancellor's Pension Act 1832 established a fixed pension for former Lord Chancellors of £5,000 per annum, provided they had served for at least two years or resigned due to ill health. This was a significant and often controversial pension for its time.\n\nOver the years, several Acts have a"
+  },
+  {
+    "task_id": "RC057",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "Scotland Act 1998",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003",
+      "The Scotland Act 1998 (Commencement) Order 1998",
+      "The Transfer of Functions (Lord Advocate and Secretary of State) Order 1999"
+    ],
+    "gemini_text_snippet": "The Public Revenue (Scotland) Act 1833 (c. 13) has been **almost entirely repealed** by a series of subsequent acts, primarily by general **Statute Law (Repeals) Acts**.\n\nHere are the main types of acts and specific examples that have affected it:\n\n1.  **Earlier Specific Repeals/Amendments:** Before"
+  },
+  {
+    "task_id": "RC058",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Access to Justice Act 1999",
+      "Courts Act 2003",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Local Government Changes for England (Magistrates' Courts) Regulations 1996",
+      "The Magistrates' Courts (Wales) (Consequences of Local Government Changes) Order 1996"
+    ],
+    "gemini_text_snippet": "The Inclosure and Drainage (Rates) Act 1833 (3 & 4 Will. 4 c. 35) was a relatively early piece of legislation that allowed for the levying of rates on land for enclosure and drainage works, even where not all landowners agreed, provided a majority did. Its practical effect and the mechanisms it esta"
+  },
+  {
+    "task_id": "RC059",
+    "correct": false,
+    "found": [
+      "Constitutional Reform Act 2005"
+    ],
+    "missing": [
+      "Chiropractors Act 1994",
+      "Northern Ireland Act 1998",
+      "Scotland Act 1998",
+      "Statute Law (Repeals) Act 2004",
+      "The Chiropractors Act 1994 (Commencement No. 4) Order 2000",
+      "The Constitutional Reform Act 2005 (Commencement No. 11) Order 2009",
+      "The Northern Ireland Act 1998 (Commencement No. 1) Order 1999",
+      "The Osteopaths Act 1993 (Commencement No. 4) Order 1999",
+      "The Osteopaths Act 1993 (Commencement No. 5) Order 2000",
+      "The Scotland Act 1998 (Commencement) Order 1998"
+    ],
+    "gemini_text_snippet": "The **Judicial Committee Act 1833** was a foundational piece of legislation that established the Judicial Committee of the Privy Council (JCPC) as the highest court of appeal for many matters, particularly those originating outside the United Kingdom (e.g., from colonies, dominions, and later some C"
+  },
+  {
+    "task_id": "RC060",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Mental Capacity Act 2005",
+      "The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016",
+      "The Mental Capacity Act 2005 (Commencement No. 2) Order 2007",
+      "The Trusts of Land and Appointment of Trustees Act 1996 (Commencement) Order 1996",
+      "Tribunals, Courts and Enforcement Act 2007",
+      "Trusts of Land and Appointment of Trustees Act 1996"
+    ],
+    "gemini_text_snippet": "The Fines and Recoveries Act 1833 was a landmark piece of legislation in English land law. Its primary purpose was to abolish the archaic and cumbersome legal fictions of \"fines\" and \"recoveries,\" which were ancient methods used to bar entails (i.e., to convert an entailed interest in land into a fe"
+  },
+  {
+    "task_id": "RC061",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Constitutional Reform Act 2005",
+      "The Constitutional Reform Act 2005 (Commencement No. 5) Order 2006"
+    ],
+    "gemini_text_snippet": "The Fines Act 1833 (3 & 4 Will 4 c 99) was largely affected by legislation that ultimately led to its **repeal**, primarily as part of the ongoing process of statutory law revision.\n\nThe most significant acts that \"affected\" it by repealing it were:\n\n1.  **Statute Law Revision (No. 2) Act 1890 (53 &"
+  },
+  {
+    "task_id": "RC062",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ],
+    "gemini_text_snippet": "The **New Churches (Scotland) Act 1834** (4 & 5 Will. 4 c. 41) was a significant piece of legislation for the Church of Scotland, primarily aimed at facilitating the erection of new churches and the formation of *quoad sacra* parishes (parishes for spiritual purposes only, not civil ones, allowing n"
+  },
+  {
+    "task_id": "RC063",
+    "correct": false,
+    "found": [
+      "Gambling Act 2005"
+    ],
+    "missing": [
+      "The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006"
+    ],
+    "gemini_text_snippet": "The Gaming Act 1835 was an important piece of legislation in its time, primarily aimed at making money lost through gaming irrecoverable and establishing penalties for keeping common gaming houses.\n\nHowever, gaming and gambling law in the UK has undergone significant transformation over the centurie"
+  },
+  {
+    "task_id": "RC064",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Justice (Northern Ireland) Act 2002",
+      "Statute Law (Repeals) Act 2004",
+      "The Justice (Northern Ireland) Act 2002 (Commencement No. 8) Order 2005",
+      "The Scotland Act 1998 (Transitory and Transitional Provisions) (Publication and Interpretation etc. of Acts of the Scottish Parliament) Order 1999"
+    ],
+    "gemini_text_snippet": "The Statutory Declarations Act 1835, being a foundational piece of legislation for statutory declarations in the UK, has naturally been affected by numerous subsequent Acts of Parliament over its nearly 200-year history. These effects can range from direct amendments to the 1835 Act itself, to laws "
+  },
+  {
+    "task_id": "RC065",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Cathedrals Measure 1999",
+      "Statute Law (Repeals) Measure 2018"
+    ],
+    "gemini_text_snippet": "The Ecclesiastical Leases Act 1836 (6 & 7 Will 4 c 64) was one of several acts passed in the 19th century to regulate and reform the management of church property, particularly the power of bishops, deans, and chapters to grant leases. Historically, many church estates were leased out on long terms "
+  },
+  {
+    "task_id": "RC066",
+    "correct": false,
+    "found": [
+      "Requirements of Writing (Scotland) Act 1995"
+    ],
+    "missing": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ],
+    "gemini_text_snippet": "The **Erasures in Deeds (Scotland) Act 1836** (1836 c. 33) has primarily been affected by one major piece of legislation:\n\n1.  **Conveyancing (Scotland) Act 1979 (1979 c. 33)**\n    *   This Act **repealed** the Erasures in Deeds (Scotland) Act 1836. Specifically, **Section 1(2)** of the 1979 Act rep"
+  },
+  {
+    "task_id": "RC067",
+    "correct": false,
+    "found": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000"
+    ],
+    "missing": [
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ],
+    "gemini_text_snippet": "The Entail Powers Act 1836 (formally titled the \"Act to extend the Protection of the Law to the Heirs of Entail in Scotland, and to make more effectual Provision for the Recovery of their Debts, and for the Sale of their Estates\") was a Scottish Act designed to provide some flexibility regarding ent"
+  },
+  {
+    "task_id": "RC068",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Cathedrals Measure 1999",
+      "Statute Law (Repeals) Measure 2018"
+    ],
+    "gemini_text_snippet": "The Ecclesiastical Leases (Amendment) Act 1836 (6 & 7 Will. IV c. 64) was passed as part of a broader wave of Church of England reforms in the 1830s. It primarily aimed to curb the practice of ecclesiastical incumbents (bishops, deans, chapters, rectors, etc.) granting long leases on church lands in"
+  },
+  {
+    "task_id": "RC069",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Statute Law (Repeals) Act 2004",
+      "Statute Law (Repeals) Measure 2018"
+    ],
+    "gemini_text_snippet": "The Ecclesiastical Commissioners Act 1836 was a foundational piece of legislation for the reform of the Church of England's financial and administrative structures. It created the Ecclesiastical Commissioners for England with powers to manage church property and revenues, redistribute wealth from ri"
+  },
+  {
+    "task_id": "RC070",
+    "correct": false,
+    "found": [
+      "Civil Partnership Act 2004",
+      "The Wills Act 1837 (Electronic Communications) (Amendment) Order 2022"
+    ],
+    "missing": [
+      "Divorce, Dissolution and Separation Act 2020",
+      "Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011",
+      "Family Law Act 1996",
+      "Human Tissue Act 2004",
+      "Human Transplantation (Wales) Act 2013",
+      "Law Reform (Succession) Act 1995",
+      "Mental Capacity Act 2005",
+      "The Civil Partnership (Opposite-sex Couples) Regulations 2019",
+      "The Civil Partnership (Treatment of Overseas Relationships No.2) Order 2005",
+      "The Civil Partnership (Treatment of Overseas Relationships) Order 2005",
+      "The Civil Partnership Act 2004 (Commencement No. 2) Order 2005",
+      "The Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011 (Commencement) Order 2011",
+      "The Human Tissue Act 2004 (Commencement No. 5 and Transitional Provisions) Order 2006",
+      "The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014",
+      "The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020",
+      "The Mental Capacity Act 2005 (Commencement No. 2) Order 2007",
+      "The Trustee Act 2000 (Commencement) Order 2001",
+      "The Trusts of Land and Appointment of Trustees Act 1996 (Commencement) Order 1996",
+      "The Wills Act 1837 (Electronic Communications) (Amendment) (Coronavirus) Order 2020",
+      "Trustee Act 2000",
+      "Trusts of Land and Appointment of Trustees Act 1996"
+    ],
+    "gemini_text_snippet": "The Wills Act 1837 is the foundational statute for will-making in England and Wales, but it has been significantly amended and supplemented by numerous subsequent Acts. Modern wills law is therefore a combination of the 1837 Act and these later pieces of legislation.\n\nHere are the most significant a"
+  },
+  {
+    "task_id": "RC071",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Crime and Disorder Act 1998",
+      "Criminal Justice Act 2003",
+      "The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998",
+      "The Criminal Justice Act 2003 (Commencement No.8 and Transitional and Saving Provisions) Order 2005",
+      "The Criminal Justice Act 2003 (Commencement No.8 and Transitional and Saving Provisions) Order 2005 (Supplementary Provisions) Order 2005"
+    ],
+    "gemini_text_snippet": "The Piracy Act 1837 (also known as the \"Offences at Sea Act 1837\") was a significant piece of legislation that consolidated and amended the laws relating to piracy in the United Kingdom, prescribing severe penalties, including the death penalty for certain acts of piracy.\n\nOver time, various subsequ"
+  },
+  {
+    "task_id": "RC072",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Statute Law (Repeals) Act 2004",
+      "The M25 Junction 28 Development Consent Order 2022"
+    ],
+    "gemini_text_snippet": "The **Queen Anne's Bounty Act 1838** (1 & 2 Vict c 20) was itself an important consolidating and amending act regarding Queen Anne's Bounty. However, its most significant \"affecting\" act, which effectively superseded its operational provisions, is:\n\n1.  **Church Commissioners Measure 1947 (10 & 11 G"
+  },
+  {
+    "task_id": "RC073",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Church Property Measure 2018",
+      "Ecclesiastical Offices (Terms of Service) Measure 2009",
+      "The Ecclesiastical Offices (Terms of Service) Measure 2009 (Appointed Day No. 4) Instrument"
+    ],
+    "gemini_text_snippet": "The Parsonages Act 1838 (also known as the Ecclesiastical Residences (England) Act 1838) was a significant piece of legislation concerning the management, exchange, and improvement of glebe lands and parsonage houses. Over the nearly two centuries since its enactment, it has been *heavily* affected "
+  },
+  {
+    "task_id": "RC074",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ],
+    "gemini_text_snippet": "It appears there might be a slight confusion regarding the year in your query. The foundational act that abolished Fines and Recoveries and provided a simpler method for \"barring an entail\" (thus making entailed land more easily alienable) was the **Fines and Recoveries Act 1833**.\n\nWhile there isn'"
+  },
+  {
+    "task_id": "RC075",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Church Property Measure 2018",
+      "Clergy Discipline Measure 2003",
+      "Clergy Discipline Measure 2003 (Appointed Day Instrument 2005)",
+      "Constitutional Reform Act 2005",
+      "Ecclesiastical Offices (Terms of Service) Measure 2009",
+      "Priests (Ordination of Women) Measure 1993 (Appointed Day Instrument 1994)",
+      "Statute Law (Repeals) Act 2004",
+      "Statute Law (Repeals) Measure 2018",
+      "The Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005",
+      "The Constitutional Reform Act 2005 (Commencement No. 5) Order 2006",
+      "The Ecclesiastical Offices (Terms of Service) (Consequential and Transitional Provisions) Order 2010",
+      "The Ecclesiastical Offices (Terms of Service) Measure 2009 (Appointed Day No. 4) Instrument"
+    ],
+    "gemini_text_snippet": "The **Pluralities Act 1838** (also known as the **Benefices Plurality Act 1838**) was a significant piece of legislation for the Church of England, designed to restrict the practice of \"pluralism\" – where one clergyman held multiple benefices (parishes) simultaneously.\n\nGiven its age and the continu"
+  },
+  {
+    "task_id": "RC076",
+    "correct": false,
+    "found": [
+      "Courts Act 2003"
+    ],
+    "missing": [
+      "Companies Act 2006",
+      "Coroners and Justice Act 2009",
+      "Defence Reform Act 2014",
+      "Digital Markets, Competition and Consumers Act 2024",
+      "Drug Trafficking Act 1994",
+      "Education Act 2011",
+      "Energy Act 2023",
+      "Enterprise Act 2002",
+      "Finance (No. 2) Act 2015",
+      "Leasehold Reform (Ground Rent) Act 2022",
+      "Legal Services Act 2007",
+      "National Lottery Act 1998",
+      "National Security and Investment Act 2021",
+      "Proceeds of Crime Act 1995",
+      "Proceeds of Crime Act 2002",
+      "Qualifications Wales Act 2015",
+      "Tenant Fees Act 2019",
+      "Terrorism (Protection of Premises) Act 2025",
+      "The Civil Procedure (Modification of Enactments) Order 1998",
+      "The Civil Procedure Rules 1998",
+      "The Companies Act 2006 (Commencement No. 8, Transitional Provisions and Savings) Order 2008",
+      "The Coroners and Justice Act 2009 (Commencement No. 4, Transitional and Saving Provisions) Order 2010",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Courts Act 2003 (Commencement No. 3 and Transitional Provisions) Order 2004",
+      "The Energy Administration (Scotland) Rules 2006",
+      "The Energy Supply Company Administration (Scotland) Rules 2013",
+      "The Energy Supply Company Administration Rules 2013",
+      "The Enterprise Act 2002 (Commencement No. 3, Transitional and Transitory Provisions and Savings)Order 2003",
+      "The Housing Administration (England and Wales) Rules 2018",
+      "The Investment Bank Special Administration (England and Wales) Rules 2011",
+      "The Legal Services Act 2007 (Commencement No. 6, Transitory, Transitional and Saving Provisions) Order 2009",
+      "The PPP Administration Order Rules 2007",
+      "The Proceeds of Crime Act 1995 (Commencement) Order 1995",
+      "The Proceeds of Crime Act 2002 (Commencement No. 5, Transitional Provisions, Savings and Amendment) Order 2003",
+      "The Railway Administration Order Rules 2001",
+      "The Relevant Licensee Nuclear Company Administration (England and Wales) Rules 2023",
+      "The Statutory Auditors (Amendment of Companies Act 2006 and Delegation of Functions etc) Order 2012",
+      "The Tribunal Procedure (Amendment No. 3) Rules 2013",
+      "The Water Industry (Special Administration) Rules 2009",
+      "Tribunals, Courts and Enforcement Act 2007"
+    ],
+    "gemini_text_snippet": "The Judgments Act 1838 is a very old piece of legislation, and as such, it has been **heavily affected, amended, and largely repealed** by numerous subsequent Acts over the past nearly two centuries. Most of its provisions have been superseded by more modern legislation related to land registration,"
+  },
+  {
+    "task_id": "RC077",
+    "correct": false,
+    "found": [
+      "Bankruptcy and Diligence etc. (Scotland) Act 2007"
+    ],
+    "missing": [
+      "Act of Sederunt (Child Care and Maintenance Rules) 1997",
+      "Act of Sederunt (Rules of the Court of Session 1994) 1994",
+      "The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 3, Savings and Transitionals) Order 2008",
+      "The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 4, Savings and Transitionals) Order 2009",
+      "The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 7 and Transitionals) Order 2011"
+    ],
+    "gemini_text_snippet": "The Debtors (Scotland) Act 1838 was a significant piece of legislation for its time, but it has been *extensively* affected, primarily through **repeal and supersession**, by a long line of subsequent acts designed to modernize and reform Scottish debt and insolvency law.\n\nOnly very limited provisio"
+  },
+  {
+    "task_id": "RC078",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ],
+    "gemini_text_snippet": "The Court of Session (No. 2) Act 1838 (1 & 2 Vict c. 119) was a significant piece of legislation regarding the Scottish supreme civil court. As it has been **repealed**, the primary act that affected it directly was the one that brought about its repeal.\n\nThe main act that repealed the Court of Sess"
+  },
+  {
+    "task_id": "RC079",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ],
+    "gemini_text_snippet": "The Court of Session Act 1839 (2 & 3 Vict. c. 36) was a significant piece of legislation for its time, regulating the procedure and administration of the Court of Session in Scotland. As a 19th-century act dealing with core legal procedure, it was naturally affected by subsequent legislative develop"
+  },
+  {
+    "task_id": "RC080",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "British Railways (No. 2) Order Confirmation Act 1994",
+      "British Railways Act 1994",
+      "Channel Tunnel Rail Link Act 1996",
+      "Crossrail Act 2008",
+      "Croydon Tramlink Act 1994",
+      "Greater Nottingham Light Rapid Transit Act 1994",
+      "High Speed Rail (London - West Midlands) Act 2017",
+      "High Speed Rail (West Midlands - Crewe) Act 2021",
+      "Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004",
+      "The Ashton Vale to Temple Meads and Bristol City Centre Rapid Transit Order",
+      "The Blackpool Tramway (Blackpool North Extension) Order 2017",
+      "The Greater Manchester (Light Rapid Transit System) (Airport Extension) Order 1997",
+      "The Greater Manchester (Light Rapid Transit System) (Ashton-under-Lyne Extension) Order 1998",
+      "The Greater Manchester (Light Rapid Transit System) (Eccles Extension) Order 1996",
+      "The Greater Manchester (Light Rapid Transit System) (Media City Extension) Order 2009",
+      "The Keith and Dufftown Light Railway Order 1999",
+      "The Network Rail (Tinsley Chord) Order 2015",
+      "The Nottingham Express Transit System Order 2009",
+      "The Port of Blyth (Battleship Wharf Railway) Order 2006",
+      "The Railtrack (Swinedyke Level Crossing) Order 1995",
+      "The Railway Safety (Miscellaneous Provisions) Regulations 1997",
+      "The Railways Act 1993 (Commencement No. 2) Order 1994",
+      "The Rother Valley Railway (Bodiam to Robertsbridge Junction) Order 2023",
+      "The South Hampshire Rapid Transit Order 2001",
+      "The Transport for Greater Manchester (Light Rapid Transit System) (Miscellaneous Provisions) Order 2013",
+      "The Transport for Greater Manchester (Light Rapid Transit System) (Second City Crossing) Order 2013",
+      "The Transport for Greater Manchester (Light Rapid Transit System) (Trafford Park Extension) Order 2016",
+      "The Welsh Highland Railway Order 1999",
+      "The Wirral Tramway Order 1999"
+    ],
+    "gemini_text_snippet": "The Highway (Railway Crossings) Act 1839 (2 & 3 Vict. c. 45) was a very early piece of railway legislation in the UK, designed to ensure basic safety at level crossings, primarily by requiring railway companies to erect gates and keep them closed.\n\nOver the subsequent 180+ years, numerous acts have "
+  },
+  {
+    "task_id": "RC081",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Access to Justice Act 1999",
+      "Animal Welfare Act 2006",
+      "Courts Act 2003",
+      "Gambling Act 2005",
+      "Law Officers Act 1997",
+      "Licensing Act 2003",
+      "Statute Law (Repeals) Act 1995",
+      "Statute Law (Repeals) Act 1998",
+      "The Access to Justice Act 1999 (Commencement No. 4 and Transitional Provisions) Order 2000",
+      "The Animal Welfare Act 2006 (Commencement No. 1) (England) Order 2007",
+      "The Animal Welfare Act 2006 (Commencement No. 1) (Wales) Order 2007",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006",
+      "The Licensing Act 2003 (Commencement No. 7 and Transitional Provisions) Order 2005"
+    ],
+    "gemini_text_snippet": "The Metropolitan Police Act 1839 was a foundational piece of legislation for the Metropolitan Police, consolidating and expanding upon the powers established by the Metropolitan Police Act 1829. However, it has been *significantly affected, amended, repealed, and largely superseded* by numerous subs"
+  },
+  {
+    "task_id": "RC082",
+    "correct": false,
+    "found": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000"
+    ],
+    "missing": [
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003",
+      "Title Conditions (Scotland) Act 2003"
+    ],
+    "gemini_text_snippet": "The Entail Sites Act 1840 was a Scottish Act designed to allow heirs of entail to grant sites for churches, schools, and other public or charitable purposes from entailed land without the consent of the next heir or judicial process.\n\nThe Act itself has been **repealed**.\n\nThe most significant act t"
+  },
+  {
+    "task_id": "RC083",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Access to Justice Act 1999",
+      "Statute Law (Repeals) Act 1998",
+      "The Access to Justice Act 1999 (Commencement No. 4 and Transitional Provisions) Order 2000",
+      "Tribunals, Courts and Enforcement Act 2007"
+    ],
+    "gemini_text_snippet": "The Metropolitan Police Courts Act 1840 was a significant piece of legislation that established and regulated the police courts (staffed by professional stipendiary magistrates) in London. While it laid foundational principles, it has been progressively *amended, expanded upon, and ultimately supers"
+  },
+  {
+    "task_id": "RC084",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Statute Law (Repeals) Act 2004",
+      "The Transfer of Functions (Registration and Statistics) Order 1996",
+      "The Transfer of Functions (Registration) Order 2008"
+    ],
+    "gemini_text_snippet": "The Non-Parochial Registers Act 1840 was a crucial piece of legislation designed to collect and preserve registers of births, baptisms, marriages, deaths, and burials from non-Anglican churches, foreign chapels, and other non-parochial sources. It was enacted to fill historical gaps in registration "
+  },
+  {
+    "task_id": "RC085",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Channel Tunnel Rail Link Act 1996",
+      "Criminal Justice Act 2003",
+      "Crossrail Act 2008",
+      "Greater Nottingham Light Rapid Transit Act 1994",
+      "High Speed Rail (London - West Midlands) Act 2017",
+      "High Speed Rail (West Midlands - Crewe) Act 2021",
+      "The Ashton Vale to Temple Meads and Bristol City Centre Rapid Transit Order",
+      "The Blackpool Tramway (Blackpool North Extension) Order 2017",
+      "The Greater Manchester (Light Rapid Transit System) (Airport Extension) Order 1997",
+      "The Greater Manchester (Light Rapid Transit System) (Ashton-under-Lyne Extension) Order 1998",
+      "The Greater Manchester (Light Rapid Transit System) (Eccles Extension) Order 1996",
+      "The Transport for Greater Manchester (Light Rapid Transit System) (Second City Crossing) Order 2013",
+      "The Transport for Greater Manchester (Light Rapid Transit System) (Trafford Park Extension) Order 2016",
+      "The Welsh Highland Railway Order 1999",
+      "The Wirral Tramway Light Railway Order 1994",
+      "The Wirral Tramway Order 1999"
+    ],
+    "gemini_text_snippet": "The Railway Regulation Act 1840 (3 & 4 Vict. c. 97) was a foundational piece of legislation, giving the Board of Trade powers over railway safety and the collection of statistics. As such, it was either directly amended, had its provisions superseded, or was eventually repealed by a series of subseq"
+  },
+  {
+    "task_id": "RC086",
+    "correct": false,
+    "found": [
+      "Cathedrals Measure 1999"
+    ],
+    "missing": [
+      "Cathedrals Measure 2021",
+      "Church of England (Miscellaneous Provisions) Measure 1995",
+      "Church of England (Miscellaneous Provisions) Measure 1995 (Appointed Day Instrument 1995)",
+      "Church of England (Miscellaneous Provisions) Measure 2000",
+      "Church of England (Miscellaneous Provisions) Measure 2000 (Appointed Day Instrument 2000)",
+      "Church of England (Miscellaneous Provisions) Measure 2014",
+      "Church of England (Miscellaneous Provisions) Measure 2024",
+      "Statute Law (Repeals) Act 2004",
+      "Statute Law (Repeals) Measure 2018"
+    ],
+    "gemini_text_snippet": "The Ecclesiastical Commissioners Act 1840 was a foundational piece of legislation that formally established the Ecclesiastical Commissioners and consolidated their powers to manage and redistribute the wealth of the Church of England.\n\nOver time, numerous other acts and Church Measures have signific"
+  },
+  {
+    "task_id": "RC087",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Access to Justice Act 1999",
+      "Courts Act 2003",
+      "Scotland Act 1998",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The North Killingholme Haven Harbour Empowerment Order 1994"
+    ],
+    "gemini_text_snippet": "The Ordnance Survey Act 1841 was a foundational piece of legislation, establishing the legal basis for the ongoing survey of Great Britain for mapping purposes, particularly for the accurate depiction of property boundaries and other features.\n\nHowever, the legal and operational framework of the Ord"
+  },
+  {
+    "task_id": "RC088",
+    "correct": false,
+    "found": [
+      "School Standards and Framework Act 1998"
+    ],
+    "missing": [
+      "Commons Act 2006",
+      "Education Act 1993 (Commencement No. 3 and Transitional Provisions) Order 1994",
+      "Education Act 1996",
+      "Levelling-up and Regeneration Act 2023",
+      "The Commons Act 2006 (Commencement No. 3, Transitional Provisions and Savings) (England) Order 2007",
+      "The National Assembly for Wales (Transfer of Functions) Order 1999",
+      "The School Organisation (Transitional Provisions) (England) Regulations 2007",
+      "The School Standards and Framework Act 1998 (Commencement No. 7 and Saving and Transitional Provisions) Order 1999",
+      "Title Conditions (Scotland) Act 2003"
+    ],
+    "gemini_text_snippet": "The Schools Sites Act 1841 was a significant piece of legislation designed to facilitate the donation of land for the construction of schools by making the conveyancing process easier and allowing specific powers for the trustees to hold the land. Its primary aim was to encourage the development of "
+  },
+  {
+    "task_id": "RC089",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Cathedrals Measure 2021",
+      "Statute Law (Repeals) Act 2004",
+      "Statute Law (Repeals) Measure 2018"
+    ],
+    "gemini_text_snippet": "The Ecclesiastical Commissioners Act 1841 was a foundational piece of legislation for the Ecclesiastical Commissioners for England. While it established and consolidated many of their powers, it was subsequently affected by numerous other Acts and Measures, as the Commissioners' role evolved and eve"
+  },
+  {
+    "task_id": "RC090",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Cathedrals Measure 2021",
+      "Constitutional Reform Act 2005",
+      "Statute Law (Repeals) Measure 2018",
+      "The Constitutional Reform Act 2005 (Commencement No. 11) Order 2009"
+    ],
+    "gemini_text_snippet": "The Ecclesiastical Houses of Residence Act 1842 (5 & 6 Vict. c. 26) has been **fully repealed**.\n\nThe most significant Act affecting it, ultimately leading to its complete repeal, is the **Church Property Measure 2018 (No. 8)**, which repealed the 1842 Act in its entirety with effect from 1st Januar"
+  },
+  {
+    "task_id": "RC091",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "British Railways (No. 2) Order Confirmation Act 1994",
+      "British Railways Act 1994",
+      "Channel Tunnel Rail Link Act 1996",
+      "Courts Act 2003",
+      "Criminal Justice Act 2003",
+      "Crossrail Act 2008",
+      "Croydon Tramlink Act 1994",
+      "Greater Nottingham Light Rapid Transit Act 1994",
+      "High Speed Rail (London - West Midlands) Act 2017",
+      "High Speed Rail (West Midlands - Crewe) Act 2021",
+      "Railway Safety Act (Northern Ireland) 2002",
+      "Serious Organised Crime and Police Act 2005",
+      "Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004",
+      "The Ashton Vale to Temple Meads and Bristol City Centre Rapid Transit Order",
+      "The Blackpool Tramway (Blackpool North Extension) Order 2017",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Greater Manchester (Light Rapid Transit System) (Eccles Extension) Order 1996",
+      "The Keith and Dufftown Light Railway Order 1999",
+      "The Network Rail (Tinsley Chord) Order 2015",
+      "The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007",
+      "The Port of Blyth (Battleship Wharf Railway) Order 2006",
+      "The Railway Safety (Miscellaneous Provisions) Regulations 1997",
+      "The Railways Act 1993 (Commencement No. 2) Order 1994",
+      "The Rother Valley Railway (Bodiam to Robertsbridge Junction) Order 2023",
+      "The Serious Organised Crime and Police Act 2005 (Commencement No. 4 and Transitory Provision) Order 2005",
+      "The Transport for Greater Manchester (Light Rapid Transit System) (Miscellaneous Provisions) Order 2013",
+      "The Transport for Greater Manchester (Light Rapid Transit System) (Second City Crossing) Order 2013",
+      "The Transport for Greater Manchester (Light Rapid Transit System) (Trafford Park Extension) Order 2016"
+    ],
+    "gemini_text_snippet": "The **Railway Regulation Act 1842** was a foundational piece of legislation, establishing early government oversight of railways, particularly concerning safety, accident reporting, and returns to the Board of Trade. While many of its specific provisions have since been repealed or superseded, its p"
+  },
+  {
+    "task_id": "RC092",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Adults with Incapacity (Scotland) Act 2000",
+      "Courts Act 2003",
+      "Housing and Planning Act 2016",
+      "Justice Act (Northern Ireland) 2015",
+      "Local Government (Wales) Act 1994",
+      "The Adults with Incapacity (Scotland) Act 2000 (Commencement No. 1) Order 2001",
+      "The Constitutional Reform Act 2005 (Commencement No. 11) Order 2009",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Justice (2015 Act) (Commencement No. 7 and Saving Provisions) Order (Northern Ireland) 2016",
+      "The Local Government (Wales) Act 1994 (Commencement No. 6) Order 1995",
+      "The Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006",
+      "The Visiting Forces and International Headquarters (Application of Law) Order 1999"
+    ],
+    "gemini_text_snippet": "The Defence Act 1842 (5 & 6 Vict. c. 94) was a key piece of legislation regarding the acquisition and management of land for military defence purposes in the United Kingdom.\n\nHowever, it has been **largely repealed and superseded** by subsequent legislation. The primary acts that affected (and mostl"
+  },
+  {
+    "task_id": "RC093",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Church of England (Miscellaneous Provisions) Measure 2000",
+      "Church of England (Miscellaneous Provisions) Measure 2000 (Appointed Day Instrument 2000)",
+      "Constitutional Reform Act 2005",
+      "Statute Law (Repeals) Measure 2018",
+      "The Conservation (Natural Habitats, &c.) Regulations 1994"
+    ],
+    "gemini_text_snippet": "The Ecclesiastical Leasing Act 1842 was a significant piece of legislation that allowed ecclesiastical corporations (like bishops, deans, chapters, rectors, and vicars) to grant longer leases of their lands than was previously permitted. It aimed to facilitate the better management and development o"
+  },
+  {
+    "task_id": "RC094",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Access to Justice Act 1999",
+      "Courts Act 2003",
+      "Criminal Justice Act 2003",
+      "Greater London Authority Act 1999",
+      "Immigration Act 2016",
+      "Statute Law (Repeals) Act 2004",
+      "The Access to Justice Act 1999 (Commencement No. 1) Order 1999",
+      "The Access to Justice Act 1999 (Commencement No. 4 and Transitional Provisions) Order 2000",
+      "The Access to Justice Act 1999 (Commencement No. 7, Transitional Provisions and Savings) Order 2001",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Greater London Authority Act 1999 (Commencement No. 4 and Adaptation) Order 2000",
+      "Transport for London Act 2008"
+    ],
+    "gemini_text_snippet": "The London Hackney Carriages Act 1843 (6 & 7 Vict. c. 86) was a significant piece of legislation that consolidated and updated previous laws governing hackney carriages (taxis) in London. It essentially brought their regulation under the purview of the Metropolitan Police.\n\nTo understand which acts "
+  },
+  {
+    "task_id": "RC095",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Access to Justice Act 1999",
+      "Constitutional Reform Act 2005",
+      "Legal Services Act 2007",
+      "Statute Law (Repeals) Act 1998",
+      "The Access to Justice Act 1999 (Commencement No. 1) Order 1999",
+      "The Constitutional Reform Act 2005 (Commencement No. 5) Order 2006",
+      "The Legal Services Act 2007 (Commencement No. 6, Transitory, Transitional and Saving Provisions) Order 2009"
+    ],
+    "gemini_text_snippet": "The Public Notaries Act 1843 has been **largely repealed for England and Wales** by more modern legislation, primarily the **Courts and Legal Services Act 1990**.\n\nHere's a breakdown of the key acts that have affected it:\n\n1.  **Courts and Legal Services Act 1990 (c. 41)**\n    *   This is the most s"
+  },
+  {
+    "task_id": "RC096",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "The Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 1) Order 2011",
+      "Wildlife and Natural Environment (Scotland) Act 2011"
+    ],
+    "gemini_text_snippet": "The Night Poaching Act 1844 (also known as the Poaching Act 1844, 7 & 8 Vict. c. 29) was an amendment to the Night Poaching Act 1828. While parts of it remain on the statute book in England and Wales, much of its practical application has been superseded, amended, or repealed by subsequent legislati"
+  },
+  {
+    "task_id": "RC097",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Bank of Ireland (UK) plc Act 2012",
+      "Banking Act 2009",
+      "Statute Law (Repeals) Act 2004",
+      "The Banking Act 2009 (Commencement No. 1) Order 2009",
+      "The Banking Act 2009 (Commencement No. 4) Order 2009"
+    ],
+    "gemini_text_snippet": "The Bank Charter Act 1844 was a landmark piece of legislation that profoundly shaped the Bank of England's role and the UK's monetary system. Its core principles were:\n\n1.  **Separation of Departments:** Divided the Bank of England into an Issue Department (responsible for issuing banknotes) and a B"
+  },
+  {
+    "task_id": "RC098",
+    "correct": false,
+    "found": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000"
+    ],
+    "missing": [
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ],
+    "gemini_text_snippet": "The New Parishes (Scotland) Act 1844 (7 & 8 Vict c. 44) was a significant piece of legislation passed in the wake of the 1843 Disruption of the Church of Scotland. Its primary purpose was to facilitate the creation and endowment of new parishes (often referred to as \"quoad sacra\" parishes) within th"
+  },
+  {
+    "task_id": "RC099",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Ecclesiastical Offices (Terms of Service) Measure 2009",
+      "Statute Law (Repeals) Measure 2018",
+      "The Ecclesiastical Offices (Terms of Service) Measure 2009 (Appointed Day No. 4) Instrument"
+    ],
+    "gemini_text_snippet": "The Lecturers and Parish Clerks Act 1844 (7 & 8 Vict. c. 59) has been **wholly repealed** by subsequent legislation.\n\nThe acts that affected it, specifically by repealing it, are:\n\n1.  **Ecclesiastical Commissioners (Powers) Measure 1938 (No. 2)**: This Measure repealed the majority of the Lecturers"
+  },
+  {
+    "task_id": "RC100",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Courts Act 2003",
+      "Dunham Bridge (Amendment) Act 1994",
+      "Faversham Oyster Fishery Company Act 2017",
+      "Justice Act (Northern Ireland) 2015",
+      "Serious Organised Crime and Police Act 2005",
+      "Statute Law (Repeals) Act 2004",
+      "The Caernarfon and Dinas Welsh Highland Railway (Transfer and Governance) Order 2022",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Justice (2015 Act) (Commencement No. 7 and Saving Provisions) Order (Northern Ireland) 2016",
+      "The Law Reform (Miscellaneous Provisions) (2005 Order) (Commencement and Transitional Saving) Order (Northern Ireland) 2005",
+      "The Law Reform (Miscellaneous Provisions) (Northern Ireland) Order 2005",
+      "The Manchester Ship Canal Harbour Revision Order 2009",
+      "The Mersey Docks and Harbour Revision Order 2009",
+      "The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007",
+      "The Serious Organised Crime and Police Act 2005 (Commencement No. 4 and Transitory Provision) Order 2005"
+    ],
+    "gemini_text_snippet": "The Companies Clauses Consolidation Act 1845 (8 & 9 Vict c 16) is a fascinating piece of legislation because while much of its general application has been superseded, parts of it remain in force due to its unique purpose.\n\nIt was designed to provide a standard set of clauses that could be *incorpor"
+  }
+]

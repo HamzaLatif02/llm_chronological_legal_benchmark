@@ -1,0 +1,902 @@
+[
+  {
+    "task_id": "CN001",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively answer whether the 'Budget Act (Northern Ireland) 2010' contains the 'National Debt Act 1972' without reviewing"
+  },
+  {
+    "task_id": "CN002",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot find a definitive reference to a 'Bell's Bridge Order Confirmation Act 1995' or confirm whether it contains the 'Pests Act 1"
+  },
+  {
+    "task_id": "CN003",
+    "expected": "yes",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Statutory Instruments (Production and Sale) Act 1996' contains the 'Budget Act (Northern I"
+  },
+  {
+    "task_id": "CN004",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Public Trustee (Liability and Fees) Act 2002' contains the 'Road Races (Amendment) Act (No"
+  },
+  {
+    "task_id": "CN005",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the Armed Forces Act 2006 does not contain the Deer Act 1991. These are two separate pieces of legislation in the United Kingdom that deal with di"
+  },
+  {
+    "task_id": "CN006",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot confidently confirm whether the 'Veterans Advisory and Pensions Committees Act 2023' contains the 'Regulation of Registered "
+  },
+  {
+    "task_id": "CN007",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012' contains the 'National H"
+  },
+  {
+    "task_id": "CN008",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021' contains"
+  },
+  {
+    "task_id": "CN009",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "claude_text_snippet": "No, the Post Office Act 1953 does not contain the Succession to the Crown Act 2013. These are two separate pieces of legislation dealing with differen"
+  },
+  {
+    "task_id": "CN010",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the Harris Tweed Act 1993 does not contain the Civil Evidence Act 1995. These are two separate pieces of legislation dealing with different subjec"
+  },
+  {
+    "task_id": "CN011",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot confidently confirm whether the 'British Railways Order Confirmation Act 1994' contains the 'Friendly Societies Act 1974' wi"
+  },
+  {
+    "task_id": "CN012",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016' contains "
+  },
+  {
+    "task_id": "CN013",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Building Societies (Funding) and Mutual Societies (Transfers) Act 2007' contains the 'Supr"
+  },
+  {
+    "task_id": "CN014",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Consolidated Fund (No. 2) Act 2004' contains the 'Railways (Electrical Power) Act 1903' wi"
+  },
+  {
+    "task_id": "CN015",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the Paymaster General Act 1848 does not contain the Companies (Consolidation) Act 1908. These are two separate pieces of legislation from differen"
+  },
+  {
+    "task_id": "CN016",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Hill Samuel Bank and United Dominions Trust Act 1994' contains the 'Nurseries and Child-Mi"
+  },
+  {
+    "task_id": "CN017",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Pensions Act 2011' contains the 'Supply and Appropriation (Main Estimates) Act 2019' witho"
+  },
+  {
+    "task_id": "CN018",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'National Gallery and Tate Gallery Act 1954' contains the 'Accession Declaration Act 1910' "
+  },
+  {
+    "task_id": "CN019",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "claude_text_snippet": "No, the 'Corporate Manslaughter and Corporate Homicide Act 2007' does not contain the 'Trade Union Act 1984'. These are two separate pieces of legisla"
+  },
+  {
+    "task_id": "CN020",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the 'Agricultural Land (Utilisation) Act 1931' does not contain the 'Safeguarding and Clergy Discipline Measure 2016'. These are two separate lega"
+  },
+  {
+    "task_id": "CN021",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the 'Criminal Injuries Compensation Act 1995' does not contain the 'Land Charges Act 1972'. These are two separate pieces of legislation in the UK"
+  },
+  {
+    "task_id": "CN022",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the Broads Authority Act 2009 contains the Education Act 1976 without reviewing the full text o"
+  },
+  {
+    "task_id": "CN023",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Northern Ireland (Executive Formation etc) Act 2019' contains the 'Enterprise and New Town"
+  },
+  {
+    "task_id": "CN024",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the Visiting Forces Act 1952 does not contain the Curriculum and Assessment (Wales) Act 2021. These are two separate and unrelated pieces of legis"
+  },
+  {
+    "task_id": "CN025",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot confidently confirm whether the 'Derelict Land Act 1982' contains the 'India (Consequential Provision) Act 1949' without ver"
+  },
+  {
+    "task_id": "CN026",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Consolidated Fund (No. 2) Act 1995' contains the 'Children Act 2004' without reviewing the"
+  },
+  {
+    "task_id": "CN027",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Business and Planning Act 2020' contains the 'Woodgrange Park Cemetery Act 1993' without r"
+  },
+  {
+    "task_id": "CN028",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the 'Human Fertilisation and Embryology Act 2008' does not contain the 'London Olympic Games and Paralympic Games (Amendment) Act 2011'. These are"
+  },
+  {
+    "task_id": "CN029",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "claude_text_snippet": "No, the National Audit Act 1983 does not contain the Civil Aviation Act 2012. These are two separate pieces of legislation in the United Kingdom deali"
+  },
+  {
+    "task_id": "CN030",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Superannuation Act (Northern Ireland) 2013' contains the 'Civil List Act 1975' without dir"
+  },
+  {
+    "task_id": "CN031",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the 'Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016' does not contain the 'Parliamentary Buildings (Re"
+  },
+  {
+    "task_id": "CN032",
+    "expected": "yes",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the Administration of Justice Act 1969 contains the Local Government (Contracts) Act 1997 witho"
+  },
+  {
+    "task_id": "CN033",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Work and Families Act (Northern Ireland) 2015' contains the 'Highway Act 1835' without dir"
+  },
+  {
+    "task_id": "CN034",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot confidently state whether the 'Rent (Agriculture) Act 1976' contains the 'Coal-Mining (Subsidence) Act 1957' without verifyi"
+  },
+  {
+    "task_id": "CN035",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the Armed Forces Act 1981 does not contain the Income Tax (Trading and Other Income) Act 2005. These are two separate pieces of legislation dealin"
+  },
+  {
+    "task_id": "CN036",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "claude_text_snippet": "No, the Human Rights Act 1998 does not contain the Post Office Act 1969. These are two separate pieces of legislation in the United Kingdom with diffe"
+  },
+  {
+    "task_id": "CN037",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Killingholme Generating Stations (Ancillary Powers) Act 1991' contains the 'Landlord and T"
+  },
+  {
+    "task_id": "CN038",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the War Pensions Act 1921 does not contain the Sexual Offences (Amendment) Act 2000. These are two separate pieces of legislation dealing with dif"
+  },
+  {
+    "task_id": "CN039",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the 'Concealment of Birth (Scotland) Act 1809' does not contain the 'Patents Act 1949'. These are two separate pieces of legislation dealing with "
+  },
+  {
+    "task_id": "CN040",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Electronic Communications Act (Northern Ireland) 2001' contains the 'Sale of Farming Stock"
+  },
+  {
+    "task_id": "CN041",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot confidently confirm whether the 'Trees Act 1970' contains the 'Duchy of Lancaster Act 1808' without verifying the specific c"
+  },
+  {
+    "task_id": "CN042",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988' contains the 'Loc"
+  },
+  {
+    "task_id": "CN043",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992' contains the 'Merchant Shi"
+  },
+  {
+    "task_id": "CN044",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "claude_text_snippet": "No, the 'Sexual Offences (Scotland) Act 1976' does not contain the 'National Insurance Contributions (Reduction in Rates) Act 2023'. These are two sep"
+  },
+  {
+    "task_id": "CN045",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Small Charitable Donations Act 2012' contains the 'Consolidated Fund (No. 2) Act 2004'. To"
+  },
+  {
+    "task_id": "CN046",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "To accurately answer this, I would need to review the full text of the 'Crown Benefices (Parish Representatives) Measure 2010' and check if it contain"
+  },
+  {
+    "task_id": "CN047",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Senedd Cymru (Members and Elections) Act 2024' contains the 'Bills of Exchange (Ireland) A"
+  },
+  {
+    "task_id": "CN048",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively answer whether the 'Finance (No. 2) Act 2005' contains the 'Midland Metro (No. 2) Act 1992' without reviewing t"
+  },
+  {
+    "task_id": "CN049",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Scottish Land Court Act 1993' contains the 'Railway Companies Act 1867' without directly r"
+  },
+  {
+    "task_id": "CN050",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot find a definitive reference to a 'Hospital Parking Charges Act (Northern Ireland) 2024' or confirm whether it contains the '"
+  },
+  {
+    "task_id": "CN051",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the Hunting Act 2004 does not contain the Borders, Citizenship and Immigration Act 2009. These are two separate pieces of UK legislation that deal"
+  },
+  {
+    "task_id": "CN052",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013' contains the 'Appella"
+  },
+  {
+    "task_id": "CN053",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "claude_text_snippet": "No, the 'Employers' Liability (Compulsory Insurance) Act 1969' does not contain the 'Parliamentary Constituencies Act 2020'. These are two separate pi"
+  },
+  {
+    "task_id": "CN054",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Consolidated Fund (No. 2) Act 1995' contains the 'Easter Act 1928' without reviewing the f"
+  },
+  {
+    "task_id": "CN055",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Sheriff Courts and Legal Officers (Scotland) Act 1927' contains the 'Family Allowances and"
+  },
+  {
+    "task_id": "CN056",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the Sex Discrimination Act 1975 does not contain the Executors (Scotland) Act 1900. These are two separate pieces of legislation dealing with diff"
+  },
+  {
+    "task_id": "CN057",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot confidently confirm whether the 'Courts and Tribunals (Judiciary and Functions of Staff) Act 2018' contains the 'Political P"
+  },
+  {
+    "task_id": "CN058",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Breeding of Dogs Act 1973' contains the 'Nottingham City Council Act 2013' without reviewi"
+  },
+  {
+    "task_id": "CN059",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the 'Local Authorities (Restoration of Works Powers) Act 1977' does not contain the 'Church of England (Miscellaneous Provisions) Measure 2018'. T"
+  },
+  {
+    "task_id": "CN060",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the 'Green Energy (Definition and Promotion) Act 2009' does not contain the 'Children Act 2004'. These are two separate pieces of legislation deal"
+  },
+  {
+    "task_id": "CN061",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Police (Northern Ireland) Act 1998' contains the 'Concessionary Bus Travel Act 2007' witho"
+  },
+  {
+    "task_id": "CN062",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot confidently answer this question without reviewing the full text of the 'Pastoral (Amendment) Measure 2006'. To determine wh"
+  },
+  {
+    "task_id": "CN063",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot confidently confirm whether the Bus Services Act 2017 contains the Removal Terms (Scotland) Act 1886. To accurately answer t"
+  },
+  {
+    "task_id": "CN064",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Consolidated Fund Act 1816' contains the 'British Technology Group Act 1991' without revie"
+  },
+  {
+    "task_id": "CN065",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Tobacco Advertising and Promotion Act 2002' contains the 'Light Railways Act 1912' without"
+  },
+  {
+    "task_id": "CN066",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_text_snippet": "I apologize, but I cannot definitively answer whether the Ivory Act 2018 contains the Energy Act 2013. These appear to be two separate pieces of legis"
+  },
+  {
+    "task_id": "CN067",
+    "expected": "yes",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot find a \"Chequers Estate Act 1917\" in my knowledge base. While I know about Chequers (the country house used as a country ret"
+  },
+  {
+    "task_id": "CN068",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the 'Local Authorities (Goods and Services) Act 1970' does not contain the 'Trustee Savings Banks Act 1981'. These are two separate pieces of legi"
+  },
+  {
+    "task_id": "CN069",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Law Officers Act 1997' contains the 'Incumbents (Vacation of Benefices) (Amendment) Measur"
+  },
+  {
+    "task_id": "CN070",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Pensions Act 2007' contains the 'Antarctic Act 2013' without reviewing the full text of bo"
+  },
+  {
+    "task_id": "CN071",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the Agriculture Act 1986 contains the Hairdressers (Registration) Act 1964 without reviewing th"
+  },
+  {
+    "task_id": "CN072",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the 'Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015' does not contain the 'Improvement of Land Act 1864'. These are t"
+  },
+  {
+    "task_id": "CN073",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the Education Act 2005 does not contain the Police and Criminal Evidence Act 1984. These are two separate pieces of legislation in the United King"
+  },
+  {
+    "task_id": "CN074",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot confidently confirm whether the 'Dawat-e-Hadiyah Act 1993' contains the 'Mines and Quarries Act 1954'. To provide an accurat"
+  },
+  {
+    "task_id": "CN075",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Finance Act 1988' contains the 'Sailors and Soldiers (Gifts for Land Settlement) Act 1916'"
+  },
+  {
+    "task_id": "CN076",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_text_snippet": "I apologize, but I cannot find a definitive reference to a \"Penalties for Drunkenness Act 1962\" or a \"Sports Grounds Safety Authority Act 2011\" in my "
+  },
+  {
+    "task_id": "CN077",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Supreme Court (Offices) Act 1997' contains the 'Drugs Act 2005' without reviewing the full"
+  },
+  {
+    "task_id": "CN078",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot confidently answer whether the 'Diocesan Stipends Funds (Amendment) Measure 2016' contains the 'Pensions Act 2007' without r"
+  },
+  {
+    "task_id": "CN079",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "claude_text_snippet": "No, the Parliamentary Standards Act 2009 does not contain the Strikes (Minimum Service Levels) Act 2023. These are two separate pieces of legislation "
+  },
+  {
+    "task_id": "CN080",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Solicitors (Scotland) Act 1988' contains the 'Public Registers and Records (Scotland) Act "
+  },
+  {
+    "task_id": "CN081",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Consolidated Fund Act 2008' contains the 'Administration of Justice Act 1960' without revi"
+  },
+  {
+    "task_id": "CN082",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'School Grants Act 1855' contains the 'Housing Act 1974' without verifying the specific con"
+  },
+  {
+    "task_id": "CN083",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Refreshment Houses Act 1964' contains the 'Criminal Law (Consolidation) (Scotland) Act 199"
+  },
+  {
+    "task_id": "CN084",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the Railways Act 1921 does not contain the Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010. These are two separate pieces of l"
+  },
+  {
+    "task_id": "CN085",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Product Security and Telecommunications Infrastructure Act 2022' contains the 'Powers of A"
+  },
+  {
+    "task_id": "CN086",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the 'Criminal Justice (Terrorism and Conspiracy) Act 1998' does not contain the 'Mission and Pastoral Measure 2011'. These are two separate legal "
+  },
+  {
+    "task_id": "CN087",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Veterans Advisory and Pensions Committees Act 2023' contains the 'European Communities (Fi"
+  },
+  {
+    "task_id": "CN088",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot confidently confirm whether the Export Control Act 2002 contains the Belfast Charitable Society Act 1996. To provide an accu"
+  },
+  {
+    "task_id": "CN089",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Consolidated Fund (No. 2) Act 1998' contains the 'Solicitors Act 1974' without directly re"
+  },
+  {
+    "task_id": "CN090",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively answer whether the 'Justices of the Peace Act 1949' contains the 'Aberdeen Harbour Order Confirmation Act 1992'"
+  },
+  {
+    "task_id": "CN091",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the 'Offices, Shops and Railway Premises Act 1963' does not contain the 'Sustainable Communities Act 2007'. These are two separate and distinct pi"
+  },
+  {
+    "task_id": "CN092",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Northern Ireland (Loans) Act 1975' contains the 'Housing Act 1974' without directly review"
+  },
+  {
+    "task_id": "CN093",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the Sustainable Communities Act 2007 does not contain the Autism Act (Northern Ireland) 2011. These are two separate pieces of legislation dealing"
+  },
+  {
+    "task_id": "CN094",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the Non-Domestic Rating Act 2023 does not contain the Modern Slavery Act 2015. These are two separate pieces of legislation dealing with different"
+  },
+  {
+    "task_id": "CN095",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the Geological Survey Act 1845 does not contain the Water Act 2014. These are two separate pieces of legislation from different time periods addre"
+  },
+  {
+    "task_id": "CN096",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the Prevention of Crimes Act 1871 does not contain the Public Audit (Wales) Act 2013. These are two separate and distinct pieces of legislation fr"
+  },
+  {
+    "task_id": "CN097",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016' contains the "
+  },
+  {
+    "task_id": "CN098",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_text_snippet": "I apologize, but I cannot definitively confirm whether the 'The Environmental Protection (Single-use Plastic Products) (Wales) Act 2023' contains the "
+  },
+  {
+    "task_id": "CN099",
+    "expected": "no",
+    "found_in_answer": null,
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_text_snippet": "I apologize, but I cannot definitively answer whether one Act contains another without reviewing the full text of both documents. These appear to be s"
+  },
+  {
+    "task_id": "CN100",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_text_snippet": "No, the United Kingdom Internal Market Act 2020 does not contain the Matrimonial Homes (Family Protection) (Scotland) Act 1981. These are two separate"
+  }
+]

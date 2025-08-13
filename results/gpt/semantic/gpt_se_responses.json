@@ -1,0 +1,318 @@
+[
+  {
+    "task_id": "SE001",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Clergy Pensions Measure 1961"
+    ],
+    "gpt_text_snippet": "The Pensions Measure 1997 repealed the **Pensions (Northern Ireland) Measure 1979**. \n\nIf you need more detailed information about the specific provisions or the context of the repeal, please let me know!"
+  },
+  {
+    "task_id": "SE002",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions (Northern Ireland) Order 2005 (NI 1)"
+    ],
+    "gpt_text_snippet": "The **Pensions (No. 2) Act (Northern Ireland) 2008** primarily amends the following legislation:\n\n- **Pensions (Northern Ireland) Order 1995**\n\nThis Act makes amendments related to pension schemes and their regulation in Northern Ireland, building upon the framework established by the 1995 Order.\n\nI"
+  },
+  {
+    "task_id": "SE003",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions (Northern Ireland) Order 1995 (NI 22)"
+    ],
+    "gpt_text_snippet": "The **Pensions (No. 2) Act (Northern Ireland) 2008** repealed the **Pensions (Northern Ireland) Act 1995**.\n\nThis Act was introduced to update and consolidate pension legislation in Northern Ireland, and as part of that process, it repealed the earlier 1995 Act to replace it with a more modern legis"
+  },
+  {
+    "task_id": "SE004",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Interpretation Act (Northern Ireland) 1954 (c. 33)"
+    ],
+    "gpt_text_snippet": "The **Child Maintenance Act (Northern Ireland) 2008** primarily amends the following legislation:\n\n- The **Child Support (Northern Ireland) Order 1991**\n\nThis Act made provisions to reform the child maintenance system in Northern Ireland, including changes to the enforcement and calculation of child"
+  },
+  {
+    "task_id": "SE005",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)"
+    ],
+    "gpt_text_snippet": "The **Child Maintenance Act (Northern Ireland) 2008** repealed the following legislation:\n\n- **Child Support (Northern Ireland) Order 1991**\n\nThis 2008 Act replaced the 1991 Order, updating the legal framework for child maintenance in Northern Ireland."
+  },
+  {
+    "task_id": "SE006",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Civil Partnership Act 2004 (c. 33)"
+    ],
+    "gpt_text_snippet": "The **Pensions Act (Northern Ireland) 2008** repealed the following legislation:\n\n- The **Pensions (Northern Ireland) Order 1995** (S.I. 1995/321 (N.I. 1))\n\nThis 2008 Act consolidated and updated pension law in Northern Ireland, replacing the earlier 1995 Order and related provisions.\n\nIf you need m"
+  },
+  {
+    "task_id": "SE007",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Contributions and Benefits Act"
+    ],
+    "gpt_text_snippet": "The **Pensions Act (Northern Ireland) 2008** primarily replaces and consolidates earlier pension-related legislation in Northern Ireland. Specifically, it replaces provisions from:\n\n- The **Pensions (Northern Ireland) Order 1995**, which was the main legislation governing occupational pension scheme"
+  },
+  {
+    "task_id": "SE008",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions (Northern Ireland) Order 2005 (NI 1)"
+    ],
+    "gpt_text_snippet": "The **Pensions Act (Northern Ireland) 2008** primarily substitutes and updates provisions from earlier pension legislation in Northern Ireland, notably replacing parts of the **Pensions (Northern Ireland) Order 1995**.\n\nMore specifically, the 2008 Act was introduced to implement reforms similar to t"
+  },
+  {
+    "task_id": "SE009",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions Act 2004 (c. 35)"
+    ],
+    "gpt_text_snippet": "Could you please specify which legislation or act you are referring to with \"NORTHERN IRELAND\"? Are you asking about a specific Northern Ireland Act or a particular piece of legislation related to Northern Ireland? This will help me provide a precise answer regarding which legislation it repeals."
+  },
+  {
+    "task_id": "SE010",
+    "correct": true,
+    "found": [
+      "Immigration and Asylum Act 1999"
+    ],
+    "missing": [],
+    "gpt_text_snippet": "The **Nationality and Borders Act 2022** amends several pieces of existing legislation related to immigration, nationality, and asylum in the United Kingdom. Key legislation amended by the Act includes:\n\n1. **British Nationality Act 1981** – provisions relating to British citizenship and nationality"
+  },
+  {
+    "task_id": "SE011",
+    "correct": false,
+    "found": [],
+    "missing": [
+      " Immigration Act 2016"
+    ],
+    "gpt_text_snippet": "The **Nationality and Borders Act 2022** primarily introduces new provisions related to immigration, asylum, and nationality law in the UK. It does **not** broadly repeal entire previous Acts but does amend and, in some cases, repeal specific sections or provisions of earlier legislation.\n\nKey repea"
+  },
+  {
+    "task_id": "SE012",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Immigration Act 2014",
+      "Immigration, Asylum and Nationality Act 2006",
+      "Immigration Act 1971"
+    ],
+    "gpt_text_snippet": "The Immigration Act 2016 (Ireland) repealed the **Immigration Act 2003**. This legislation updated and replaced the provisions of the 2003 Act, introducing new measures related to immigration control, enforcement, and the rights and obligations of immigrants in Ireland."
+  },
+  {
+    "task_id": "SE013",
+    "correct": true,
+    "found": [
+      "Immigration Act 1971"
+    ],
+    "missing": [],
+    "gpt_text_snippet": "The Immigration Act 2014 primarily amends the following legislation:\n\n- **Immigration and Asylum Act 1999**\n- **Immigration and Asylum Act 2002**\n- **British Nationality Act 1981**\n- **Nationality, Immigration and Asylum Act 2002**\n- **Immigration Act 1971**\n\nAdditionally, it makes amendments to oth"
+  },
+  {
+    "task_id": "SE014",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Immigration Act 1971"
+    ],
+    "gpt_text_snippet": "The **Health and Social Care Act 2012** primarily amends several pieces of existing legislation related to the National Health Service (NHS) and social care in England. Key legislation amended by the Health and Social Care Act 2012 includes:\n\n1. **National Health Service Act 2006** – The Act makes e"
+  },
+  {
+    "task_id": "SE015",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Criminal Justice and Immigration Act 2008",
+      "Access to Justice Act 1999"
+    ],
+    "gpt_text_snippet": "The **Coroners and Justice Act 2009** repealed several pieces of legislation, primarily to update and consolidate laws related to coroners, criminal justice, and related matters. Key repeals include:\n\n1. **Parts of the Coroners Act 1988** – The 2009 Act made significant changes to the law relating t"
+  },
+  {
+    "task_id": "SE016",
+    "correct": true,
+    "found": [
+      "Jobseekers Act 1995"
+    ],
+    "missing": [],
+    "gpt_text_snippet": "The **Welfare Reform Act 2009** primarily made amendments to existing social security legislation rather than outright repealing entire Acts. However, it did repeal certain provisions and sections within earlier legislation related to social security and welfare.\n\nSpecifically, the Welfare Reform Ac"
+  },
+  {
+    "task_id": "SE017",
+    "correct": false,
+    "found": [
+      "Pensions Act 2004"
+    ],
+    "missing": [
+      "Pension Schemes Act 1993"
+    ],
+    "gpt_text_snippet": "The Pensions Act 2008 primarily amends the following legislation:\n\n1. **Pensions Act 1995** – It makes various amendments related to occupational pension schemes.\n2. **Pensions Act 2004** – It introduces changes to the regulation and governance of pension schemes.\n3. **Pensions Act 2007** – It inclu"
+  },
+  {
+    "task_id": "SE018",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Nationality, Immigration and Asylum Act 2002"
+    ],
+    "gpt_text_snippet": "The **UK Borders Act 2007** primarily amends several pieces of legislation related to immigration and border control. Key legislation amended by the UK Borders Act 2007 includes:\n\n1. **Immigration and Asylum Act 1999** – The Act introduces provisions related to the removal and deportation of certain"
+  },
+  {
+    "task_id": "SE019",
+    "correct": true,
+    "found": [
+      "Pensions Act 1995"
+    ],
+    "missing": [],
+    "gpt_text_snippet": "The **Pensions Act 2007** primarily amends the following legislation:\n\n1. **Pensions Act 1995**  \n2. **Pensions Act 2004**  \n3. **Pensions Act 1993**  \n4. **Pensions Act 2000**  \n\nIn addition, it makes amendments to other related legislation concerning occupational and personal pension schemes, as w"
+  },
+  {
+    "task_id": "SE020",
+    "correct": true,
+    "found": [
+      "Pensions Act 1995"
+    ],
+    "missing": [],
+    "gpt_text_snippet": "The **Pensions Act 2007** primarily amended and supplemented existing pension legislation rather than fully repealing large swathes of previous Acts. However, it did include some repeals and modifications to earlier legislation to update and streamline pension law.\n\nSpecifically, the Pensions Act 20"
+  },
+  {
+    "task_id": "SE021",
+    "correct": true,
+    "found": [
+      "Pensions Act 1995"
+    ],
+    "missing": [],
+    "gpt_text_snippet": "The **Pensions Act 2007** primarily builds upon and amends earlier pension legislation rather than outright replacing entire Acts. However, it significantly updates and modifies provisions from previous legislation, particularly the **Pensions Act 1995** and the **Pensions Act 2004**.\n\nTo summarize:"
+  },
+  {
+    "task_id": "SE022",
+    "correct": true,
+    "found": [
+      "Pensions Act 2004"
+    ],
+    "missing": [],
+    "gpt_text_snippet": "The **Pensions Act 2007** primarily amends and builds upon earlier pension legislation rather than completely substituting a single prior Act. However, it significantly modifies provisions in the following key legislation:\n\n- **Pensions Act 1995**  \n- **Pensions Act 2004**\n\nThe 2007 Act introduced i"
+  },
+  {
+    "task_id": "SE023",
+    "correct": false,
+    "found": [
+      "Pensions Act 1995"
+    ],
+    "missing": [
+      "Pension Schemes Act 1993"
+    ],
+    "gpt_text_snippet": "The **Pensions Act 2004** primarily amends the following legislation:\n\n1. **Pensions Act 1995** – It makes significant changes to the regulatory framework established by the 1995 Act, including the creation of the Pensions Regulator and the Pension Protection Fund.\n\n2. **Pensions Act 2000** – The 20"
+  },
+  {
+    "task_id": "SE024",
+    "correct": true,
+    "found": [
+      "Pensions Act 1995"
+    ],
+    "missing": [],
+    "gpt_text_snippet": "The **Pensions Act 2004** repealed certain provisions of earlier pensions legislation, most notably parts of the **Pensions Act 1995**. Specifically, the Pensions Act 2004 replaced and updated many of the regulatory frameworks established by the Pensions Act 1995, including provisions related to the"
+  },
+  {
+    "task_id": "SE025",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Atomic Energy Authority Act 1971"
+    ],
+    "gpt_text_snippet": "The **Energy Act 2004** repealed certain provisions of earlier legislation related to energy regulation and policy. Specifically, it repealed parts of the following:\n\n- **Electricity Act 1989** (certain sections)\n- **Gas Act 1986** (certain sections)\n\nThe Energy Act 2004 introduced new regulatory fr"
+  },
+  {
+    "task_id": "SE026",
+    "correct": true,
+    "found": [
+      "Immigration and Asylum Act 1999"
+    ],
+    "missing": [],
+    "gpt_text_snippet": "The **Nationality, Immigration and Asylum Act 2002** amends several pieces of legislation related to immigration, nationality, and asylum law in the United Kingdom. Key legislation amended by this Act includes:\n\n1. **Immigration Act 1971** – Various provisions relating to immigration control and enf"
+  },
+  {
+    "task_id": "SE027",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Matrimonial Causes Act 1973"
+    ],
+    "gpt_text_snippet": "The **Welfare Reform and Pensions Act 1999** primarily amends the following legislation:\n\n1. **Social Security Contributions and Benefits Act 1992** – It makes changes related to social security benefits and contributions.\n2. **Social Security Administration Act 1992** – It includes provisions affec"
+  },
+  {
+    "task_id": "SE028",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Judicial Pensions Act 1981"
+    ],
+    "gpt_text_snippet": "The **Courts and Legal Services Act 1990** primarily amends several earlier pieces of legislation related to the legal profession and the courts. Key legislation amended by the Courts and Legal Services Act 1990 includes:\n\n1. **Solicitors Act 1974** – The Act makes significant changes to the regulat"
+  },
+  {
+    "task_id": "SE029",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions Act"
+    ],
+    "gpt_text_snippet": "The **Social Security Act 1990** (Australia) primarily consolidates and amends various laws relating to social security. It amends and repeals provisions of earlier legislation concerning social security benefits and related matters.\n\nSpecifically, the Social Security Act 1990 amends or repeals prov"
+  },
+  {
+    "task_id": "SE030",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Extradition Act 1895"
+    ],
+    "gpt_text_snippet": "The **Extradition Act 1989** of the United Kingdom primarily replaced earlier legislation governing extradition, notably:\n\n- The **Extradition Act 1870**\n- The **Extradition Act 1965**\n\nThese earlier Acts were consolidated and updated by the Extradition Act 1989 to provide a more modern and streamli"
+  },
+  {
+    "task_id": "SE031",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Parliamentary and other Pensions Act 1972"
+    ],
+    "gpt_text_snippet": "The **Parliamentary and other Pensions Act 1987** repealed the following legislation:\n\n- The **Parliamentary Pensions Act 1970**\n\nThis 1987 Act made provisions relating to pensions for members of Parliament and certain other public offices, and in doing so, it repealed the earlier 1970 Act to update"
+  },
+  {
+    "task_id": "SE032",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Parliamentary and other Pensions and Salaries Act 1976"
+    ],
+    "gpt_text_snippet": "The **Parliamentary Pensions etc. Act 1984** repealed the following legislation:\n\n- The **Parliamentary Pensions Act 1970**\n\nThis 1984 Act consolidated and updated provisions relating to pensions for Members of Parliament and certain other parliamentary office holders, replacing the earlier 1970 Act"
+  },
+  {
+    "task_id": "SE033",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Extradition Act 1873"
+    ],
+    "gpt_text_snippet": "The **Sexual Offences Act 1956** primarily consolidated and reformed the law relating to sexual offences in England and Wales. It did not specifically amend earlier legislation but rather replaced and consolidated various previous statutes and common law offences relating to sexual crimes into a sin"
+  },
+  {
+    "task_id": "SE034",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Local Government (Emergency Provisions) Act 1916",
+      "Pensions (Increase) Act 1971",
+      "Pensions Commutation Act 1871",
+      "Transport Act 1978"
+    ],
+    "gpt_text_snippet": "The **Civil Partnership (Northern Ireland) Order 2004** primarily amends several pieces of legislation to provide for civil partnerships in Northern Ireland. Key legislation amended by this Order includes:\n\n- **Marriage (Northern Ireland) Order 2003**  \n- **Family Law Reform (Northern Ireland) Order"
+  }
+]

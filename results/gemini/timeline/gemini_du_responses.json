@@ -1,0 +1,1002 @@
+[
+  {
+    "task_id": "DU001",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, the 'Budget Act (Northern Ireland) 2010' was enacted *during* the period that the 'National Debt Act 1972' has been in force.\n\n*   The **National Debt Act 1972** was enacted in 1972 and is still ",
+    "gemini_with_dates_snippet": "No.\n\nLet's break down the periods:\n\n*   **Budget Act (Northern Ireland) 2010:** March 12, 2010, to February 5, 2016\n*   **National Debt Act 1972:** August 9, 1972, to June 18, 2015\n\nWhile the Budget A"
+  },
+  {
+    "task_id": "DU002",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Bell’s Bridge Order Confirmation Act 1995' was not enacted *during* the period of enactment of the 'Pests Act 1954'.\n\nHere's why:\n\n*   **Pests Act 1954:** This Act was enacted in **1954**.\n* ",
+    "gemini_with_dates_snippet": "Yes, 'Bell’s Bridge Order Confirmation Act 1995' is during 'Pests Act 1954'.\n\nHere's why:\n*   **Pests Act 1954:** From 1954-11-25 to 2025-07-01\n*   **Bell’s Bridge Order Confirmation Act 1995:** From "
+  },
+  {
+    "task_id": "DU003",
+    "expected": "no",
+    "gemini_main_answer": null,
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "The question \"Is 'Statutory Instruments (Production and Sale) Act 1996' during 'Budget Act (Northern Ireland) 2009'?\" is a bit unusual in its phrasing, as Acts of Parliament generally *remain in force",
+    "gemini_with_dates_snippet": "No, the 'Statutory Instruments (Production and Sale) Act 1996' is not entirely *during* the 'Budget Act (Northern Ireland) 2009'.\n\nHere's why:\n\n*   **'Statutory Instruments (Production and Sale) Act 1"
+  },
+  {
+    "task_id": "DU004",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Public Trustee (Liability and Fees) Act 2002' was **not** passed or enacted during the 'Road Races (Amendment) Act (Northern Ireland) 2014'.\n\nHere's the chronological order:\n\n*   **Public Tru",
+    "gemini_with_dates_snippet": "No, 'Public Trustee (Liability and Fees) Act 2002' is not entirely during 'Road Races (Amendment) Act (Northern Ireland) 2014'.\n\nHere's why:\n\n*   **Public Trustee (Liability and Fees) Act 2002:** Star"
+  },
+  {
+    "task_id": "DU005",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, the 'Armed Forces Act 2006' was enacted *after* the 'Deer Act 1991', but it was 'during' the period when the 'Deer Act 1991' was in force.\n\nHere's why:\n\n*   **Deer Act 1991:** Came into effect in",
+    "gemini_with_dates_snippet": "No, 'Armed Forces Act 2006' (2006-11-08 to 2024-10-17) is not entirely during 'Deer Act 1991' (1991-07-25 to 2018-08-19).\n\nWhile the 'Armed Forces Act 2006' started during the 'Deer Act 1991' period, "
+  },
+  {
+    "task_id": "DU006",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Veterans Advisory and Pensions Committees Act 2023' is not \"during\" the 'Regulation of Registered Social Landlords (Wales) Act 2018' in the sense that one is part of or dependent on the other",
+    "gemini_with_dates_snippet": "Yes, the 'Veterans Advisory and Pensions Committees Act 2023' (2023-09-18 to 2025-07-01) is indeed during the period of the 'Regulation of Registered Social Landlords (Wales) Act 2018' (2018-06-13 to "
+  },
+  {
+    "task_id": "DU007",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012' was **not** during the 'National Health Service (Amendment) Act 1949'.\n\n*   The **National Health Service (Amendment) Act 194",
+    "gemini_with_dates_snippet": "No, the 'Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012' was **not entirely during** the 'National Health Service (Amendment) Act 1949'.\n\nHere's why:\n\n*   **'Air Passenger Duty (Sett"
+  },
+  {
+    "task_id": "DU008",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the \"Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021\" was not enacted *during* the \"Mental Health (Approval Functions) Act 2012\" in the sense of one being part of ",
+    "gemini_with_dates_snippet": "Yes, 'Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021' is during 'Mental Health (Approval Functions) Act 2012'.\n\nHere's why:\n*   The 2021 Act starts on 2021-03-22, whi"
+  },
+  {
+    "task_id": "DU009",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Post Office Act 1953' was **not** \"during\" the 'Succession to the Crown Act 2013' in the sense of being in force concurrently.\n\nHere's why:\n\n1.  **Post Office Act 1953:** This Act fundamental",
+    "gemini_with_dates_snippet": "Yes, there was an overlap.\n\n*   The **Post Office Act 1953** was active until **2015-10-21**.\n*   The **Succession to the Crown Act 2013** became active on **2013-04-25**.\n\nTherefore, the Post Office "
+  },
+  {
+    "task_id": "DU010",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, the Harris Tweed Act 1993 was in force *during* the period when the Civil Evidence Act 1995 was enacted and came into effect.\n\nHere's why:\n\n*   **Harris Tweed Act 1993:** Came into force on **1st",
+    "gemini_with_dates_snippet": "To determine if 'Harris Tweed Act 1993' is \"during\" 'Civil Evidence Act 1995', we need to see if the entire period of the Harris Tweed Act falls within the period of the Civil Evidence Act.\n\n*   **Har"
+  },
+  {
+    "task_id": "DU011",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'British Railways Order Confirmation Act 1994' was not \"during\" the 'Friendly Societies Act 1974' in the sense of the latter being the primary active legislation at that time.\n\nHere's why:\n\n1.",
+    "gemini_with_dates_snippet": "No, the 'British Railways Order Confirmation Act 1994' is not entirely **during** the 'Friendly Societies Act 1974'.\n\nHere's why:\n*   **Friendly Societies Act 1974:** 1974-07-31 to 2019-01-16\n*   **Br"
+  },
+  {
+    "task_id": "DU012",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, the \"Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016\" was enacted and came into force *during* the period when the \"London Local Authorities Act 1995\" was (and sti",
+    "gemini_with_dates_snippet": "No, 'Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016' (from 2016-04-11 to 2025-07-01) is not entirely during 'London Local Authorities Act 1995' (from 1995-11-08 to 202"
+  },
+  {
+    "task_id": "DU013",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Building Societies (Funding) and Mutual Societies (Transfers) Act 2007' was passed **after** the 'Supreme Court (Offices) Act 1997'.\n\n*   The **Supreme Court (Offices) Act 1997** was enacted ",
+    "gemini_with_dates_snippet": "No.\n\nHere's why:\n\n*   **'Building Societies (Funding) and Mutual Societies (Transfers) Act 2007'** was in effect from 2007-10-23 to 2021-10-25.\n*   **'Supreme Court (Offices) Act 1997'** was in effect"
+  },
+  {
+    "task_id": "DU014",
+    "expected": "yes",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the **Consolidated Fund (No. 2) Act 2004** was **not** during the **Railways (Electrical Power) Act 1903**.\n\nHere's why:\n\n*   The **Railways (Electrical Power) Act 1903** was enacted (passed into ",
+    "gemini_with_dates_snippet": "Yes, the 'Consolidated Fund (No. 2) Act 2004' (from 2004-12-16 to 2015-01-28) was indeed during the period of the 'Railways (Electrical Power) Act 1903' (from 1903-08-14 to 2025-07-01).\n\nThe entire li"
+  },
+  {
+    "task_id": "DU015",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, chronologically, the **Paymaster General Act 1848** was still in force when the **Companies (Consolidation) Act 1908** was enacted.\n\nHowever, it's important to note that they dealt with entirely ",
+    "gemini_with_dates_snippet": "Let's analyze the time periods provided:\n\n1.  **'Paymaster General Act 1848' period:** From 2025-07-01 to 2025-07-14\n2.  **'Companies (Consolidation) Act 1908' period:** From 1908-12-21 to 2025-07-01\n"
+  },
+  {
+    "task_id": "DU016",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Hill Samuel Bank and United Dominions Trust Act 1994' was enacted **after** the 'Nurseries and Child-Minders Regulation Act 1948' had been repealed.\n\nThe Nurseries and Child-Minders Regulatio",
+    "gemini_with_dates_snippet": "Yes, 'Hill Samuel Bank and United Dominions Trust Act 1994' is during 'Nurseries and Child-Minders Regulation Act 1948'.\n\nHere's why:\n*   **Nurseries and Child-Minders Regulation Act 1948:** 1948-07-3"
+  },
+  {
+    "task_id": "DU017",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, the **Pensions Act 2011** was certainly in force (and continues to be in force) during the period when the **Supply and Appropriation (Main Estimates) Act 2019** was enacted and active.\n\nHere's w",
+    "gemini_with_dates_snippet": "To determine if 'Pensions Act 2011' is during 'Supply and Appropriation (Main Estimates) Act 2019', we need to compare their timeframes:\n\n*   **Pensions Act 2011:** November 3, 2011, to February 1, 20"
+  },
+  {
+    "task_id": "DU018",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'National Gallery and Tate Gallery Act 1954' was not *during* the 'Accession Declaration Act 1910'.\n\nHere's why:\n\n*   The **Accession Declaration Act 1910** was passed in **1910**. This Act es",
+    "gemini_with_dates_snippet": "Yes, 'National Gallery and Tate Gallery Act 1954' is during 'Accession Declaration Act 1910'.\n\nHere's why:\n*   **National Gallery and Tate Gallery Act 1954:** Starts 1954-11-25, Ends 2025-07-01\n*   **"
+  },
+  {
+    "task_id": "DU019",
+    "expected": "yes",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the **Corporate Manslaughter and Corporate Homicide Act 2007** was **not** during the **Trade Union Act 1984**.\n\nHere's why:\n\n*   The **Trade Union Act 1984** was passed in **1984**.\n*   The **Cor",
+    "gemini_with_dates_snippet": "Yes, the period of the 'Corporate Manslaughter and Corporate Homicide Act 2007' (from 2007-07-26 to 2024-04-18) falls entirely within the period of the 'Trade Union Act 1984' (from 1984-07-26 to 2025-"
+  },
+  {
+    "task_id": "DU020",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Agricultural Land (Utilisation) Act 1931' was not during the 'Safeguarding and Clergy Discipline Measure 2016'.\n\n*   The **Agricultural Land (Utilisation) Act** was enacted in **1931**.\n*   T",
+    "gemini_with_dates_snippet": "Let's break down the timeframes:\n\n*   **'Agricultural Land (Utilisation) Act 1931'**: From 1931-07-31 to 2025-06-10\n*   **'Safeguarding and Clergy Discipline Measure 2016'**: From 2016-03-16 to 2022-0"
+  },
+  {
+    "task_id": "DU021",
+    "expected": "yes",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, the 'Criminal Injuries Compensation Act 1995' was in force *during* the time the 'Land Charges Act 1972' was in force.\n\nHere's why:\n\n*   **Land Charges Act 1972:** Came into force in 1972 and rem",
+    "gemini_with_dates_snippet": "Yes, the 'Criminal Injuries Compensation Act 1995' was in force entirely during the period of the 'Land Charges Act 1972'.\n\nHere's why:\n\n*   **Criminal Injuries Compensation Act 1995:** 1995-11-08 to "
+  },
+  {
+    "task_id": "DU022",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, the Broads Authority Act 2009 was enacted and came into force in 2009.\n\nThe Education Act 1976 was enacted in 1976. While it may have been amended or largely superseded by subsequent education ac",
+    "gemini_with_dates_snippet": "Yes, 'Broads Authority Act 2009' (2009-07-02 to 2025-07-01) is during 'Education Act 1976' (1976-11-22 to 2025-07-01).\n\nHere's why:\n*   The start date of the Broads Authority Act (2009-07-02) is after"
+  },
+  {
+    "task_id": "DU023",
+    "expected": "yes",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Northern Ireland (Executive Formation etc) Act 2019' was *not* during the 'Enterprise and New Towns (Scotland) Act 1990'.\n\n*   The **Enterprise and New Towns (Scotland) Act 1990** was enacted",
+    "gemini_with_dates_snippet": "Yes, the 'Northern Ireland (Executive Formation etc) Act 2019' was during the 'Enterprise and New Towns (Scotland) Act 1990'.\n\nHere's why:\n*   'Northern Ireland (Executive Formation etc) Act 2019' ran"
+  },
+  {
+    "task_id": "DU024",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, the **Visiting Forces Act 1952** is in force *during* the period that the **Curriculum and Assessment (Wales) Act 2021** is in force.\n\nHere's why:\n\n*   **Visiting Forces Act 1952:** This is an Ac",
+    "gemini_with_dates_snippet": "Yes, the 'Visiting Forces Act 1952' was in effect during a significant part of the 'Curriculum and Assessment (Wales) Act 2021's specified period.\n\nHere's the breakdown:\n\n*   **Visiting Forces Act 195"
+  },
+  {
+    "task_id": "DU025",
+    "expected": "yes",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Derelict Land Act 1982' was **not** during the enactment period of the 'India (Consequential Provision) Act 1949'.\n\nHere's why:\n\n*   **Derelict Land Act 1982:** This Act was passed by the UK ",
+    "gemini_with_dates_snippet": "Yes, 'Derelict Land Act 1982' (from 1982-07-30 to 2018-08-24) was during 'India (Consequential Provision) Act 1949' (from 1949-12-16 to 2025-07-01).\n\nHere's why:\n*   The 'Derelict Land Act 1982' start"
+  },
+  {
+    "task_id": "DU026",
+    "expected": "no",
+    "gemini_main_answer": null,
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No.\n\n*   The **Consolidated Fund (No. 2) Act 1995** was enacted in **1995**.\n*   The **Children Act 2004** was enacted in **2004**.\n\nTherefore, the 1995 Act predates the 2004 Act and was not \"during\" ",
+    "gemini_with_dates_snippet": "No, the 'Consolidated Fund (No. 2) Act 1995' was **not** entirely during the 'Children Act 2004'.\n\nHere's why:\n\n*   **Consolidated Fund (No. 2) Act 1995:** 1995-12-19 to 2013-10-12\n*   **Children Act "
+  },
+  {
+    "task_id": "DU027",
+    "expected": "yes",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Business and Planning Act 2020' was enacted **after** the 'Woodgrange Park Cemetery Act 1993'.\n\n*   The **Woodgrange Park Cemetery Act 1993** received Royal Assent on **20 July 1993**.\n*   Th",
+    "gemini_with_dates_snippet": "Yes, the 'Business and Planning Act 2020' (2020-07-22 to 2025-04-08) is entirely during the period of the 'Woodgrange Park Cemetery Act 1993' (1993-11-05 to 2025-07-01).\n\nHere's why:\n*   **Start Date:"
+  },
+  {
+    "task_id": "DU028",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, the 'Human Fertilisation and Embryology Act 2008' was indeed in effect during the period when the 'London Olympic Games and Paralympic Games (Amendment) Act 2011' was passed and in force.\n\n*   Th",
+    "gemini_with_dates_snippet": "Yes, the 'London Olympic Games and Paralympic Games (Amendment) Act 2011' (from 2011-12-14 to 2017-12-01) is during the 'Human Fertilisation and Embryology Act 2008' (from 2008-11-13 to 2024-11-05).\n\n"
+  },
+  {
+    "task_id": "DU029",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, the **National Audit Act 1983** was in force \"during\" the **Civil Aviation Act 2012**.\n\nHere's why:\n\n*   **National Audit Act 1983:** This Act was passed in 1983 and established the National Audi",
+    "gemini_with_dates_snippet": "No, the 'National Audit Act 1983' was not entirely during the 'Civil Aviation Act 2012'.\n\n*   **National Audit Act 1983:** 1983-05-13 to 2018-06-08\n*   **Civil Aviation Act 2012:** 2012-12-19 to 2025-"
+  },
+  {
+    "task_id": "DU030",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Superannuation Act (Northern Ireland) 2013' was not \"during\" the 'Civil List Act 1975'.\n\nHere's why:\n\n1.  **Civil List Act 1975:** This Act, which governed the funding for the Royal Family, w",
+    "gemini_with_dates_snippet": "Yes, 'Superannuation Act (Northern Ireland) 2013' was in effect during 'Civil List Act 1975'.\n\nHere's why:\n\n*   **Superannuation Act (Northern Ireland) 2013** was in effect from **2013-01-09** to 2025"
+  },
+  {
+    "task_id": "DU031",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016' was **not** enacted during the 'Parliamentary Buildings (Restoration and Renewal) Act 2019'.\n\nHere'",
+    "gemini_with_dates_snippet": "Yes.\n\n*   **'Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016'** runs from 2016-04-22 to 2025-07-01.\n*   **'Parliamentary Buildings (Restoration and Renewal) "
+  },
+  {
+    "task_id": "DU032",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, the **Administration of Justice Act 1969** was in force during the period when the **Local Government (Contracts) Act 1997** was enacted and came into force.\n\nActs of Parliament remain law until ",
+    "gemini_with_dates_snippet": "To determine if 'Administration of Justice Act 1969' was *during* 'Local Government (Contracts) Act 1997', we need to check if the entire period of the first act falls within the period of the second "
+  },
+  {
+    "task_id": "DU033",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Work and Families Act (Northern Ireland) 2015' was not enacted during the 'Highway Act 1835'.\n\n*   The **Highway Act 1835** was enacted in **1835**.\n*   The **Work and Families Act (Northern ",
+    "gemini_with_dates_snippet": "Let's break down the time periods:\n\n*   **'Work and Families Act (Northern Ireland) 2015'**: From 2015-01-08 to 2025-07-01\n*   **'Highway Act 1835'**: From 2025-07-31 to 2025-07-01\n\nThe 'Highway Act 1"
+  },
+  {
+    "task_id": "DU034",
+    "expected": "yes",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, the **Rent (Agriculture) Act 1976** was enacted and in force *during* the period that the **Coal-Mining (Subsidence) Act 1957** was in force.\n\n*   The Coal-Mining (Subsidence) Act 1957 came into ",
+    "gemini_with_dates_snippet": "Yes, the 'Rent (Agriculture) Act 1976' (from 1976-11-22 to 2024-11-20) is during the 'Coal-Mining (Subsidence) Act 1957' (from 1957-07-31 to 2025-07-01).\n\nThe entire period of the Rent (Agriculture) A"
+  },
+  {
+    "task_id": "DU035",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, the Armed Forces Act 1981 was in force when the Income Tax (Trading and Other Income) Act 2005 was enacted.\n\n*   The **Armed Forces Act 1981** was passed in 1981 and dealt with various aspects of",
+    "gemini_with_dates_snippet": "No, the 'Armed Forces Act 1981' is not entirely during the 'Income Tax (Trading and Other Income) Act 2005'.\n\nHere's why:\n\n*   **Armed Forces Act 1981:** 1981-07-28 to 2020-09-04\n*   **Income Tax (Tra"
+  },
+  {
+    "task_id": "DU036",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Human Rights Act 1998' was enacted **after** the 'Post Office Act 1969'.\n\n*   **Post Office Act 1969:** Enacted in 1969.\n*   **Human Rights Act 1998:** Enacted in 1998.\n\nThe Human Rights Act ",
+    "gemini_with_dates_snippet": "No, 'Human Rights Act 1998' is **not** entirely during 'Post Office Act 1969'.\n\nHere's why:\n\n*   **Post Office Act 1969:** From 1969-07-25 to 2018-06-26\n*   **Human Rights Act 1998:** From 1998-11-09 "
+  },
+  {
+    "task_id": "DU037",
+    "expected": "no",
+    "gemini_main_answer": null,
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes.\n\n*   The **Landlord and Tenant Act 1985** was enacted in **1985**.\n*   The **Killingholme Generating Stations (Ancillary Powers) Act 1991** was enacted in **1991**.\n\nSince the Landlord and Tenant",
+    "gemini_with_dates_snippet": "No, the 'Killingholme Generating Stations (Ancillary Powers) Act 1991' is **not entirely** during the period of the 'Landlord and Tenant Act 1985'.\n\nHere's why:\n\n*   **Landlord and Tenant Act 1985:** "
+  },
+  {
+    "task_id": "DU038",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, the **War Pensions Act 1921** would have been in force *during* the time the **Sexual Offences (Amendment) Act 2000** was enacted and came into force.\n\nHere's why:\n\n*   **War Pensions Act 1921:**",
+    "gemini_with_dates_snippet": "Yes, the period of the 'Sexual Offences (Amendment) Act 2000' (from 2000-11-30 to 2017-12-05) falls entirely within the period of the 'War Pensions Act 1921' (from 1921-08-19 to 2025-07-01)."
+  },
+  {
+    "task_id": "DU039",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Concealment of Birth (Scotland) Act 1809' was enacted much earlier than the 'Patents Act 1949'.\n\nHowever, if you mean \"was the 1809 Act in force during the period the 1949 Act was in force?\",",
+    "gemini_with_dates_snippet": "The dates provided for the 'Concealment of Birth (Scotland) Act 1809' (from 2025-07-20 to 2025-07-01) seem to be in error, as the end date (July 1st) comes before the start date (July 20th).\n\nAssuming"
+  },
+  {
+    "task_id": "DU040",
+    "expected": "no",
+    "gemini_main_answer": null,
+    "gemini_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No.\n\n*   The **Electronic Communications Act (Northern Ireland) 2001** was enacted in **2001**.\n*   The **Sale of Farming Stock Act 1814** was enacted in **1814**.\n\nThe 2001 Act came **long after** th",
+    "gemini_with_dates_snippet": "The date range for 'Sale of Farming Stock Act 1814' is given as from 2025-07-20 to 2025-07-01. This is an invalid period because the end date (2025-07-01) comes before the start date (2025-07-20).\n\nTh"
+  },
+  {
+    "task_id": "DU041",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, 'Trees Act 1970' was not during 'Duchy of Lancaster Act 1808'.\n\n*   The **Duchy of Lancaster Act 1808** was enacted in **1808**.\n*   The **Trees Act 1970** was enacted in **1970**.\n\n1970 came much",
+    "gemini_with_dates_snippet": "The dates provided for the 'Duchy of Lancaster Act 1808' (from 2025-07-18 to 2025-07-01) are logically impossible, as the start date (July 18th) is *after* the end date (July 1st) in the same year.\n\nT"
+  },
+  {
+    "task_id": "DU042",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, the 'Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988' was in force *during* the time that the 'Local Government (Boundaries) Act (Northern Ireland) 2008' was enacted and b",
+    "gemini_with_dates_snippet": "No, the 'Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988' (1988-02-09 to 2019-06-13) did not occur *during* the entire period of the 'Local Government (Boundaries) Act (Norther"
+  },
+  {
+    "task_id": "DU043",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, in the sense of temporal overlap, the **Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992** was enacted and in force *while* significant parts of the **Merchant Shipping Act 1894** w",
+    "gemini_with_dates_snippet": "Yes.\n\n*   'Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992' was in force from 1992-12-03 to 2017-10-16.\n*   'Merchant Shipping Act 1894' was in force from 1894-08-25 to 2013-10-11.\n\nThe"
+  },
+  {
+    "task_id": "DU044",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Sexual Offences (Scotland) Act 1976' was **not** in force during the period when the 'National Insurance Contributions (Reduction in Rates) Act 2023' was enacted or in force.\n\nHere's why:\n\n* ",
+    "gemini_with_dates_snippet": "Yes, 'National Insurance Contributions (Reduction in Rates) Act 2023' (from 2023-12-18 to 2025-07-01) is during 'Sexual Offences (Scotland) Act 1976' (from 1976-11-15 to 2025-07-01).\n\nThe entire perio"
+  },
+  {
+    "task_id": "DU045",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Small Charitable Donations Act 2012' was **not** during the 'Consolidated Fund (No. 2) Act 2004'.\n\nHere's why:\n\n*   **Consolidated Fund (No. 2) Act 2004:** This Act was passed and came into e",
+    "gemini_with_dates_snippet": "No, the 'Small Charitable Donations Act 2012' was not entirely during the 'Consolidated Fund (No. 2) Act 2004'.\n\nHere's why:\n\n*   **Small Charitable Donations Act 2012:** 2012-12-19 to 2017-04-04\n*   "
+  },
+  {
+    "task_id": "DU046",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Crown Benefices (Parish Representatives) Measure 2010' was enacted **after** the 'Local Authority Social Services Act 1970'.\n\n*   The **Local Authority Social Services Act 1970** was enacted ",
+    "gemini_with_dates_snippet": "No, 'Crown Benefices (Parish Representatives) Measure 2010' was **not** entirely during 'Local Authority Social Services Act 1970'.\n\nHere's why:\n\n*   **Crown Benefices (Parish Representatives) Measure"
+  },
+  {
+    "task_id": "DU047",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Senedd Cymru (Members and Elections) Act 2024' was not during the 'Bills of Exchange (Ireland) Act 1828'.\n\n*   The **Bills of Exchange (Ireland) Act 1828** was enacted in **1828**.\n*   The **",
+    "gemini_with_dates_snippet": "The date range provided for 'Bills of Exchange (Ireland) Act 1828' is chronologically inverted (from 2025-07-19 to 2025-07-01). A start date cannot be after an end date.\n\nTherefore, it's impossible to"
+  },
+  {
+    "task_id": "DU048",
+    "expected": "yes",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Finance (No. 2) Act 2005' was **not** during the period of the 'Midland Metro (No. 2) Act 1992'.\n\n*   The **Midland Metro (No. 2) Act 1992** received Royal Assent on **16 March 1992**.\n*   Th",
+    "gemini_with_dates_snippet": "Yes, 'Finance (No. 2) Act 2005' (from 2005-07-20 to 2023-01-31) is entirely during 'Midland Metro (No. 2) Act 1992' (from 1992-03-16 to 2025-07-01).\n\n*   2005-07-20 is after 1992-03-16.\n*   2023-01-31"
+  },
+  {
+    "task_id": "DU049",
+    "expected": "yes",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Scottish Land Court Act 1993' was enacted much later than the 'Railway Companies Act 1867'.\n\n*   **Railway Companies Act 1867** was passed in **1867**.\n*   **Scottish Land Court Act 1993** wa",
+    "gemini_with_dates_snippet": "Yes, 'Scottish Land Court Act 1993' (1993-11-05 to 2016-11-14) was during 'Railway Companies Act 1867' (1867-08-20 to 2025-07-01).\n\nBoth the start and end dates of the 1993 Act fall within the period "
+  },
+  {
+    "task_id": "DU050",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Hospital Parking Charges Act (Northern Ireland) 2024' was enacted long *after* the 'Church of England (Miscellaneous Provisions) Measure 2005'.\n\n*   The **Church of England (Miscellaneous Pro",
+    "gemini_with_dates_snippet": "No.\n\nHere are the durations:\n\n*   **Church of England (Miscellaneous Provisions) Measure 2005:** from 2005-03-24 to 2019-06-12\n*   **Hospital Parking Charges Act (Northern Ireland) 2024:** from 2024-0"
+  },
+  {
+    "task_id": "DU051",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, the 'Hunting Act 2004' was in force *during* the period when the 'Borders, Citizenship and Immigration Act 2009' was enacted and came into force, and continues to be.\n\n*   **Hunting Act 2004:** R",
+    "gemini_with_dates_snippet": "No, 'Hunting Act 2004' was not entirely during 'Borders, Citizenship and Immigration Act 2009'.\n\nHere's why:\n\n*   **Hunting Act 2004:** 2004-11-18 to 2020-04-16\n*   **Borders, Citizenship and Immigrat"
+  },
+  {
+    "task_id": "DU052",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013' was *not* during the 'Appellate Jurisdiction Act 1887'.\n\nHere's why:\n\n1.  **Dates:**\n    *   The 'Appellate Jurisdiction A",
+    "gemini_with_dates_snippet": "Yes, 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013' (2013-04-25 to 2025-07-01) is during 'Appellate Jurisdiction Act 1887' (1887-09-16 to 2025-07-01).\n\nThe period of the 2013 Ac"
+  },
+  {
+    "task_id": "DU053",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, the **Employers' Liability (Compulsory Insurance) Act 1969** was and remains in force during the period that the **Parliamentary Constituencies Act 2020** is also in force.\n\n*   The **Employers' ",
+    "gemini_with_dates_snippet": "No.\n\nThe period for the 'Employers' Liability (Compulsory Insurance) Act 1969' (from 1969-10-22 to 2019-11-18) entirely concluded *before* the period for the 'Parliamentary Constituencies Act 2020' (f"
+  },
+  {
+    "task_id": "DU054",
+    "expected": "yes",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Consolidated Fund (No. 2) Act 1995' was not during the 'Easter Act 1928'.\n\n*   The 'Easter Act 1928' was enacted in **1928**.\n*   The 'Consolidated Fund (No. 2) Act 1995' was enacted in **199",
+    "gemini_with_dates_snippet": "Yes, 'Consolidated Fund (No. 2) Act 1995' (1995-12-19 to 2013-10-12) was during 'Easter Act 1928' (1928-08-03 to 2025-07-01).\n\nThe period for the 1995 Act falls entirely within the period for the 1928"
+  },
+  {
+    "task_id": "DU055",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Sheriff Courts and Legal Officers (Scotland) Act 1927' was not enacted *during* the 'Family Allowances and National Insurance Act 1967'.\n\n*   The **Sheriff Courts and Legal Officers (Scotland",
+    "gemini_with_dates_snippet": "No, the 'Sheriff Courts and Legal Officers (Scotland) Act 1927' was not entirely during the 'Family Allowances and National Insurance Act 1967'.\n\nHere's why:\n\n*   **Sheriff Courts and Legal Officers ("
+  },
+  {
+    "task_id": "DU056",
+    "expected": "yes",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, the 'Sex Discrimination Act 1975' was in force *during* the period that the 'Executors (Scotland) Act 1900' was in force.\n\nHere's why:\n\n*   **Executors (Scotland) Act 1900:** Came into force in 1",
+    "gemini_with_dates_snippet": "Yes, 'Sex Discrimination Act 1975' (1975-11-12 to 2021-12-08) was entirely during 'Executors (Scotland) Act 1900' (1900-08-08 to 2025-07-01).\n\nHere's why:\n*   The 'Sex Discrimination Act 1975' started"
+  },
+  {
+    "task_id": "DU057",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, the 'Courts and Tribunals (Judiciary and Functions of Staff) Act 2018' was enacted *during* the period when the 'Political Parties and Elections Act 2009' was already in force.\n\n*   The Political",
+    "gemini_with_dates_snippet": "Let's compare the durations:\n\n*   **Courts and Tribunals (Judiciary and Functions of Staff) Act 2018:** December 20, 2018, to July 1, 2025\n*   **Political Parties and Elections Act 2009:** July 21, 20"
+  },
+  {
+    "task_id": "DU058",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, the **Breeding of Dogs Act 1973** was in force \"during\" the period when the **Nottingham City Council Act 2013** came into effect and was active.\n\nHere's why:\n\n1.  **Breeding of Dogs Act 1973:** ",
+    "gemini_with_dates_snippet": "Yes, the 'Breeding of Dogs Act 1973' (from 1973-10-25 to 2021-11-12) was active during the period of the 'Nottingham City Council Act 2013' (from 2013-02-28 to 2025-07-01).\n\nThere is an overlap betwee"
+  },
+  {
+    "task_id": "DU059",
+    "expected": "no",
+    "gemini_main_answer": null,
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes.\n\n*   The **Local Authorities (Restoration of Works Powers) Act 1977** was enacted in **1977**.\n*   The **Church of England (Miscellaneous Provisions) Measure 2018** was enacted in **2018**.\n\nActs",
+    "gemini_with_dates_snippet": "Yes, the period of 'Church of England (Miscellaneous Provisions) Measure 2018' (2018-12-20 to 2021-06-30) is entirely within the period of 'Local Authorities (Restoration of Works Powers) Act 1977' (1"
+  },
+  {
+    "task_id": "DU060",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Green Energy (Definition and Promotion) Act 2009' was enacted *after* the 'Children Act 2004'.\n\n*   The **Children Act 2004** received Royal Assent in 2004 and came into force at various date",
+    "gemini_with_dates_snippet": "Yes, 'Green Energy (Definition and Promotion) Act 2009' was/is in effect during 'Children Act 2004'.\n\nHere's why:\n\n*   **Children Act 2004** is active from **2004-11-15** to **2025-04-09**.\n*   **Gree"
+  },
+  {
+    "task_id": "DU061",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, the Police (Northern Ireland) Act 1998 was enacted **before** the Concessionary Bus Travel Act 2007.\n\n*   The **Police (Northern Ireland) Act 1998** received Royal Assent on **2 July 1998**.\n*   ",
+    "gemini_with_dates_snippet": "No.\n\nHere are the durations:\n\n*   **Police (Northern Ireland) Act 1998:** 1998-07-24 to 2025-04-22\n*   **Concessionary Bus Travel Act 2007:** 2007-07-19 to 2025-07-01\n\nThe 'Police (Northern Ireland) A"
+  },
+  {
+    "task_id": "DU062",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Pastoral (Amendment) Measure 2006' was not during the 'House of Commons (Disqualifications) Act 1801'.\n\nHere's why:\n\n*   **House of Commons (Disqualifications) Act 1801:** This Act was passed",
+    "gemini_with_dates_snippet": "There seems to be a significant misunderstanding or error in the dates provided for the 'House of Commons (Disqualifications) Act 1801'.\n\nLet's clarify:\n\n1.  **Pastoral (Amendment) Measure 2006:**\n   "
+  },
+  {
+    "task_id": "DU063",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Bus Services Act 2017' was not \"during\" the 'Removal Terms (Scotland) Act 1886' in the sense of its enactment. They were enacted over a century apart.\n\n*   The **Removal Terms (Scotland) Act ",
+    "gemini_with_dates_snippet": "Yes, 'Bus Services Act 2017' (from 2017-04-27 to 2025-07-01) is during 'Removal Terms (Scotland) Act 1886' (from 1886-06-25 to 2025-07-01).\n\nHere's why:\n*   The start date of the Bus Services Act (201"
+  },
+  {
+    "task_id": "DU064",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Consolidated Fund Act 1816' was **not** during the 'British Technology Group Act 1991' in terms of their enactment.\n\n*   The **Consolidated Fund Act 1816** was enacted in **1816**.\n*   The **",
+    "gemini_with_dates_snippet": "No.\n\n*   The period for 'Consolidated Fund Act 1816' (from 2025-07-01 to 2025-07-01)\n*   The period for 'British Technology Group Act 1991' (from 1991-10-22 to 2015-09-11)\n\nThe first period (2025-07-0"
+  },
+  {
+    "task_id": "DU065",
+    "expected": "yes",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Tobacco Advertising and Promotion Act 2002' was **not** during the 'Light Railways Act 1912'.\n\n*   The **Light Railways Act 1912** was passed in 1912.\n*   The **Tobacco Advertising and Promot",
+    "gemini_with_dates_snippet": "Yes, the period for the 'Tobacco Advertising and Promotion Act 2002' (2002-11-07 to 2023-09-26) falls entirely within the period for the 'Light Railways Act 1912' (1912-12-13 to 2025-07-01)."
+  },
+  {
+    "task_id": "DU066",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, the **Ivory Act 2018** was enacted *during* the period that the **Energy Act 2013** was, and still is, in force.\n\nHere's why:\n\n*   **Energy Act 2013:** This Act was passed and came into force (va",
+    "gemini_with_dates_snippet": "Let's break down the durations:\n\n*   **Ivory Act 2018:** From 2018-12-20 to **2025-07-01**\n*   **Energy Act 2013:** From 2013-12-18 to **2024-10-30**\n\nFor the 'Ivory Act 2018' to be *during* the 'Ener"
+  },
+  {
+    "task_id": "DU067",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Chequers Estate Act 1917' was **not** enacted during the 'Industrial Common Ownership Act 1976'.\n\nHere's why:\n\n*   The **Chequers Estate Act 1917** was passed in **1917**.\n*   The **Industria",
+    "gemini_with_dates_snippet": "Yes, there is an overlap.\n\n*   **Chequers Estate Act 1917** was in effect from 1917-12-20 to 2025-07-01.\n*   **Industrial Common Ownership Act 1976** was in effect from 1976-11-22 to 2015-05-22.\n\nSinc"
+  },
+  {
+    "task_id": "DU068",
+    "expected": "no",
+    "gemini_main_answer": null,
+    "gemini_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes.\n\nThe **Local Authorities (Goods and Services) Act 1970** came into force in 1970 and is still largely in force today.\n\nThe **Trustee Savings Banks Act 1981** came into force in 1981 and was in fo",
+    "gemini_with_dates_snippet": "No.\n\nHere's why:\n\n*   **Local Authorities (Goods and Services) Act 1970** existed from 1970-05-29.\n*   **Trustee Savings Banks Act 1981** came into effect on 1981-10-30.\n\nSince the 1970 Act started be"
+  },
+  {
+    "task_id": "DU069",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, in the sense that the **Incumbents (Vacation of Benefices) (Amendment) Measure 1993** would have been in force when the **Law Officers Act 1997** was enacted.\n\nHowever, it's crucial to understand",
+    "gemini_with_dates_snippet": "Yes, 'Law Officers Act 1997' (1997-07-31 to 2025-07-01) is during 'Incumbents (Vacation of Benefices) (Amendment) Measure 1993' (1993-07-27 to 2025-07-01).\n\nHere's why:\n*   The start date of the 1997 "
+  },
+  {
+    "task_id": "DU070",
+    "expected": "no",
+    "gemini_main_answer": null,
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No.\n\n*   The **Pensions Act 2007** was enacted in 2007.\n*   The **Antarctic Act 2013** was enacted in 2013.\n\nThe Pensions Act 2007 predates the Antarctic Act 2013.",
+    "gemini_with_dates_snippet": "Let's look at the dates:\n\n*   **Pensions Act 2007:** From 2007-07-26 to 2022-01-19\n*   **Antarctic Act 2013:** From 2013-03-26 to 2025-07-01\n\nFor the 'Pensions Act 2007' to be **during** the 'Antarcti"
+  },
+  {
+    "task_id": "DU071",
+    "expected": "no",
+    "gemini_main_answer": null,
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No.\n\nThe Agriculture Act was passed in **1986**.\nThe Hairdressers (Registration) Act was passed in **1964**.\n\nTherefore, the Agriculture Act 1986 was passed **after** the Hairdressers (Registration) A",
+    "gemini_with_dates_snippet": "No, the 'Agriculture Act 1986' is **not** entirely during the 'Hairdressers (Registration) Act 1964'.\n\nHere's why:\n\n*   **Hairdressers (Registration) Act 1964:** 1964-07-31 to 2015-06-10\n*   **Agricul"
+  },
+  {
+    "task_id": "DU072",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015' was **not** during the 'Improvement of Land Act 1864'.\n\n*   The **Improvement of Land Act 1864** was enacted in **",
+    "gemini_with_dates_snippet": "Let's break down the time periods for each act:\n\n1.  **'Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015'**:\n    *   Starts: 2015-04-29\n    *   Ends: 2025-04-09\n\n2.  **'Impr"
+  },
+  {
+    "task_id": "DU073",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, the 'Education Act 2005' was enacted and in force *during* the period when the 'Police and Criminal Evidence Act 1984' (PACE) was and continues to be in force.\n\nHere's the timeline:\n\n*   **Police",
+    "gemini_with_dates_snippet": "No, the 'Education Act 2005' is **not** fully during the 'Police and Criminal Evidence Act 1984'.\n\nHere's why:\n*   **Education Act 2005:** 2005-04-07 to **2025-04-09**\n*   **Police and Criminal Eviden"
+  },
+  {
+    "task_id": "DU074",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, the **Dawat-e-Hadiyah Act 1993** was enacted and in effect **during** the period when the **Mines and Quarries Act 1954** was also in force.\n\n*   The **Mines and Quarries Act 1954** (a UK Act) ca",
+    "gemini_with_dates_snippet": "Let's break down the timeframes:\n\n*   **Dawat-e-Hadiyah Act 1993:** July 1, 1993, to July 1, 2025\n*   **Mines and Quarries Act 1954:** November 25, 1954, to April 14, 2025\n\nFor the 'Dawat-e-Hadiyah Ac"
+  },
+  {
+    "task_id": "DU075",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Finance Act 1988' was **not** during the 'Sailors and Soldiers (Gifts for Land Settlement) Act 1916' in terms of their enactment.\n\n*   The **Sailors and Soldiers (Gifts for Land Settlement) A",
+    "gemini_with_dates_snippet": "Yes, 'Finance Act 1988' was in force during part of the period that 'Sailors and Soldiers (Gifts for Land Settlement) Act 1916' was in force.\n\nHere are the timeframes:\n\n*   **Finance Act 1988:** 1988-"
+  },
+  {
+    "task_id": "DU076",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Penalties for Drunkenness Act 1962' was **not** in force during the period when the 'Sports Grounds Safety Authority Act 2011' was enacted or has been in force.\n\n*   The **Penalties for Drunk",
+    "gemini_with_dates_snippet": "No.\n\nHere's why:\n\n*   **'Penalties for Drunkenness Act 1962'** runs from 1962-08-01 to 2025-07-01.\n*   **'Sports Grounds Safety Authority Act 2011'** runs from 2011-07-12 to 2025-07-01.\n\nFor the 'Pena"
+  },
+  {
+    "task_id": "DU077",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "This is an interesting question because it highlights a jurisdictional difference!\n\n1.  **The Supreme Court (Offices) Act 1997** is an Act of the Oireachtas (the Irish Parliament) of the **Republic of",
+    "gemini_with_dates_snippet": "No, the 'Supreme Court (Offices) Act 1997' (from 1997-12-17 to 2013-08-23) was **not** entirely during the 'Drugs Act 2005' (from 2005-04-07 to 2023-07-25).\n\nThe 'Supreme Court (Offices) Act 1997' sta"
+  },
+  {
+    "task_id": "DU078",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, the **Diocesan Stipends Funds (Amendment) Measure 2016** was enacted during the period when the **Pensions Act 2007** was in force.\n\n*   The **Pensions Act 2007** received Royal Assent on 3rd May",
+    "gemini_with_dates_snippet": "Yes, there is an overlap.\n\nHere are the timeframes:\n\n*   **Diocesan Stipends Funds (Amendment) Measure 2016:** March 16, 2016, to July 1, 2025\n*   **Pensions Act 2007:** July 26, 2007, to January 19, "
+  },
+  {
+    "task_id": "DU079",
+    "expected": "no",
+    "gemini_main_answer": null,
+    "gemini_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes.\n\nThe **Parliamentary Standards Act 2009** was enacted in 2009 and remains a current, active piece of legislation in the UK.\n\nThe **Strikes (Minimum Service Levels) Act 2023** was enacted in 2023 ",
+    "gemini_with_dates_snippet": "No.\n\nThe 'Parliamentary Standards Act 2009' concluded on 2023-03-08.\nThe 'Strikes (Minimum Service Levels) Act 2023' began on 2023-07-20.\n\nThe first act ended before the second act began, so it was no"
+  },
+  {
+    "task_id": "DU080",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, the 'Solicitors (Scotland) Act 1988' was enacted **during** the period that the 'Public Registers and Records (Scotland) Act 1948' has been in force.\n\n*   The **Public Registers and Records (Scot",
+    "gemini_with_dates_snippet": "No, the 'Solicitors (Scotland) Act 1988' is **not entirely** during the period of the 'Public Registers and Records (Scotland) Act 1948'.\n\nHere's why:\n\n*   **Public Registers and Records (Scotland) Ac"
+  },
+  {
+    "task_id": "DU081",
+    "expected": "yes",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Consolidated Fund Act 2008' was not \"during\" the 'Administration of Justice Act 1960' in the sense of being a part of it or subordinate to it.\n\nHere's the breakdown:\n\n1.  **Administration of ",
+    "gemini_with_dates_snippet": "Yes.\n\n*   The 'Consolidated Fund Act 2008' was in effect from 2008-12-18 to 2015-02-17.\n*   The 'Administration of Justice Act 1960' was in effect from 1960-10-27 to 2022-07-19.\n\nSince 2008-12-18 is a"
+  },
+  {
+    "task_id": "DU082",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, that's incorrect.\n\nHere's why:\n\n1.  **School Grants Act 1855:** This act would have dealt with education funding during the mid-19th century in the UK. Legislation from that era, especially concer",
+    "gemini_with_dates_snippet": "Let's break down the timeframes:\n\n*   **School Grants Act 1855:** From 2025-07-01 to 2025-07-14\n*   **Housing Act 1974:** From 1974-07-31 to 2025-07-01\n\nFor the 'School Grants Act 1855' period to be *"
+  },
+  {
+    "task_id": "DU083",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, not in the sense that one existed \"during\" the other concurrently as separate, in-force pieces of legislation.\n\nThe **Criminal Law (Consolidation) (Scotland) Act 1995** actually **repealed** the *",
+    "gemini_with_dates_snippet": "Yes, the operational period of the 'Refreshment Houses Act 1964' *did* overlap with the operational period of the 'Criminal Law (Consolidation) (Scotland) Act 1995'.\n\nHere's why:\n\n*   **Refreshment Ho"
+  },
+  {
+    "task_id": "DU084",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, the 'Railways Act 1921' certainly existed 'during' the period when the 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010' was enacted and came into force.\n\nThe Railways Act 192",
+    "gemini_with_dates_snippet": "No, 'Railways Act 1921' is **not** during 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010'.\n\nHere's why:\n*   'Railways Act 1921' started on 1921-08-19.\n*   'Water and Sewerage Ser"
+  },
+  {
+    "task_id": "DU085",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, they overlap in time.\n\nHere's why:\n\n1.  **Product Security and Telecommunications Infrastructure Act 2022 (PSTI Act 2022):** This Act received Royal Assent on **6 December 2022**. While some part",
+    "gemini_with_dates_snippet": "No, the 'Product Security and Telecommunications Infrastructure Act 2022' is **not entirely during** the 'Powers of Attorney Act 2023'.\n\nHere's why:\n\n*   **Product Security and Telecommunications Infr"
+  },
+  {
+    "task_id": "DU086",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, the Criminal Justice (Terrorism and Conspiracy) Act 1998 was in force during the period when the Mission and Pastoral Measure 2011 was enacted and became law.\n\n*   The **Criminal Justice (Terrori",
+    "gemini_with_dates_snippet": "Yes, 'Criminal Justice (Terrorism and Conspiracy) Act 1998' was active during the period of 'Mission and Pastoral Measure 2011'.\n\nHere's why:\n*   **Criminal Justice (Terrorism and Conspiracy) Act 1998"
+  },
+  {
+    "task_id": "DU087",
+    "expected": "no",
+    "gemini_main_answer": null,
+    "gemini_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No.\n\n*   The **Veterans Advisory and Pensions Committees Act 2023** received Royal Assent on **29 June 2023**.\n*   The **European Communities (Finance) Act 2001** received Royal Assent on **22 March 2",
+    "gemini_with_dates_snippet": "No, the 'Veterans Advisory and Pensions Committees Act 2023' (2023-09-18 to 2025-07-01) is not during the 'European Communities (Finance) Act 2001' (2001-12-04 to 2013-01-24).\n\nThe period for the 'Vet"
+  },
+  {
+    "task_id": "DU088",
+    "expected": "yes",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, that is correct.\n\n*   The **Belfast Charitable Society Act 1996** was enacted in **1996** and remains in force today.\n*   The **Export Control Act 2002** was enacted in **2002** and also remains ",
+    "gemini_with_dates_snippet": "Yes, 'Export Control Act 2002' (from 2002-07-24 to 2021-10-05) is during 'Belfast Charitable Society Act 1996' (from 1996-07-18 to 2025-07-01).\n\nHere's why:\n*   The start date of Export Control Act 20"
+  },
+  {
+    "task_id": "DU089",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the **Consolidated Fund (No. 2) Act 1998** was passed **after** the **Solicitors Act 1974**.\n\n*   The **Solicitors Act 1974** was enacted in **1974**.\n*   The **Consolidated Fund (No. 2) Act 1998*",
+    "gemini_with_dates_snippet": "No, the 'Consolidated Fund (No. 2) Act 1998' is not entirely \"during\" the 'Solicitors Act 1974'.\n\nHere's why:\n\n*   **Solicitors Act 1974:** 1974-07-31 to **2025-01-13**\n*   **Consolidated Fund (No. 2)"
+  },
+  {
+    "task_id": "DU090",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, the **Justices of the Peace Act 1949** was certainly in force during the time the **Aberdeen Harbour Order Confirmation Act 1992** was enacted and in effect.\n\n*   The **Justices of the Peace Act ",
+    "gemini_with_dates_snippet": "Yes, there is an overlap.\n\n*   **Justices of the Peace Act 1949** was in force from 1949-12-16 to **2015-05-07**.\n*   **Aberdeen Harbour Order Confirmation Act 1992** is in force from **1992-03-06** t"
+  },
+  {
+    "task_id": "DU091",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Offices, Shops and Railway Premises Act 1963** was **not** in force during the period when the **Sustainable Communities Act 2007** was enacted.\n\nThe vast majority of the **Offices, Shops an",
+    "gemini_with_dates_snippet": "Yes, the 'Offices, Shops and Railway Premises Act 1963' was in force during the period that the 'Sustainable Communities Act 2007' was in force.\n\n*   **Offices, Shops and Railway Premises Act 1963:** "
+  },
+  {
+    "task_id": "DU092",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Northern Ireland (Loans) Act 1975' was not enacted *during* the period of the 'Housing Act 1974' becoming law.\n\n*   The **Housing Act 1974** received Royal Assent on **31 July 1974**.\n*   The",
+    "gemini_with_dates_snippet": "Yes, 'Northern Ireland (Loans) Act 1975' is during 'Housing Act 1974'.\n\nHere's why:\n*   **Housing Act 1974** runs from 1974-07-31 to 2025-07-01.\n*   **Northern Ireland (Loans) Act 1975** runs from 197"
+  },
+  {
+    "task_id": "DU093",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, the **Sustainable Communities Act 2007** was in force during the period when the **Autism Act (Northern Ireland) 2011** came into effect and thereafter.\n\n*   The **Sustainable Communities Act 200",
+    "gemini_with_dates_snippet": "Yes, 'Sustainable Communities Act 2007' (from 2007-10-23 to 2018-08-24) was in effect during a portion of the time 'Autism Act (Northern Ireland) 2011' (from 2011-05-09 to 2025-07-01) was in effect.\n\n"
+  },
+  {
+    "task_id": "DU094",
+    "expected": "no",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Yes, the **Non-Domestic Rating Act 2023** was enacted **during** the period that the **Modern Slavery Act 2015** has been in force.\n\nHere's why:\n*   The **Modern Slavery Act 2015** became law in 2015 ",
+    "gemini_with_dates_snippet": "Let's break down the timeframes:\n\n*   **Non-Domestic Rating Act 2023:** From 2023-10-26 to 2025-06-08\n*   **Modern Slavery Act 2015:** From 2015-03-26 to 2022-07-29\n\nThe Non-Domestic Rating Act 2023 b"
+  },
+  {
+    "task_id": "DU095",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Geological Survey Act 1845' was not 'during' the 'Water Act 2014'.\n\nHere's why:\n\n1.  **Geological Survey Act 1845:** This act was passed in **1845**. It was later repealed by the Statute Law ",
+    "gemini_with_dates_snippet": "No, the 'Geological Survey Act 1845' period (from 2025-07-01 to 2025-07-31) is not entirely during the 'Water Act 2014' period (from 2014-05-14 to 2025-04-22).\n\nWhile the start date of the Geological "
+  },
+  {
+    "task_id": "DU096",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Prevention of Crimes Act 1871' was **not** in force during the period when the 'Public Audit (Wales) Act 2013' was enacted or in effect.\n\nHere's why:\n\n1.  **Prevention of Crimes Act 1871:** T",
+    "gemini_with_dates_snippet": "No, 'Prevention of Crimes Act 1871' is **not** during 'Public Audit (Wales) Act 2013'.\n\nHere's why:\n\n*   **Prevention of Crimes Act 1871:** 1871-08-21 to 2025-07-01\n*   **Public Audit (Wales) Act 2013"
+  },
+  {
+    "task_id": "DU097",
+    "expected": "yes",
+    "gemini_main_answer": "yes",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, the 'Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016' was enacted and is in force **during** the period that the 'City of London (Approved Premises for Marriage) Act 1",
+    "gemini_with_dates_snippet": "Yes, 'Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016' (2016-05-12 to 2022-09-26) was indeed during 'City of London (Approved Premises for Marriage) Act 1996' (1996-07-18 t"
+  },
+  {
+    "task_id": "DU098",
+    "expected": "no",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, \"The Environmental Protection (Single-use Plastic Products) (Wales) Act 2023\" was **not** during \"Medway Ports Authority Act 1973\".\n\nHere's why:\n\n1.  **Medway Ports Authority Act 1973:** This Act ",
+    "gemini_with_dates_snippet": "Yes, 'The Environmental Protection (Single-use Plastic Products) (Wales) Act 2023' (from 2023-06-06 to 2025-07-01) is during 'Medway Ports Authority Act 1973' (from 1973-05-23 to 2025-07-01).\n\nThis is"
+  },
+  {
+    "task_id": "DU099",
+    "expected": "no",
+    "gemini_main_answer": null,
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No.\n\n*   The **Commons Registration (East Sussex) Act 1994** was enacted in **1994**.\n*   The **Employment Act (Northern Ireland) 2010** was enacted in **2010**.\n\nThe 2010 Act came **after** the 1994 ",
+    "gemini_with_dates_snippet": "Yes, 'Employment Act (Northern Ireland) 2010' (from 2010-08-02 to 2025-07-01) is during 'Commons Registration (East Sussex) Act 1994' (from 1994-07-05 to 2025-07-01).\n\nHere's why:\n*   The start date o"
+  },
+  {
+    "task_id": "DU100",
+    "expected": "yes",
+    "gemini_main_answer": "no",
+    "gemini_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the **United Kingdom Internal Market Act 2020** was enacted much later than the **Matrimonial Homes (Family Protection) (Scotland) Act 1981**.\n\n*   **Matrimonial Homes (Family Protection) (Scotlan",
+    "gemini_with_dates_snippet": "Yes, the 'United Kingdom Internal Market Act 2020' (from 2020-12-17 to 2024-02-21) falls entirely within the timeframe of the 'Matrimonial Homes (Family Protection) (Scotland) Act 1981' (from 1981-10-"
+  }
+]

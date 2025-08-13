@@ -1,0 +1,902 @@
+[
+  {
+    "task_id": "CN001",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Budget Act (Northern Ireland) 2010** does **not** contain or incorporate the **National Debt Act 1972**.\n\nHere's why:\n\n1.  **Purpose:**\n    "
+  },
+  {
+    "task_id": "CN002",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Bell’s Bridge Order Confirmation Act 1995' does not contain the 'Pests Act 1954'.\n\nThese are two separate and distinct Acts of Parliament:\n\n1"
+  },
+  {
+    "task_id": "CN003",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_text_snippet": "No, the 'Statutory Instruments (Production and Sale) Act 1996' does not contain or refer to the 'Budget Act (Northern Ireland) 2009'.\n\nHere's why:\n\n1."
+  },
+  {
+    "task_id": "CN004",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Public Trustee (Liability and Fees) Act 2002' does **not** contain the 'Road Races (Amendment) Act (Northern Ireland) 2014'.\n\nHere's why:\n\n1."
+  },
+  {
+    "task_id": "CN005",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Armed Forces Act 2006' does **not** contain the 'Deer Act 1991'.\n\nThese are two entirely separate and distinct pieces of legislation in the U"
+  },
+  {
+    "task_id": "CN006",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Veterans Advisory and Pensions Committees Act 2023' does not contain the 'Regulation of Registered Social Landlords (Wales) Act 2018'.\n\nThese"
+  },
+  {
+    "task_id": "CN007",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012' does not contain the 'National Health Service (Amendment) Act 1949'.\n\nThese"
+  },
+  {
+    "task_id": "CN008",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021' does **not** contain the 'Mental Health (Approval Functions"
+  },
+  {
+    "task_id": "CN009",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Post Office Act 1953** does not contain the **Succession to the Crown Act 2013**.\n\nHere's why:\n\n1.  **Dates:** The Post Office Act was enact"
+  },
+  {
+    "task_id": "CN010",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_text_snippet": "No, the 'Harris Tweed Act 1993' does not contain the 'Civil Evidence Act 1995'.\n\nThe 'Harris Tweed Act' was passed in 1993, two years *before* the 'Ci"
+  },
+  {
+    "task_id": "CN011",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **British Railways Order Confirmation Act 1994** does not \"contain\" the **Friendly Societies Act 1974**.\n\nHere's why:\n\n1.  **Acts of Parliamen"
+  },
+  {
+    "task_id": "CN012",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016' does not contain the 'London Local Authorities Act 1995'.\n\nH"
+  },
+  {
+    "task_id": "CN013",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Building Societies (Funding) and Mutual Societies (Transfers) Act 2007' does not \"contain\" the 'Supreme Court (Offices) Act 1997'.\n\nThese are"
+  },
+  {
+    "task_id": "CN014",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Consolidated Fund (No. 2) Act 2004' does not \"contain\" the 'Railways (Electrical Power) Act 1903'.\n\nHere's why:\n\n*   **Consolidated Fund Acts"
+  },
+  {
+    "task_id": "CN015",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Paymaster General Act 1848' does not contain the 'Companies (Consolidation) Act 1908'.\n\nHere's why:\n\n1.  **Dates:** The 'Paymaster General Ac"
+  },
+  {
+    "task_id": "CN016",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Hill Samuel Bank and United Dominions Trust Act 1994' does not contain the 'Nurseries and Child-Minders Regulation Act 1948'.\n\nHere's why:\n\n1"
+  },
+  {
+    "task_id": "CN017",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Pensions Act 2011' does **not** contain the 'Supply and Appropriation (Main Estimates) Act 2019'.\n\nHere's why:\n\n1.  **Dates:** The 'Pensions "
+  },
+  {
+    "task_id": "CN018",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'National Gallery and Tate Gallery Act 1954' does **not** contain or refer to the 'Accession Declaration Act 1910'.\n\nThese are two entirely se"
+  },
+  {
+    "task_id": "CN019",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Corporate Manslaughter and Corporate Homicide Act 2007' does **not** contain the 'Trade Union Act 1984'.\n\nThese are two entirely separate and"
+  },
+  {
+    "task_id": "CN020",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_text_snippet": "No, the 'Agricultural Land (Utilisation) Act 1931' does not contain the 'Safeguarding and Clergy Discipline Measure 2016'.\n\nThese are two entirely sep"
+  },
+  {
+    "task_id": "CN021",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Criminal Injuries Compensation Act 1995** does **not** contain the **Land Charges Act 1972**.\n\nThese are two entirely separate pieces of leg"
+  },
+  {
+    "task_id": "CN022",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Broads Authority Act 2009' does **not** contain the 'Education Act 1976'.\n\nThese are two entirely separate Acts of Parliament dealing with co"
+  },
+  {
+    "task_id": "CN023",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Northern Ireland (Executive Formation etc) Act 2019' does not contain or reference the 'Enterprise and New Towns (Scotland) Act 1990'.\n\nThese"
+  },
+  {
+    "task_id": "CN024",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Visiting Forces Act 1952' does **not** contain the 'Curriculum and Assessment (Wales) Act 2021'.\n\nHere's why:\n\n1.  **Dates:** The 'Visiting F"
+  },
+  {
+    "task_id": "CN025",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Derelict Land Act 1982** does not contain or incorporate the **India (Consequential Provision) Act 1949**.\n\nThese are two entirely separate "
+  },
+  {
+    "task_id": "CN026",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Consolidated Fund (No. 2) Act 1995** does not contain the **Children Act 2004**.\n\nHere's why:\n\n1.  **Purpose of Acts:**\n    *   **Consolidat"
+  },
+  {
+    "task_id": "CN027",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Business and Planning Act 2020** does **not** contain the **Woodgrange Park Cemetery Act 1993**.\n\nThese are two entirely separate Acts of Pa"
+  },
+  {
+    "task_id": "CN028",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_text_snippet": "No, the **Human Fertilisation and Embryology Act 2008** does not contain the **London Olympic Games and Paralympic Games (Amendment) Act 2011**.\n\nThes"
+  },
+  {
+    "task_id": "CN029",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **National Audit Act 1983** does not \"contain\" the **Civil Aviation Act 2012**.\n\nHere's why:\n\n1.  **Separate Legislation:** They are two entir"
+  },
+  {
+    "task_id": "CN030",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Superannuation Act (Northern Ireland) 2013' does not contain the 'Civil List Act 1975'.\n\nThese are two entirely separate pieces of legislatio"
+  },
+  {
+    "task_id": "CN031",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_text_snippet": "No, the 'Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016' does **not** contain the 'Parliamentary Buildings"
+  },
+  {
+    "task_id": "CN032",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_text_snippet": "No, the 'Administration of Justice Act 1969' does not contain the 'Local Government (Contracts) Act 1997'.\n\nHere's why:\n\n1.  **Dates:** The Administra"
+  },
+  {
+    "task_id": "CN033",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Work and Families Act (Northern Ireland) 2015' does not contain the 'Highway Act 1835'.\n\nThese are two entirely separate pieces of legislatio"
+  },
+  {
+    "task_id": "CN034",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Rent (Agriculture) Act 1976** does not contain the **Coal-Mining (Subsidence) Act 1957**.\n\nThey are two completely separate and distinct Act"
+  },
+  {
+    "task_id": "CN035",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Armed Forces Act 1981** does not \"contain\" the **Income Tax (Trading and Other Income) Act 2005**.\n\nThey are two entirely separate and disti"
+  },
+  {
+    "task_id": "CN036",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Human Rights Act 1998** does not \"contain\" the **Post Office Act 1969**.\n\nHere's why:\n\n1.  **Different Purposes and Scope:**\n    *   The **H"
+  },
+  {
+    "task_id": "CN037",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Killingholme Generating Stations (Ancillary Powers) Act 1991** does not contain, refer to, or amend the **Landlord and Tenant Act 1985**.\n\nH"
+  },
+  {
+    "task_id": "CN038",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_text_snippet": "No, absolutely not.\n\n1.  **Chronological Impossibility:** The War Pensions Act was enacted in **1921**. The Sexual Offences (Amendment) Act was enacte"
+  },
+  {
+    "task_id": "CN039",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, absolutely not.\n\nThese two Acts of Parliament are entirely separate and deal with completely different subject matters:\n\n1.  **Concealment of Birt"
+  },
+  {
+    "task_id": "CN040",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Electronic Communications Act (Northern Ireland) 2001** does not contain the **Sale of Farming Stock Act 1814**.\n\nThese two acts deal with e"
+  },
+  {
+    "task_id": "CN041",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Trees Act 1970** does not contain the **Duchy of Lancaster Act 1808**.\n\nThey are two entirely separate pieces of legislation with distinct p"
+  },
+  {
+    "task_id": "CN042",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988' does not contain 'Local Government (Boundaries) Act (Northern Irelan"
+  },
+  {
+    "task_id": "CN043",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992** does not contain or refer to the **Merchant Shipping Act 1894**.\n\nThese are"
+  },
+  {
+    "task_id": "CN044",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, absolutely not.\n\nThese two Acts are completely unrelated:\n\n1.  **Sexual Offences (Scotland) Act 1976:** This is a piece of Scottish criminal law d"
+  },
+  {
+    "task_id": "CN045",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Small Charitable Donations Act 2012' does not contain the 'Consolidated Fund (No. 2) Act 2004'.\n\nThey are two entirely separate and distinct "
+  },
+  {
+    "task_id": "CN046",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Crown Benefices (Parish Representatives) Measure 2010** does not contain or incorporate the **Local Authority Social Services Act 1970**.\n\nT"
+  },
+  {
+    "task_id": "CN047",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Senedd Cymru (Members and Elections) Act 2024' does not contain, amend, repeal, or refer to the 'Bills of Exchange (Ireland) Act 1828'.\n\nThes"
+  },
+  {
+    "task_id": "CN048",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Finance (No. 2) Act 2005' does not contain or refer to the 'Midland Metro (No. 2) Act 1992'.\n\n*   The **Finance (No. 2) Act 2005** is a publi"
+  },
+  {
+    "task_id": "CN049",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Scottish Land Court Act 1993** does not contain, incorporate, or directly refer to the **Railway Companies Act 1867**.\n\nHere's why:\n\n1.  **S"
+  },
+  {
+    "task_id": "CN050",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Hospital Parking Charges Act (Northern Ireland) 2024' does **not** contain the 'Church of England (Miscellaneous Provisions) Measure 2005'.\n\n"
+  },
+  {
+    "task_id": "CN051",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Hunting Act 2004' does **not** contain the 'Borders, Citizenship and Immigration Act 2009'.\n\nThese are two entirely separate and distinct pie"
+  },
+  {
+    "task_id": "CN052",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_text_snippet": "No, the 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013' does not contain or refer to the 'Appellate Jurisdiction Act 1887'.\n\nThe"
+  },
+  {
+    "task_id": "CN053",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Employers' Liability (Compulsory Insurance) Act 1969' does not contain the 'Parliamentary Constituencies Act 2020'.\n\nThese are two entirely s"
+  },
+  {
+    "task_id": "CN054",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Consolidated Fund (No. 2) Act 1995** does not contain the **Easter Act 1928**.\n\nHere's why:\n\n1.  **Consolidated Fund Acts:** These are short"
+  },
+  {
+    "task_id": "CN055",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Sheriff Courts and Legal Officers (Scotland) Act 1927' does **not** contain the 'Family Allowances and National Insurance Act 1967'.\n\nHere's "
+  },
+  {
+    "task_id": "CN056",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Sex Discrimination Act 1975** does not \"contain\" the **Executors (Scotland) Act 1900**.\n\nThey are two entirely separate and distinct pieces "
+  },
+  {
+    "task_id": "CN057",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Courts and Tribunals (Judiciary and Functions of Staff) Act 2018** does not \"contain\" the **Political Parties and Elections Act 2009**.\n\nThe"
+  },
+  {
+    "task_id": "CN058",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Breeding of Dogs Act 1973** does not contain the **Nottingham City Council Act 2013**.\n\nHere's why:\n\n1.  **Separate Acts:** They are two dis"
+  },
+  {
+    "task_id": "CN059",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_text_snippet": "No, the 'Local Authorities (Restoration of Works Powers) Act 1977' does **not** contain the 'Church of England (Miscellaneous Provisions) Measure 2018"
+  },
+  {
+    "task_id": "CN060",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **'Green Energy (Definition and Promotion) Act 2009'** does **not** contain the **'Children Act 2004'**.\n\nThey are two entirely separate Acts "
+  },
+  {
+    "task_id": "CN061",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Police (Northern Ireland) Act 1998' does not contain the 'Concessionary Bus Travel Act 2007'.\n\nHere's why:\n\n1.  **Dates:** The Police (Northe"
+  },
+  {
+    "task_id": "CN062",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Pastoral (Amendment) Measure 2006' does not contain, amend, or refer to the 'House of Commons (Disqualifications) Act 1801'.\n\nThese are two e"
+  },
+  {
+    "task_id": "CN063",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Bus Services Act 2017' does not contain the 'Removal Terms (Scotland) Act 1886'.\n\nThese are two entirely separate pieces of legislation deali"
+  },
+  {
+    "task_id": "CN064",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Consolidated Fund Act 1816' does not contain the 'British Technology Group Act 1991'.\n\nHere's why:\n\n1.  **Dates:** The 'Consolidated Fund Act"
+  },
+  {
+    "task_id": "CN065",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Tobacco Advertising and Promotion Act 2002' does not contain the 'Light Railways Act 1912'.\n\nThey are two completely separate Acts of Parliam"
+  },
+  {
+    "task_id": "CN066",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Ivory Act 2018' does not contain the 'Energy Act 2013'.\n\nThey are two entirely separate and distinct pieces of UK legislation, each addressin"
+  },
+  {
+    "task_id": "CN067",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_text_snippet": "No, the 'Chequers Estate Act 1917' does **not** contain the 'Industrial Common Ownership Act 1976'.\n\nHere's why:\n\n1.  **Different Dates:** The Chequer"
+  },
+  {
+    "task_id": "CN068",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Local Authorities (Goods and Services) Act 1970' does not contain or refer to the 'Trustee Savings Banks Act 1981'.\n\nHere's why:\n\n1.  **Chron"
+  },
+  {
+    "task_id": "CN069",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Law Officers Act 1997** does not contain, refer to, or amend the **Incumbents (Vacation of Benefices) (Amendment) Measure 1993**.\n\n*   The *"
+  },
+  {
+    "task_id": "CN070",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Pensions Act 2007' does **not** contain the 'Antarctic Act 2013'.\n\nThey are two completely separate and distinct Acts of Parliament in the Un"
+  },
+  {
+    "task_id": "CN071",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Agriculture Act 1986** does not contain, refer to, amend, or repeal any part of the **Hairdressers (Registration) Act 1964**.\n\nThese two Act"
+  },
+  {
+    "task_id": "CN072",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_text_snippet": "No, the **Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015** does not contain, reference, amend, or repeal the **Improvemen"
+  },
+  {
+    "task_id": "CN073",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Education Act 2005** does not *contain* the **Police and Criminal Evidence Act 1984 (PACE)**.\n\nThey are two entirely separate and distinct p"
+  },
+  {
+    "task_id": "CN074",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Dawat-e-Hadiyah Act 1993' does not contain or refer to the 'Mines and Quarries Act 1954'.\n\nThese are two entirely separate pieces of legislat"
+  },
+  {
+    "task_id": "CN075",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Finance Act 1988** does not contain the **Sailors and Soldiers (Gifts for Land Settlement) Act 1916**.\n\nHere's why:\n\n1.  **Purpose of Acts:*"
+  },
+  {
+    "task_id": "CN076",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Penalties for Drunkenness Act 1962' does not contain the 'Sports Grounds Safety Authority Act 2011'.\n\nThese are two entirely separate pieces "
+  },
+  {
+    "task_id": "CN077",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, absolutely not.\n\n1.  **Different Subject Matter:** The `Supreme Court (Offices) Act 1997` (this is a UK Act) deals with the administrative and sta"
+  },
+  {
+    "task_id": "CN078",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_text_snippet": "No, the 'Diocesan Stipends Funds (Amendment) Measure 2016' does **not** contain or directly reference the 'Pensions Act 2007'.\n\n*   The **Diocesan Sti"
+  },
+  {
+    "task_id": "CN079",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Parliamentary Standards Act 2009' does not contain the 'Strikes (Minimum Service Levels) Act 2023'.\n\nHere's why:\n\n1.  **Chronology:** The 'St"
+  },
+  {
+    "task_id": "CN080",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Solicitors (Scotland) Act 1988** does not \"contain\" the **Public Registers and Records (Scotland) Act 1948**.\n\nThey are two distinct pieces "
+  },
+  {
+    "task_id": "CN081",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Consolidated Fund Act 2008' does **not** contain or incorporate the 'Administration of Justice Act 1960'.\n\nHere's why:\n\n1.  **Consolidated Fu"
+  },
+  {
+    "task_id": "CN082",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'School Grants Act 1855' does not contain the 'Housing Act 1974'.\n\nHere's why:\n\n1.  **Dates:** The Housing Act 1974 was enacted 119 years *aft"
+  },
+  {
+    "task_id": "CN083",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Refreshment Houses Act 1964** does not contain the **Criminal Law (Consolidation) (Scotland) Act 1995**.\n\nHere's why:\n\n1.  **Dates:** The 19"
+  },
+  {
+    "task_id": "CN084",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Railways Act 1921' does not contain the 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010'.\n\nHere's why:\n\n1.  **Chronology"
+  },
+  {
+    "task_id": "CN085",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Product Security and Telecommunications Infrastructure Act 2022' does not contain the 'Powers of Attorney Act 2023'.\n\nThey are two completely"
+  },
+  {
+    "task_id": "CN086",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_text_snippet": "No, the **Criminal Justice (Terrorism and Conspiracy) Act 1998** does **not** contain the **Mission and Pastoral Measure 2011**.\n\nHere's why:\n\n1.  **S"
+  },
+  {
+    "task_id": "CN087",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Veterans Advisory and Pensions Committees Act 2023** does not contain, refer to, or amend the **European Communities (Finance) Act 2001**.\n\n"
+  },
+  {
+    "task_id": "CN088",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Export Control Act 2002** does not \"contain\" the **Belfast Charitable Society Act 1996**.\n\nThese are two entirely separate Acts of Parliamen"
+  },
+  {
+    "task_id": "CN089",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Consolidated Fund (No. 2) Act 1998' does not contain the 'Solicitors Act 1974'.\n\n*   The **Consolidated Fund (No. 2) Act 1998** is a finance "
+  },
+  {
+    "task_id": "CN090",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Justices of the Peace Act 1949** does not contain the **Aberdeen Harbour Order Confirmation Act 1992**.\n\nThese are two entirely separate pie"
+  },
+  {
+    "task_id": "CN091",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_text_snippet": "No, the 'Offices, Shops and Railway Premises Act 1963' does not contain the 'Sustainable Communities Act 2007'.\n\nHere's why:\n\n1.  **Chronological Impo"
+  },
+  {
+    "task_id": "CN092",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Northern Ireland (Loans) Act 1975** does not \"contain\" the **Housing Act 1974**.\n\nThey are two separate and distinct Acts of Parliament with"
+  },
+  {
+    "task_id": "CN093",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the Sustainable Communities Act 2007 does **not** contain the Autism Act (Northern Ireland) 2011.\n\nHere's why:\n\n1.  **Separate Legislation:** They"
+  },
+  {
+    "task_id": "CN094",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Non-Domestic Rating Act 2023** does **not** contain the **Modern Slavery Act 2015**.\n\nThese are two entirely separate pieces of legislation "
+  },
+  {
+    "task_id": "CN095",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Geological Survey Act 1845** does not contain the **Water Act 2014**.\n\nThese are two entirely separate Acts of the UK Parliament, passed nea"
+  },
+  {
+    "task_id": "CN096",
+    "expected": "yes",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_text_snippet": "No, absolutely not.\n\n1.  **Timeframe:** The 'Prevention of Crimes Act 1871' was enacted in 1871. The 'Public Audit (Wales) Act 2013' was enacted over "
+  },
+  {
+    "task_id": "CN097",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016** does not contain the **City of London (Approved Premises for M"
+  },
+  {
+    "task_id": "CN098",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, 'The Environmental Protection (Single-use Plastic Products) (Wales) Act 2023' does not contain 'Medway Ports Authority Act 1973'.\n\nThese are two e"
+  },
+  {
+    "task_id": "CN099",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the 'Employment Act (Northern Ireland) 2010' does **not** contain the 'Commons Registration (East Sussex) Act 1994'.\n\nThese are two entirely separ"
+  },
+  {
+    "task_id": "CN100",
+    "expected": "no",
+    "found_in_answer": "no",
+    "found_in_answer_with_dates": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_text_snippet": "No, the **United Kingdom Internal Market Act 2020** does not contain, refer to, or amend the **Matrimonial Homes (Family Protection) (Scotland) Act 19"
+  }
+]

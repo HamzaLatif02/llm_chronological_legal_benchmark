@@ -1,0 +1,1002 @@
+[
+  {
+    "task_id": "OB001",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "yes",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Budget Act (Northern Ireland) 2010 is overlapped by the National Debt Act 1972. Hmm, first, I should probably understand what each of these acts does. Let me start by recalling what I know about these pieces of legislation.\n\nThe National Debt Act 1972 is ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Budget Act (Northern Ireland) 2010 overlaps with the National Debt Act 1972. The dates given are from 2010-03-12 to 2016-02-05 for the Budget Act, and from 1972-08-09 to 2015-06-18 for the National Debt Act.\n\nFirst, I need to understand what these d"
+  },
+  {
+    "task_id": "OB002",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Bell’s Bridge Order Confirmation Act 1995 overlaps with the Pests Act 1954. Hmm, first, I should probably start by understanding what each of these acts is about. \n\nThe Pests Act 1954—I remember that this is a piece of UK legislation aimed at controlling ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Bell’s Bridge Order Confirmation Act 1995 overlaps with the Pests Act 1954. The dates given are from 1995-07-19 to 2025-07-01 for Bell’s Bridge Act, and from 1954-11-25 to 2025-07-01 for the Pests Act.\n\nFirst, I need to understand what it means"
+  },
+  {
+    "task_id": "OB003",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Statutory Instruments (Production and Sale) Act 1996 is overlapped by the Budget Act (Northern Ireland) 2009. Hmm, first, I should probably understand what each of these acts does. \n\nStarting with the Statutory Instruments (Production and Sale) Act 1996. ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's tackle this question about whether the Statutory Instruments (Production and Sale) Act 1996 and the Budget Act (Northern Ireland) 2009 overlap in their time periods. First, I need to understand what each of these acts does and their effective dates.\n\nThe user provided the dates f"
+  },
+  {
+    "task_id": "OB004",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Public Trustee (Liability and Fees) Act 2002 is overlapped by the Road Races (Amendment) Act (Northern Ireland) 2014. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling what I know about the Public Trustee",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two specific acts overlap in their validity periods. The acts mentioned are the 'Public Trustee (Liability and Fees) Act 2002' which is valid from 2002-11-07 to 2025-07-01, and the 'Road Races (Amendment) Act (Northern Ireland) 2014' from 2014-01-17 to "
+  },
+  {
+    "task_id": "OB005",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Armed Forces Act 2006 overlaps with the Deer Act 1991. Hmm, first I need to recall what each of these acts is about. Let me start by breaking down each act's purpose.\n\nThe Armed Forces Act 2006, as far as I remember, deals with the legal framework governing",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Armed Forces Act 2006 and the Deer Act 1991 overlap in their time periods. The dates given are from 2006-11-08 to 2024-10-17 for the Armed Forces Act, and from 1991-07-25 to 2018-08-19 for the Deer Act.\n\nFirst, I need to understand what these d"
+  },
+  {
+    "task_id": "OB006",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Veterans Advisory and Pensions Committees Act 2023 overlaps with the Regulation of Registered Social Landlords (Wales) Act 2018. Let me start by understanding what each of these acts is about.\n\nFirst, the Veterans Advisory and Pensions Committees Act 2023",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the \"Veterans Advisory and Pensions Committees Act 2023\" overlaps with the \"Regulation of Registered Social Landlords (Wales) Act 2018\" during their respective timeframes. \n\nFirst, I need to check the dates provided. The Veterans Act is from September 1"
+  },
+  {
+    "task_id": "OB007",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012 overlaps with the National Health Service (Amendment) Act 1949. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling what I know about these p",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether two specific acts overlap in their time periods. The acts in question are the Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012 and the National Health Service (Amendment) Act 1949. The dates given for the first act are from 2012-12-"
+  },
+  {
+    "task_id": "OB008",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the \"Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021\" overlaps with the \"Mental Health (Approval Functions) Act 2012.\" Let me start by understanding what each of these acts is about.\n\nFirst, the 2021 Act. The title mentions \"F",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's tackle this question about whether the Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 overlaps with the Mental Health (Approval Functions) Act 2012. The user is asking if there's an overlap in their periods of validity, specifically from March 22"
+  },
+  {
+    "task_id": "OB009",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Post Office Act 1953 is overlapped by the Succession to the Crown Act 2013. Hmm, first I need to understand what each of these acts does. Let me start by recalling what I know about these two pieces of legislation.\n\nThe Post Office Act 1953 is a UK law",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Post Office Act 1953 and the Succession to the Crown Act 2013 overlap in their periods of validity. The dates given are from 1953-07-31 to 2015-10-21 for the Post Office Act, and from 2013-04-25 to 2025-07-01 for the Succession to the Crown Act"
+  },
+  {
+    "task_id": "OB010",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Harris Tweed Act 1993 overlaps with the Civil Evidence Act 1995. Let me start by recalling what each of these acts is about. \n\nFirst, the Harris Tweed Act 1993. I remember that Harris Tweed is a specific type of fabric, traditionally made in the Scottish ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Harris Tweed Act 1993 overlaps with the Civil Evidence Act 1995. They provided specific dates for each. First, I need to understand what each act's duration is. \n\nThe Harris Tweed Act 1993 is in effect from 1993-07-20 to 2025-07-01. The Civil E"
+  },
+  {
+    "task_id": "OB011",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the British Railways Order Confirmation Act 1994 overlaps with the Friendly Societies Act 1974. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling what I know about these pieces of legislation.\n\nThe Friendly S",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the 'British Railways Order Confirmation Act 1994' overlaps with the 'Friendly Societies Act 1974'. They provided specific date ranges for each: the British Railways Act runs from 1994-03-24 to 2025-07-01, and the Friendly Societies Act from 1974-0"
+  },
+  {
+    "task_id": "OB012",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016 overlaps with the London Local Authorities Act 1995. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling what I know about the",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's tackle this question. The user is asking whether two specific pieces of legislation overlap in their effective dates. The acts in question are the Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016 and the London Local Authorities Act 1995. The dates "
+  },
+  {
+    "task_id": "OB013",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 overlaps with the Supreme Court (Offices) Act 1997. Let me start by understanding what each of these acts is about.\n\nFirst, the Building Societies (Funding) and Mutual Societies (Trans",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether two specific UK Acts of Parliament overlapped in their periods of validity. The Acts mentioned are the Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 and the Supreme Court (Offices) Act 1997. The dates provided for the 2007 "
+  },
+  {
+    "task_id": "OB014",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Consolidated Fund (No. 2) Act 2004 overlaps with the Railways (Electrical Power) Act 1903. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling what I know about these pieces of legislation.\n\nThe Consolidate",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Consolidated Fund (No. 2) Act 2004 overlaps with the Railways (Electrical Power) Act 1903. They provided specific date ranges for each act. \n\nFirst, I need to understand what each act does. The Consolidated Fund Act is likely related to governm"
+  },
+  {
+    "task_id": "OB015",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Paymaster General Act 1848 was overlapped by the Companies (Consolidation) Act 1908. Hmm, first, I should probably understand what each of these acts was about. Let me start by recalling what I know about the Paymaster General Act 1848. \n\nThe Paymaster Ge",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if the Paymaster General Act 1848 is overlapped by the Companies (Consolidation) Act 1908. The user is asking about the time periods these two acts were in effect and whether their durations overlap.\n\nFirst, I need to understand the dates provided. The Paymaster"
+  },
+  {
+    "task_id": "OB016",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Hill Samuel Bank and United Dominions Trust Act 1994 overlaps with the Nurseries and Child-Minders Regulation Act 1948. Hmm, first, I need to figure out what these two acts are about. Let me start by recalling any information I have about these pieces of le",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether two specific acts overlap in their validity periods. The acts mentioned are the Hill Samuel Bank and United Dominions Trust Act 1994 and the Nurseries and Child-Minders Regulation Act 1948. They provided dates for both acts, with the first running "
+  },
+  {
+    "task_id": "OB017",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Pensions Act 2011 is overlapped by the Supply and Appropriation (Main Estimates) Act 2019. Let me start by understanding what each of these acts does.\n\nFirst, the Pensions Act 2011. I remember that this act was significant in the UK for pension reforms",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Pensions Act 2011 and the Supply and Appropriation (Main Estimates) Act 2019 overlap in their time periods. The dates given are from 2011-11-03 to 2024-02-01 for the Pensions Act, and from 2019-07-17 to 2025-07-01 for the Supply and Appropriati"
+  },
+  {
+    "task_id": "OB018",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the National Gallery and Tate Gallery Act 1954 overlaps with the Accession Declaration Act 1910. Let me start by understanding what each of these acts does.\n\nFirst, the Accession Declaration Act 1910. From what I remember, this act is related to the British m",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the National Gallery and Tate Gallery Act 1954 overlaps with the Accession Declaration Act 1910. The dates given are from 1954-11-25 to 2025-07-01 for the first act, and from 1910-08-03 to 2025-07-01 for the second one.\n\nFirst, I need to understand"
+  },
+  {
+    "task_id": "OB019",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Corporate Manslaughter and Corporate Homicide Act 2007 overlaps with the Trade Union Act 1984. Let me start by recalling what each of these acts is about.\n\nFirst, the Corporate Manslaughter and Corporate Homicide Act 2007. From what I remember, this UK la",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Corporate Manslaughter and Corporate Homicide Act 2007 overlaps with the Trade Union Act 1984. They provided specific dates for both acts. I need to figure out if there's an overlap in their periods of validity.\n\nFirst, I should check the dates"
+  },
+  {
+    "task_id": "OB020",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Agricultural Land (Utilisation) Act 1931 is overlapped by the Safeguarding and Clergy Discipline Measure 2016. Hmm, first, I should probably understand what each of these acts or measures is about. Let me start by recalling what I know about the Agricultu",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Agricultural Land (Utilisation) Act 1931 overlaps with the Safeguarding and Clergy Discipline Measure 2016. The dates given for the first act are from 1931-07-31 to 2025-06-10, and the second one is from 2016-03-16 to 2022-07-19.\n\nFirst, I need"
+  },
+  {
+    "task_id": "OB021",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Criminal Injuries Compensation Act 1995 overlaps with the Land Charges Act 1972. Hmm, first I need to recall what each of these acts is about. Let me start by breaking down each act's purpose.\n\nThe Criminal Injuries Compensation Act 1995 – I think this",
+    "qwen_with_dates_snippet": "<think>\nOkay, so I need to figure out if the Criminal Injuries Compensation Act 1995 (which was in effect from November 8, 1995, to August 31, 2016) overlapped with the Land Charges Act 1972 (which was in effect from August 9, 1972, to August 24, 2018). Let me start by understanding what each of the"
+  },
+  {
+    "task_id": "OB022",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "yes",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Broads Authority Act 2009 overlaps with the Education Act 1976. Let me start by understanding what each of these acts is about.\n\nFirst, the Broads Authority Act 2009. I know that the Broads Authority is related to the Norfolk and Suffolk Broads in the UK,",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Broads Authority Act 2009 overlaps with the Education Act 1976. The dates given are from 2009-07-02 to 2025-07-01 for the Broads Authority Act, and from 1976-11-22 to 2025-07-01 for the Education Act.\n\nFirst, I need to understand what these act"
+  },
+  {
+    "task_id": "OB023",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Northern Ireland (Executive Formation etc) Act 2019 overlaps with the Enterprise and New Towns (Scotland) Act 1990. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling what I know about these pieces of legi",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Northern Ireland (Executive Formation etc) Act 2019 overlaps with the Enterprise and New Towns (Scotland) Act 1990. They provided specific date ranges for each. \n\nFirst, I need to understand what these acts are about. The Northern Ireland Act 2019 p"
+  },
+  {
+    "task_id": "OB024",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Visiting Forces Act 1952 is overlapped by the Curriculum and Assessment (Wales) Act 2021. Hmm, first I need to understand what each of these acts is about. Let me start by recalling what I know about the Visiting Forces Act 1952. From what I remember, this ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Visiting Forces Act 1952 and the Curriculum and Assessment (Wales) Act 2021 overlap in their time periods. The dates given are from 1952-10-30 to 2024-04-18 for the Visiting Forces Act, and from 2021-04-29 to 2025-07-01 for the Curriculum and Assess"
+  },
+  {
+    "task_id": "OB025",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Derelict Land Act 1982 overlaps with the India (Consequential Provision) Act 1949. Hmm, first I need to figure out what these two acts are about. Let me start by recalling what I know about each of them.\n\nThe Derelict Land Act 1982—I think that's a UK ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Derelict Land Act 1982 and the India (Consequential Provision) Act 1949 overlap in their time periods. The Derelict Land Act was in effect from 1982-07-30 to 2018-08-24, and the India Act from 1949-12-16 to 2025-07-01. \n\nFirst, I need to check "
+  },
+  {
+    "task_id": "OB026",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Consolidated Fund (No. 2) Act 1995 is overlapped by the Children Act 2004. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling what I know about the Children Act 2004. I remember that the Children Act 2004 ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Consolidated Fund (No. 2) Act 1995 overlaps with the Children Act 2004. The dates given are from 1995-12-19 to 2013-10-12 for the first act, and from 2004-11-15 to 2025-04-09 for the second one. \n\nFirst, I need to understand what these acts are"
+  },
+  {
+    "task_id": "OB027",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Business and Planning Act 2020 overlaps with the Woodgrange Park Cemetery Act 1993. Let me start by understanding what each of these acts is about.\n\nFirst, the Business and Planning Act 2020. I remember that this was a UK piece of legislation introduce",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Business and Planning Act 2020 overlaps with the Woodgrange Park Cemetery Act 1993. They provided specific dates for each. First, I need to understand what each act covers and their effective dates.\n\nThe Business and Planning Act 2020 was in effect "
+  },
+  {
+    "task_id": "OB028",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Human Fertilisation and Embryology Act 2008 is overlapped by the London Olympic Games and Paralympic Games (Amendment) Act 2011. Hmm, first, I should probably understand what each of these acts is about. \n\nStarting with the Human Fertilisation and Embryol",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Human Fertilisation and Embryology Act 2008 was overlapped by the London Olympic Games and Paralympic Games (Amendment) Act 2011. They provided the dates for both acts. \n\nFirst, I need to understand what each act does. The Human Fertilisation a"
+  },
+  {
+    "task_id": "OB029",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the National Audit Act 1983 is overlapped by the Civil Aviation Act 2012. Let me start by understanding what each of these acts does.\n\nFirst, the National Audit Act 1983. From what I remember, this act is related to the National Audit Office (NAO) in the U",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the National Audit Act 1983 was overlapped by the Civil Aviation Act 2012. They provided specific date ranges: the National Audit Act was in effect from 1983-05-13 to 2018-06-08, and the Civil Aviation Act 2012 from 2012-12-19 to 2025-05-29.\n\nFirst"
+  },
+  {
+    "task_id": "OB030",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Superannuation Act (Northern Ireland) 2013 overlaps with the Civil List Act 1975. Let me start by understanding what each of these acts is about.\n\nFirst, the Superannuation Act (Northern Ireland) 2013. From the title, it seems related to pension schemes, ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's tackle this question about whether the Superannuation Act (Northern Ireland) 2013 overlaps with the Civil List Act 1975. The user provided specific date ranges: the 2013 Act runs from 2013-01-09 to 2025-07-01, and the 1975 Act from 1975-12-19 to 2015-11-12. \n\nFirst, I need to und"
+  },
+  {
+    "task_id": "OB031",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 is overlapped by the Parliamentary Buildings (Restoration and Renewal) Act 2019. Hmm, first, I should probably understand what each of these acts is about. \n\nStarti",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's tackle this question. The user is asking whether two specific pieces of legislation in Northern Ireland overlap in their time periods. The acts in question are the \"Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016\" with dates from 2016-04"
+  },
+  {
+    "task_id": "OB032",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Administration of Justice Act 1969 has been overlapped by the Local Government (Contracts) Act 1997. Let me start by understanding what each of these acts is about.\n\nFirst, the Administration of Justice Act 1969. I know that in the UK, there are several A",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Administration of Justice Act 1969 and the Local Government (Contracts) Act 1997 overlap in their time periods. The dates given are from 1969-10-22 to 2024-11-20 for the first act and from 1997-11-27 to 2017-10-17 for the second. \n\nFirst, I nee"
+  },
+  {
+    "task_id": "OB033",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Work and Families Act (Northern Ireland) 2015 overlaps with the Highway Act 1835. Let me start by understanding what each of these acts is about.\n\nFirst, the Work and Families Act (Northern Ireland) 2015. I know that in the UK, similar acts, like the Work a",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if the Work and Families Act (Northern Ireland) 2015 overlaps with the Highway Act 1835 based on the dates provided. First, I need to understand the date ranges given for each act.\n\nThe Work and Families Act 2015 is active from January 8, 2015, to July 1, 2025. "
+  },
+  {
+    "task_id": "OB034",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Rent (Agriculture) Act 1976 overlaps with the Coal-Mining (Subsidence) Act 1957. Let me start by recalling what each of these acts is about.\n\nFirst, the Coal-Mining (Subsidence) Act 1957. I remember that this act deals with subsidence caused by coal mi",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Rent (Agriculture) Act 1976 overlaps with the Coal-Mining (Subsidence) Act 1957. They provided the dates each act was in force: the 1976 Act from 1976-11-22 to 2024-11-20, and the 1957 Act from 1957-07-31 to 2025-07-01.\n\nFirst, I need to check "
+  },
+  {
+    "task_id": "OB035",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "yes",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Armed Forces Act 1981 is overlapped by the Income Tax (Trading and Other Income) Act 2005. Hmm, first I need to understand what each of these acts is about. Let me start by recalling what I know about these pieces of legislation.\n\nThe Armed Forces Act ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Armed Forces Act 1981 and the Income Tax (Trading and Other Income) Act 2005 overlap in their periods of validity. The dates given are from 1981-07-28 to 2020-09-04 for the Armed Forces Act, and from 2005-03-24 to 2025-05-14 for the Income Tax "
+  },
+  {
+    "task_id": "OB036",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "yes",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Human Rights Act 1998 overlaps with the Post Office Act 1969. Let me start by recalling what each of these acts does.\n\nFirst, the Human Rights Act 1998 (HRA) incorporates the European Convention on Human Rights (ECHR) into UK law. It allows individuals",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Human Rights Act 1998 overlaps with the Post Office Act 1969. They provided specific dates for each act. I need to check if there's any period where both acts were in effect at the same time.\n\nFirst, I should confirm the dates given. The Human "
+  },
+  {
+    "task_id": "OB037",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "yes",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Killingholme Generating Stations (Ancillary Powers) Act 1991 overlaps with the Landlord and Tenant Act 1985. Let me start by understanding what each of these acts is about.\n\nFirst, the Landlord and Tenant Act 1985. I know that this is a piece of UK legisl",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether two specific acts overlap in their validity periods. The acts mentioned are the 'Killingholme Generating Stations (Ancillary Powers) Act 1991' which is valid from 1991-06-27 to 2025-07-01, and the 'Landlord and Tenant Act 1985' from 1985-10-30 to 2"
+  },
+  {
+    "task_id": "OB038",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the War Pensions Act 1921 is overlapped by the Sexual Offences (Amendment) Act 2000. Hmm, first I need to understand what each of these acts does. Let me start by recalling what I know about these pieces of legislation.\n\nThe War Pensions Act 1921 was a UK law t",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the War Pensions Act 1921 and the Sexual Offences (Amendment) Act 2000 overlap in their time periods. The dates given are from 1921-08-19 to 2025-07-01 for the War Pensions Act, and from 2000-11-30 to 2017-12-05 for the Sexual Offences Act.\n\nFirst,"
+  },
+  {
+    "task_id": "OB039",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Concealment of Birth (Scotland) Act 1809 is overlapped by the Patents Act 1949. Hmm, first, I should understand what each of these acts is about. \n\nStarting with the Concealment of Birth (Scotland) Act 1809. From the title, it sounds like it's related to ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if the Concealment of Birth (Scotland) Act 1809 overlaps with the Patents Act 1949. The user mentioned specific dates: the 1809 Act is from 2025-07-20 to 2025-07-01, which seems a bit confusing because those dates are in the future and the end date is before the"
+  },
+  {
+    "task_id": "OB040",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Electronic Communications Act (Northern Ireland) 2001 overlaps with the Sale of Farming Stock Act 1814. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling what I know about these pieces of legislation.\n\nTh",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if these two acts overlap. The user is asking about the Electronic Communications Act (Northern Ireland) 2001 and the Sale of Farming Stock Act 1814. They provided dates from 2001-04-05 to 2025-07-01 for the first act and from 2025-07-20 to 2025-07-01 for the se"
+  },
+  {
+    "task_id": "OB041",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "yes",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Trees Act 1970 is overlapped by the Duchy of Lancaster Act 1808. Hmm, first I need to check if these two acts actually exist. Let me start by verifying the existence of the Trees Act 1970. I know that in the UK, there have been various acts related to ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the 'Trees Act 1970' overlaps with the 'Duchy of Lancaster Act 1808'. The dates given for the Trees Act are from 1970-05-29 to 2025-07-01. The Duchy of Lancaster Act has dates from 2025-07-18 to 2025-07-01. Wait, that end date is earlier than the start "
+  },
+  {
+    "task_id": "OB042",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988 overlaps with the Local Government (Boundaries) Act (Northern Ireland) 2008. Hmm, first, I should probably understand what each of these acts or measures is about. \n\nStarting with the",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether two legal measures overlap in time. The first one is the Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988, which was in effect from 1988-02-09 to 2019-06-13. The second is the Local Government (Boundaries) Act (Northern Irela"
+  },
+  {
+    "task_id": "OB043",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the 'Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992' is overlapped by the 'Merchant Shipping Act 1894'. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling or looking up some basic information a",
+    "qwen_with_dates_snippet": "<think>\nOkay, so I need to figure out if the 'Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992' overlaps with the 'Merchant Shipping Act 1894' during the time periods given. Let me start by understanding what each of these acts is about and their effective dates.\n\nFirst, the Sporting E"
+  },
+  {
+    "task_id": "OB044",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Sexual Offences (Scotland) Act 1976 is overlapped by the National Insurance Contributions (Reduction in Rates) Act 2023. Hmm, that seems like an odd pairing. Let me break this down.\n\nFirst, I need to understand what each of these acts is about. The Sex",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's tackle this question. The user is asking whether the Sexual Offences (Scotland) Act 1976 overlaps with the National Insurance Contributions (Reduction in Rates) Act 2023. The dates given for the first act are from 1976-11-15 to 2025-07-01, and the second one is from 2023-12-18 to"
+  },
+  {
+    "task_id": "OB045",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Small Charitable Donations Act 2012 overlaps with the Consolidated Fund (No. 2) Act 2004. Let me start by understanding what each of these acts does.\n\nFirst, the Small Charitable Donations Act 2012. From the name, it sounds like it's related to charitable",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether two specific acts in the UK overlap in their time periods. The acts are the Small Charitable Donations Act 2012 and the Consolidated Fund (No. 2) Act 2004. The dates given for the first are from 2012-12-19 to 2017-04-04, and for the second from 200"
+  },
+  {
+    "task_id": "OB046",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Crown Benefices (Parish Representatives) Measure 2010 overlaps with the Local Authority Social Services Act 1970. Let me start by understanding what each of these acts is about.\n\nFirst, the Crown Benefices (Parish Representatives) Measure 2010. I know tha",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether two legal measures, the Crown Benefices (Parish Representatives) Measure 2010 and the Local Authority Social Services Act 1970, have overlapping time periods. They provided specific date ranges for each: the Crown Benefices Measure from March 18, 2"
+  },
+  {
+    "task_id": "OB047",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Senedd Cymru (Members and Elections) Act 2024 overlaps with the Bills of Exchange (Ireland) Act 1828. Hmm, first, I need to understand what each of these acts is about. Let me start by recalling what I know about the Senedd Cymru Act. The Senedd Cymru, also",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if the Senedd Cymru (Members and Elections) Act 2024 overlaps with the Bills of Exchange (Ireland) Act 1828. The user provided specific date ranges for both acts. \n\nFirst, I need to understand what these date ranges mean. The Senedd Cymru Act is active from June"
+  },
+  {
+    "task_id": "OB048",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Finance (No. 2) Act 2005 overlaps with the Midland Metro (No. 2) Act 1992. Let me start by understanding what each of these acts is about.\n\nFirst, the Midland Metro (No. 2) Act 1992. I know that the Midland Metro is a tram system in the West Midlands, ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Finance (No. 2) Act 2005 overlaps with the Midland Metro (No. 2) Act 1992. They provided the date ranges for both acts. The first thing I need to do is understand what these acts are about and their effective dates.\n\nFirst, the Finance (No. 2) "
+  },
+  {
+    "task_id": "OB049",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "yes",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Scottish Land Court Act 1993 overlaps with the Railway Companies Act 1867. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling what I know about these pieces of legislation.\n\nThe Scottish Land Court Act 199",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Scottish Land Court Act 1993 overlaps with the Railway Companies Act 1867. They provided specific date ranges: the 1993 Act was in effect from 1993-11-05 to 2016-11-14, and the 1867 Act from 1867-08-20 to 2025-07-01. \n\nFirst, I need to understa"
+  },
+  {
+    "task_id": "OB050",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the 'Hospital Parking Charges Act (Northern Ireland) 2024' overlaps with the 'Church of England (Miscellaneous Provisions) Measure 2005'. Let me start by understanding both pieces of legislation.\n\nFirst, the Hospital Parking Charges Act (Northern Ireland) 2024.",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two pieces of legislation overlap in their time periods. The first one is the Hospital Parking Charges Act (Northern Ireland) 2024, which is supposed to be in effect from May 16, 2024, to July 1, 2025. The second one is the Church of England (Miscellane"
+  },
+  {
+    "task_id": "OB051",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Hunting Act 2004 is overlapped by the Borders, Citizenship and Immigration Act 2009. Let me start by recalling what each of these acts does.\n\nFirst, the Hunting Act 2004. I remember that this act was a significant piece of legislation in the UK, partic",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Hunting Act 2004 and the Borders, Citizenship and Immigration Act 2009 overlap in their time periods. The Hunting Act was from 2004-11-18 to 2020-04-16, and the Borders Act was from 2009-07-21 to 2023-11-21. \n\nFirst, I need to check if there's "
+  },
+  {
+    "task_id": "OB052",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013 overlaps with the Appellate Jurisdiction Act 1887. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling what I know about these pieces of l",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if the Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013 overlaps with the Appellate Jurisdiction Act 1887. The user is asking about the time periods from 2013-04-25 to 2025-07-01 for the first act and from 1887-09-16 to 2025-07-01 for the seco"
+  },
+  {
+    "task_id": "OB053",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Employers' Liability (Compulsory Insurance) Act 1969 is overlapped by the Parliamentary Constituencies Act 2020. Hmm, first I need to understand what each of these acts does. Let me start by recalling what I know about these two pieces of legislation.\n\nThe ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Employers' Liability (Compulsory Insurance) Act 1969 was overlapped by the Parliamentary Constituencies Act 2020. The dates given are from 1969-10-22 to 2019-11-18 for the first act, and from 2020-12-14 to 2025-07-01 for the second. \n\nFirst, I need "
+  },
+  {
+    "task_id": "OB054",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Consolidated Fund (No. 2) Act 1995 overlaps with the Easter Act 1928. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling what I know about the Easter Act 1928. From what I remember, the Easter Act was inte",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Consolidated Fund (No. 2) Act 1995 overlaps with the Easter Act 1928. The dates given are from 1995-12-19 to 2013-10-12 for the first act, and from 1928-08-03 to 2025-07-01 for the Easter Act.\n\nFirst, I need to understand what these acts are ab"
+  },
+  {
+    "task_id": "OB055",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Sheriff Courts and Legal Officers (Scotland) Act 1927 was overlapped by the Family Allowances and National Insurance Act 1967. Hmm, first, I should probably understand what each of these acts is about. \n\nStarting with the Sheriff Courts and Legal Officers",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether two specific acts overlap in their validity periods. The acts in question are the Sheriff Courts and Legal Officers (Scotland) Act 1927 and the Family Allowances and National Insurance Act 1967. The dates given for the first act are from 1927-12-22"
+  },
+  {
+    "task_id": "OB056",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Sex Discrimination Act 1975 overlaps with the Executors (Scotland) Act 1900. Let me start by understanding both pieces of legislation.\n\nFirst, the Sex Discrimination Act 1975. I remember that this was a UK-wide law aimed at preventing discrimination on",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Sex Discrimination Act 1975 (which was in effect from 1975-11-12 to 2021-12-08) overlaps with the Executors (Scotland) Act 1900 (effective from 1900-08-08 to 2025-07-01). To determine if there's an overlap, I need to check if their effective pe"
+  },
+  {
+    "task_id": "OB057",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "yes",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 overlaps with the Political Parties and Elections Act 2009. Let me start by understanding what each of these acts is about.\n\nFirst, the Courts and Tribunals Act 2018. From the title, it seem",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether two specific UK acts overlap in their effective dates. The acts mentioned are the Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 and the Political Parties and Elections Act 2009. The dates provided are from 2018-12-20 to 2025-07-0"
+  },
+  {
+    "task_id": "OB058",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "yes",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Breeding of Dogs Act 1973' is overlapped by the 'Nottingham City Council Act 2013'. Let me start by understanding both pieces of legislation.\n\nFirst, the Breeding of Dogs Act 1973. I remember that this is a UK-wide law aimed at regulating dog breeding",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the 'Breeding of Dogs Act 1973' overlaps with the 'Nottingham City Council Act 2013'. The dates given are from 1973-10-25 to 2021-11-12 for the first act, and from 2013-02-28 to 2025-07-01 for the second one.\n\nFirst, I need to understand what these date"
+  },
+  {
+    "task_id": "OB059",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "yes",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Local Authorities (Restoration of Works Powers) Act 1977 has been overlapped by the Church of England (Miscellaneous Provisions) Measure 2018. Let me start by understanding what each of these pieces of legislation does.\n\nFirst, the 1977 Act. From the titl",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's tackle this question about whether the Local Authorities (Restoration of Works Powers) Act 1977 and the Church of England (Miscellaneous Provisions) Measure 2018 overlap in their time periods. The user provided specific dates: the 1977 Act is from 1977-07-29 to 2025-07-01, and th"
+  },
+  {
+    "task_id": "OB060",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Green Energy (Definition and Promotion) Act 2009 overlaps with the Children Act 2004. Hmm, first I need to recall what each of these acts is about. Let me start by breaking down the question.\n\nThe Green Energy Act 2009 – I think that's related to renewable ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Green Energy Act 2009 and the Children Act 2004 overlap in their time periods. The dates given are from 2009-11-12 to 2025-07-01 for the Green Energy Act, and from 2004-11-15 to 2025-04-09 for the Children Act.\n\nFirst, I need to understand what"
+  },
+  {
+    "task_id": "OB061",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Police (Northern Ireland) Act 1998 is overlapped by the Concessionary Bus Travel Act 2007. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling what I know about these pieces of legislation.\n\nThe Police (Nor",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Police (Northern Ireland) Act 1998 overlaps with the Concessionary Bus Travel Act 2007. They provided specific date ranges for each act. The first act runs from July 24, 1998, to April 22, 2025. The second one is from July 19, 2007, to July 1, "
+  },
+  {
+    "task_id": "OB062",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Pastoral (Amendment) Measure 2006 overlaps with the House of Commons (Disqualifications) Act 1801. Let me start by understanding what each of these acts or measures is about.\n\nFirst, the House of Commons (Disqualifications) Act 1801. From what I remember,",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if the Pastoral (Amendment) Measure 2006 overlaps with the House of Commons (Disqualifications) Act 1801. The user provided specific dates for each. \n\nFirst, I need to check the dates. The Pastoral Measure was in effect from 2006-07-11 to 2015-10-23. The House o"
+  },
+  {
+    "task_id": "OB063",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Bus Services Act 2017 overlaps with the Removal Terms (Scotland) Act 1886. Hmm, first, I need to figure out what each of these acts is about. Let me start by recalling what I know about the Bus Services Act 2017. From what I remember, this UK legislation wa",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Bus Services Act 2017 overlaps with the Removal Terms (Scotland) Act 1886. The dates given are from 2017-04-27 to 2025-07-01 for the Bus Services Act, and from 1886-06-25 to 2025-07-01 for the Removal Terms Act.\n\nFirst, I need to understand what it "
+  },
+  {
+    "task_id": "OB064",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Consolidated Fund Act 1816 is overlapped by the British Technology Group Act 1991. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling what I know about the Consolidated Fund Act 1816. From what I remember,",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if the Consolidated Fund Act 1816 is overlapped by the British Technology Group Act 1991. The user is asking about the overlap in their effective dates. \n\nFirst, I need to check the date ranges provided. The Consolidated Fund Act 1816 is listed as being in effec"
+  },
+  {
+    "task_id": "OB065",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the 'Tobacco Advertising and Promotion Act 2002' overlaps with the 'Light Railways Act 1912'. Hmm, that's an interesting question. Let me start by understanding what each of these acts is about.\n\nFirst, the Tobacco Advertising and Promotion Act 2002. I know tha",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Tobacco Advertising and Promotion Act 2002 overlaps with the Light Railways Act 1912. They provided specific dates for each act's validity. \n\nFirst, I need to understand what each act covers. The Tobacco Advertising and Promotion Act 2002 was a"
+  },
+  {
+    "task_id": "OB066",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Ivory Act 2018 overlaps with the Energy Act 2013. Let me start by recalling what each of these acts is about. \n\nFirst, the Ivory Act 2018. I remember that this was a UK law aimed at reducing the ivory trade to protect elephants. It basically banned the sale",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Ivory Act 2018 and the Energy Act 2013 overlap in their time periods. The dates given are from 2018-12-20 to 2025-07-01 for the Ivory Act and from 2013-12-18 to 2024-10-30 for the Energy Act.\n\nFirst, I need to understand what these dates repres"
+  },
+  {
+    "task_id": "OB067",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Chequers Estate Act 1917 was overlapped by the Industrial Common Ownership Act 1976. Hmm, first, I should probably start by understanding what each of these acts is about. \n\nLet me start with the Chequers Estate Act 1917. I know that Chequers is the count",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the 'Chequers Estate Act 1917' overlaps with the 'Industrial Common Ownership Act 1976'. They provided specific date ranges for each act. The first act runs from December 20, 1917, to July 1, 2025. The second one is from November 22, 1976, to May 2"
+  },
+  {
+    "task_id": "OB068",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "yes",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Local Authorities (Goods and Services) Act 1970 was overlapped by the Trustee Savings Banks Act 1981. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling or looking up some basic information about these two",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Local Authorities (Goods and Services) Act 1970 and the Trustee Savings Banks Act 1981 overlap in their periods of validity. The dates given are from 1970-05-29 to 2021-06-01 for the first act, and from 1981-10-30 to 2025-07-01 for the second o"
+  },
+  {
+    "task_id": "OB069",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Law Officers Act 1997 overlaps with the Incumbents (Vacation of Benefices) (Amendment) Measure 1993. Hmm, first, I should probably understand what each of these acts or measures is about. Let me start by recalling what I know about the Law Officers Act 19",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if the Law Officers Act 1997 overlaps with the Incumbents (Vacation of Benefices) (Amendment) Measure 1993. The user provided the dates from 1997-07-31 to 2025-07-01 for the Law Officers Act and from 1993-07-27 to 2025-07-01 for the other measure.\n\nFirst, I need"
+  },
+  {
+    "task_id": "OB070",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Pensions Act 2007 overlaps with the Antarctic Act 2013. Hmm, first I need to figure out what each of these acts is about. Let me start by recalling what I know about the Pensions Act 2007. From what I remember, the Pensions Act in the UK usually deals with ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the 'Pensions Act 2007' overlaps with the 'Antarctic Act 2013'. They provided specific date ranges: the Pensions Act runs from 2007-07-26 to 2022-01-19, and the Antarctic Act from 2013-03-26 to 2025-07-01.\n\nFirst, I need to understand what it means"
+  },
+  {
+    "task_id": "OB071",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Agriculture Act 1986 overlaps with the Hairdressers (Registration) Act 1964. Hmm, that's an interesting question. Let me start by recalling what each of these acts might cover.\n\nFirst, the Agriculture Act 1986. I know that agriculture-related legislati",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Agriculture Act 1986 overlaps with the Hairdressers (Registration) Act 1964. They provided specific dates for each act. The Agriculture Act 1986 was in effect from July 25, 1986, to June 10, 2025. The Hairdressers (Registration) Act 1964 was fr"
+  },
+  {
+    "task_id": "OB072",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015 overlaps with the Improvement of Land Act 1864. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling what I know about the 2015 Wel",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if these two acts overlap. The user is asking if the Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015, which is in effect from 2015-04-29 to 2025-04-09, overlaps with the Improvement of Land Act 1864, which has dates from 2025-07-29 to"
+  },
+  {
+    "task_id": "OB073",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "yes",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Education Act 2005 overlaps with the Police and Criminal Evidence Act 1984. Let me start by recalling what each of these acts does.\n\nFirst, the Education Act 2005. I know that this act is part of the UK's education legislation. It probably deals with t",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Education Act 2005 overlaps with the Police and Criminal Evidence Act 1984. They provided specific date ranges: the Education Act runs from April 7, 2005, to April 9, 2025, and the Police and Criminal Evidence Act is from October 31, 1984, to M"
+  },
+  {
+    "task_id": "OB074",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Dawat-e-Hadiyah Act 1993 is overlapped by the Mines and Quarries Act 1954. Hmm, first I need to figure out what these two acts are about. Let me start by recalling any information I have about these laws.\n\nThe Mines and Quarries Act 1954 sounds like a ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Dawat-e-Hadiyah Act 1993 overlaps with the Mines and Quarries Act 1954. The dates given are from 1993-07-01 to 2025-07-01 for the first act and from 1954-11-25 to 2025-04-14 for the second. \n\nFirst, I need to understand what it means for two le"
+  },
+  {
+    "task_id": "OB075",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Finance Act 1988 is overlapped by the Sailors and Soldiers (Gifts for Land Settlement) Act 1916. Hmm, first I need to understand what each of these acts does. Let me start by recalling what I know about these two pieces of legislation.\n\nThe Finance Act",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Finance Act 1988 overlaps with the Sailors and Soldiers (Gifts for Land Settlement) Act 1916. They provided the date ranges for both acts: Finance Act 1988 from 1988-07-29 to 2025-03-03, and Sailors and Soldiers Act 1916 from 1916-12-22 to 2013"
+  },
+  {
+    "task_id": "OB076",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Penalties for Drunkenness Act 1962 has been overlapped by the Sports Grounds Safety Authority Act 2011. Hmm, first, I should probably understand what each of these acts does. Let me start by recalling what I know about the 1962 Act. From the name, it soun",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the 'Penalties for Drunkenness Act 1962' overlaps with the 'Sports Grounds Safety Authority Act 2011'. The dates given are from 1962-08-01 to 2025-07-01 for the first act and from 2011-07-12 to 2025-07-01 for the second. \n\nFirst, I need to understa"
+  },
+  {
+    "task_id": "OB077",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Supreme Court (Offices) Act 1997' is overlapped by the 'Drugs Act 2005'. Let me start by understanding what each of these acts does.\n\nFirst, the Supreme Court (Offices) Act 1997. I know that in the UK, the Supreme Court was established later, in 2009,",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Supreme Court (Offices) Act 1997 was overlapped by the Drugs Act 2005. They provided specific dates for each act. First, I need to understand what \"overlapped\" means in this context. I think they're asking if there was a period when both acts w"
+  },
+  {
+    "task_id": "OB078",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "yes",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the 'Diocesan Stipends Funds (Amendment) Measure 2016' overlaps with the 'Pensions Act 2007'. Let me start by understanding what each of these pieces of legislation is about.\n\nFirst, the Pensions Act 2007. I remember that this Act was a significant piece of U",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Diocesan Stipends Funds (Amendment) Measure 2016 overlaps with the Pensions Act 2007. They provided specific date ranges: the Diocesan Stipends Measure runs from 2016-03-16 to 2025-07-01, and the Pensions Act 2007 was in effect from 2007-07-26 "
+  },
+  {
+    "task_id": "OB079",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Parliamentary Standards Act 2009 is overlapped by the Strikes (Minimum Service Levels) Act 2023. Hmm, first, I should probably understand what each of these acts does. Let me start by recalling what I know about the Parliamentary Standards Act 2009. From ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Parliamentary Standards Act 2009 and the Strikes (Minimum Service Levels) Act 2023 overlap in their time periods. The dates given are from 2009-07-21 to 2023-03-08 for the first act and from 2023-07-20 to 2025-07-01 for the second one.\n\nFirst, "
+  },
+  {
+    "task_id": "OB080",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Solicitors (Scotland) Act 1988 overlaps with the Public Registers and Records (Scotland) Act 1948. Let me start by understanding what each of these acts is about.\n\nFirst, the Solicitors (Scotland) Act 1988. I know that in Scotland, solicitors are regulate",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Solicitors (Scotland) Act 1988 overlaps with the Public Registers and Records (Scotland) Act 1948. They provided specific date ranges: the 1988 Act runs from 1988-07-29 to 2025-07-01, and the 1948 Act from 1948-07-30 to 2022-01-05. \n\nFirst, I n"
+  },
+  {
+    "task_id": "OB081",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Consolidated Fund Act 2008 overlaps with the Administration of Justice Act 1960. Let me start by understanding what each of these acts does.\n\nFirst, the Consolidated Fund Act 2008. From what I remember, the Consolidated Fund is the main public fund of ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Consolidated Fund Act 2008 and the Administration of Justice Act 1960 overlapped in their periods of validity. The dates given are from 2008-12-18 to 2015-02-17 for the Consolidated Fund Act, and from 1960-10-27 to 2022-07-19 for the Administra"
+  },
+  {
+    "task_id": "OB082",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the School Grants Act 1855 is overlapped by the Housing Act 1974. Hmm, that seems a bit odd at first glance because they're from very different time periods and probably deal with different areas. Let me start by recalling what each of these acts might cover.\n\n",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the 'School Grants Act 1855' overlaps with the 'Housing Act 1974'. The dates given for the School Grants Act are from 2025-07-14 to 2025-07-01, which seems a bit confusing because the end date is before the start date. That might be a typo, but I n"
+  },
+  {
+    "task_id": "OB083",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "yes",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Refreshment Houses Act 1964 has been overlapped by the Criminal Law (Consolidation) (Scotland) Act 1995. Let me start by understanding both acts.\n\nFirst, the Refreshment Houses Act 1964. I know that this act relates to licensing laws in Scotland, speci",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if the Refreshment Houses Act 1964 was overlapped by the Criminal Law (Consolidation) (Scotland) Act 1995. First, I need to understand the dates involved. The Refreshment Houses Act 1964 was in effect from July 31, 1964, to March 18, 2015. The Criminal Law Act w"
+  },
+  {
+    "task_id": "OB084",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Railways Act 1921 is overlapped by the Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010. Hmm, that's an interesting question. Let me start by understanding both pieces of legislation.\n\nFirst, the Railways Act 1921. I know that this w",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the 'Railways Act 1921' overlaps with the 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010'. The dates given are from 1921-08-19 to 2025-07-01 for the Railways Act, and from 2010-03-12 to 2025-07-01 for the Water and Sewerage Act.\n\nF"
+  },
+  {
+    "task_id": "OB085",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Product Security and Telecommunications Infrastructure Act 2022 (PSTIA) overlaps with the Powers of Attorney Act 2023 (POAA). Let me start by recalling what each of these acts is about.\n\nFirst, the PSTIA. From what I remember, this UK legislation is aimed",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether two UK acts overlap in their effective dates. The acts mentioned are the Product Security and Telecommunications Infrastructure Act 2022 and the Powers of Attorney Act 2023. The dates given are from 2022-12-06 to 2025-07-01 for the first act, and f"
+  },
+  {
+    "task_id": "OB086",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Criminal Justice (Terrorism and Conspiracy) Act 1998 is overlapped by the Mission and Pastoral Measure 2011. Hmm, first, I should probably understand what each of these acts or measures does. Let me start by recalling what I know about the 1998 Act. \n\nThe",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether two legal instruments in the UK overlap in their time periods. The first one is the Criminal Justice (Terrorism and Conspiracy) Act 1998, which was in effect from September 4, 1998, to October 12, 2021. The second is the Mission and Pastoral Measur"
+  },
+  {
+    "task_id": "OB087",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the 'Veterans Advisory and Pensions Committees Act 2023' overlaps with the 'European Communities (Finance) Act 2001'. Let me start by understanding what each of these acts is about.\n\nFirst, the Veterans Advisory and Pensions Committees Act 2023. From the titl",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether two specific acts overlap in their time periods. The acts are the Veterans Advisory and Pensions Committees Act 2023 and the European Communities (Finance) Act 2001. The dates given for the first act are from September 18, 2023, to July 1, 2025. Th"
+  },
+  {
+    "task_id": "OB088",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Export Control Act 2002 overlaps with the Belfast Charitable Society Act 1996. Let me start by understanding what each of these acts is about.\n\nFirst, the Export Control Act 2002. I know that export control laws generally deal with regulating the expor",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Export Control Act 2002 overlaps with the Belfast Charitable Society Act 1996. They provided specific dates for each act. First, I need to understand what each act does and their effective dates.\n\nThe Export Control Act 2002 was in effect from "
+  },
+  {
+    "task_id": "OB089",
+    "expected_overlapped_by": "yes",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Consolidated Fund (No. 2) Act 1998 overlaps with the Solicitors Act 1974. Let me start by understanding what each of these acts is about. \n\nFirst, the Consolidated Fund (No. 2) Act 1998. From the name, it sounds like it's related to government finances, s",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Consolidated Fund (No. 2) Act 1998 overlaps with the Solicitors Act 1974. They provided specific date ranges: the Consolidated Fund Act runs from 1998-12-17 to 2025-07-01, and the Solicitors Act from 1974-07-31 to 2025-01-13. \n\nFirst, I need to"
+  },
+  {
+    "task_id": "OB090",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Justices of the Peace Act 1949' is overlapped by the 'Aberdeen Harbour Order Confirmation Act 1992'. Hmm, first I need to understand what each of these acts does and if there's any overlap between them.\n\nStarting with the Justices of the Peace Act 194",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the 'Justices of the Peace Act 1949' (which was in effect from 1949-12-16 to 2015-05-07) was overlapped by the 'Aberdeen Harbour Order Confirmation Act 1992' (effective from 1992-03-06 to 2025-07-01). \n\nFirst, I need to understand what they mean by"
+  },
+  {
+    "task_id": "OB091",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Offices, Shops and Railway Premises Act 1963 (OS&R Act) is overlapped by the Sustainable Communities Act 2007 (SCA). Let me start by recalling what each of these acts does.\n\nFirst, the OS&R Act 1963. From what I remember, this UK legislation was about reg",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Offices, Shops and Railway Premises Act 1963 (OSR Act) was overlapped by the Sustainable Communities Act 2007 (SCA). They provided dates for each: OSR Act from 1963-07-31 to 2021-09-29, and SCA from 2007-10-23 to 2018-08-24.\n\nFirst, I need to u"
+  },
+  {
+    "task_id": "OB092",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Northern Ireland (Loans) Act 1975 was overlapped by the Housing Act 1974. Hmm, first, I should probably start by understanding what each of these acts is about. Let me break it down.\n\nThe Northern Ireland (Loans) Act 1975 – I'm not too familiar with this ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Northern Ireland (Loans) Act 1975 overlaps with the Housing Act 1974. They provided the dates each Act was in effect: Northern Ireland (Loans) Act 1975 from 1975-12-19 to 2025-07-01, and Housing Act 1974 from 1974-07-31 to 2025-07-01. \n\nFirst, "
+  },
+  {
+    "task_id": "OB093",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "yes",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Sustainable Communities Act 2007 overlaps with the Autism Act (Northern Ireland) 2011. Let me start by understanding what each of these acts is about.\n\nFirst, the Sustainable Communities Act 2007. From what I remember, this UK legislation is aimed at prom",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Sustainable Communities Act 2007 overlaps with the Autism Act (Northern Ireland) 2011. They provided the dates for each. First, I need to check the time periods each act was in effect.\n\nThe Sustainable Communities Act 2007 started on October 23, 200"
+  },
+  {
+    "task_id": "OB094",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Non-Domestic Rating Act 2023 overlaps with the Modern Slavery Act 2015. Let me start by understanding what each of these acts is about.\n\nFirst, the Modern Slavery Act 2015. I remember that this UK legislation aims to combat modern slavery, which includes hu",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Non-Domestic Rating Act 2023 overlaps with the Modern Slavery Act 2015. The dates given are from 2023-10-26 to 2025-06-08 for the Non-Domestic Rating Act and from 2015-03-26 to 2022-07-29 for the Modern Slavery Act.\n\nFirst, I need to understand what"
+  },
+  {
+    "task_id": "OB095",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Geological Survey Act 1845 is overlapped by the Water Act 2014. Hmm, first, I should probably understand what each of these acts does. Let me start by recalling what I know about the Geological Survey Act 1845. I think it's a UK law that established the B",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the 'Geological Survey Act 1845' overlaps with the 'Water Act 2014'. The dates given for the Geological Survey Act are from 2025-07-31 to 2025-07-01, which seems a bit confusing because usually, the start date should be before the end date. Wait, 2025-0"
+  },
+  {
+    "task_id": "OB096",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Prevention of Crimes Act 1871 is overlapped by the Public Audit (Wales) Act 2013. Hmm, first I need to understand what each of these acts does. Let me start by recalling what I know about the Prevention of Crimes Act 1871. From what I remember, this is",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Prevention of Crimes Act 1871 overlaps with the Public Audit (Wales) Act 2013. The dates given for the 1871 Act are from 1871-08-21 to 2025-07-01, and the 2013 Act runs from 2013-04-29 to 2023-02-17. \n\nFirst, I need to understand what it means "
+  },
+  {
+    "task_id": "OB097",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016 overlaps with the City of London (Approved Premises for Marriage) Act 1996. Hmm, first, I should probably understand what each of these acts is about. Let me start by breaking dow",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether two specific acts overlap in their time periods. The acts are the 'Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016' which was in effect from 2016-05-12 to 2022-09-26, and the 'City of London (Approved Premises for Marria"
+  },
+  {
+    "task_id": "OB098",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Environmental Protection (Single-use Plastic Products) (Wales) Act 2023 overlaps with the Medway Ports Authority Act 1973. Let me start by understanding what each of these acts is about.\n\nFirst, the 2023 Act from Wales is about environmental protection, s",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's tackle this question about whether the Environmental Protection (Single-use Plastic Products) (Wales) Act 2023 overlaps with the Medway Ports Authority Act 1973. First, I need to understand what each of these acts is about and their respective scopes.\n\nStarting with the Medway Po"
+  },
+  {
+    "task_id": "OB099",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the Employment Act (Northern Ireland) 2010 overlaps with the Commons Registration (East Sussex) Act 1994. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling what I know about the Employment Act 2010 in Norther",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Employment Act (Northern Ireland) 2010 overlaps with the Commons Registration (East Sussex) Act 1994. The dates given are from 2010-08-02 to 2025-07-01 for the Employment Act, and from 1994-07-05 to 2025-07-01 for the Commons Registration Act.\n\nFirs"
+  },
+  {
+    "task_id": "OB100",
+    "expected_overlapped_by": "no",
+    "qwen_answer_inferred": "no",
+    "qwen_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out if the United Kingdom Internal Market Act 2020 overlaps with the Matrimonial Homes (Family Protection) (Scotland) Act 1981. Hmm, first, I should probably understand what each of these acts is about. Let me start by recalling what I know about the UK Internal Mar",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether two specific UK acts overlap in their time periods. The acts in question are the United Kingdom Internal Market Act 2020 and the Matrimonial Homes (Family Protection) (Scotland) Act 1981. The dates given for the Internal Market Act are from 2020-12"
+  }
+]

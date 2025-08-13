@@ -1,0 +1,2783 @@
+[
+  {
+    "task_id": "RE001",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "10",
+      "13",
+      "14",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "ground_truth_recitals": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "missing_recitals": [
+      "11",
+      "12"
+    ],
+    "extra_recitals": [
+      "13",
+      "14"
+    ],
+    "gemini_text_snippet": "Article 1 of the GDPR, \"Subject-matter and objectives,\" is fundamental and sets the stage for the entire Regulation. As such, it is closely reflected in several introductory recitals that outline the core purpose and scope of the GDPR.\n\nThe most directly corresponding recitals are:\n\n1.  **Recital 1:"
+  },
+  {
+    "task_id": "RE002",
+    "correct": false,
+    "gemini_recitals": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "2",
+      "201",
+      "6",
+      "680",
+      "9"
+    ],
+    "ground_truth_recitals": [
+      "13",
+      "14",
+      "15",
+      "16",
+      "18",
+      "19",
+      "20",
+      "21",
+      "27"
+    ],
+    "missing_recitals": [
+      "16",
+      "18",
+      "19",
+      "20",
+      "21",
+      "27"
+    ],
+    "extra_recitals": [
+      "10",
+      "11",
+      "12",
+      "2",
+      "201",
+      "6",
+      "680",
+      "9"
+    ],
+    "gemini_text_snippet": "Article 2 of the GDPR, \"Material scope,\" defines what activities and types of processing the Regulation applies to and, crucially, what it does not.\n\nThe corresponding recitals that provide context, explanation, and justification for Article 2 include:\n\n*   **Recital 9:** Clarifies that the protecti"
+  },
+  {
+    "task_id": "RE003",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "2",
+      "22",
+      "23",
+      "24",
+      "25",
+      "3"
+    ],
+    "ground_truth_recitals": [
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "1",
+      "2",
+      "3"
+    ],
+    "gemini_text_snippet": "Article 3 GDPR (Territorial scope) is primarily elaborated upon and explained by the following recitals:\n\n*   **Recital 22:** This recital addresses the \"establishment\" criterion (Article 3(1)), clarifying when processing is considered to be \"in the context of the activities of an establishment.\"\n* "
+  },
+  {
+    "task_id": "RE004",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "10",
+      "11",
+      "14",
+      "15",
+      "16",
+      "2",
+      "23",
+      "24",
+      "26",
+      "3",
+      "30",
+      "32",
+      "33",
+      "34",
+      "35",
+      "39",
+      "4",
+      "5",
+      "6",
+      "7",
+      "74",
+      "8",
+      "9"
+    ],
+    "ground_truth_recitals": [
+      "15",
+      "24",
+      "26",
+      "28",
+      "29",
+      "30",
+      "31",
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "missing_recitals": [
+      "28",
+      "29",
+      "31",
+      "36",
+      "37"
+    ],
+    "extra_recitals": [
+      "1",
+      "10",
+      "11",
+      "14",
+      "16",
+      "2",
+      "23",
+      "3",
+      "32",
+      "33",
+      "39",
+      "4",
+      "5",
+      "6",
+      "7",
+      "74",
+      "8",
+      "9"
+    ],
+    "gemini_text_snippet": "Article 4 of the GDPR, which defines key terms, is foundational to the entire regulation. As such, many recitals implicitly or explicitly elaborate on these definitions and their implications. While no single recital directly \"defines\" a term (that's the job of the article), many provide crucial con"
+  },
+  {
+    "task_id": "RE005",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "2",
+      "32",
+      "39",
+      "40",
+      "5",
+      "74",
+      "78",
+      "83"
+    ],
+    "ground_truth_recitals": [
+      "39",
+      "74"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "1",
+      "2",
+      "32",
+      "40",
+      "5",
+      "78",
+      "83"
+    ],
+    "gemini_text_snippet": "Article 5 of the GDPR, which lays out the fundamental \"Principles relating to processing of personal data,\" is supported by several key recitals that elaborate on its meaning and implications.\n\nThe most directly relevant recitals include:\n\n*   **Recital 39:** This is the *primary* recital for Articl"
+  },
+  {
+    "task_id": "RE006",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "39",
+      "40",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "6"
+    ],
+    "ground_truth_recitals": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "50",
+      "171"
+    ],
+    "missing_recitals": [
+      "171",
+      "41",
+      "50"
+    ],
+    "extra_recitals": [
+      "1",
+      "6"
+    ],
+    "gemini_text_snippet": "Article 6 of the GDPR, \"Lawfulness of processing,\" is a cornerstone of the regulation. Several recitals provide crucial context and explanation for its provisions.\n\nHere are the corresponding recitals that directly relate to Art. 6:\n\n*   **Recital 39:** Emphasizes the principles of **lawfulness**, f"
+  },
+  {
+    "task_id": "RE007",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "2",
+      "3",
+      "32",
+      "4",
+      "42",
+      "43",
+      "7"
+    ],
+    "ground_truth_recitals": [
+      "32",
+      "33",
+      "42",
+      "43"
+    ],
+    "missing_recitals": [
+      "33"
+    ],
+    "extra_recitals": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "7"
+    ],
+    "gemini_text_snippet": "The GDPR recitals that correspond most directly to **Article 7 (Conditions for consent)** are:\n\n1.  **Recital 32:** This recital is foundational. It elaborates on the characteristics of valid consent, stating it should be \"freely given, specific, informed and unambiguous.\" It also mentions the requi"
+  },
+  {
+    "task_id": "RE008",
+    "correct": false,
+    "gemini_recitals": [
+      "32",
+      "38",
+      "42",
+      "58",
+      "8"
+    ],
+    "ground_truth_recitals": [
+      "38"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "32",
+      "42",
+      "58",
+      "8"
+    ],
+    "gemini_text_snippet": "The primary recital corresponding to Article 8 GDPR, \"Conditions applicable to child's consent in relation to information society services,\" is:\n\n*   **Recital 38:** This recital explicitly states that \"Children merit specific protection with regard to their personal data, as they may be less aware "
+  },
+  {
+    "task_id": "RE009",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "10",
+      "156",
+      "2",
+      "3",
+      "34",
+      "35",
+      "4",
+      "5",
+      "51",
+      "52",
+      "53",
+      "54",
+      "55",
+      "56",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "ground_truth_recitals": [
+      "46",
+      "51",
+      "52",
+      "53",
+      "54",
+      "55",
+      "56"
+    ],
+    "missing_recitals": [
+      "46"
+    ],
+    "extra_recitals": [
+      "1",
+      "10",
+      "156",
+      "2",
+      "3",
+      "34",
+      "35",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "gemini_text_snippet": "Article 9 of the GDPR, concerning the \"Processing of special categories of personal data,\" is supported and elaborated upon by several Recitals. These Recitals explain the rationale behind the strict rules, define certain terms, and provide context for the exceptions.\n\nHere are the most correspondin"
+  },
+  {
+    "task_id": "RE010",
+    "correct": false,
+    "gemini_recitals": [
+      "10",
+      "19",
+      "52",
+      "9"
+    ],
+    "ground_truth_recitals": [
+      "50"
+    ],
+    "missing_recitals": [
+      "50"
+    ],
+    "extra_recitals": [
+      "10",
+      "19",
+      "52",
+      "9"
+    ],
+    "gemini_text_snippet": "The primary and most direct recital corresponding to **Article 10 GDPR (Processing of personal data relating to criminal convictions and offences)** is:\n\n*   **Recital 19:** This recital directly addresses the processing of personal data relating to criminal convictions and offences, stating that it"
+  },
+  {
+    "task_id": "RE011",
+    "correct": false,
+    "gemini_recitals": [
+      "11",
+      "2",
+      "26",
+      "57"
+    ],
+    "ground_truth_recitals": [
+      "57"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "11",
+      "2",
+      "26"
+    ],
+    "gemini_text_snippet": "The primary recital directly corresponding to Article 11 GDPR (Processing which does not require identification) is:\n\n*   **Recital 57:** This recital explicitly states that \"it may not be possible to ascertain the identity of the data subject where the controller processes personal data for purpose"
+  },
+  {
+    "task_id": "RE012",
+    "correct": false,
+    "gemini_recitals": [
+      "12",
+      "14",
+      "39",
+      "58",
+      "59",
+      "60",
+      "61"
+    ],
+    "ground_truth_recitals": [
+      "38",
+      "58",
+      "59",
+      "60",
+      "73"
+    ],
+    "missing_recitals": [
+      "38",
+      "73"
+    ],
+    "extra_recitals": [
+      "12",
+      "14",
+      "39",
+      "61"
+    ],
+    "gemini_text_snippet": "Article 12 GDPR, which focuses on transparent information, communication, and modalities for the exercise of data subject rights, is primarily supported by the following recitals:\n\n*   **Recital 58:** This recital directly addresses the need for transparent, intelligible, and easily accessible infor"
+  },
+  {
+    "task_id": "RE013",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "13",
+      "14",
+      "2",
+      "3",
+      "32",
+      "39",
+      "4",
+      "42",
+      "43",
+      "5",
+      "58",
+      "60",
+      "61",
+      "62",
+      "71"
+    ],
+    "ground_truth_recitals": [
+      "60",
+      "61",
+      "62"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "1",
+      "13",
+      "14",
+      "2",
+      "3",
+      "32",
+      "39",
+      "4",
+      "42",
+      "43",
+      "5",
+      "58",
+      "71"
+    ],
+    "gemini_text_snippet": "Article 13 GDPR, which outlines the information to be provided where personal data are collected from the data subject, is supported by several recitals that provide context, justification, and further explanation.\n\nThe most directly corresponding and important recitals include:\n\n1.  **Recital 39:**"
+  },
+  {
+    "task_id": "RE014",
+    "correct": false,
+    "gemini_recitals": [
+      "14",
+      "5",
+      "60",
+      "61",
+      "62"
+    ],
+    "ground_truth_recitals": [
+      "60",
+      "61",
+      "62"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "14",
+      "5"
+    ],
+    "gemini_text_snippet": "The corresponding Recital(s) for Article 14 GDPR (\"Information to be provided where personal data have not been obtained from the data subject\") are primarily:\n\n*   **Recital 61:** This recital directly addresses the duty to inform the data subject when their personal data has *not* been obtained di"
+  },
+  {
+    "task_id": "RE015",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "58",
+      "59",
+      "63",
+      "64",
+      "65"
+    ],
+    "ground_truth_recitals": [
+      "63",
+      "64"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "1",
+      "15",
+      "2",
+      "3",
+      "4",
+      "5",
+      "58",
+      "59",
+      "65"
+    ],
+    "gemini_text_snippet": "The following Recitals are most directly corresponding to or elaborate upon **Article 15 GDPR - Right of access by the data subject**:\n\n1.  **Recital 58:** Emphasizes the principle of **transparency** and how information should be easily accessible, explicitly stating it includes \"information regard"
+  },
+  {
+    "task_id": "RE016",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "16",
+      "19",
+      "2",
+      "3",
+      "39",
+      "65",
+      "66"
+    ],
+    "ground_truth_recitals": [
+      "65"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "1",
+      "16",
+      "19",
+      "2",
+      "3",
+      "39",
+      "66"
+    ],
+    "gemini_text_snippet": "The GDPR recitals that most directly correspond to **Article 16 GDPR, the Right to Rectification**, are:\n\n1.  **Recital 39:** This recital lays down the general principles of data processing, including the principle of accuracy. It states: \"Any personal data that are inaccurate, incomplete or out of"
+  },
+  {
+    "task_id": "RE017",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "17",
+      "21",
+      "3",
+      "32",
+      "39",
+      "53",
+      "57",
+      "65",
+      "66",
+      "71"
+    ],
+    "ground_truth_recitals": [
+      "65",
+      "66"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "1",
+      "17",
+      "21",
+      "3",
+      "32",
+      "39",
+      "53",
+      "57",
+      "71"
+    ],
+    "gemini_text_snippet": "The following recitals are particularly relevant to GDPR Article 17, the Right to erasure ('right to be forgotten'):\n\n*   **Recital 65:** This recital directly addresses the right to rectification and erasure, emphasizing that data subjects should have the right to have personal data rectified and a"
+  },
+  {
+    "task_id": "RE018",
+    "correct": false,
+    "gemini_recitals": [
+      "18",
+      "39",
+      "65",
+      "67"
+    ],
+    "ground_truth_recitals": [
+      "67"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "18",
+      "39",
+      "65"
+    ],
+    "gemini_text_snippet": "The primary and most direct corresponding recital for **Article 18 GDPR (Right to restriction of processing)** is:\n\n*   **Recital 67 (Right to restriction of processing)**: This recital directly elaborates on the conditions and implications of the right to restriction, mirroring the provisions of Ar"
+  },
+  {
+    "task_id": "RE019",
+    "correct": false,
+    "gemini_recitals": [
+      "19",
+      "59",
+      "65",
+      "66",
+      "67"
+    ],
+    "ground_truth_recitals": [
+      "66"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "19",
+      "59",
+      "65",
+      "67"
+    ],
+    "gemini_text_snippet": "Article 19 GDPR, which outlines the notification obligation regarding rectification or erasure of personal data or restriction of processing, is closely related to the general principles of data subject rights and the specific rights it refers to (rectification, erasure, restriction).\n\nThe most rele"
+  },
+  {
+    "task_id": "RE020",
+    "correct": false,
+    "gemini_recitals": [
+      "20",
+      "68"
+    ],
+    "ground_truth_recitals": [
+      "68"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "20"
+    ],
+    "gemini_text_snippet": "The primary and most directly corresponding recital for **Article 20 GDPR - Right to data portability** is:\n\n*   **Recital 68:** This recital explains the purpose and conditions of the right to data portability, emphasizing the data subject's control over their data, the need for data to be in a str"
+  },
+  {
+    "task_id": "RE021",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "159",
+      "2",
+      "21",
+      "3",
+      "4",
+      "47",
+      "58",
+      "6",
+      "60",
+      "69",
+      "70",
+      "71"
+    ],
+    "ground_truth_recitals": [
+      "69",
+      "70"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "1",
+      "159",
+      "2",
+      "21",
+      "3",
+      "4",
+      "47",
+      "58",
+      "6",
+      "60",
+      "71"
+    ],
+    "gemini_text_snippet": "Here are the corresponding recitals for **Article 21 GDPR - Right to object**:\n\nThe key recitals that explain and support the right to object are:\n\n*   **Recital 47 (Legitimate Interest and Direct Marketing):** This recital explains that a legitimate interest might exist for direct marketing, but cr"
+  },
+  {
+    "task_id": "RE022",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "2",
+      "22",
+      "3",
+      "4",
+      "60",
+      "71",
+      "72",
+      "75"
+    ],
+    "ground_truth_recitals": [
+      "71",
+      "72",
+      "91"
+    ],
+    "missing_recitals": [
+      "91"
+    ],
+    "extra_recitals": [
+      "1",
+      "2",
+      "22",
+      "3",
+      "4",
+      "60",
+      "75"
+    ],
+    "gemini_text_snippet": "The most relevant and corresponding recitals for **Article 22 GDPR: Automated individual decision-making, including profiling** are:\n\n1.  **Recital 71:** This is the primary and most comprehensive recital that directly supports and explains Article 22. It covers the necessity of safeguards for decis"
+  },
+  {
+    "task_id": "RE023",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "10",
+      "12",
+      "22",
+      "23",
+      "34",
+      "4",
+      "49",
+      "5",
+      "73"
+    ],
+    "ground_truth_recitals": [
+      "73"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "1",
+      "10",
+      "12",
+      "22",
+      "23",
+      "34",
+      "4",
+      "49",
+      "5"
+    ],
+    "gemini_text_snippet": "Article 23 GDPR, which allows for restrictions on the scope of the rights and obligations laid down in Articles 12 to 22 and Article 34, as well as Article 5 in so far as its provisions correspond to the rights and obligations provided for in Articles 12 to 22, has several corresponding recitals tha"
+  },
+  {
+    "task_id": "RE024",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "2",
+      "24",
+      "25",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "74",
+      "75",
+      "78",
+      "83",
+      "84"
+    ],
+    "ground_truth_recitals": [
+      "74",
+      "75",
+      "76",
+      "77"
+    ],
+    "missing_recitals": [
+      "76",
+      "77"
+    ],
+    "extra_recitals": [
+      "1",
+      "2",
+      "24",
+      "25",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "78",
+      "83",
+      "84"
+    ],
+    "gemini_text_snippet": "For Article 24 GDPR, \"Responsibility of the controller,\" the following recitals are particularly relevant as they provide context, justification, and further explanation:\n\n1.  **Recital 74: Responsibility of the controller:** This is the most direct and crucial recital. It explicitly states: \"The re"
+  },
+  {
+    "task_id": "RE025",
+    "correct": false,
+    "gemini_recitals": [
+      "25",
+      "78"
+    ],
+    "ground_truth_recitals": [
+      "78"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "25"
+    ],
+    "gemini_text_snippet": "The corresponding recital for Art. 25 GDPR (Data protection by design and by default) is primarily:\n\n*   **Recital 78:** This recital directly addresses and elaborates on the concepts of data protection by design and by default, explaining the need for appropriate technical and organisational measur"
+  },
+  {
+    "task_id": "RE026",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "2",
+      "26",
+      "3",
+      "4",
+      "5",
+      "74",
+      "78",
+      "79"
+    ],
+    "ground_truth_recitals": [
+      "58",
+      "79"
+    ],
+    "missing_recitals": [
+      "58"
+    ],
+    "extra_recitals": [
+      "1",
+      "2",
+      "26",
+      "3",
+      "4",
+      "5",
+      "74",
+      "78"
+    ],
+    "gemini_text_snippet": "Article 26 GDPR on \"Joint controllers\" is primarily underpinned by the general principles of controller responsibility and accountability, as well as the need for transparency and safeguarding data subject rights.\n\nThe most relevant recitals are:\n\n1.  **Recital 79 – General principles for controller"
+  },
+  {
+    "task_id": "RE027",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "2",
+      "22",
+      "23",
+      "24",
+      "27",
+      "3",
+      "30",
+      "4",
+      "5",
+      "80"
+    ],
+    "ground_truth_recitals": [
+      "80"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "1",
+      "2",
+      "22",
+      "23",
+      "24",
+      "27",
+      "3",
+      "30",
+      "4",
+      "5"
+    ],
+    "gemini_text_snippet": "The GDPR recitals that correspond most directly to **Article 27 GDPR – Representatives of controllers or processors not established in the Union** are:\n\n1.  **Recital 22:** This recital sets the stage for the extra-territorial scope of the GDPR (Article 3(2)), which is the primary reason why a repre"
+  },
+  {
+    "task_id": "RE028",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "2",
+      "28",
+      "3",
+      "32",
+      "33",
+      "34",
+      "39",
+      "4",
+      "5",
+      "6",
+      "74",
+      "79",
+      "80",
+      "83",
+      "84"
+    ],
+    "ground_truth_recitals": [
+      "81"
+    ],
+    "missing_recitals": [
+      "81"
+    ],
+    "extra_recitals": [
+      "1",
+      "2",
+      "28",
+      "3",
+      "32",
+      "33",
+      "34",
+      "39",
+      "4",
+      "5",
+      "6",
+      "74",
+      "79",
+      "80",
+      "83",
+      "84"
+    ],
+    "gemini_text_snippet": "Article 28 GDPR (Processor) is supported by several recitals, which provide context and justification for its requirements. The most relevant recitals include:\n\n1.  **Recital 39:** Emphasises the principles relating to processing personal data, including integrity and confidentiality, and accountabi"
+  },
+  {
+    "task_id": "RE029",
+    "correct": false,
+    "gemini_recitals": [
+      "29",
+      "74",
+      "78",
+      "83"
+    ],
+    "ground_truth_recitals": [],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "29",
+      "74",
+      "78",
+      "83"
+    ],
+    "gemini_text_snippet": "Article 29 GDPR, \"Processing under the authority of the controller or processor,\" is most directly supported and explained by the following recitals:\n\n*   **Recital 74:** This recital generally highlights the **responsibility of the controller** for any processing of personal data carried out \"by th"
+  },
+  {
+    "task_id": "RE030",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "2",
+      "30",
+      "74",
+      "82"
+    ],
+    "ground_truth_recitals": [
+      "13",
+      "82"
+    ],
+    "missing_recitals": [
+      "13"
+    ],
+    "extra_recitals": [
+      "1",
+      "2",
+      "30",
+      "74"
+    ],
+    "gemini_text_snippet": "Article 30 GDPR, which mandates the **Records of processing activities**, is primarily supported by the following recitals:\n\n1.  **Recital 82: Records of processing activities**\n    This is the most direct corresponding recital, essentially serving as the preamble to Article 30 itself. It states:\n  "
+  },
+  {
+    "task_id": "RE031",
+    "correct": false,
+    "gemini_recitals": [
+      "125",
+      "31",
+      "73"
+    ],
+    "ground_truth_recitals": [
+      "82"
+    ],
+    "missing_recitals": [
+      "82"
+    ],
+    "extra_recitals": [
+      "125",
+      "31",
+      "73"
+    ],
+    "gemini_text_snippet": "The most directly corresponding recital for Article 31 GDPR (Cooperation with the supervisory authority) is:\n\n*   **Recital 73:** This recital explicitly states that \"Controllers and processors should be obliged to cooperate with the supervisory authority and make available, on request, the informat"
+  },
+  {
+    "task_id": "RE032",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "2",
+      "3",
+      "32",
+      "39",
+      "4",
+      "5",
+      "74",
+      "75",
+      "76",
+      "83"
+    ],
+    "ground_truth_recitals": [
+      "75",
+      "76",
+      "77",
+      "78",
+      "79",
+      "83"
+    ],
+    "missing_recitals": [
+      "77",
+      "78",
+      "79"
+    ],
+    "extra_recitals": [
+      "1",
+      "2",
+      "3",
+      "32",
+      "39",
+      "4",
+      "5",
+      "74"
+    ],
+    "gemini_text_snippet": "Article 32 GDPR, \"Security of processing,\" is strongly supported and elaborated upon by several recitals, particularly those that address the general principles of security, the risk-based approach, and the specific measures to be taken.\n\nThe most directly corresponding recitals are:\n\n1.  **Recital "
+  },
+  {
+    "task_id": "RE033",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "2",
+      "3",
+      "33",
+      "4",
+      "5",
+      "72",
+      "74",
+      "75",
+      "84",
+      "85",
+      "87"
+    ],
+    "ground_truth_recitals": [
+      "85",
+      "87",
+      "88"
+    ],
+    "missing_recitals": [
+      "88"
+    ],
+    "extra_recitals": [
+      "1",
+      "2",
+      "3",
+      "33",
+      "4",
+      "5",
+      "72",
+      "74",
+      "75",
+      "84"
+    ],
+    "gemini_text_snippet": "The following Recitals are most directly corresponding or highly relevant to **Article 33 GDPR: Notification of a personal data breach to the supervisory authority**:\n\n1.  **Recital 85:** This is the primary and most direct recital, explaining the rationale behind notifying the supervisory authority"
+  },
+  {
+    "task_id": "RE034",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "2",
+      "3",
+      "33",
+      "34",
+      "4",
+      "85",
+      "86",
+      "87",
+      "88"
+    ],
+    "ground_truth_recitals": [
+      "86",
+      "87",
+      "88"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "1",
+      "2",
+      "3",
+      "33",
+      "34",
+      "4",
+      "85"
+    ],
+    "gemini_text_snippet": "For GDPR Article 34 (Communication of a personal data breach to the data subject), the most corresponding recitals, which provide context, justification, and interpretation, are:\n\n1.  **Recital 85:** This recital broadly covers the *general principle* of data breach notification. It states that a pe"
+  },
+  {
+    "task_id": "RE035",
+    "correct": false,
+    "gemini_recitals": [
+      "35",
+      "36",
+      "75",
+      "76",
+      "77",
+      "78",
+      "79",
+      "84"
+    ],
+    "ground_truth_recitals": [
+      "75",
+      "84",
+      "89",
+      "90",
+      "91",
+      "92",
+      "93"
+    ],
+    "missing_recitals": [
+      "89",
+      "90",
+      "91",
+      "92",
+      "93"
+    ],
+    "extra_recitals": [
+      "35",
+      "36",
+      "76",
+      "77",
+      "78",
+      "79"
+    ],
+    "gemini_text_snippet": "For **Article 35 GDPR (Data Protection Impact Assessment)**, the most relevant corresponding recitals are:\n\n*   **Recital 75:** Discusses the **risk to the rights and freedoms of natural persons** as the underlying reason for implementing measures like DPIAs. It states that \"The risk to the rights a"
+  },
+  {
+    "task_id": "RE036",
+    "correct": false,
+    "gemini_recitals": [
+      "36",
+      "5",
+      "84",
+      "85",
+      "94",
+      "95",
+      "96"
+    ],
+    "ground_truth_recitals": [
+      "94",
+      "95",
+      "96"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "36",
+      "5",
+      "84",
+      "85"
+    ],
+    "gemini_text_snippet": "Article 36 GDPR (Prior consultation) is primarily supported and elaborated upon by the following recitals:\n\n*   **Recital 84:** This is the most direct and crucial recital. It states that \"Where a data protection impact assessment indicates that processing operations involve a high risk which the co"
+  },
+  {
+    "task_id": "RE037",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "2",
+      "3",
+      "37",
+      "4",
+      "5",
+      "74",
+      "90",
+      "97",
+      "98",
+      "99"
+    ],
+    "ground_truth_recitals": [
+      "97"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "1",
+      "2",
+      "3",
+      "37",
+      "4",
+      "5",
+      "74",
+      "90",
+      "98",
+      "99"
+    ],
+    "gemini_text_snippet": "For Article 37 GDPR, \"Designation of the data protection officer,\" the most relevant corresponding recitals are:\n\n1.  **Recital 97:** This is the primary recital for the DPO. It explains the purpose of the DPO, their role in assisting the controller/processor to monitor internal compliance, inform a"
+  },
+  {
+    "task_id": "RE038",
+    "correct": false,
+    "gemini_recitals": [
+      "38",
+      "97"
+    ],
+    "ground_truth_recitals": [
+      "97"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "38"
+    ],
+    "gemini_text_snippet": "The primary corresponding recital for Art. 38 GDPR \"Position of the data protection officer\" is:\n\n*   **Recital 97:** This recital elaborates on the independence of the data protection officer, stating that they \"should be able to perform their duties and tasks in an independent manner.\" It also men"
+  },
+  {
+    "task_id": "RE039",
+    "correct": false,
+    "gemini_recitals": [
+      "39",
+      "97",
+      "98",
+      "99"
+    ],
+    "ground_truth_recitals": [
+      "97"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "39",
+      "98",
+      "99"
+    ],
+    "gemini_text_snippet": "The Recitals that correspond most directly to **Article 39 GDPR - Tasks of the data protection officer** are:\n\n*   **Recital 97:** This recital provides the general context and rationale for the data protection officer, their role, and the need for their expertise. It sets the stage for the tasks ou"
+  },
+  {
+    "task_id": "RE040",
+    "correct": false,
+    "gemini_recitals": [
+      "100",
+      "40",
+      "42",
+      "74",
+      "77",
+      "98",
+      "99"
+    ],
+    "ground_truth_recitals": [
+      "98",
+      "99"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "100",
+      "40",
+      "42",
+      "74",
+      "77"
+    ],
+    "gemini_text_snippet": "For **Article 40 GDPR (Codes of conduct)**, the most directly corresponding recitals are:\n\n*   **Recital 77:** This recital directly states that \"codes of conduct or certification mechanisms\" can be used by controllers and processors to demonstrate compliance with the GDPR. It sets the stage for Art"
+  },
+  {
+    "task_id": "RE041",
+    "correct": false,
+    "gemini_recitals": [
+      "100",
+      "41",
+      "77"
+    ],
+    "ground_truth_recitals": [],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "100",
+      "41",
+      "77"
+    ],
+    "gemini_text_snippet": "Article 41 GDPR on \"Monitoring of approved codes of conduct\" is primarily supported by and explained in:\n\n*   **Recital 77:** This recital directly discusses the role of codes of conduct and certification mechanisms in demonstrating compliance. Crucially, it states: \"The monitoring of the applicatio"
+  },
+  {
+    "task_id": "RE042",
+    "correct": false,
+    "gemini_recitals": [
+      "42",
+      "81",
+      "82",
+      "83",
+      "84",
+      "85"
+    ],
+    "ground_truth_recitals": [
+      "100"
+    ],
+    "missing_recitals": [
+      "100"
+    ],
+    "extra_recitals": [
+      "42",
+      "81",
+      "82",
+      "83",
+      "84",
+      "85"
+    ],
+    "gemini_text_snippet": "Article 42 GDPR deals with the concept of **Certification** and data protection seals and marks.\n\nThe corresponding recitals that provide context and explanation for Article 42 are primarily:\n\n*   **Recital 81:** This recital directly introduces the idea of \"certification mechanisms and data protect"
+  },
+  {
+    "task_id": "RE043",
+    "correct": false,
+    "gemini_recitals": [
+      "100",
+      "101",
+      "200",
+      "43",
+      "765",
+      "8",
+      "99"
+    ],
+    "ground_truth_recitals": [],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "100",
+      "101",
+      "200",
+      "43",
+      "765",
+      "8",
+      "99"
+    ],
+    "gemini_text_snippet": "The primary recitals corresponding to **Article 43 GDPR (Certification bodies)** are:\n\n*   **Recital 99:** This recital emphasizes the encouragement of certification mechanisms, data protection seals, and marks to enhance transparency and compliance. It sets the general context for certification.\n  "
+  },
+  {
+    "task_id": "RE044",
+    "correct": false,
+    "gemini_recitals": [
+      "101",
+      "102",
+      "103",
+      "107",
+      "108",
+      "110",
+      "111",
+      "115",
+      "116",
+      "44"
+    ],
+    "ground_truth_recitals": [
+      "101",
+      "102"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "103",
+      "107",
+      "108",
+      "110",
+      "111",
+      "115",
+      "116",
+      "44"
+    ],
+    "gemini_text_snippet": "Article 44 GDPR, \"General principle for transfers,\" establishes that any transfer of personal data to a third country or an international organisation may take place only if the conditions laid down in Chapter V of the GDPR are complied with by the controller and processor, including for onward tran"
+  },
+  {
+    "task_id": "RE045",
+    "correct": false,
+    "gemini_recitals": [
+      "101",
+      "102",
+      "103",
+      "104",
+      "105",
+      "106",
+      "107",
+      "108",
+      "45"
+    ],
+    "ground_truth_recitals": [
+      "103",
+      "104",
+      "105",
+      "106",
+      "107"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "101",
+      "102",
+      "108",
+      "45"
+    ],
+    "gemini_text_snippet": "Article 45 GDPR, which deals with \"Transfers on the basis of an adequacy decision,\" is primarily supported and explained by the following recitals:\n\n*   **Recital 101:** Emphasizes the need for international cooperation and adequate protection for personal data when transferred outside the Union.\n* "
+  },
+  {
+    "task_id": "RE046",
+    "correct": false,
+    "gemini_recitals": [
+      "107",
+      "108",
+      "109",
+      "110",
+      "46"
+    ],
+    "ground_truth_recitals": [
+      "108",
+      "109"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "107",
+      "110",
+      "46"
+    ],
+    "gemini_text_snippet": "Article 46 GDPR, which deals with \"Transfers subject to appropriate safeguards,\" is supported and explained by several recitals. These recitals provide the context, rationale, and underlying principles for the requirements of Article 46.\n\nThe most relevant recitals are:\n\n*   **Recital 107:** This re"
+  },
+  {
+    "task_id": "RE047",
+    "correct": false,
+    "gemini_recitals": [
+      "108",
+      "109",
+      "110",
+      "111",
+      "47"
+    ],
+    "ground_truth_recitals": [
+      "110"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "108",
+      "109",
+      "111",
+      "47"
+    ],
+    "gemini_text_snippet": "Article 47 GDPR (Binding Corporate Rules) is primarily supported and explained by the following recitals:\n\n*   **Recital 108:** This recital directly introduces and describes the purpose of binding corporate rules as a mechanism for international transfers within a group of undertakings or enterpris"
+  },
+  {
+    "task_id": "RE048",
+    "correct": false,
+    "gemini_recitals": [
+      "115",
+      "48"
+    ],
+    "ground_truth_recitals": [
+      "115"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "48"
+    ],
+    "gemini_text_snippet": "The corresponding recital for **Article 48 GDPR: Transfers or disclosures not authorised by Union law** is primarily:\n\n*   **Recital 115:** This recital directly addresses the issue of third countries adopting laws or requiring disclosures (e.g., through court judgments or administrative decisions) "
+  },
+  {
+    "task_id": "RE049",
+    "correct": false,
+    "gemini_recitals": [
+      "106",
+      "107",
+      "49"
+    ],
+    "ground_truth_recitals": [
+      "111",
+      "112",
+      "113",
+      "114",
+      "115"
+    ],
+    "missing_recitals": [
+      "111",
+      "112",
+      "113",
+      "114",
+      "115"
+    ],
+    "extra_recitals": [
+      "106",
+      "107",
+      "49"
+    ],
+    "gemini_text_snippet": "The primary Recitals corresponding to Article 49 GDPR (\"Derogations for specific situations\") are:\n\n*   **Recital 106:** This Recital directly addresses the possibility of transfers based on derogations for specific situations, such as explicit consent, the necessity for the performance of a contrac"
+  },
+  {
+    "task_id": "RE050",
+    "correct": false,
+    "gemini_recitals": [
+      "10",
+      "11",
+      "117",
+      "125",
+      "128",
+      "13",
+      "130",
+      "50"
+    ],
+    "ground_truth_recitals": [
+      "116"
+    ],
+    "missing_recitals": [
+      "116"
+    ],
+    "extra_recitals": [
+      "10",
+      "11",
+      "117",
+      "125",
+      "128",
+      "13",
+      "130",
+      "50"
+    ],
+    "gemini_text_snippet": "Interestingly, **Article 50 GDPR (International cooperation for the protection of personal data)** does not have a specific, dedicated recital that directly corresponds to it in the same way some other articles do.\n\nArticle 50 is more of an operational and facilitative article, outlining how supervi"
+  },
+  {
+    "task_id": "RE051",
+    "correct": false,
+    "gemini_recitals": [
+      "117",
+      "118",
+      "119",
+      "120",
+      "121",
+      "122",
+      "123",
+      "124",
+      "51"
+    ],
+    "ground_truth_recitals": [
+      "117",
+      "118",
+      "119",
+      "120"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "121",
+      "122",
+      "123",
+      "124",
+      "51"
+    ],
+    "gemini_text_snippet": "Article 51 GDPR, \"Supervisory authority,\" is primarily supported by and explained in the following Recitals:\n\n*   **Recital 117:** Emphasizes the essential nature of independent supervisory authorities for the protection of individuals' personal data.\n*   **Recital 118:** Directly states the require"
+  },
+  {
+    "task_id": "RE052",
+    "correct": false,
+    "gemini_recitals": [
+      "117",
+      "118",
+      "52"
+    ],
+    "ground_truth_recitals": [
+      "117",
+      "118",
+      "120",
+      "121"
+    ],
+    "missing_recitals": [
+      "120",
+      "121"
+    ],
+    "extra_recitals": [
+      "52"
+    ],
+    "gemini_text_snippet": "Article 52 GDPR on \"Independence\" of the supervisory authority primarily corresponds with the following Recitals:\n\n*   **Recital 117:** This recital emphasizes that the establishment of supervisory authorities exercising their functions with complete independence is an \"essential component\" of data "
+  },
+  {
+    "task_id": "RE053",
+    "correct": false,
+    "gemini_recitals": [
+      "117",
+      "118",
+      "120",
+      "121",
+      "53"
+    ],
+    "ground_truth_recitals": [
+      "121"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "117",
+      "118",
+      "120",
+      "53"
+    ],
+    "gemini_text_snippet": "For **Article 53 GDPR (General conditions for the members of the supervisory authority)**, the most directly corresponding recital is:\n\n*   **Recital 120:** This recital explicitly addresses the need for members of the supervisory authority and its staff to be \"free from external influence, whether "
+  },
+  {
+    "task_id": "RE054",
+    "correct": false,
+    "gemini_recitals": [
+      "117",
+      "118",
+      "119",
+      "54"
+    ],
+    "ground_truth_recitals": [
+      "117",
+      "121"
+    ],
+    "missing_recitals": [
+      "121"
+    ],
+    "extra_recitals": [
+      "118",
+      "119",
+      "54"
+    ],
+    "gemini_text_snippet": "Article 54 GDPR, which deals with \"Rules on the establishment of the supervisory authority,\" is primarily supported and elaborated upon by the following recitals:\n\n*   **Recital 117:** This recital emphasizes the *need* for independent public authorities in each Member State to monitor the applicati"
+  },
+  {
+    "task_id": "RE055",
+    "correct": false,
+    "gemini_recitals": [
+      "124",
+      "125",
+      "126",
+      "127",
+      "128",
+      "129",
+      "130",
+      "131",
+      "133",
+      "55"
+    ],
+    "ground_truth_recitals": [
+      "122"
+    ],
+    "missing_recitals": [
+      "122"
+    ],
+    "extra_recitals": [
+      "124",
+      "125",
+      "126",
+      "127",
+      "128",
+      "129",
+      "130",
+      "131",
+      "133",
+      "55"
+    ],
+    "gemini_text_snippet": "Article 55 GDPR, titled \"Competence,\" primarily deals with the **competence of the lead supervisory authority** in cases of cross-border processing.\n\nThe most directly corresponding recital is:\n\n*   **Recital 124:** \"Competence of the lead supervisory authority to deal with cross-border processing.\""
+  },
+  {
+    "task_id": "RE056",
+    "correct": false,
+    "gemini_recitals": [
+      "124",
+      "125",
+      "127",
+      "129",
+      "130",
+      "131",
+      "56"
+    ],
+    "ground_truth_recitals": [
+      "124",
+      "127",
+      "128"
+    ],
+    "missing_recitals": [
+      "128"
+    ],
+    "extra_recitals": [
+      "125",
+      "129",
+      "130",
+      "131",
+      "56"
+    ],
+    "gemini_text_snippet": "Article 56 GDPR, concerning the \"Competence of the lead supervisory authority,\" is primarily underpinned by the recitals that explain the \"one-stop-shop\" mechanism and the broader cooperation and consistency framework.\n\nThe most relevant recitals are:\n\n*   **Recital 124:** Defines the concept of the"
+  },
+  {
+    "task_id": "RE057",
+    "correct": false,
+    "gemini_recitals": [
+      "117",
+      "118",
+      "119",
+      "120",
+      "121",
+      "122",
+      "126",
+      "127",
+      "130",
+      "57"
+    ],
+    "ground_truth_recitals": [
+      "122",
+      "123",
+      "132",
+      "133",
+      "137"
+    ],
+    "missing_recitals": [
+      "123",
+      "132",
+      "133",
+      "137"
+    ],
+    "extra_recitals": [
+      "117",
+      "118",
+      "119",
+      "120",
+      "121",
+      "126",
+      "127",
+      "130",
+      "57"
+    ],
+    "gemini_text_snippet": "Article 57 GDPR, which outlines the \"Tasks of the supervisory authority,\" is supported by several recitals that set out the rationale, independence, and operational framework for these authorities.\n\nThe most relevant recitals include:\n\n*   **Recital 117:** Emphasises the need for **independent super"
+  },
+  {
+    "task_id": "RE058",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "10",
+      "11",
+      "12",
+      "125",
+      "126",
+      "127",
+      "13",
+      "148",
+      "149",
+      "150",
+      "2",
+      "3",
+      "4",
+      "5",
+      "58"
+    ],
+    "ground_truth_recitals": [
+      "122",
+      "129",
+      "131"
+    ],
+    "missing_recitals": [
+      "122",
+      "129",
+      "131"
+    ],
+    "extra_recitals": [
+      "1",
+      "10",
+      "11",
+      "12",
+      "125",
+      "126",
+      "127",
+      "13",
+      "148",
+      "149",
+      "150",
+      "2",
+      "3",
+      "4",
+      "5",
+      "58"
+    ],
+    "gemini_text_snippet": "Article 58 of the GDPR outlines the \"Powers\" of the supervisory authorities. The corresponding recitals provide the context, justification, and further explanation for these powers.\n\nHere are the key recitals directly or indirectly related to Article 58:\n\n1.  **Recital 125:** This is the most direct"
+  },
+  {
+    "task_id": "RE059",
+    "correct": false,
+    "gemini_recitals": [
+      "121",
+      "122",
+      "123",
+      "134",
+      "135",
+      "59"
+    ],
+    "ground_truth_recitals": [],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "121",
+      "122",
+      "123",
+      "134",
+      "135",
+      "59"
+    ],
+    "gemini_text_snippet": "The most directly corresponding recital for **Article 59 GDPR (Activity reports)** is:\n\n*   **Recital 122:** This recital explicitly states the purpose and content of the annual activity reports from supervisory authorities, mirroring the requirements laid out in Article 59. It states that \"Each sup"
+  },
+  {
+    "task_id": "RE060",
+    "correct": false,
+    "gemini_recitals": [
+      "10",
+      "11",
+      "125",
+      "126",
+      "127",
+      "60"
+    ],
+    "ground_truth_recitals": [
+      "124",
+      "125",
+      "130"
+    ],
+    "missing_recitals": [
+      "124",
+      "130"
+    ],
+    "extra_recitals": [
+      "10",
+      "11",
+      "126",
+      "127",
+      "60"
+    ],
+    "gemini_text_snippet": "Article 60 GDPR, \"Cooperation between the lead supervisory authority and the other supervisory authorities concerned,\" is primarily elaborated upon and supported by the following recitals:\n\n*   **Recital 125:** This recital directly addresses the concept of the lead supervisory authority (LSA) and i"
+  },
+  {
+    "task_id": "RE061",
+    "correct": false,
+    "gemini_recitals": [
+      "120",
+      "121",
+      "122",
+      "123",
+      "126",
+      "6",
+      "61"
+    ],
+    "ground_truth_recitals": [
+      "123",
+      "132",
+      "133"
+    ],
+    "missing_recitals": [
+      "132",
+      "133"
+    ],
+    "extra_recitals": [
+      "120",
+      "121",
+      "122",
+      "126",
+      "6",
+      "61"
+    ],
+    "gemini_text_snippet": "Article 61 GDPR, \"Mutual assistance,\" is primarily supported by the following Recitals, which explain the rationale and context for the cooperation and consistency mechanisms:\n\n*   **Recital 123:** This is the most direct and relevant recital, explicitly stating: \"Supervisory authorities should assi"
+  },
+  {
+    "task_id": "RE062",
+    "correct": false,
+    "gemini_recitals": [
+      "133",
+      "135",
+      "62"
+    ],
+    "ground_truth_recitals": [
+      "126",
+      "134"
+    ],
+    "missing_recitals": [
+      "126",
+      "134"
+    ],
+    "extra_recitals": [
+      "133",
+      "135",
+      "62"
+    ],
+    "gemini_text_snippet": "The primary Recitals corresponding to **Article 62 GDPR (Joint operations of supervisory authorities)** are:\n\n*   **Recital 135:** This Recital directly introduces and explains the need for \"joint operations\" by supervisory authorities, including joint investigations and enforcement measures, partic"
+  },
+  {
+    "task_id": "RE063",
+    "correct": false,
+    "gemini_recitals": [
+      "10",
+      "11",
+      "116",
+      "12",
+      "13",
+      "134",
+      "135",
+      "136",
+      "137",
+      "138",
+      "63"
+    ],
+    "ground_truth_recitals": [
+      "135"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "10",
+      "11",
+      "116",
+      "12",
+      "13",
+      "134",
+      "136",
+      "137",
+      "138",
+      "63"
+    ],
+    "gemini_text_snippet": "The primary and most directly corresponding recital for **Article 63 GDPR (Consistency mechanism)** is:\n\n*   **Recital 116:** This recital explicitly states the purpose of the consistency mechanism and the role of the European Data Protection Board (EDPB) in ensuring the consistent application of th"
+  },
+  {
+    "task_id": "RE064",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "10",
+      "123",
+      "124",
+      "135",
+      "136",
+      "137",
+      "140",
+      "141",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "64",
+      "7",
+      "8"
+    ],
+    "ground_truth_recitals": [
+      "136"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "1",
+      "10",
+      "123",
+      "124",
+      "135",
+      "137",
+      "140",
+      "141",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "64",
+      "7",
+      "8"
+    ],
+    "gemini_text_snippet": "Article 64 GDPR, which outlines the \"Opinion of the Board\" (the European Data Protection Board - EDPB), is closely related to the GDPR's overarching goal of ensuring consistent application across the European Union.\n\nThe most corresponding recitals that establish the purpose and function of the EDPB"
+  },
+  {
+    "task_id": "RE065",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "10",
+      "127",
+      "139",
+      "140",
+      "141",
+      "2",
+      "3",
+      "4",
+      "5",
+      "65"
+    ],
+    "ground_truth_recitals": [
+      "136"
+    ],
+    "missing_recitals": [
+      "136"
+    ],
+    "extra_recitals": [
+      "1",
+      "10",
+      "127",
+      "139",
+      "140",
+      "141",
+      "2",
+      "3",
+      "4",
+      "5",
+      "65"
+    ],
+    "gemini_text_snippet": "Article 65 GDPR, which deals with \"Dispute resolution by the Board\" (the European Data Protection Board - EDPB), is primarily supported and explained by the following Recitals:\n\n1.  **Recital 127:** This Recital directly sets the stage for Article 65 by stating: \"...where there is a dispute between "
+  },
+  {
+    "task_id": "RE066",
+    "correct": false,
+    "gemini_recitals": [
+      "131",
+      "132",
+      "133",
+      "134",
+      "66"
+    ],
+    "ground_truth_recitals": [
+      "137",
+      "138"
+    ],
+    "missing_recitals": [
+      "137",
+      "138"
+    ],
+    "extra_recitals": [
+      "131",
+      "132",
+      "133",
+      "134",
+      "66"
+    ],
+    "gemini_text_snippet": "For GDPR Article 66 (\"Urgency procedure\"), the most directly corresponding recital is:\n\n*   **Recital 134:** This recital explicitly discusses the need for an urgency procedure within the consistency mechanism. It states: \"In order to ensure the consistent application of this Regulation throughout t"
+  },
+  {
+    "task_id": "RE067",
+    "correct": false,
+    "gemini_recitals": [
+      "130",
+      "67"
+    ],
+    "ground_truth_recitals": [],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "130",
+      "67"
+    ],
+    "gemini_text_snippet": "The corresponding recital for **Article 67 GDPR \"Exchange of information\"** is:\n\n*   **Recital 130**\n\nRecital 130 states: \"The tasks of the supervisory authorities involved in the consistency mechanism should include handling complaints, conducting investigations, and exchanging information, includi"
+  },
+  {
+    "task_id": "RE068",
+    "correct": false,
+    "gemini_recitals": [
+      "139",
+      "140",
+      "141",
+      "142",
+      "68"
+    ],
+    "ground_truth_recitals": [
+      "139"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "140",
+      "141",
+      "142",
+      "68"
+    ],
+    "gemini_text_snippet": "Article 68 GDPR, which establishes the European Data Protection Board (EDPB), is primarily supported and contextualized by the following Recitals:\n\n*   **Recital 139:** Explains the need for a \"consistency mechanism\" to ensure consistent application of the Regulation throughout the Union, laying the"
+  },
+  {
+    "task_id": "RE069",
+    "correct": false,
+    "gemini_recitals": [
+      "117",
+      "118",
+      "69"
+    ],
+    "ground_truth_recitals": [
+      "139"
+    ],
+    "missing_recitals": [
+      "139"
+    ],
+    "extra_recitals": [
+      "117",
+      "118",
+      "69"
+    ],
+    "gemini_text_snippet": "Article 69 GDPR, titled \"Independence,\" deals with the independent status of the supervisory authorities.\n\nThe most corresponding recitals that elaborate on the independence of supervisory authorities are:\n\n*   **Recital 117:** This recital establishes the fundamental need for \"independent public au"
+  },
+  {
+    "task_id": "RE070",
+    "correct": false,
+    "gemini_recitals": [
+      "139",
+      "140",
+      "141",
+      "142",
+      "143",
+      "144",
+      "70"
+    ],
+    "ground_truth_recitals": [
+      "136",
+      "139"
+    ],
+    "missing_recitals": [
+      "136"
+    ],
+    "extra_recitals": [
+      "140",
+      "141",
+      "142",
+      "143",
+      "144",
+      "70"
+    ],
+    "gemini_text_snippet": "The GDPR recitals that correspond to **Article 70 GDPR - Tasks of the Board** are primarily those that establish the European Data Protection Board (EDPB) and elaborate on its functions and purpose. These include:\n\n*   **Recital 139:** This recital directly addresses the establishment of the Europea"
+  },
+  {
+    "task_id": "RE071",
+    "correct": false,
+    "gemini_recitals": [
+      "134",
+      "135",
+      "137",
+      "140",
+      "71"
+    ],
+    "ground_truth_recitals": [],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "134",
+      "135",
+      "137",
+      "140",
+      "71"
+    ],
+    "gemini_text_snippet": "Article 71 GDPR, which requires the European Data Protection Board (EDPB) to draw up an annual report on its activities and make it public, does not have a single, direct corresponding recital that explicitly mandates or explains the *purpose* of this specific report.\n\nHowever, the rationale for the"
+  },
+  {
+    "task_id": "RE072",
+    "correct": false,
+    "gemini_recitals": [
+      "121",
+      "143",
+      "144",
+      "145",
+      "146",
+      "2",
+      "201",
+      "5",
+      "72",
+      "82"
+    ],
+    "ground_truth_recitals": [],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "121",
+      "143",
+      "144",
+      "145",
+      "146",
+      "2",
+      "201",
+      "5",
+      "72",
+      "82"
+    ],
+    "gemini_text_snippet": "Article 72 GDPR, titled \"Procedure,\" deals with the **competence of courts** and the **applicable law** for legal proceedings concerning the right to compensation and liability (as laid out in Article 82 GDPR).\n\nThe most directly corresponding and relevant recitals are:\n\n*   **Recital 145:** This re"
+  },
+  {
+    "task_id": "RE073",
+    "correct": false,
+    "gemini_recitals": [
+      "139",
+      "140",
+      "141",
+      "29",
+      "73"
+    ],
+    "ground_truth_recitals": [],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "139",
+      "140",
+      "141",
+      "29",
+      "73"
+    ],
+    "gemini_text_snippet": "Article 73 of the GDPR is titled \"Tasks of the Chair.\" It outlines the specific responsibilities of the Chair of the European Data Protection Board (EDPB).\n\nWhile recitals do not always map one-to-one with specific articles, the role of the Chair is entirely contextualized by the establishment, purp"
+  },
+  {
+    "task_id": "RE074",
+    "correct": false,
+    "gemini_recitals": [
+      "125",
+      "126",
+      "127",
+      "74"
+    ],
+    "ground_truth_recitals": [],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "125",
+      "126",
+      "127",
+      "74"
+    ],
+    "gemini_text_snippet": "Article 74 GDPR, \"Tasks of the Chair,\" is a highly procedural and organizational article detailing the specific duties of the Chair of the European Data Protection Board (EDPB).\n\nThere isn't a single, directly corresponding recital that explains or justifies the *specific* tasks of the EDPB Chair. R"
+  },
+  {
+    "task_id": "RE075",
+    "correct": false,
+    "gemini_recitals": [
+      "142",
+      "75"
+    ],
+    "ground_truth_recitals": [
+      "140"
+    ],
+    "missing_recitals": [
+      "140"
+    ],
+    "extra_recitals": [
+      "142",
+      "75"
+    ],
+    "gemini_text_snippet": "The primary corresponding recital for **Article 75 GDPR (Secretariat)** is:\n\n*   **Recital 142:** This recital directly addresses the establishment of the European Data Protection Board (EDPB), its independent nature, and the necessity of a secretariat for its administrative, analytical, and logisti"
+  },
+  {
+    "task_id": "RE076",
+    "correct": false,
+    "gemini_recitals": [
+      "117",
+      "141",
+      "76"
+    ],
+    "ground_truth_recitals": [],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "117",
+      "141",
+      "76"
+    ],
+    "gemini_text_snippet": "There is **no single, dedicated recital** that directly and explicitly corresponds to **Article 76 GDPR (Confidentiality)**.\n\nArticle 76 is quite specific in establishing the professional secrecy duty for members and staff of the European Data Protection Board (EDPB) and national supervisory authori"
+  },
+  {
+    "task_id": "RE077",
+    "correct": false,
+    "gemini_recitals": [
+      "73",
+      "77",
+      "78",
+      "79",
+      "80"
+    ],
+    "ground_truth_recitals": [
+      "141"
+    ],
+    "missing_recitals": [
+      "141"
+    ],
+    "extra_recitals": [
+      "73",
+      "77",
+      "78",
+      "79",
+      "80"
+    ],
+    "gemini_text_snippet": "The primary and most directly corresponding recital for **Article 77 GDPR (Right to lodge a complaint with a supervisory authority)** is:\n\n*   **Recital 77:** This recital directly states: \"In order to strengthen the enforcement of the provisions of this Regulation, a data subject should have the **"
+  },
+  {
+    "task_id": "RE078",
+    "correct": false,
+    "gemini_recitals": [
+      "14",
+      "141",
+      "143",
+      "144",
+      "47",
+      "78"
+    ],
+    "ground_truth_recitals": [
+      "141",
+      "143"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "14",
+      "144",
+      "47",
+      "78"
+    ],
+    "gemini_text_snippet": "Article 78 GDPR, concerning the \"Right to an effective judicial remedy against a supervisory authority,\" is primarily supported by the following recitals:\n\n*   **Recital 14 (partially):** This recital broadly mentions the right to lodge a complaint and the right to an effective judicial remedy as pa"
+  },
+  {
+    "task_id": "RE079",
+    "correct": false,
+    "gemini_recitals": [
+      "136",
+      "139",
+      "143",
+      "145",
+      "146",
+      "47",
+      "79"
+    ],
+    "ground_truth_recitals": [
+      "141",
+      "145"
+    ],
+    "missing_recitals": [
+      "141"
+    ],
+    "extra_recitals": [
+      "136",
+      "139",
+      "143",
+      "146",
+      "47",
+      "79"
+    ],
+    "gemini_text_snippet": "The primary and most directly corresponding recital for Article 79 GDPR (Right to an effective judicial remedy against a controller or processor) is:\n\n*   **Recital 145:** This recital explicitly states: \"Every data subject should have a right to lodge a complaint with a supervisory authority, and h"
+  },
+  {
+    "task_id": "RE080",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "121",
+      "122",
+      "123",
+      "126",
+      "2",
+      "3",
+      "4",
+      "77",
+      "78",
+      "79",
+      "80"
+    ],
+    "ground_truth_recitals": [
+      "142"
+    ],
+    "missing_recitals": [
+      "142"
+    ],
+    "extra_recitals": [
+      "1",
+      "121",
+      "122",
+      "123",
+      "126",
+      "2",
+      "3",
+      "4",
+      "77",
+      "78",
+      "79",
+      "80"
+    ],
+    "gemini_text_snippet": "The primary recitals corresponding to **Article 80 GDPR (Representation of data subjects)** are:\n\n1.  **Recital 121:** This recital directly addresses the core of Article 80(1), explaining the rationale for enabling data subjects to mandate a not-for-profit body, organisation, or association to lodg"
+  },
+  {
+    "task_id": "RE081",
+    "correct": false,
+    "gemini_recitals": [
+      "143",
+      "81"
+    ],
+    "ground_truth_recitals": [
+      "144"
+    ],
+    "missing_recitals": [
+      "144"
+    ],
+    "extra_recitals": [
+      "143",
+      "81"
+    ],
+    "gemini_text_snippet": "While there isn't always a one-to-one mapping between articles and recitals, the underlying principles and rationale for Article 81 (Suspension of proceedings) are primarily found in:\n\n*   **Recital 143:** This recital discusses the right to an effective judicial remedy and the need to ensure that p"
+  },
+  {
+    "task_id": "RE082",
+    "correct": false,
+    "gemini_recitals": [
+      "146",
+      "82"
+    ],
+    "ground_truth_recitals": [
+      "146",
+      "147"
+    ],
+    "missing_recitals": [
+      "147"
+    ],
+    "extra_recitals": [
+      "82"
+    ],
+    "gemini_text_snippet": "The primary corresponding recital for **Art. 82 GDPR Right to compensation and liability** is:\n\n*   **Recital 146** (Right of the data subject to compensation and liability)\n\nThis recital provides a comprehensive explanation and justification for the provisions laid out in Article 82, clarifying the"
+  },
+  {
+    "task_id": "RE083",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "148",
+      "150",
+      "2",
+      "58",
+      "83"
+    ],
+    "ground_truth_recitals": [
+      "148",
+      "149",
+      "150",
+      "151",
+      "152"
+    ],
+    "missing_recitals": [
+      "149",
+      "151",
+      "152"
+    ],
+    "extra_recitals": [
+      "1",
+      "2",
+      "58",
+      "83"
+    ],
+    "gemini_text_snippet": "Article 83 GDPR, which sets out the \"General conditions for imposing administrative fines,\" is primarily supported and explained by the following Recitals:\n\n1.  **Recital 148:** This Recital directly addresses the purpose and nature of administrative fines. It states: \"In order to strengthen the enf"
+  },
+  {
+    "task_id": "RE084",
+    "correct": false,
+    "gemini_recitals": [
+      "148",
+      "150",
+      "83",
+      "84"
+    ],
+    "ground_truth_recitals": [
+      "149",
+      "150",
+      "151",
+      "152"
+    ],
+    "missing_recitals": [
+      "149",
+      "151",
+      "152"
+    ],
+    "extra_recitals": [
+      "148",
+      "83",
+      "84"
+    ],
+    "gemini_text_snippet": "The primary recital that directly corresponds to **Article 84 GDPR (Penalties)** is:\n\n*   **Recital 148:** This recital explicitly addresses the need for Member States to lay down rules on penalties for infringements of the Regulation, particularly for infringements that are not subject to administr"
+  },
+  {
+    "task_id": "RE085",
+    "correct": false,
+    "gemini_recitals": [
+      "153",
+      "4",
+      "65",
+      "85"
+    ],
+    "ground_truth_recitals": [
+      "153"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "4",
+      "65",
+      "85"
+    ],
+    "gemini_text_snippet": "The primary and most directly corresponding recital for Article 85 GDPR, \"Processing and freedom of expression and information,\" is:\n\n*   **Recital 153:** This recital explicitly states that \"Member States should reconcile the right to the protection of personal data under this Regulation with the r"
+  },
+  {
+    "task_id": "RE086",
+    "correct": false,
+    "gemini_recitals": [
+      "154",
+      "155",
+      "86"
+    ],
+    "ground_truth_recitals": [
+      "154"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "155",
+      "86"
+    ],
+    "gemini_text_snippet": "The primary corresponding recitals for **Article 86 GDPR (Processing and public access to official documents)** are:\n\n*   **Recital 154:** This recital directly states: \"This Regulation allows the principle of public access to official documents to be taken into account when applying the provisions "
+  },
+  {
+    "task_id": "RE087",
+    "correct": false,
+    "gemini_recitals": [
+      "155",
+      "87"
+    ],
+    "ground_truth_recitals": [],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "155",
+      "87"
+    ],
+    "gemini_text_snippet": "The primary recital directly corresponding to Article 87 GDPR (Processing of the national identification number) is:\n\n*   **Recital 155:** This recital directly addresses the processing of national identification numbers or other identifiers of general application. It emphasizes the need for appropr"
+  },
+  {
+    "task_id": "RE088",
+    "correct": false,
+    "gemini_recitals": [
+      "48",
+      "88"
+    ],
+    "ground_truth_recitals": [
+      "155"
+    ],
+    "missing_recitals": [
+      "155"
+    ],
+    "extra_recitals": [
+      "48",
+      "88"
+    ],
+    "gemini_text_snippet": "The primary and most relevant recital for **Article 88 GDPR (Processing in the context of employment)** is:\n\n*   **Recital 48:** This recital directly addresses the processing of personal data for recruitment and in the context of employment. It states that Member States should be able to provide fo"
+  },
+  {
+    "task_id": "RE089",
+    "correct": false,
+    "gemini_recitals": [
+      "158",
+      "159",
+      "160",
+      "161",
+      "162",
+      "163",
+      "164",
+      "89"
+    ],
+    "ground_truth_recitals": [
+      "156",
+      "157",
+      "158",
+      "159",
+      "160",
+      "161",
+      "162",
+      "163"
+    ],
+    "missing_recitals": [
+      "156",
+      "157"
+    ],
+    "extra_recitals": [
+      "164",
+      "89"
+    ],
+    "gemini_text_snippet": "Article 89 GDPR is primarily supported and explained by the following recitals:\n\n*   **Recital 158:** Explicitly introduces and discusses processing for archiving, scientific, historical, and statistical purposes, highlighting the need for appropriate safeguards.\n*   **Recital 159:** Focuses on scie"
+  },
+  {
+    "task_id": "RE090",
+    "correct": false,
+    "gemini_recitals": [
+      "153",
+      "90"
+    ],
+    "ground_truth_recitals": [
+      "164"
+    ],
+    "missing_recitals": [
+      "164"
+    ],
+    "extra_recitals": [
+      "153",
+      "90"
+    ],
+    "gemini_text_snippet": "The corresponding recital for **Article 90 GDPR (Obligations of secrecy)** is:\n\n*   **Recital 153:** Processing and freedom of expression and information."
+  },
+  {
+    "task_id": "RE091",
+    "correct": false,
+    "gemini_recitals": [
+      "165",
+      "91"
+    ],
+    "ground_truth_recitals": [
+      "165"
+    ],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "91"
+    ],
+    "gemini_text_snippet": "For Article 91 GDPR, the most directly corresponding recital is:\n\n*   **Recital 165:** This recital explicitly addresses the status of churches and religious associations under national law, affirming that the GDPR respects this status while clarifying that any specific data protection rules applied"
+  },
+  {
+    "task_id": "RE092",
+    "correct": false,
+    "gemini_recitals": [
+      "169",
+      "290",
+      "59",
+      "60",
+      "77",
+      "92"
+    ],
+    "ground_truth_recitals": [
+      "166",
+      "167",
+      "168",
+      "169",
+      "170"
+    ],
+    "missing_recitals": [
+      "166",
+      "167",
+      "168",
+      "170"
+    ],
+    "extra_recitals": [
+      "290",
+      "59",
+      "60",
+      "77",
+      "92"
+    ],
+    "gemini_text_snippet": "Article 92 GDPR, titled \"Exercise of the delegation,\" deals with the procedural aspects of the Commission's power to adopt delegated acts, such as the duration of the delegation, the possibility of revocation by the European Parliament or the Council, and the entry into force of such acts.\n\nThe corr"
+  },
+  {
+    "task_id": "RE093",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "164",
+      "165",
+      "182",
+      "2",
+      "201",
+      "93"
+    ],
+    "ground_truth_recitals": [],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "1",
+      "164",
+      "165",
+      "182",
+      "2",
+      "201",
+      "93"
+    ],
+    "gemini_text_snippet": "Article 93 of the GDPR, concerning the Committee procedure, is primarily supported by the following recitals:\n\n*   **Recital 164:** This recital establishes the need for conferring implementing powers on the Commission to ensure uniform application of the Regulation, and refers to Regulation (EU) No"
+  },
+  {
+    "task_id": "RE094",
+    "correct": false,
+    "gemini_recitals": [
+      "170",
+      "46",
+      "94",
+      "95"
+    ],
+    "ground_truth_recitals": [
+      "171"
+    ],
+    "missing_recitals": [
+      "171"
+    ],
+    "extra_recitals": [
+      "170",
+      "46",
+      "94",
+      "95"
+    ],
+    "gemini_text_snippet": "The corresponding recital for Art. 94 GDPR (Repeal of Directive 95/46/EC) is **Recital 170**.\n\n**Recital 170** states: \"This Regulation should repeal Directive 95/46/EC. However, to ensure a consistent level of protection throughout the Union, the minimum harmonisation rule in Directive 95/46/EC sho"
+  },
+  {
+    "task_id": "RE095",
+    "correct": false,
+    "gemini_recitals": [
+      "164",
+      "2",
+      "200",
+      "58",
+      "95"
+    ],
+    "ground_truth_recitals": [
+      "173"
+    ],
+    "missing_recitals": [
+      "173"
+    ],
+    "extra_recitals": [
+      "164",
+      "2",
+      "200",
+      "58",
+      "95"
+    ],
+    "gemini_text_snippet": "The corresponding recital for GDPR Article 95 (Relationship with Directive 2002/58/EC) is **Recital 164**.\n\nRecital 164 explicitly discusses the relationship between the GDPR and Directive 2002/58/EC (the ePrivacy Directive), stating that the GDPR should not impose additional obligations where the e"
+  },
+  {
+    "task_id": "RE096",
+    "correct": false,
+    "gemini_recitals": [
+      "171",
+      "46",
+      "95",
+      "96"
+    ],
+    "ground_truth_recitals": [],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "171",
+      "46",
+      "95",
+      "96"
+    ],
+    "gemini_text_snippet": "Article 96 of the GDPR, \"Relationship with previously concluded Agreements,\" deals with the validity of agreements made under the old Data Protection Directive 95/46/EC.\n\nWhile there isn't a Recital that *exactly* mirrors Article 96 in its specific wording about \"previously concluded agreements invo"
+  },
+  {
+    "task_id": "RE097",
+    "correct": false,
+    "gemini_recitals": [
+      "170",
+      "97"
+    ],
+    "ground_truth_recitals": [],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "170",
+      "97"
+    ],
+    "gemini_text_snippet": "The corresponding recital for **Article 97 GDPR (Commission reports)** is:\n\n*   **Recital 170: Review by the Commission**\n\nRecital 170 explains the rationale and purpose behind the Commission's obligation to regularly review and report on the application of the GDPR, detailing what these reports sho"
+  },
+  {
+    "task_id": "RE098",
+    "correct": false,
+    "gemini_recitals": [
+      "10",
+      "7",
+      "98"
+    ],
+    "ground_truth_recitals": [],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "10",
+      "7",
+      "98"
+    ],
+    "gemini_text_snippet": "Article 98 GDPR, \"Review of other Union legal acts on data protection,\" is a procedural and administrative article.\n\nUnlike many articles that establish rights, obligations, or principles, **there is no specific recital directly corresponding to or explaining Article 98.**\n\nArticle 98 outlines a spe"
+  },
+  {
+    "task_id": "RE099",
+    "correct": false,
+    "gemini_recitals": [
+      "1",
+      "171",
+      "2",
+      "20",
+      "201",
+      "25",
+      "8",
+      "99"
+    ],
+    "ground_truth_recitals": [],
+    "missing_recitals": [],
+    "extra_recitals": [
+      "1",
+      "171",
+      "2",
+      "20",
+      "201",
+      "25",
+      "8",
+      "99"
+    ],
+    "gemini_text_snippet": "Article 99 GDPR, concerning \"Entry into force and application,\" is primarily a procedural article. As such, it doesn't have multiple extensive recitals directly explaining *why* it enters into force or applies.\n\nHowever, the most relevant recital that provides context for the **application date** (a"
+  }
+]

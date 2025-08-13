@@ -1,0 +1,902 @@
+[
+  {
+    "task_id": "CO001",
+    "expected_older": "Greater Manchester (Light Rapid Transit System) Act 1991",
+    "expected_newer": "Budget (No. 2) Act (Northern Ireland) 2014",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Comparing the years in the titles:\n\n*   **'Greater Manchester (Light Rapid Transit System) Act 1991'** was enacted in **1991**.\n*   **'Budget (No. 2) Act (Northern Ireland) 2014'** was enacted in **2014**.\n\nTherefore:\n\n*   The **'Greater Manchester (Light Rapid Transit System) Act 1991'** is **older",
+    "gemini_with_dates_snippet": "Let's compare the enactment dates:\n\n*   **'Greater Manchester (Light Rapid Transit System) Act 1991'** was enacted on **22nd October 1991**.\n*   **'Budget (No. 2) Act (Northern Ireland) 2014'** was enacted on **16th July 2014**.\n\nComparing the years, 1991 is before 2014.\n\nTherefore:\n\n*   The **'Grea"
+  },
+  {
+    "task_id": "CO002",
+    "expected_older": "Police and Criminal Evidence Act 1984",
+    "expected_newer": "General Teaching Council (Directions) Act (Northern Ireland) 2022",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Comparing the years in their titles:\n\n*   **Police and Criminal Evidence Act 1984** was enacted in **1984**.\n*   **General Teaching Council (Directions) Act (Northern Ireland) 2022** was enacted in **2022**.\n\nTherefore:\n\n*   The **Police and Criminal Evidence Act 1984** is **older**.\n*   The **Gener",
+    "gemini_with_dates_snippet": "Let's break down the dates:\n\n*   **Police and Criminal Evidence Act 1984** was enacted on **31st October 1984**.\n*   **General Teaching Council (Directions) Act (Northern Ireland) 2022** was enacted on **6th June 2022**.\n\nComparing the years:\n\n*   **1984** is older than **2022**.\n\nTherefore:\n\n*   Th"
+  },
+  {
+    "task_id": "CO003",
+    "expected_older": "Defective Premises (Landlord’s Liability) Act (Northern Ireland) 2001",
+    "expected_newer": "University of London Act 2018",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The 'Defective Premises (Landlord’s Liability) Act (Northern Ireland) 2001' is **older**.\nThe 'University of London Act 2018' is **newer**.",
+    "gemini_with_dates_snippet": "The older act is the **Defective Premises (Landlord’s Liability) Act (Northern Ireland) 2001**, enacted on 2nd July 2001.\n\nThe newer act is the **University of London Act 2018**, enacted on 20th December 2018."
+  },
+  {
+    "task_id": "CO004",
+    "expected_older": "Sunday Entertainments Act 1932",
+    "expected_newer": "Merchant Shipping (Salvage and Pollution) Act 1994",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Sunday Entertainments Act 1932** is older.\nThe **Merchant Shipping (Salvage and Pollution) Act 1994** is newer.",
+    "gemini_with_dates_snippet": "The **Sunday Entertainments Act 1932** (enacted 13th July 1932) is older.\nThe **Merchant Shipping (Salvage and Pollution) Act 1994** (enacted 21st July 1994) is newer."
+  },
+  {
+    "task_id": "CO005",
+    "expected_older": "Clergy (Ordination) Measure 1990 (",
+    "expected_newer": "Technical and Further Education Act 2017",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Clergy (Ordination) Measure 1990** is older (1990).\n*   **Technical and Further Education Act 2017** is newer (2017).",
+    "gemini_with_dates_snippet": "The **Clergy (Ordination) Measure 1990** (enacted on 22nd February 1990) is **older**.\n\nThe **Technical and Further Education Act 2017** (enacted on 27th April 2017) is **newer**."
+  },
+  {
+    "task_id": "CO006",
+    "expected_older": "Civil List Act 1975",
+    "expected_newer": "Criminal Justice (Scotland) Act 1987",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's look at the years in their titles:\n\n*   **'Criminal Justice (Scotland) Act 1987'** was enacted in **1987**.\n*   **'Civil List Act 1975'** was enacted in **1975**.\n\nTherefore:\n\n*   The **older** legislation is the **'Civil List Act 1975'**.\n*   The **newer** legislation is the **'Criminal Justi",
+    "gemini_with_dates_snippet": "Let's look at the enactment dates:\n\n*   **Civil List Act 1975:** Enacted on 19th December **1975**\n*   **Criminal Justice (Scotland) Act 1987:** Enacted on 15th May **1987**\n\nComparing the years: 1975 is earlier than 1987.\n\nTherefore:\n\n*   The **Civil List Act 1975** is **older**.\n*   The **Criminal"
+  },
+  {
+    "task_id": "CO007",
+    "expected_older": "Malawi Republic Act 1966",
+    "expected_newer": "Sporting Events (Control of Alcohol etc.) Act 1985",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Malawi Republic Act 1966** is older.\n*   **Sporting Events (Control of Alcohol etc.) Act 1985** is newer.",
+    "gemini_with_dates_snippet": "Let's compare the enactment dates:\n\n1.  **Malawi Republic Act 1966:** Enacted on 3rd August 1966\n2.  **Sporting Events (Control of Alcohol etc.) Act 1985:** Enacted on 25th July 1985\n\nComparing the years, 1966 is earlier than 1985.\n\n*   The **'Malawi Republic Act 1966'** is **older**.\n*   The **'Spo"
+  },
+  {
+    "task_id": "CO008",
+    "expected_older": "Married Women’s Property Act 1882",
+    "expected_newer": "Autism Act 2009",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Married Women’s Property Act 1882** is older.\n\nThe **Autism Act 2009** is newer.",
+    "gemini_with_dates_snippet": "Comparing the enactment dates:\n\n*   **Married Women’s Property Act 1882:** Enacted on 18th August **1882**\n*   **Autism Act 2009:** Enacted on 12th November **2009**\n\nThe **Married Women’s Property Act 1882** is older.\nThe **Autism Act 2009** is newer."
+  },
+  {
+    "task_id": "CO009",
+    "expected_older": "Value Added Tax Act 1983",
+    "expected_newer": "Highways (Obstruction by Body Corporate) Act 2004",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Comparing the years in their titles:\n\n*   **Value Added Tax Act 1983** was enacted in 1983.\n*   **Highways (Obstruction by Body Corporate) Act 2004** was enacted in 2004.\n\nTherefore:\n\n*   The **Value Added Tax Act 1983** is **older**.\n*   The **Highways (Obstruction by Body Corporate) Act 2004** is ",
+    "gemini_with_dates_snippet": "Let's compare their enactment dates:\n\n*   **'Value Added Tax Act 1983'**: Enacted on 26th July 1983\n*   **'Highways (Obstruction by Body Corporate) Act 2004'**: Enacted on 15th November 2004\n\nTherefore:\n\n*   **Older**: 'Value Added Tax Act 1983' (enacted in 1983)\n*   **Newer**: 'Highways (Obstructio"
+  },
+  {
+    "task_id": "CO010",
+    "expected_older": "Pneumoconiosis etc. (Workers' Compensation) Act 1979",
+    "expected_newer": "British Waterways Act 1995",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Pneumoconiosis etc. (Workers' Compensation) Act 1979** is older.\n\nThe **British Waterways Act 1995** is newer.",
+    "gemini_with_dates_snippet": "Let's compare their enactment dates:\n\n*   **'Pneumoconiosis etc. (Workers' Compensation) Act 1979'** was enacted on **4th April 1979**.\n*   **'British Waterways Act 1995'** was enacted on **16th January 1995**.\n\nComparing the years, 1979 comes before 1995.\n\nTherefore:\n*   The **'Pneumoconiosis etc. "
+  },
+  {
+    "task_id": "CO011",
+    "expected_older": "Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010",
+    "expected_newer": "Coinage (Measurement) Act 2011",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010** is **older**.\n*   **Coinage (Measurement) Act 2011** is **newer**.",
+    "gemini_with_dates_snippet": "Let's compare their enactment dates:\n\n*   **'Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010'** was enacted on **13th August 2010**.\n*   **'Coinage (Measurement) Act 2011'** was enacted on **3rd November 2011**.\n\nTherefore:\n\n*   The **older** act is the **'Roads (Miscellaneous Provision"
+  },
+  {
+    "task_id": "CO012",
+    "expected_older": "Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010",
+    "expected_newer": "Budget (No. 2) Act (Northern Ireland) 2010",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "To determine which legislation is older and which is newer, we look at their Royal Assent dates:\n\n1.  **Budget (No. 2) Act (Northern Ireland) 2010**\n    *   Royal Assent: **28th June 2010**\n\n2.  **Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010**\n    *   Royal Assent: **21s",
+    "gemini_with_dates_snippet": "*   The **'Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010'** was enacted on 18th March 2010, making it **older**.\n*   The **'Budget (No. 2) Act (Northern Ireland) 2010'** was enacted on 26th March 2010, making it **newer**."
+  },
+  {
+    "task_id": "CO013",
+    "expected_older": "Trade Union and Labour Relations Act 1974",
+    "expected_newer": "Tyne Tunnels Act 1998",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Trade Union and Labour Relations Act 1974** is older.\nThe **Tyne Tunnels Act 1998** is newer.",
+    "gemini_with_dates_snippet": "Comparing the enactment dates:\n\n*   **Trade Union and Labour Relations Act 1974** was enacted on **31st July 1974**.\n*   **Tyne Tunnels Act 1998** was enacted on **8th April 1998**.\n\nThe **Trade Union and Labour Relations Act 1974** is older (1974), and the **Tyne Tunnels Act 1998** is newer (1998)."
+  },
+  {
+    "task_id": "CO014",
+    "expected_older": "Representation of the People Act 1990",
+    "expected_newer": "Police Reform Act 2002",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Representation of the People Act 1990** is older (passed in 1990).\nThe **Police Reform Act 2002** is newer (passed in 2002).",
+    "gemini_with_dates_snippet": "The **Representation of the People Act 1990** (enacted 26th July 1990) is **older**.\nThe **Police Reform Act 2002** (enacted 24th July 2002) is **newer**."
+  },
+  {
+    "task_id": "CO015",
+    "expected_older": "Local Government (Religious",
+    "expected_newer": "Land Acquisition and Compensation (Amendment) Act (Northern Ireland) 2016",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's break them down:\n\n1.  **Land Acquisition and Compensation (Amendment) Act (Northern Ireland) 2016**: The year is clearly stated as **2016**.\n\n2.  **Local Government (Religious**: Although incomplete, the most prominent and commonly referenced legislation that starts with \"Local Government (Rel",
+    "gemini_with_dates_snippet": "Let's compare the enactment dates:\n\n*   **'Local Government (Religious'** was enacted on **26th March 2015**.\n*   **'Land Acquisition and Compensation (Amendment) Act (Northern Ireland) 2016'** was enacted on **12th May 2016**.\n\nTherefore:\n\n*   The **'Local Government (Religious'** is **older**.\n*  "
+  },
+  {
+    "task_id": "CO016",
+    "expected_older": "Southern Rhodesia Act 1979",
+    "expected_newer": "Budget (No. 2) Act (Northern Ireland) 2024",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Southern Rhodesia Act 1979** is older.\n*   **Budget (No. 2) Act (Northern Ireland) 2024** is newer.",
+    "gemini_with_dates_snippet": "Based on the enactment dates:\n\n*   The **'Southern Rhodesia Act 1979'** was enacted on 14th November 1979.\n*   The **'Budget (No. 2) Act (Northern Ireland) 2024'** was enacted on 18th October 2024.\n\nTherefore:\n\n*   The **'Southern Rhodesia Act 1979'** is **older**.\n*   The **'Budget (No. 2) Act (Nor"
+  },
+  {
+    "task_id": "CO017",
+    "expected_older": "Jobseekers (Back to Work Schemes) Act 2013",
+    "expected_newer": "Energy Act 2023",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Comparing the years in the titles:\n\n*   'Energy Act **2023**'\n*   'Jobseekers (Back to Work Schemes) Act **2013**'\n\nTherefore:\n\n*   The **older** legislation is the **Jobseekers (Back to Work Schemes) Act 2013**.\n*   The **newer** legislation is the **Energy Act 2023**.",
+    "gemini_with_dates_snippet": "The **Jobseekers (Back to Work Schemes) Act 2013**, enacted on 26th March 2013, is **older**.\n\nThe **Energy Act 2023**, enacted on 26th October 2023, is **newer**."
+  },
+  {
+    "task_id": "CO018",
+    "expected_older": "Bills of Exchange (Time of Noting) Act 1917",
+    "expected_newer": "Health and Social Care Levy Act 2021",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Bills of Exchange (Time of Noting) Act 1917** is older.\nThe **Health and Social Care Levy Act 2021** is newer.",
+    "gemini_with_dates_snippet": "Let's compare the enactment dates:\n\n*   'Health and Social Care Levy Act 2021' was enacted on **20th October 2021**.\n*   'Bills of Exchange (Time of Noting) Act 1917' was enacted on **8th November 1917**.\n\nComparing the years, 1917 is earlier than 2021.\n\nTherefore:\n\n*   The **'Bills of Exchange (Tim"
+  },
+  {
+    "task_id": "CO019",
+    "expected_older": "Government of Wales Act 1998",
+    "expected_newer": "Education Act 2005",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Government of Wales Act 1998** is older (from 1998).\n*   **Education Act 2005** is newer (from 2005).",
+    "gemini_with_dates_snippet": "The **Government of Wales Act 1998** is older, as it was enacted on 31st July 1998.\n\nThe **Education Act 2005** is newer, as it was enacted on 7th April 2005."
+  },
+  {
+    "task_id": "CO020",
+    "expected_older": "Imperial College Act 1997",
+    "expected_newer": "Beverley Freemen Act 2010",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Imperial College Act 1997** is older.\n*   **Beverley Freemen Act 2010** is newer.",
+    "gemini_with_dates_snippet": "The **Imperial College Act 1997** is older, as it was enacted on 15th July 1997.\n\nThe **Beverley Freemen Act 2010** is newer, as it was enacted on 21st January 2010."
+  },
+  {
+    "task_id": "CO021",
+    "expected_older": "Chronically Sick and Disabled Persons Act 1970",
+    "expected_newer": "Football Spectators Act 1989",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The 'Chronically Sick and Disabled Persons Act **1970**' is older.\nThe 'Football Spectators Act **1989**' is newer.",
+    "gemini_with_dates_snippet": "Let's break it down:\n\n*   **Chronically Sick and Disabled Persons Act 1970:** Enacted on **May 29, 1970**\n*   **Football Spectators Act 1989:** Enacted on **November 16, 1989**\n\nComparing the years, 1970 comes before 1989.\n\nTherefore:\n\n*   The **Chronically Sick and Disabled Persons Act 1970** is **"
+  },
+  {
+    "task_id": "CO022",
+    "expected_older": "Finance Act 1973",
+    "expected_newer": "Leeds Supertram Act 1993",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Comparing the years in their titles:\n\n*   **Finance Act 1973** (1973)\n*   **Leeds Supertram Act 1993** (1993)\n\nThe **Finance Act 1973** is older.\nThe **Leeds Supertram Act 1993** is newer.",
+    "gemini_with_dates_snippet": "*   **Finance Act 1973** (enacted July 25, 1973) is **older**.\n*   **Leeds Supertram Act 1993** (enacted July 27, 1993) is **newer**."
+  },
+  {
+    "task_id": "CO023",
+    "expected_older": "Housing Act 1974",
+    "expected_newer": "St. Austell Market Act 2008",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Comparing the years in their titles:\n\n*   **Housing Act 1974** was enacted in 1974.\n*   **St. Austell Market Act 2008** was enacted in 2008.\n\nTherefore:\n\n*   The **Housing Act 1974** is **older**.\n*   The **St. Austell Market Act 2008** is **newer**.",
+    "gemini_with_dates_snippet": "Let's look at the enactment dates:\n\n*   **Housing Act 1974** was enacted on **31st July 1974**.\n*   **St. Austell Market Act 2008** was enacted on **19th June 2008**.\n\nComparing the years, 1974 is earlier than 2008.\n\nTherefore:\n\n*   The **Housing Act 1974** is **older**.\n*   The **St. Austell Market"
+  },
+  {
+    "task_id": "CO024",
+    "expected_older": "Export Control Act 2002",
+    "expected_newer": "High Speed Rail (Preparation) Act 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's look at the years in the titles:\n\n*   **Export Control Act 2002** was enacted in **2002**.\n*   **High Speed Rail (Preparation) Act 2013** was enacted in **2013**.\n\nTherefore:\n\n*   The **Export Control Act 2002** is **older**.\n*   The **High Speed Rail (Preparation) Act 2013** is **newer**.",
+    "gemini_with_dates_snippet": "Comparing their enactment dates:\n\n*   **'Export Control Act 2002'** was enacted on 24th July 2002.\n*   **'High Speed Rail (Preparation) Act 2013'** was enacted on 21st November 2013.\n\nTherefore:\n\n*   The **'Export Control Act 2002'** is **older**.\n*   The **'High Speed Rail (Preparation) Act 2013'**"
+  },
+  {
+    "task_id": "CO025",
+    "expected_older": "Employment Protection Act 1975",
+    "expected_newer": "Air Travel Organisers' Licensing Act 2017",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's compare the years in their titles:\n\n*   **Employment Protection Act 1975** was enacted in 1975.\n*   **Air Travel Organisers' Licensing Act 2017** was enacted in 2017.\n\nTherefore:\n\n*   The **Employment Protection Act 1975** is older.\n*   The **Air Travel Organisers' Licensing Act 2017** is newe",
+    "gemini_with_dates_snippet": "Let's compare their enactment dates:\n\n*   **Employment Protection Act 1975:** Enacted on 12th November **1975**\n*   **Air Travel Organisers' Licensing Act 2017:** Enacted on 16th November **2017**\n\nThe **Employment Protection Act 1975** is older.\nThe **Air Travel Organisers' Licensing Act 2017** is "
+  },
+  {
+    "task_id": "CO026",
+    "expected_older": "Supply and Appropriation (Main Estimates) Act 2012",
+    "expected_newer": "Access to Medical Treatments (Innovation) Act 2016",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Based on the years in their titles:\n\n*   The **'Supply and Appropriation (Main Estimates) Act 2012'** is **older**.\n*   The **'Access to Medical Treatments (Innovation) Act 2016'** is **newer**.",
+    "gemini_with_dates_snippet": "Let's compare their enactment dates:\n\n*   **'Access to Medical Treatments (Innovation) Act 2016'** was enacted on **23rd March 2016**.\n*   **'Supply and Appropriation (Main Estimates) Act 2012'** was enacted on **17th July 2012**.\n\nComparing the years: 2012 comes before 2016.\n\nTherefore:\n\n*   The **"
+  },
+  {
+    "task_id": "CO027",
+    "expected_older": "Coal Mines Regulation Act 1908",
+    "expected_newer": "Tyne Tunnels Act 1998",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Comparing the years in the titles:\n\n*   **Coal Mines Regulation Act 1908** (1908)\n*   **Tyne Tunnels Act 1998** (1998)\n\nThe **Coal Mines Regulation Act 1908** is older.\nThe **Tyne Tunnels Act 1998** is newer.",
+    "gemini_with_dates_snippet": "Comparing the enactment dates:\n\n*   'Coal Mines Regulation Act 1908' was enacted on **21st December 1908**.\n*   'Tyne Tunnels Act 1998' was enacted on **8th April 1998**.\n\nThe **'Coal Mines Regulation Act 1908'** is older.\nThe **'Tyne Tunnels Act 1998'** is newer."
+  },
+  {
+    "task_id": "CO028",
+    "expected_older": "House of Lords Act 1999",
+    "expected_newer": "Supply and Appropriation (Main Estimates) Act 2011",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **House of Lords Act 1999** is older.\nThe **Supply and Appropriation (Main Estimates) Act 2011** is newer.",
+    "gemini_with_dates_snippet": "Based on the enactment dates provided:\n\n*   The **House of Lords Act 1999** (enacted 11th November 1999) is **older**.\n*   The **Supply and Appropriation (Main Estimates) Act 2011** (enacted 19th July 2011) is **newer**."
+  },
+  {
+    "task_id": "CO029",
+    "expected_older": "Local Government Act 1999",
+    "expected_newer": "Social Security Act (Northern Ireland) 2002",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's look at the years in the titles:\n\n*   **Local Government Act 1999** (Year: 1999)\n*   **Social Security Act (Northern Ireland) 2002** (Year: 2002)\n\nTherefore:\n\n*   The **Local Government Act 1999** is **older**.\n*   The **Social Security Act (Northern Ireland) 2002** is **newer**.",
+    "gemini_with_dates_snippet": "Let's compare the enactment dates:\n\n*   **Local Government Act 1999** was enacted on **27th July 1999**.\n*   **Social Security Act (Northern Ireland) 2002** was enacted on **17th October 2002**.\n\nTherefore:\n\n*   The **Local Government Act 1999** is **older**.\n*   The **Social Security Act (Northern "
+  },
+  {
+    "task_id": "CO030",
+    "expected_older": "Singapore Act 1966",
+    "expected_newer": "Taxation of Pensions Act 2014",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Singapore Act 1966** is the older legislation.\n*   **Taxation of Pensions Act 2014** is the newer legislation.",
+    "gemini_with_dates_snippet": "*   The **'Singapore Act 1966'** (enacted on 9th August 1966) is **older**.\n*   The **'Taxation of Pensions Act 2014'** (enacted on 17th December 2014) is **newer**."
+  },
+  {
+    "task_id": "CO031",
+    "expected_older": "Conveyancing (Scotland) Acts (1874 and 1879) Amendment Act 1887",
+    "expected_newer": "Kew Gardens (Leases) Act 2019",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Conveyancing (Scotland) Acts (1874 and 1879) Amendment Act 1887** is older.\n\nThe **Kew Gardens (Leases) Act 2019** is newer.",
+    "gemini_with_dates_snippet": "Let's compare their enactment dates:\n\n*   **'Kew Gardens (Leases) Act 2019'**: Enacted on **9th September 2019**\n*   **'Conveyancing (Scotland) Acts (1874 and 1879) Amendment Act 1887'**: Enacted on **16th September 1887**\n\nThe **'Conveyancing (Scotland) Acts (1874 and 1879) Amendment Act 1887'** is"
+  },
+  {
+    "task_id": "CO032",
+    "expected_older": "Naval and Military War Pensions, &c., Act 1915",
+    "expected_newer": "Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's break down the years for each:\n\n*   **'Naval and Military War Pensions, &c., Act 1915'** was enacted in **1915**.\n*   **'Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011'** was enacted in **2011**.\n\nTherefore:\n\n*   The **older** legislation is the 'Naval and Militar",
+    "gemini_with_dates_snippet": "Based on their enactment dates:\n\n*   The **'Naval and Military War Pensions, &c., Act 1915'** (enacted 10th November 1915) is **older**.\n*   The **'Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011'** (enacted 12th July 2011) is **newer**."
+  },
+  {
+    "task_id": "CO033",
+    "expected_older": "Supplementary Benefits Act 1976",
+    "expected_newer": "University of London Act 1994",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Supplementary Benefits Act 1976** is older.\nThe **University of London Act 1994** is newer.",
+    "gemini_with_dates_snippet": "The **Supplementary Benefits Act 1976** (enacted on 15th November 1976) is **older**.\n\nThe **University of London Act 1994** (enacted on 3rd November 1994) is **newer**."
+  },
+  {
+    "task_id": "CO034",
+    "expected_older": "Rent (Scotland) Act 1984",
+    "expected_newer": "Clergy Discipline Measure 2003",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Rent (Scotland) Act 1984** is **older** (1984).\n*   **Clergy Discipline Measure 2003** is **newer** (2003).",
+    "gemini_with_dates_snippet": "Let's compare the enactment dates:\n\n*   'Clergy Discipline Measure 2003' was enacted on **10th July 2003**.\n*   'Rent (Scotland) Act 1984' was enacted on **31st October 1984**.\n\nThe year 1984 comes before 2003.\n\nTherefore:\n\n*   The **older** act is the 'Rent (Scotland) Act 1984'.\n*   The **newer** a"
+  },
+  {
+    "task_id": "CO035",
+    "expected_older": "Barclays Group Reorganisation Act 2002",
+    "expected_newer": "Sexual Offences Act 2003",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Barclays Group Reorganisation Act 2002** is older (passed in 2002).\n*   **Sexual Offences Act 2003** is newer (passed in 2003).",
+    "gemini_with_dates_snippet": "The **'Barclays Group Reorganisation Act 2002'** is older, as it was enacted on 7th November 2002.\n\nThe **'Sexual Offences Act 2003'** is newer, as it was enacted on 20th November 2003."
+  },
+  {
+    "task_id": "CO036",
+    "expected_older": "Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017",
+    "expected_newer": "National Insurance Contributions (Secondary Class 1 Contributions) Act 2025",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's look at the years in the titles:\n\n*   'National Insurance Contributions (Secondary Class 1 Contributions) Act **2025**'\n*   'Northern Ireland (Ministerial Appointments and Regional Rates) Act **2017**'\n\nBased on the years:\n\n*   The **Northern Ireland (Ministerial Appointments and Regional Rate",
+    "gemini_with_dates_snippet": "Let's break down the enactment dates:\n\n*   **'National Insurance Contributions (Secondary Class 1 Contributions) Act 2025'** was enacted on **3rd April 2025**.\n*   **'Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017'** was enacted on **27th April 2017**.\n\nComparing the years: "
+  },
+  {
+    "task_id": "CO037",
+    "expected_older": "House of Commons (Removal of Clergy Disqualification) Act 2001",
+    "expected_newer": "Clergy Discipline (Amendment) Measure 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's compare the years in their titles:\n\n*   **House of Commons (Removal of Clergy Disqualification) Act 2001** (Year: 2001)\n*   **Clergy Discipline (Amendment) Measure 2013** (Year: 2013)\n\nTherefore:\n\n*   The **House of Commons (Removal of Clergy Disqualification) Act 2001** is **older**.\n*   The ",
+    "gemini_with_dates_snippet": "*   **House of Commons (Removal of Clergy Disqualification) Act 2001** was enacted on **11th May 2001**.\n*   **Clergy Discipline (Amendment) Measure 2013** was enacted on **26th March 2013**.\n\nTherefore:\n\n*   The **House of Commons (Removal of Clergy Disqualification) Act 2001** is **older**.\n*   Th"
+  },
+  {
+    "task_id": "CO038",
+    "expected_older": "Commons Registration (East Sussex) Act 1994",
+    "expected_newer": "Fisheries (Amendment) Act (Northern Ireland) 2001",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's compare the years in their titles:\n\n*   **Fisheries (Amendment) Act (Northern Ireland) 2001** was enacted in **2001**.\n*   **Commons Registration (East Sussex) Act 1994** was enacted in **1994**.\n\nTherefore:\n\n*   The **Commons Registration (East Sussex) Act 1994** is **older**.\n*   The **Fishe",
+    "gemini_with_dates_snippet": "Let's break down the enactment dates:\n\n*   **'Fisheries (Amendment) Act (Northern Ireland) 2001'** was enacted on **20th March 2001**.\n*   **'Commons Registration (East Sussex) Act 1994'** was enacted on **5th July 1994**.\n\nComparing the years, 1994 comes before 2001.\n\nTherefore:\n\n*   The **older** "
+  },
+  {
+    "task_id": "CO039",
+    "expected_older": "Churchwardens Measure 2001",
+    "expected_newer": "Education Act (Northern Ireland) 2014",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's look at the years in the titles:\n\n*   **Education Act (Northern Ireland) 2014** was enacted in **2014**.\n*   **Churchwardens Measure 2001** was enacted in **2001**.\n\nTherefore:\n\n*   The **Churchwardens Measure 2001** is **older**.\n*   The **Education Act (Northern Ireland) 2014** is **newer**.",
+    "gemini_with_dates_snippet": "Based on their enactment dates:\n\n*   The **Churchwardens Measure 2001** (enacted on 10th April 2001) is **older**.\n*   The **Education Act (Northern Ireland) 2014** (enacted on 11th December 2014) is **newer**."
+  },
+  {
+    "task_id": "CO040",
+    "expected_older": "Great Seal Offices Act 1874",
+    "expected_newer": "Interest on Damages (Scotland) Act 1958",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Great Seal Offices Act 1874** is older.\nThe **Interest on Damages (Scotland) Act 1958** is newer.",
+    "gemini_with_dates_snippet": "Let's compare the enactment dates:\n\n*   **Great Seal Offices Act 1874:** Enacted on 7th August **1874**\n*   **Interest on Damages (Scotland) Act 1958:** Enacted on 1st August **1958**\n\nComparing the years: 1874 is earlier than 1958.\n\nTherefore:\n\n*   The **Great Seal Offices Act 1874** is **older**.\n"
+  },
+  {
+    "task_id": "CO041",
+    "expected_older": "Hill Farming Act 1946",
+    "expected_newer": "Education Act 1981",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's look at the years:\n\n*   **Hill Farming Act 1946** was enacted in 1946.\n*   **Education Act 1981** was enacted in 1981.\n\nTherefore:\n*   The **Hill Farming Act 1946** is older.\n*   The **Education Act 1981** is newer.",
+    "gemini_with_dates_snippet": "Let's compare their enactment dates:\n\n*   **Hill Farming Act 1946:** Enacted on 6th November 1946\n*   **Education Act 1981:** Enacted on 30th October 1981\n\nComparing the years: 1946 comes before 1981.\n\nTherefore:\n\n*   The **Hill Farming Act 1946** is **older**.\n*   The **Education Act 1981** is **ne"
+  },
+  {
+    "task_id": "CO042",
+    "expected_older": "Social Security (Overpayments) Act 1996",
+    "expected_newer": "Theft (Amendment) Act 1996",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "In the UK legislative system, Acts passed in the same calendar year are assigned a \"Chapter\" number, which reflects the order in which they received Royal Assent. A lower chapter number means the Act was passed earlier in the year.\n\n*   The **Social Security (Overpayments) Act 1996** is Chapter **c.",
+    "gemini_with_dates_snippet": "Let's break it down by date:\n\n*   **Social Security (Overpayments) Act 1996:** Enacted on **24th July 1996**\n*   **Theft (Amendment) Act 1996:** Enacted on **18th December 1996**\n\nComparing the dates:\n\n*   **Older:** The **Social Security (Overpayments) Act 1996** (July comes before December).\n*   *"
+  },
+  {
+    "task_id": "CO043",
+    "expected_older": "London Docklands Railway (Lewisham) Act 1993",
+    "expected_newer": "Supply and Appropriation (Main Estimates) Act 2019",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The older legislation is **London Docklands Railway (Lewisham) Act 1993**.\n\nThe newer legislation is **Supply and Appropriation (Main Estimates) Act 2019**.",
+    "gemini_with_dates_snippet": "The **London Docklands Railway (Lewisham) Act 1993** is older, having been enacted on 27th May 1993.\n\nThe **Supply and Appropriation (Main Estimates) Act 2019** is newer, having been enacted on 17th July 2019."
+  },
+  {
+    "task_id": "CO044",
+    "expected_older": "Insurance Brokers (Registration) Act 1977",
+    "expected_newer": "Budget (No. 2) Act (Northern Ireland) 2001",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Insurance Brokers (Registration) Act 1977** is older.\nThe **Budget (No. 2) Act (Northern Ireland) 2001** is newer.",
+    "gemini_with_dates_snippet": "Let's compare their enactment dates:\n\n*   **'Insurance Brokers (Registration) Act 1977'** was enacted on **29th July 1977**.\n*   **'Budget (No. 2) Act (Northern Ireland) 2001'** was enacted on **20th July 2001**.\n\nComparing the years: 1977 comes before 2001.\n\nTherefore:\n\n*   The **'Insurance Brokers"
+  },
+  {
+    "task_id": "CO045",
+    "expected_older": "Small Landholders (Scotland) Act 1911",
+    "expected_newer": "Health (Miscellaneous Provisions) Act (Northern Ireland) 2016",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **'Small Landholders (Scotland) Act 1911'** is older.\n\nThe **'Health (Miscellaneous Provisions) Act (Northern Ireland) 2016'** is newer.",
+    "gemini_with_dates_snippet": "Let's compare their enactment dates:\n\n*   **Small Landholders (Scotland) Act 1911:** Enacted on 16th December **1911**\n*   **Health (Miscellaneous Provisions) Act (Northern Ireland) 2016:** Enacted on 12th May **2016**\n\nBased on these dates:\n\n*   The **Small Landholders (Scotland) Act 1911** is **ol"
+  },
+  {
+    "task_id": "CO046",
+    "expected_older": "Equitable Life (Payments) Act 2010",
+    "expected_newer": "Compensation (London Capital & Finance plc and Fraud Compensation Fund) Act 2021",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The older legislation is the **Equitable Life (Payments) Act 2010**.\n\nThe newer legislation is the **Compensation (London Capital & Finance plc and Fraud Compensation Fund) Act 2021**.",
+    "gemini_with_dates_snippet": "Let's break down the enactment dates:\n\n*   **'Compensation (London Capital & Finance plc and Fraud Compensation Fund) Act 2021'** was enacted on **20th October 2021**.\n*   **'Equitable Life (Payments) Act 2010'** was enacted on **16th December 2010**.\n\nComparing the years: 2010 is earlier than 2021."
+  },
+  {
+    "task_id": "CO047",
+    "expected_older": "Limitation Act 1980",
+    "expected_newer": "Scotland Act 1998",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Limitation Act 1980** is older.\nThe **Scotland Act 1998** is newer.",
+    "gemini_with_dates_snippet": "The **Limitation Act 1980** (enacted on 13th November 1980) is **older**.\nThe **Scotland Act 1998** (enacted on 19th November 1998) is **newer**."
+  },
+  {
+    "task_id": "CO048",
+    "expected_older": "Coal Industry Act 1977",
+    "expected_newer": "Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Coal Industry Act 1977** is older (from 1977).\n\nThe **Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021** is newer (from 2021).",
+    "gemini_with_dates_snippet": "Let's compare their enactment dates:\n\n*   **'Coal Industry Act 1977'** was enacted on **29th July 1977**.\n*   **'Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021'** was enacted on **22nd March 2021**.\n\nTherefore:\n\n*   The **'Coal Industry Act 1977'** is **older**.\n*  "
+  },
+  {
+    "task_id": "CO049",
+    "expected_older": "Notice of Accidents Act 1906",
+    "expected_newer": "Deer (Scotland) Act 1996",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The older legislation is the **Notice of Accidents Act 1906**.\nThe newer legislation is the **Deer (Scotland) Act 1996**.",
+    "gemini_with_dates_snippet": "The **Notice of Accidents Act 1906** is older, as it was enacted on 21st December 1906.\n\nThe **Deer (Scotland) Act 1996** is newer, as it was enacted on 24th July 1996."
+  },
+  {
+    "task_id": "CO050",
+    "expected_older": "Sea Fisheries Regulation Act 1966",
+    "expected_newer": "Finance Act 1990",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Sea Fisheries Regulation Act 1966** is the **older** legislation (enacted in 1966).\n*   **Finance Act 1990** is the **newer** legislation (enacted in 1990).",
+    "gemini_with_dates_snippet": "Let's compare their enactment dates:\n\n*   **Sea Fisheries Regulation Act 1966** was enacted on **17th November 1966**.\n*   **Finance Act 1990** was enacted on **26th July 1990**.\n\nTherefore:\n\n*   The **Sea Fisheries Regulation Act 1966** is **older**.\n*   The **Finance Act 1990** is **newer**."
+  },
+  {
+    "task_id": "CO051",
+    "expected_older": "United Reformed Church Act 2000",
+    "expected_newer": "Infrastructure (Financial Assistance) Act 2012",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **United Reformed Church Act 2000** is older (passed in 2000).\n*   **Infrastructure (Financial Assistance) Act 2012** is newer (passed in 2012).",
+    "gemini_with_dates_snippet": "The **'United Reformed Church Act 2000'** (enacted on 10th February 2000) is **older**.\n\nThe **'Infrastructure (Financial Assistance) Act 2012'** (enacted on 31st October 2012) is **newer**."
+  },
+  {
+    "task_id": "CO052",
+    "expected_older": "Development of Rural Wales Act 1976",
+    "expected_newer": "Executive Committee (Functions) Act (Northern Ireland) 2020",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Development of Rural Wales Act 1976** is older.\n*   **Executive Committee (Functions) Act (Northern Ireland) 2020** is newer.",
+    "gemini_with_dates_snippet": "Comparing the enactment dates:\n\n*   **'Executive Committee (Functions) Act (Northern Ireland) 2020'** was enacted on **25th August 2020**.\n*   **'Development of Rural Wales Act 1976'** was enacted on **22nd November 1976**.\n\nTherefore:\n\n*   The **'Development of Rural Wales Act 1976'** is **older**."
+  },
+  {
+    "task_id": "CO053",
+    "expected_older": "Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015",
+    "expected_newer": "Addressing Bullying in Schools Act (Northern Ireland) 2016",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Older:** 'Off-street Parking (Functions of District Councils) Act (Northern Ireland) **2015**'\n*   **Newer:** 'Addressing Bullying in Schools Act (Northern Ireland) **2016**'",
+    "gemini_with_dates_snippet": "The **'Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015'** (enacted March 12, 2015) is **older**.\n\nThe **'Addressing Bullying in Schools Act (Northern Ireland) 2016'** (enacted May 12, 2016) is **newer**."
+  },
+  {
+    "task_id": "CO054",
+    "expected_older": "Matrimonial Causes Act 1965",
+    "expected_newer": "National Debt Act 1972",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Matrimonial Causes Act 1965** is older.\nThe **National Debt Act 1972** is newer.",
+    "gemini_with_dates_snippet": "Let's compare their enactment dates:\n\n*   **Matrimonial Causes Act 1965:** Enacted on 8th November 1965\n*   **National Debt Act 1972:** Enacted on 9th August 1972\n\nThe **Matrimonial Causes Act 1965** is **older**.\nThe **National Debt Act 1972** is **newer**."
+  },
+  {
+    "task_id": "CO055",
+    "expected_older": "Adoption and Children Act 2002",
+    "expected_newer": "Civil Contingencies Act 2004",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Adoption and Children Act 2002** is the older legislation.\n*   **Civil Contingencies Act 2004** is the newer legislation.",
+    "gemini_with_dates_snippet": "The **Adoption and Children Act 2002** (enacted 7th November 2002) is **older**.\nThe **Civil Contingencies Act 2004** (enacted 18th November 2004) is **newer**."
+  },
+  {
+    "task_id": "CO056",
+    "expected_older": "Malawi Republic Act 1966",
+    "expected_newer": "Imperial College Act 1997",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Malawi Republic Act 1966** is older (enacted in 1966).\n*   **Imperial College Act 1997** is newer (enacted in 1997).",
+    "gemini_with_dates_snippet": "The **Malawi Republic Act 1966** (enacted 3rd August 1966) is **older**.\nThe **Imperial College Act 1997** (enacted 15th July 1997) is **newer**."
+  },
+  {
+    "task_id": "CO057",
+    "expected_older": "Sale and Supply of Goods Act 1994",
+    "expected_newer": "Church of England Pensions (Amendment) Measure 2009",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Sale and Supply of Goods Act 1994** is older.\n\nThe **Church of England Pensions (Amendment) Measure 2009** is newer.",
+    "gemini_with_dates_snippet": "Let's look at the enactment dates:\n\n*   **'Church of England Pensions (Amendment) Measure 2009'**: Enacted on 2nd April **2009**\n*   **'Sale and Supply of Goods Act 1994'**: Enacted on 3rd November **1994**\n\nComparing the years: 1994 is earlier than 2009.\n\nTherefore:\n\n*   The **'Sale and Supply of G"
+  },
+  {
+    "task_id": "CO058",
+    "expected_older": "Self-Governing Schools etc. (Scotland) Act 1989",
+    "expected_newer": "Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's break down the years:\n\n*   **Self-Governing Schools etc. (Scotland) Act 1989** was enacted in **1989**.\n*   **Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015** was enacted in **2015**.\n\nTherefore:\n\n*   The **Self-Governing Schools etc. (Scotland) Act 1989** is *",
+    "gemini_with_dates_snippet": "Based on their enactment dates:\n\n*   The **'Self-Governing Schools etc. (Scotland) Act 1989'** (enacted 16th November 1989) is **older**.\n*   The **'Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015'** (enacted 12th March 2015) is **newer**."
+  },
+  {
+    "task_id": "CO059",
+    "expected_older": "Railways Act 1974",
+    "expected_newer": "Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Railways Act 1974** is the older legislation.\n*   **Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021** is the newer legislation.",
+    "gemini_with_dates_snippet": "The **Railways Act 1974** is older, as it was enacted on 31st July 1974.\n\nThe **Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021** is newer, as it was enacted on 26th August 2021."
+  },
+  {
+    "task_id": "CO060",
+    "expected_older": "Civil Defence (Armed Forces) Act 1954",
+    "expected_newer": "Veterans Advisory and Pensions Committees Act 2023",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's look at the years in their titles:\n\n*   **Civil Defence (Armed Forces) Act 1954** was passed in **1954**.\n*   **Veterans Advisory and Pensions Committees Act 2023** was passed in **2023**.\n\nTherefore:\n\n*   The **Civil Defence (Armed Forces) Act 1954** is **older**.\n*   The **Veterans Advisory ",
+    "gemini_with_dates_snippet": "Let's compare the enactment dates:\n\n*   **'Veterans Advisory and Pensions Committees Act 2023'**: Enacted on 18th September 2023\n*   **'Civil Defence (Armed Forces) Act 1954'**: Enacted on 25th November 1954\n\nComparing the years, **1954** is earlier than **2023**.\n\nTherefore:\n\n*   The **'Civil Defen"
+  },
+  {
+    "task_id": "CO061",
+    "expected_older": "Variation of Trusts Act 1958",
+    "expected_newer": "Finance Act 1977",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Variation of Trusts Act 1958** is older (1958).\nThe **Finance Act 1977** is newer (1977).",
+    "gemini_with_dates_snippet": "*   **Variation of Trusts Act 1958** was enacted on 23rd July 1958.\n*   **Finance Act 1977** was enacted on 29th July 1977.\n\nComparing the years, 1958 is earlier than 1977.\n\nTherefore:\n*   The **Variation of Trusts Act 1958** is **older**.\n*   The **Finance Act 1977** is **newer**."
+  },
+  {
+    "task_id": "CO062",
+    "expected_older": "Cable and Wireless Act 1946",
+    "expected_newer": "Welfare Reform Act 2009",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The older legislation is the **Cable and Wireless Act 1946**.\n\nThe newer legislation is the **Welfare Reform Act 2009**.",
+    "gemini_with_dates_snippet": "Let's break it down by the enactment dates:\n\n*   **Cable and Wireless Act 1946** was enacted on **6th November 1946**.\n*   **Welfare Reform Act 2009** was enacted on **12th November 2009**.\n\nTherefore:\n\n*   The **Cable and Wireless Act 1946** is **older**.\n*   The **Welfare Reform Act 2009** is **ne"
+  },
+  {
+    "task_id": "CO063",
+    "expected_older": "Rating and Valuation Act 1925",
+    "expected_newer": "Consolidated Fund Act 2006",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Comparing the years in their titles:\n\n*   **Rating and Valuation Act 1925** is older (1925).\n*   **Consolidated Fund Act 2006** is newer (2006).",
+    "gemini_with_dates_snippet": "The **'Rating and Valuation Act 1925'** is older, enacted on 22nd December 1925.\n\nThe **'Consolidated Fund Act 2006'** is newer, enacted on 19th December 2006."
+  },
+  {
+    "task_id": "CO064",
+    "expected_older": "Local Government (Financial Provisions) Act 1963",
+    "expected_newer": "Representation of the People Act 1990",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The older legislation is the **Local Government (Financial Provisions) Act 1963**.\n\nThe newer legislation is the **Representation of the People Act 1990**.",
+    "gemini_with_dates_snippet": "The **Local Government (Financial Provisions) Act 1963** (enacted 31st July 1963) is **older**.\n\nThe **Representation of the People Act 1990** (enacted 26th July 1990) is **newer**."
+  },
+  {
+    "task_id": "CO065",
+    "expected_older": "Public Meeting Act, 1908",
+    "expected_newer": "Guardianship (Missing Persons) Act 2017",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Public Meeting Act, 1908** is older.\n*   **Guardianship (Missing Persons) Act 2017** is newer.",
+    "gemini_with_dates_snippet": "Comparing the enactment dates:\n\n*   **'Public Meeting Act, 1908'** was enacted on 21st December 1908.\n*   **'Guardianship (Missing Persons) Act 2017'** was enacted on 27th April 2017.\n\nTherefore:\n\n*   **'Public Meeting Act, 1908' is older.**\n*   **'Guardianship (Missing Persons) Act 2017' is newer.*"
+  },
+  {
+    "task_id": "CO066",
+    "expected_older": "Lands Valuation Amendment (Scotland) Act 1982",
+    "expected_newer": "Local Government (Wales) Act 2015",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's look at the years in their titles:\n\n*   **Local Government (Wales) Act 2015** (Year: 2015)\n*   **Lands Valuation Amendment (Scotland) Act 1982** (Year: 1982)\n\nComparing the years:\n\n*   The **Lands Valuation Amendment (Scotland) Act 1982** is older (1982).\n*   The **Local Government (Wales) Act",
+    "gemini_with_dates_snippet": "Here's the breakdown:\n\n*   **'Lands Valuation Amendment (Scotland) Act 1982'** was enacted on 22nd December 1982.\n*   **'Local Government (Wales) Act 2015'** was enacted on 25 November 2015.\n\nTherefore:\n\n*   **Older:** The 'Lands Valuation Amendment (Scotland) Act 1982'\n*   **Newer:** The 'Local Gov"
+  },
+  {
+    "task_id": "CO067",
+    "expected_older": "European Economic Area Act 1993",
+    "expected_newer": "Health and Social Care Act 2001",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **European Economic Area Act 1993** is older (1993).\n*   **Health and Social Care Act 2001** is newer (2001).",
+    "gemini_with_dates_snippet": "The **European Economic Area Act 1993** (enacted 5th November 1993) is **older**.\nThe **Health and Social Care Act 2001** (enacted 11th May 2001) is **newer**."
+  },
+  {
+    "task_id": "CO068",
+    "expected_older": "Consolidated Fund (No. 2) Act 1990",
+    "expected_newer": "Medical (Professional Performance) Act 1995",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Consolidated Fund (No. 2) Act 1990** is older.\nThe **Medical (Professional Performance) Act 1995** is newer.",
+    "gemini_with_dates_snippet": "Let's compare their enactment dates:\n\n*   **Consolidated Fund (No. 2) Act 1990:** Enacted on **20th December 1990**\n*   **Medical (Professional Performance) Act 1995:** Enacted on **8th November 1995**\n\nComparing the years, 1990 comes before 1995.\n\nTherefore:\n\n*   The **Consolidated Fund (No. 2) Act"
+  },
+  {
+    "task_id": "CO069",
+    "expected_older": "Justices of the Peace Act 1968",
+    "expected_newer": "Regulation of Registered Social Landlords (Wales) Act 2018",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Comparing the years in the titles:\n\n*   'Regulation of Registered Social Landlords (Wales) Act **2018**'\n*   'Justices of the Peace Act **1968**'\n\nThe **older** legislation is the **Justices of the Peace Act 1968**.\nThe **newer** legislation is the **Regulation of Registered Social Landlords (Wales)",
+    "gemini_with_dates_snippet": "The **Justices of the Peace Act 1968** (enacted 25th October 1968) is older.\n\nThe **Regulation of Registered Social Landlords (Wales) Act 2018** (enacted 13 June 2018) is newer."
+  },
+  {
+    "task_id": "CO070",
+    "expected_older": "Animal Welfare Act 2006",
+    "expected_newer": "Deregulation Act 2015",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's look at the years in their titles:\n\n*   **Animal Welfare Act 2006:** Year is 2006\n*   **Deregulation Act 2015:** Year is 2015\n\nTherefore:\n\n*   The **Animal Welfare Act 2006** is **older**.\n*   The **Deregulation Act 2015** is **newer**.",
+    "gemini_with_dates_snippet": "The **Animal Welfare Act 2006** (enacted on 8th November 2006) is older.\nThe **Deregulation Act 2015** (enacted on 26th March 2015) is newer."
+  },
+  {
+    "task_id": "CO071",
+    "expected_older": "Forced Marriage (Civil Protection) Act 2007",
+    "expected_newer": "Bournemouth Borough Council Act 2010",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Forced Marriage (Civil Protection) Act 2007** is **older**.\n*   **Bournemouth Borough Council Act 2010** is **newer**.",
+    "gemini_with_dates_snippet": "Let's look at the enactment dates:\n\n*   **Forced Marriage (Civil Protection) Act 2007:** Enacted on **26th July 2007**\n*   **Bournemouth Borough Council Act 2010:** Enacted on **8th April 2010**\n\nComparing the years, 2007 comes before 2010.\n\nTherefore:\n\n*   The **Forced Marriage (Civil Protection) A"
+  },
+  {
+    "task_id": "CO072",
+    "expected_older": "Lesotho Independence Act 1966",
+    "expected_newer": "Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **'Lesotho Independence Act 1966'** is the **older** legislation.\n*   **'Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017'** is the **newer** legislation.",
+    "gemini_with_dates_snippet": "The **Lesotho Independence Act 1966**, enacted on 3rd August 1966, is **older**.\n\nThe **Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017**, enacted on 27th April 2017, is **newer**."
+  },
+  {
+    "task_id": "CO073",
+    "expected_older": "Consolidated Fund (No. 2) Act 1990",
+    "expected_newer": "Great British Energy Act 2025",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's look at the years in their titles:\n\n*   **Consolidated Fund (No. 2) Act 1990** was enacted in **1990**.\n*   **Great British Energy Act 2025** is projected to be enacted in **2025**.\n\nTherefore:\n\n*   The **Consolidated Fund (No. 2) Act 1990** is **older**.\n*   The **Great British Energy Act 202",
+    "gemini_with_dates_snippet": "Let's compare the enactment dates:\n\n*   **'Great British Energy Act 2025'** was enacted on 15th May 2025.\n*   **'Consolidated Fund (No. 2) Act 1990'** was enacted on 20th December 1990.\n\nTherefore:\n\n*   **Older:** 'Consolidated Fund (No. 2) Act 1990' (enacted in 1990)\n*   **Newer:** 'Great British E"
+  },
+  {
+    "task_id": "CO074",
+    "expected_older": "Local Government (Contracts) Act 1997",
+    "expected_newer": "Environment Act 2021",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's break it down by the year in their titles:\n\n*   **Local Government (Contracts) Act 1997:** Enacted in **1997**\n*   **Environment Act 2021:** Enacted in **2021**\n\nTherefore:\n\n*   The **Local Government (Contracts) Act 1997** is **older**.\n*   The **Environment Act 2021** is **newer**.",
+    "gemini_with_dates_snippet": "Here's the breakdown:\n\n*   **Local Government (Contracts) Act 1997** was enacted on **27th November 1997**.\n*   **Environment Act 2021** was enacted on **9th November 2021**.\n\nTherefore:\n\n*   The **Local Government (Contracts) Act 1997** is **older**.\n*   The **Environment Act 2021** is **newer**."
+  },
+  {
+    "task_id": "CO075",
+    "expected_older": "Suez Canal (Shares) Act 1876",
+    "expected_newer": "Hill Samuel Bank and United Dominions Trust Act 1994",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Suez Canal (Shares) Act 1876** is older.\n*   **Hill Samuel Bank and United Dominions Trust Act 1994** is newer.",
+    "gemini_with_dates_snippet": "Comparing the enactment dates:\n\n*   **Suez Canal (Shares) Act 1876** was enacted on 15th August 1876.\n*   **Hill Samuel Bank and United Dominions Trust Act 1994** was enacted on 21st July 1994.\n\nTherefore:\n\n*   The **Suez Canal (Shares) Act 1876** is **older**.\n*   The **Hill Samuel Bank and United "
+  },
+  {
+    "task_id": "CO076",
+    "expected_older": "Tithe Act 1925",
+    "expected_newer": "Non-Domestic Rating Act 1992",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Tithe Act 1925** is older (1925).\n*   **Non-Domestic Rating Act 1992** is newer (1992).",
+    "gemini_with_dates_snippet": "Let's compare the enactment dates:\n\n*   **Tithe Act 1925** was enacted on **22nd December 1925**.\n*   **Non-Domestic Rating Act 1992** was enacted on **18th June 1992**.\n\nComparing the years: 1925 is earlier than 1992.\n\nTherefore:\n\n*   The **Tithe Act 1925** is **older**.\n*   The **Non-Domestic Rati"
+  },
+  {
+    "task_id": "CO077",
+    "expected_older": "Licensing Act (Northern Ireland) 2016",
+    "expected_newer": "Digital Markets, Competition and Consumers Act 2024",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Licensing Act (Northern Ireland) 2016** is older.\n\nThe **Digital Markets, Competition and Consumers Act 2024** is newer.",
+    "gemini_with_dates_snippet": "Based on their enactment dates:\n\n*   The **'Licensing Act (Northern Ireland) 2016'** was enacted on 12th May 2016, making it **older**.\n*   The **'Digital Markets, Competition and Consumers Act 2024'** was enacted on 24th May 2024, making it **newer**."
+  },
+  {
+    "task_id": "CO078",
+    "expected_older": "Vehicle Registration Marks Act 2007",
+    "expected_newer": "Sunbeds Act (Northern Ireland) 2011",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Vehicle Registration Marks Act 2007** is older (2007).\nThe **Sunbeds Act (Northern Ireland) 2011** is newer (2011).",
+    "gemini_with_dates_snippet": "The **Vehicle Registration Marks Act 2007** (enacted 19th July 2007) is **older**.\nThe **Sunbeds Act (Northern Ireland) 2011** (enacted 3rd May 2011) is **newer**."
+  },
+  {
+    "task_id": "CO079",
+    "expected_older": "Metropolitan Commons Amendment Act 1869",
+    "expected_newer": "Firearms Act 2023",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Metropolitan Commons Amendment Act 1869** is older.\n*   **Firearms Act 2023** is newer.",
+    "gemini_with_dates_snippet": "Let's break down the dates:\n\n*   **'Metropolitan Commons Amendment Act 1869'**: Enacted on 11th August **1869**.\n*   **'Firearms Act 2023'**: Enacted on 18th September **2023**.\n\nComparing the years: 1869 is much earlier than 2023.\n\nTherefore:\n\n*   The **older** act is the **'Metropolitan Commons Am"
+  },
+  {
+    "task_id": "CO080",
+    "expected_older": "London Local Authorities Act 1994",
+    "expected_newer": "Justice and Security Act 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **London Local Authorities Act 1994** (from 1994) is older.\nThe **Justice and Security Act 2013** (from 2013) is newer.",
+    "gemini_with_dates_snippet": "Let's break it down:\n\n*   **London Local Authorities Act 1994** was enacted on **21st July 1994**.\n*   **Justice and Security Act 2013** was enacted on **25th April 2013**.\n\nComparing the years: 1994 comes before 2013.\n\nTherefore:\n\n*   The **London Local Authorities Act 1994** is **older**.\n*   The "
+  },
+  {
+    "task_id": "CO081",
+    "expected_older": "Police, Crime, Sentencing and Courts Act 2022",
+    "expected_newer": "Investigatory Powers (Amendment) Act 2024",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Based on the years in their titles:\n\n*   The **Police, Crime, Sentencing and Courts Act 2022** is **older**.\n*   The **Investigatory Powers (Amendment) Act 2024** is **newer**.",
+    "gemini_with_dates_snippet": "Let's break it down by the enactment dates:\n\n*   **Police, Crime, Sentencing and Courts Act 2022:** Enacted on **28th April 2022**\n*   **Investigatory Powers (Amendment) Act 2024:** Enacted on **25th April 2024**\n\nComparing the years: 2022 comes before 2024.\n\nTherefore:\n\n*   The **Police, Crime, Sen"
+  },
+  {
+    "task_id": "CO082",
+    "expected_older": "Auctions (Bidding Agreements) Act 1969",
+    "expected_newer": "Allhallows Staining Church Act 2010",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Auctions (Bidding Agreements) Act 1969** is older (from 1969).\nThe **Allhallows Staining Church Act 2010** is newer (from 2010).",
+    "gemini_with_dates_snippet": "The **'Auctions (Bidding Agreements) Act 1969'** is older, as it was enacted on 22nd October 1969.\n\nThe **'Allhallows Staining Church Act 2010'** is newer, as it was enacted on 27th July 2010."
+  },
+  {
+    "task_id": "CO083",
+    "expected_older": "Veterinary Surgeons Act 1966",
+    "expected_newer": "Northern Ireland Act 1998",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Here's the breakdown:\n\n*   **Veterinary Surgeons Act 1966** (passed in 1966)\n*   **Northern Ireland Act 1998** (passed in 1998)\n\nTherefore:\n\n*   The **Veterinary Surgeons Act 1966** is **older**.\n*   The **Northern Ireland Act 1998** is **newer**.",
+    "gemini_with_dates_snippet": "Let's break it down by the enactment dates:\n\n*   **Veterinary Surgeons Act 1966** was enacted on **17th November 1966**.\n*   **Northern Ireland Act 1998** was enacted on **19th November 1998**.\n\nComparing the years, 1966 comes before 1998.\n\nTherefore:\n\n*   The **Veterinary Surgeons Act 1966** is **o"
+  },
+  {
+    "task_id": "CO084",
+    "expected_older": "Local Government (Interim Provisions) Act 1984",
+    "expected_newer": "Non-Domestic Rating Act 2023",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Local Government (Interim Provisions) Act 1984** is older.\n*   **Non-Domestic Rating Act 2023** is newer.",
+    "gemini_with_dates_snippet": "The **Local Government (Interim Provisions) Act 1984**, enacted on 31st July 1984, is **older**.\n\nThe **Non-Domestic Rating Act 2023**, enacted on 26th October 2023, is **newer**."
+  },
+  {
+    "task_id": "CO085",
+    "expected_older": "British Railways (No. 2) Order Confirmation Act 1994",
+    "expected_newer": "Addressing Bullying in Schools Act (Northern Ireland) 2016",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **British Railways (No. 2) Order Confirmation Act 1994** is from **1994**.\n*   **Addressing Bullying in Schools Act (Northern Ireland) 2016** is from **2016**.\n\nTherefore:\n*   The **British Railways (No. 2) Order Confirmation Act 1994** is **older**.\n*   The **Addressing Bullying in Schools Act ",
+    "gemini_with_dates_snippet": "The **'British Railways (No. 2) Order Confirmation Act 1994'** (enacted 24th March 1994) is **older**.\n\nThe **'Addressing Bullying in Schools Act (Northern Ireland) 2016'** (enacted 12th May 2016) is **newer**."
+  },
+  {
+    "task_id": "CO086",
+    "expected_older": "Citation Amendment (Scotland) Act 1882",
+    "expected_newer": "Local Authority Social Services Act 1970",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's look at the years in the titles:\n\n*   **Citation Amendment (Scotland) Act 1882** was enacted in **1882**.\n*   **Local Authority Social Services Act 1970** was enacted in **1970**.\n\nTherefore:\n\n*   The **Citation Amendment (Scotland) Act 1882** is **older**.\n*   The **Local Authority Social Ser",
+    "gemini_with_dates_snippet": "*   The **'Citation Amendment (Scotland) Act 1882'** was enacted on 18th August 1882.\n*   The **'Local Authority Social Services Act 1970'** was enacted on 29th May 1970.\n\nTherefore:\n\n*   The **'Citation Amendment (Scotland) Act 1882'** is **older**.\n*   The **'Local Authority Social Services Act 19"
+  },
+  {
+    "task_id": "CO087",
+    "expected_older": "Railway Fires Act 1905",
+    "expected_newer": "Justices of the Peace Act 1949",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Railway Fires Act 1905** is older (1905).\n*   **Justices of the Peace Act 1949** is newer (1949).",
+    "gemini_with_dates_snippet": "The **Railway Fires Act 1905** is older.\nThe **Justices of the Peace Act 1949** is newer."
+  },
+  {
+    "task_id": "CO088",
+    "expected_older": "Terrorist Asset-Freezing etc. Act 2010",
+    "expected_newer": "Non-domestic Rates Valuations (Coronavirus) Act (Northern Ireland) 2022",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Terrorist Asset-Freezing etc. Act 2010** is **older** (enacted in 2010).\n*   **Non-domestic Rates Valuations (Coronavirus) Act (Northern Ireland) 2022** is **newer** (enacted in 2022).",
+    "gemini_with_dates_snippet": "Comparing the enactment dates:\n\n*   'Terrorist Asset-Freezing etc. Act 2010' was enacted on **16th December 2010**.\n*   'Non-domestic Rates Valuations (Coronavirus) Act (Northern Ireland) 2022' was enacted on **30th March 2022**.\n\nTherefore:\n\n*   The **older** act is the 'Terrorist Asset-Freezing et"
+  },
+  {
+    "task_id": "CO089",
+    "expected_older": "Ordnance Factories and Military Services Act 1984",
+    "expected_newer": "Public Audit (Wales) Act 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Ordnance Factories and Military Services Act 1984** is older.\n*   **Public Audit (Wales) Act 2013** is newer.",
+    "gemini_with_dates_snippet": "The **'Ordnance Factories and Military Services Act 1984'** (enacted 31st October 1984) is **older**.\n\nThe **'Public Audit (Wales) Act 2013'** (enacted 29 April 2013) is **newer**."
+  },
+  {
+    "task_id": "CO090",
+    "expected_older": "Transport and Works Act 1992",
+    "expected_newer": "Gas Act 1995",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Transport and Works Act 1992** is older (1992).\nThe **Gas Act 1995** is newer (1995).",
+    "gemini_with_dates_snippet": "The **Transport and Works Act 1992** (enacted March 16, 1992) is older.\nThe **Gas Act 1995** (enacted November 8, 1995) is newer."
+  },
+  {
+    "task_id": "CO091",
+    "expected_older": "Legal Deposit Libraries Act 2003",
+    "expected_newer": "Crown Estate Act 2025",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Legal Deposit Libraries Act 2003** is older (enacted in 2003).\n\nThe **Crown Estate Act 2025** is newer (projected or enacted in 2025).",
+    "gemini_with_dates_snippet": "The **Legal Deposit Libraries Act 2003** (enacted 30th October 2003) is **older**.\n\nThe **Crown Estate Act 2025** (enacted 11th March 2025) is **newer**."
+  },
+  {
+    "task_id": "CO092",
+    "expected_older": "Price’s Patent Candle Company Limited Act 1992",
+    "expected_newer": "Driving Instruction (Suspension and Exemption Powers) Act 2009",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Price’s Patent Candle Company Limited Act 1992** is older (1992).\n*   **Driving Instruction (Suspension and Exemption Powers) Act 2009** is newer (2009).",
+    "gemini_with_dates_snippet": "Let's compare their enactment years:\n\n*   **'Price’s Patent Candle Company Limited Act 1992'** was enacted on 12th November **1992**.\n*   **'Driving Instruction (Suspension and Exemption Powers) Act 2009'** was enacted on 12th November **2009**.\n\nTherefore:\n\n*   **Older:** 'Price’s Patent Candle Com"
+  },
+  {
+    "task_id": "CO093",
+    "expected_older": "Tamar Bridge Act 1998",
+    "expected_newer": "Budget Act (Northern Ireland) 2011",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Let's look at the years in their titles:\n\n*   **Budget Act (Northern Ireland) 2011** - Year: 2011\n*   **Tamar Bridge Act 1998** - Year: 1998\n\nComparing the years:\n\n*   **Tamar Bridge Act 1998** is older (1998 comes before 2011).\n*   **Budget Act (Northern Ireland) 2011** is newer (2011 comes after 1",
+    "gemini_with_dates_snippet": "Let's break down the dates:\n\n*   **'Budget Act (Northern Ireland) 2011'** was enacted on 22nd March **2011**.\n*   **'Tamar Bridge Act 1998'** was enacted on 28th July **1998**.\n\nComparing the years: 1998 is earlier than 2011.\n\nTherefore:\n\n*   **Older:** 'Tamar Bridge Act 1998'\n*   **Newer:** 'Budget"
+  },
+  {
+    "task_id": "CO094",
+    "expected_older": "Metropolitan Commons Amendment Act 1869",
+    "expected_newer": "Irish Sailors and Soldiers Land Trust Act 1952",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "The **Metropolitan Commons Amendment Act 1869** is older.\nThe **Irish Sailors and Soldiers Land Trust Act 1952** is newer.",
+    "gemini_with_dates_snippet": "Let's compare the enactment dates:\n\n*   **Metropolitan Commons Amendment Act 1869:** Enacted on 11th August **1869**\n*   **Irish Sailors and Soldiers Land Trust Act 1952:** Enacted on 30th October **1952**\n\nComparing the years, **1869** comes before **1952**.\n\nTherefore:\n\n*   The **'Metropolitan Com"
+  },
+  {
+    "task_id": "CO095",
+    "expected_older": "Medical Act  1983",
+    "expected_newer": "Henry Johnson, Sons & Co., Limited Act 1996",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Medical Act 1983** is older.\n*   **Henry Johnson, Sons & Co., Limited Act 1996** is newer.",
+    "gemini_with_dates_snippet": "Comparing the enactment dates:\n\n*   **'Medical Act 1983'** was enacted on 26th July **1983**.\n*   **'Henry Johnson, Sons & Co., Limited Act 1996'** was enacted on 18th July **1996**.\n\nThe **'Medical Act 1983'** is older.\nThe **'Henry Johnson, Sons & Co., Limited Act 1996'** is newer."
+  },
+  {
+    "task_id": "CO096",
+    "expected_older": "Road Traffic Act 1988",
+    "expected_newer": "Criminal Justice Act 2003",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Road Traffic Act 1988** is older.\n*   **Criminal Justice Act 2003** is newer.",
+    "gemini_with_dates_snippet": "Let's compare the enactment dates:\n\n*   **Road Traffic Act 1988:** Enacted on 15th November 1988\n*   **Criminal Justice Act 2003:** Enacted on 20th November 2003\n\nComparing the years, 1988 comes before 2003.\n\nTherefore:\n\n*   The **Road Traffic Act 1988** is **older**.\n*   The **Criminal Justice Act "
+  },
+  {
+    "task_id": "CO097",
+    "expected_older": "Theft Act 1968",
+    "expected_newer": "Nuclear Safeguards Act 2018",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "*   **Theft Act 1968** is **older**.\n*   **Nuclear Safeguards Act 2018** is **newer**.",
+    "gemini_with_dates_snippet": "Let's break down the dates:\n\n*   **Theft Act 1968:** Enacted on 26th July **1968**\n*   **Nuclear Safeguards Act 2018:** Enacted on 26th June **2018**\n\nComparing the years, **1968** is clearly earlier than **2018**.\n\nTherefore:\n\n*   **Older:** The **Theft Act 1968** (enacted 26th July 1968)\n*   **New"
+  },
+  {
+    "task_id": "CO098",
+    "expected_older": "Savings Accounts and Health in Pregnancy Grant Act 2010",
+    "expected_newer": "Welfare Benefits Up-rating Act 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Comparing the years in the titles:\n\n*   **Savings Accounts and Health in Pregnancy Grant Act 2010** was enacted in 2010.\n*   **Welfare Benefits Up-rating Act 2013** was enacted in 2013.\n\nTherefore:\n\n*   The **Savings Accounts and Health in Pregnancy Grant Act 2010** is **older**.\n*   The **Welfare B",
+    "gemini_with_dates_snippet": "The 'Savings Accounts and Health in Pregnancy Grant Act 2010' was enacted on 16th December 2010, making it **older**.\n\nThe 'Welfare Benefits Up-rating Act 2013' was enacted on 26th March 2013, making it **newer**."
+  },
+  {
+    "task_id": "CO099",
+    "expected_older": "Dangerous Dogs (Amendment) Act 1997",
+    "expected_newer": "Colchester Borough Council Act 2001",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "To determine which legislation is older and which is newer, we look at the year in their titles:\n\n*   'Colchester Borough Council Act **2001**'\n*   'Dangerous Dogs (Amendment) Act **1997**'\n\nComparing the years:\n\n*   **Older:** 'Dangerous Dogs (Amendment) Act 1997' (1997 is before 2001)\n*   **Newer:",
+    "gemini_with_dates_snippet": "Let's compare the enactment dates:\n\n*   **'Colchester Borough Council Act 2001'** was enacted on 22nd March **2001**.\n*   **'Dangerous Dogs (Amendment) Act 1997'** was enacted on 21st March **1997**.\n\nComparing the years, **1997** is earlier than **2001**.\n\nTherefore:\n*   The **older** act is the 'D"
+  },
+  {
+    "task_id": "CO100",
+    "expected_older": "Diocese in Europe Measure 2013",
+    "expected_newer": "Groceries Code Adjudicator Act 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_main_snippet": "Both the **Groceries Code Adjudicator Act 2013** and the **Diocese in Europe Measure 2013** received Royal Assent on the **same day: 25th April 2013**.\n\nTherefore, they are of the **same age** in terms of their enactment date. Neither is older or newer than the other.",
+    "gemini_with_dates_snippet": "Let's look at the enactment dates:\n\n*   **'Diocese in Europe Measure 2013'** was enacted on **26th March 2013**.\n*   **'Groceries Code Adjudicator Act 2013'** was enacted on **25th April 2013**.\n\nComparing the dates: March 2013 comes before April 2013.\n\nTherefore:\n\n*   The **'Diocese in Europe Measu"
+  }
+]

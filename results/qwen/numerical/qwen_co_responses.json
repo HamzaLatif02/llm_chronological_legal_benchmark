@@ -1,0 +1,902 @@
+[
+  {
+    "task_id": "CO001",
+    "expected_older": "Greater Manchester (Light Rapid Transit System) Act 1991",
+    "expected_newer": "Budget (No. 2) Act (Northern Ireland) 2014",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts in question are the 'Greater Manchester (Light Rapid Transit System) Act 1991' and the 'Budget (No. 2) Act (Northern Ireland) 2014'. \n\nFirst, I need to check the years they were enacted. The first",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Greater Manchester (Light Rapid Transit System) Act 1991' enacted on 22nd October 1991, and the 'Budget (No. 2) Act (Northern Ireland) 2014' enacted on 16th July 2014.\n\nFirst, I"
+  },
+  {
+    "task_id": "CO002",
+    "expected_older": "Police and Criminal Evidence Act 1984",
+    "expected_newer": "General Teaching Council (Directions) Act (Northern Ireland) 2022",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Police and Criminal Evidence Act 1984 and the General Teaching Council (Directions) Act (Northern Ireland) 2022.\n\nFirst, I need to check the years in the titles. The first one is",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Police and Criminal Evidence Act 1984 and the General Teaching Council (Directions) Act (Northern Ireland) 2022. \n\nFirst, I need to check the dates they were enacted. The first o"
+  },
+  {
+    "task_id": "CO003",
+    "expected_older": "Defective Premises (Landlord’s Liability) Act (Northern Ireland) 2001",
+    "expected_newer": "University of London Act 2018",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts in question are the 'University of London Act 2018' and the 'Defective Premises (Landlord’s Liability) Act (Northern Ireland) 2001'. \n\nFirst, I need to check the years mentioned in the titles. The",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the University of London Act 2018 and the Defective Premises (Landlord’s Liability) Act (Northern Ireland) 2001. \n\nFirst, I need to check the dates they were enacted. The University "
+  },
+  {
+    "task_id": "CO004",
+    "expected_older": "Sunday Entertainments Act 1932",
+    "expected_newer": "Merchant Shipping (Salvage and Pollution) Act 1994",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Sunday Entertainments Act 1932 and the Merchant Shipping (Salvage and Pollution) Act 1994.\n\nFirst, I need to check the years in the titles. The first one is from 1932, and the second one is from 1994. ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Sunday Entertainments Act 1932' enacted on 13th July 1932 and the 'Merchant Shipping (Salvage and Pollution) Act 1994' enacted on 21st July 1994.\n\nFirst, I need to compare the y"
+  },
+  {
+    "task_id": "CO005",
+    "expected_older": "Clergy (Ordination) Measure 1990 (",
+    "expected_newer": "Technical and Further Education Act 2017",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which legislation is older between the 'Clergy (Ordination) Measure 1990' and the 'Technical and Further Education Act 2017'. Alright, first, I need to figure out the dates of these two pieces of legislation.\n\nStarting with the Clergy (Ordination) Measure ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The two acts mentioned are the 'Clergy (Ordination) Measure 1990' enacted on 22nd February 1990, and the 'Technical and Further Education Act 2017' enacted on 27th April 2017.\n\nFirst, I need to compare the"
+  },
+  {
+    "task_id": "CO006",
+    "expected_older": "Civil List Act 1975",
+    "expected_newer": "Criminal Justice (Scotland) Act 1987",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two acts is older and which is newer: the Criminal Justice (Scotland) Act 1987 and the Civil List Act 1975. Let me start by recalling what I know about these pieces of legislation.\n\nFirst, the names give away their years: 1987 and 1975. That seems",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Criminal Justice (Scotland) Act 1987 and the Civil List Act 1975. They provided the enactment dates as 15th May 1987 and 19th December 1975 respectively.\n\nFirst, I need to compar"
+  },
+  {
+    "task_id": "CO007",
+    "expected_older": "Malawi Republic Act 1966",
+    "expected_newer": "Sporting Events (Control of Alcohol etc.) Act 1985",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Malawi Republic Act 1966 and the Sporting Events (Control of Alcohol etc.) Act 1985.\n\nFirst, I need to check the years mentioned in the titles. The first one is from 1966, and the second one is from 19",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Malawi Republic Act 1966' enacted on 3rd August 1966 and the 'Sporting Events (Control of Alcohol etc.) Act 1985' enacted on 25th July 1985.\n\nFirst, I need to compare the years."
+  },
+  {
+    "task_id": "CO008",
+    "expected_older": "Married Women’s Property Act 1882",
+    "expected_newer": "Autism Act 2009",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Married Women’s Property Act 1882 and the Autism Act 2009.\n\nFirst, I need to confirm the dates of both acts. The names themselves give a clue because they include the years 1882 and 2009. So, the Marri",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Married Women’s Property Act 1882 and the Autism Act 2009. \n\nFirst, I need to confirm the dates they provided. The Married Women’s Property Act 1882 was enacted on 18th August 18"
+  },
+  {
+    "task_id": "CO009",
+    "expected_older": "Value Added Tax Act 1983",
+    "expected_newer": "Highways (Obstruction by Body Corporate) Act 2004",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Value Added Tax Act 1983 and the Highways (Obstruction by Body Corporate) Act 2004.\n\nFirst, I need to check the years mentioned in the titles. The first one is clearly from 1983, and the second one is ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Value Added Tax Act 1983 and the Highways (Obstruction by Body Corporate) Act 2004. \n\nFirst, I need to check the dates they were enacted. The VAT Act was enacted on 26th July 198"
+  },
+  {
+    "task_id": "CO010",
+    "expected_older": "Pneumoconiosis etc. (Workers' Compensation) Act 1979",
+    "expected_newer": "British Waterways Act 1995",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Pneumoconiosis etc. (Workers' Compensation) Act 1979 and the British Waterways Act 1995.\n\nFirst, I need to confirm the years each act was passed. The names themselves include the years, so that's a goo",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Pneumoconiosis etc. (Workers' Compensation) Act 1979' and the 'British Waterways Act 1995'. They provided the enactment dates as 4th April 1979 and 16th January 1995 respectivel"
+  },
+  {
+    "task_id": "CO011",
+    "expected_older": "Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010",
+    "expected_newer": "Coinage (Measurement) Act 2011",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts in question are the 'Coinage (Measurement) Act 2011' and the 'Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010'. \n\nFirst, I need to check the years associated with each act. The first ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Coinage (Measurement) Act 2011 and the Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010.\n\nFirst, I need to check the dates they were enacted. The Coinage Act was enac"
+  },
+  {
+    "task_id": "CO012",
+    "expected_older": "Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010",
+    "expected_newer": "Budget (No. 2) Act (Northern Ireland) 2010",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two pieces of legislation is older and which is newer: the 'Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010' and the 'Budget (No. 2) Act (Northern Ireland) 2010'. Both have the year 2010 in their titles, so the year isn't",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The two acts mentioned are the 'Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010' enacted on 18th March 2010, and the 'Budget (No. 2) Act (Northern Ireland) 2010' enacted on 26th M"
+  },
+  {
+    "task_id": "CO013",
+    "expected_older": "Trade Union and Labour Relations Act 1974",
+    "expected_newer": "Tyne Tunnels Act 1998",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two acts is older and which is newer: the Trade Union and Labour Relations Act 1974 and the Tyne Tunnels Act 1998. Let me start by breaking down the names and the years given.\n\nFirst, both acts have the year in their title, which is helpful. The f",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Trade Union and Labour Relations Act 1974 and the Tyne Tunnels Act 1998. They provided the enactment dates as 31st July 1974 and 8th April 1998 respectively.\n\nFirst, I need to co"
+  },
+  {
+    "task_id": "CO014",
+    "expected_older": "Representation of the People Act 1990",
+    "expected_newer": "Police Reform Act 2002",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two acts is older: the Representation of the People Act 1990 and the Police Reform Act 2002. Let me start by recalling what I know about UK legislation. \n\nFirst, the names give away the years they were enacted: 1990 and 2002. That seems straightfo",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Representation of the People Act 1990 and the Police Reform Act 2002. The dates given are 26th July 1990 for the first one and 24th July 2002 for the second.\n\nFirst, I need to ch"
+  },
+  {
+    "task_id": "CO015",
+    "expected_older": "Local Government (Religious",
+    "expected_newer": "Land Acquisition and Compensation (Amendment) Act (Northern Ireland) 2016",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two pieces of legislation is older and which is newer: the 'Land Acquisition and Compensation (Amendment) Act (Northern Ireland) 2016' and the 'Local Government (Religious...'. Wait, the second one seems cut off. Maybe they meant 'Local Govern",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Land Acquisition and Compensation (Amendment) Act (Northern Ireland) 2016' and the 'Local Government (Religious...' which was enacted on 26th March 2015. Wait, the second act's "
+  },
+  {
+    "task_id": "CO016",
+    "expected_older": "Southern Rhodesia Act 1979",
+    "expected_newer": "Budget (No. 2) Act (Northern Ireland) 2024",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which legislation is older between the 'Southern Rhodesia Act 1979' and the 'Budget (No. 2) Act (Northern Ireland) 2024'. And which one is newer.\n\nFirst, I need to check the years mentioned in the titles. The first one is clearly from 1979, as the year is ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Southern Rhodesia Act 1979' enacted on 14th November 1979 and the 'Budget (No. 2) Act (Northern Ireland) 2024' enacted on 18th October 2024.\n\nFirst, I need to compare the dates."
+  },
+  {
+    "task_id": "CO017",
+    "expected_older": "Jobseekers (Back to Work Schemes) Act 2013",
+    "expected_newer": "Energy Act 2023",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Energy Act 2023 and the Jobseekers (Back to Work Schemes) Act 2013.\n\nFirst, I need to check the years in the titles. The Energy Act is from 2023, and the Jobseekers Act is from 2013. So, 2013 is earlie",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Energy Act 2023 and the Jobseekers (Back to Work Schemes) Act 2013. \n\nFirst, I need to check the dates they were enacted. The Energy Act 2023 was enacted on 26th October 2023. Th"
+  },
+  {
+    "task_id": "CO018",
+    "expected_older": "Bills of Exchange (Time of Noting) Act 1917",
+    "expected_newer": "Health and Social Care Levy Act 2021",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Health and Social Care Levy Act 2021 and the Bills of Exchange (Time of Noting) Act 1917.\n\nFirst, I need to check the years these acts were passed. The names themselves include the years, which is help",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Health and Social Care Levy Act 2021 and the Bills of Exchange (Time of Noting) Act 1917. \n\nFirst, I need to check the dates they were enacted. The Health and Social Care Levy Ac"
+  },
+  {
+    "task_id": "CO019",
+    "expected_older": "Government of Wales Act 1998",
+    "expected_newer": "Education Act 2005",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which legislation is older between the Government of Wales Act 1998 and the Education Act 2005. They also want to know which one is newer. \n\nFirst, I need to confirm the dates of both acts. The Government of Wales Act 1998 – the year in the title is 1998. ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Government of Wales Act 1998 and the Education Act 2005. The dates given are 31st July 1998 for the Government of Wales Act and 7th April 2005 for the Education Act.\n\nFirst, I ne"
+  },
+  {
+    "task_id": "CO020",
+    "expected_older": "Imperial College Act 1997",
+    "expected_newer": "Beverley Freemen Act 2010",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of the two acts, the Imperial College Act 1997 and the Beverley Freemen Act 2010, is older and which is newer. Let me start by breaking down the information given.\n\nFirst, the names of the acts include the years 1997 and 2010. That seems straightforward be",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Imperial College Act 1997 and the Beverley Freemen Act 2010. The dates given are 15th July 1997 for the Imperial College Act and 21st January 2010 for the Beverley Freemen Act.\n\n"
+  },
+  {
+    "task_id": "CO021",
+    "expected_older": "Chronically Sick and Disabled Persons Act 1970",
+    "expected_newer": "Football Spectators Act 1989",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of the two acts, the Chronically Sick and Disabled Persons Act 1970 and the Football Spectators Act 1989, is older and which is newer. Let me start by recalling what I know about these pieces of legislation.\n\nFirst, the names themselves give away the years",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Chronically Sick and Disabled Persons Act 1970 and the Football Spectators Act 1989. The dates given are 29th May 1970 for the first one and 16th November 1989 for the second.\n\nF"
+  },
+  {
+    "task_id": "CO022",
+    "expected_older": "Finance Act 1973",
+    "expected_newer": "Leeds Supertram Act 1993",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of the two acts, the Finance Act 1973 and the Leeds Supertram Act 1993, is older and which is newer. Let me start by breaking down the question.\n\nFirst, both acts have the year in their titles, which is a good starting point. The Finance Act 1973 and the L",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Finance Act 1973 and the Leeds Supertram Act 1993. The dates given are 25th July 1973 for the Finance Act and 27th July 1993 for the Leeds Supertram Act.\n\nFirst, I need to confir"
+  },
+  {
+    "task_id": "CO023",
+    "expected_older": "Housing Act 1974",
+    "expected_newer": "St. Austell Market Act 2008",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two acts is older and which is newer: the St. Austell Market Act 2008 and the Housing Act 1974. Let me start by recalling what I know about UK legislation. \n\nFirst, the names of the acts give away their years: 2008 and 1974. That seems straightfor",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the St. Austell Market Act 2008 and the Housing Act 1974. The dates given are 19th June 2008 for the St. Austell Market Act and 31st July 1974 for the Housing Act.\n\nFirst, I need to "
+  },
+  {
+    "task_id": "CO024",
+    "expected_older": "Export Control Act 2002",
+    "expected_newer": "High Speed Rail (Preparation) Act 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the High Speed Rail (Preparation) Act 2013 and the Export Control Act 2002.\n\nFirst, I need to check the years mentioned in the titles. The High Speed Rail Act is from 2013, and the Export Control Act is fr",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the High Speed Rail (Preparation) Act 2013 and the Export Control Act 2002. \n\nFirst, I need to check the dates they were enacted. The High Speed Rail Act was enacted on 21st November"
+  },
+  {
+    "task_id": "CO025",
+    "expected_older": "Employment Protection Act 1975",
+    "expected_newer": "Air Travel Organisers' Licensing Act 2017",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Air Travel Organisers' Licensing Act 2017 and the Employment Protection Act 1975.\n\nFirst, I need to check the years mentioned in the names of the acts. The Employment Protection Act has the year 1975, ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Air Travel Organisers' Licensing Act 2017 and the Employment Protection Act 1975. \n\nFirst, I need to check the dates they were enacted. The user provided both dates: the Air Trav"
+  },
+  {
+    "task_id": "CO026",
+    "expected_older": "Supply and Appropriation (Main Estimates) Act 2012",
+    "expected_newer": "Access to Medical Treatments (Innovation) Act 2016",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Access to Medical Treatments (Innovation) Act 2016 and the Supply and Appropriation (Main Estimates) Act 2012.\n\nFirst, I need to check the years they were enacted. The names incl",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Access to Medical Treatments (Innovation) Act 2016 and the Supply and Appropriation (Main Estimates) Act 2012. They provided the enactment dates: March 23, 2016, and July 17, 201"
+  },
+  {
+    "task_id": "CO027",
+    "expected_older": "Coal Mines Regulation Act 1908",
+    "expected_newer": "Tyne Tunnels Act 1998",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Coal Mines Regulation Act 1908 and the Tyne Tunnels Act 1998.\n\nFirst, I need to check the years in the titles. The first one is from 1908, and the second one is from 1998. That seems straightforward. 1",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Coal Mines Regulation Act 1908' and the 'Tyne Tunnels Act 1998'. The dates given are 21st December 1908 for the Coal Mines one and 8th April 1998 for the Tyne Tunnels.\n\nFirst, I"
+  },
+  {
+    "task_id": "CO028",
+    "expected_older": "House of Lords Act 1999",
+    "expected_newer": "Supply and Appropriation (Main Estimates) Act 2011",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the House of Lords Act 1999 and the Supply and Appropriation (Main Estimates) Act 2011.\n\nFirst, I need to recall the dates of these two pieces of legislation. The names themselves include the years, which ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the House of Lords Act 1999 and the Supply and Appropriation (Main Estimates) Act 2011. The dates given are 11th November 1999 and 19th July 2011 respectively.\n\nFirst, I need to conf"
+  },
+  {
+    "task_id": "CO029",
+    "expected_older": "Local Government Act 1999",
+    "expected_newer": "Social Security Act (Northern Ireland) 2002",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which legislation is older between the 'Social Security Act (Northern Ireland) 2002' and the 'Local Government Act 1999'. They also want to know which one is newer.\n\nFirst, I need to check the years these acts were passed. The names give a clue with the ye",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Social Security Act (Northern Ireland) 2002 and the Local Government Act 1999.\n\nFirst, I need to check the dates they were enacted. The Social Security Act was enacted on 17th Oc"
+  },
+  {
+    "task_id": "CO030",
+    "expected_older": "Singapore Act 1966",
+    "expected_newer": "Taxation of Pensions Act 2014",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which legislation is older between the 'Singapore Act 1966' and the 'Taxation of Pensions Act 2014'. I need to figure out the answer.\n\nFirst, I should check the years in the names. The Singapore Act 1966 was passed in 1966, right? And the Taxation of Pensi",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Singapore Act 1966' enacted on 9th August 1966 and the 'Taxation of Pensions Act 2014' enacted on 17th December 2014.\n\nFirst, I need to compare the dates. The Singapore Act is f"
+  },
+  {
+    "task_id": "CO031",
+    "expected_older": "Conveyancing (Scotland) Acts (1874 and 1879) Amendment Act 1887",
+    "expected_newer": "Kew Gardens (Leases) Act 2019",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts in question are the 'Kew Gardens (Leases) Act 2019' and the 'Conveyancing (Scotland) Acts (1874 and 1879) Amendment Act 1887'. \n\nFirst, I need to figure out the dates of these acts. The first one,",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Kew Gardens (Leases) Act 2019' and the 'Conveyancing (Scotland) Acts (1874 and 1879) Amendment Act 1887'. \n\nFirst, I need to check the dates they were enacted. The Kew Gardens o"
+  },
+  {
+    "task_id": "CO032",
+    "expected_older": "Naval and Military War Pensions, &c., Act 1915",
+    "expected_newer": "Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Naval and Military War Pensions, &c., Act 1915' and the 'Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011'. \n\nFirst, I need to check the years in the",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Naval and Military War Pensions, &c., Act 1915' and the 'Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011'. \n\nFirst, I need to check the dates provid"
+  },
+  {
+    "task_id": "CO033",
+    "expected_older": "Supplementary Benefits Act 1976",
+    "expected_newer": "University of London Act 1994",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the University of London Act 1994 and the Supplementary Benefits Act 1976.\n\nFirst, I need to check the years mentioned in the titles. The University of London Act was in 1994, and the Supplementary Benefit",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the University of London Act 1994 and the Supplementary Benefits Act 1976. The dates given are 3rd November 1994 for the former and 15th November 1976 for the latter.\n\nFirst, I need "
+  },
+  {
+    "task_id": "CO034",
+    "expected_older": "Rent (Scotland) Act 1984",
+    "expected_newer": "Clergy Discipline Measure 2003",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which legislation is older between the 'Clergy Discipline Measure 2003' and the 'Rent (Scotland) Act 1984'. Hmm, I need to figure out the dates here.\n\nFirst, the 'Clergy Discipline Measure 2003' has the year 2003 in its title. That seems straightforward. T",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The two acts mentioned are the 'Clergy Discipline Measure 2003' enacted on 10th July 2003 and the 'Rent (Scotland) Act 1984' enacted on 31st October 1984.\n\nFirst, I need to compare the dates. The key here "
+  },
+  {
+    "task_id": "CO035",
+    "expected_older": "Barclays Group Reorganisation Act 2002",
+    "expected_newer": "Sexual Offences Act 2003",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two acts is older: the Barclays Group Reorganisation Act 2002 or the Sexual Offences Act 2003. Let me start by breaking down the problem.\n\nFirst, I know that the year in the title of an act usually indicates the year it was passed. So the Barclays",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Barclays Group Reorganisation Act 2002 and the Sexual Offences Act 2003. The dates given are 7th November 2002 and 20th November 2003 respectively.\n\nFirst, I need to confirm the "
+  },
+  {
+    "task_id": "CO036",
+    "expected_older": "Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017",
+    "expected_newer": "National Insurance Contributions (Secondary Class 1 Contributions) Act 2025",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'National Insurance Contributions (Secondary Class 1 Contributions) Act 2025' and the 'Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017'. \n\nFirst, I need t",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'National Insurance Contributions (Secondary Class 1 Contributions) Act 2025' and the 'Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017'. \n\nFirst, I need t"
+  },
+  {
+    "task_id": "CO037",
+    "expected_older": "House of Commons (Removal of Clergy Disqualification) Act 2001",
+    "expected_newer": "Clergy Discipline (Amendment) Measure 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two pieces of legislation is older and which is newer: the 'Clergy Discipline (Amendment) Measure 2013' and the 'House of Commons (Removal of Clergy Disqualification) Act 2001'. \n\nFirst, I need to figure out the dates of these two acts. The na",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two laws is older and which is newer. The two laws are the 'Clergy Discipline (Amendment) Measure 2013' and the 'House of Commons (Removal of Clergy Disqualification) Act 2001'. They provided the enactment dates: 26th March 2013 and 11th May 2"
+  },
+  {
+    "task_id": "CO038",
+    "expected_older": "Commons Registration (East Sussex) Act 1994",
+    "expected_newer": "Fisheries (Amendment) Act (Northern Ireland) 2001",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Fisheries (Amendment) Act (Northern Ireland) 2001 and the Commons Registration (East Sussex) Act 1994.\n\nFirst, I need to check the years these acts were passed. The names already include the years, so ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Fisheries (Amendment) Act (Northern Ireland) 2001 and the Commons Registration (East Sussex) Act 1994. They provided the enactment dates as 20th March 2001 and 5th July 1994 resp"
+  },
+  {
+    "task_id": "CO039",
+    "expected_older": "Churchwardens Measure 2001",
+    "expected_newer": "Education Act (Northern Ireland) 2014",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which legislation is older between the 'Education Act (Northern Ireland) 2014' and the 'Churchwardens Measure 2001'. I need to figure out the dates of these two pieces of legislation to determine which one is older and which is newer.\n\nFirst, I'll start wi",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The two acts mentioned are the Education Act (Northern Ireland) 2014 and the Churchwardens Measure 2001. Both have their enactment dates provided: December 11, 2014, and April 10, 2001, respectively.\n\nFirs"
+  },
+  {
+    "task_id": "CO040",
+    "expected_older": "Great Seal Offices Act 1874",
+    "expected_newer": "Interest on Damages (Scotland) Act 1958",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Great Seal Offices Act 1874 and the Interest on Damages (Scotland) Act 1958.\n\nFirst, I need to check the years mentioned in the titles. The first one is from 1874, and the second one is from 1958. So, ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Great Seal Offices Act 1874' enacted on 7th August 1874 and the 'Interest on Damages (Scotland) Act 1958' enacted on 1st August 1958.\n\nFirst, I need to compare the years. The fi"
+  },
+  {
+    "task_id": "CO041",
+    "expected_older": "Hill Farming Act 1946",
+    "expected_newer": "Education Act 1981",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of the two acts, the Hill Farming Act 1946 and the Education Act 1981, is older and which is newer. Let me start by recalling what I know about these pieces of legislation.\n\nFirst, the Hill Farming Act 1946. The name suggests it's related to farming in hil",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Hill Farming Act 1946 and the Education Act 1981. The dates given are 6th November 1946 for the Hill Farming Act and 30th October 1981 for the Education Act.\n\nFirst, I need to co"
+  },
+  {
+    "task_id": "CO042",
+    "expected_older": "Social Security (Overpayments) Act 1996",
+    "expected_newer": "Theft (Amendment) Act 1996",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of the two acts, the Social Security (Overpayments) Act 1996 and the Theft (Amendment) Act 1996, is older and which is newer. Both have the same year in their title, 1996, so the year isn't going to help me directly. I guess I need to look at when each was",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Social Security (Overpayments) Act 1996 and the Theft (Amendment) Act 1996. Both have the same year, 1996, so the key is to look at the dates they were enacted.\n\nThe Social Secur"
+  },
+  {
+    "task_id": "CO043",
+    "expected_older": "London Docklands Railway (Lewisham) Act 1993",
+    "expected_newer": "Supply and Appropriation (Main Estimates) Act 2019",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'London Docklands Railway (Lewisham) Act 1993' and the 'Supply and Appropriation (Main Estimates) Act 2019'. \n\nFirst, I need to check the years in the titles. The first one has 1",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'London Docklands Railway (Lewisham) Act 1993' and the 'Supply and Appropriation (Main Estimates) Act 2019'. They provided the enactment dates as 27th May 1993 and 17th July 2019"
+  },
+  {
+    "task_id": "CO044",
+    "expected_older": "Insurance Brokers (Registration) Act 1977",
+    "expected_newer": "Budget (No. 2) Act (Northern Ireland) 2001",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Insurance Brokers (Registration) Act 1977' and the 'Budget (No. 2) Act (Northern Ireland) 2001'. \n\nFirst, I need to check the years they were enacted. The first one has 1977 in ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Insurance Brokers (Registration) Act 1977 and the Budget (No. 2) Act (Northern Ireland) 2001. Both have their enactment dates provided: 29th July 1977 and 20th July 2001 respecti"
+  },
+  {
+    "task_id": "CO045",
+    "expected_older": "Small Landholders (Scotland) Act 1911",
+    "expected_newer": "Health (Miscellaneous Provisions) Act (Northern Ireland) 2016",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Small Landholders (Scotland) Act 1911' and the 'Health (Miscellaneous Provisions) Act (Northern Ireland) 2016'. \n\nFirst, I need to check the years in the titles. The first one c",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Small Landholders (Scotland) Act 1911' and the 'Health (Miscellaneous Provisions) Act (Northern Ireland) 2016'. \n\nFirst, I need to check the dates they were enacted. The first o"
+  },
+  {
+    "task_id": "CO046",
+    "expected_older": "Equitable Life (Payments) Act 2010",
+    "expected_newer": "Compensation (London Capital & Finance plc and Fraud Compensation Fund) Act 2021",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Compensation (London Capital & Finance plc and Fraud Compensation Fund) Act 2021 and the Equitable Life (Payments) Act 2010.\n\nFirst, I need to check the years in the titles. The first one is 2021, and ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Compensation (London Capital & Finance plc and Fraud Compensation Fund) Act 2021 and the Equitable Life (Payments) Act 2010. \n\nFirst, I need to check the dates they were enacted."
+  },
+  {
+    "task_id": "CO047",
+    "expected_older": "Limitation Act 1980",
+    "expected_newer": "Scotland Act 1998",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of the two acts, the Limitation Act 1980 and the Scotland Act 1998, is older and which is newer. Let me start by recalling what I know about these pieces of legislation.\n\nFirst, the names give away their years: 1980 and 1998. That seems straightforward. Th",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Limitation Act 1980 and the Scotland Act 1998. They provided the enactment dates as 13th November 1980 and 19th November 1998 respectively.\n\nFirst, I need to compare the dates. T"
+  },
+  {
+    "task_id": "CO048",
+    "expected_older": "Coal Industry Act 1977",
+    "expected_newer": "Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 and the Coal Industry Act 1977.\n\nFirst, I need to check the years each act was passed. The Coal Industry Act 1977 is cle",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021' and the 'Coal Industry Act 1977'. \n\nFirst, I need to check the dates they were enacted. The use"
+  },
+  {
+    "task_id": "CO049",
+    "expected_older": "Notice of Accidents Act 1906",
+    "expected_newer": "Deer (Scotland) Act 1996",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Deer (Scotland) Act 1996 and the Notice of Accidents Act 1906.\n\nFirst, I need to check the years each act was passed. The names already include the years, so that's straightforward. The Deer (Scotland)",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Deer (Scotland) Act 1996 and the Notice of Accidents Act 1906. \n\nFirst, I need to check the dates they were enacted. The Deer Act was on 24th July 1996, and the Notice of Acciden"
+  },
+  {
+    "task_id": "CO050",
+    "expected_older": "Sea Fisheries Regulation Act 1966",
+    "expected_newer": "Finance Act 1990",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Finance Act 1990 and the Sea Fisheries Regulation Act 1966.\n\nFirst, I need to check the years mentioned in the titles. The Finance Act is from 1990, and the Sea Fisheries Regulation Act is from 1966. C",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Finance Act 1990 and the Sea Fisheries Regulation Act 1966. The dates given are 26th July 1990 for the Finance Act and 17th November 1966 for the Sea Fisheries Regulation Act.\n\nF"
+  },
+  {
+    "task_id": "CO051",
+    "expected_older": "United Reformed Church Act 2000",
+    "expected_newer": "Infrastructure (Financial Assistance) Act 2012",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Infrastructure (Financial Assistance) Act 2012 and the United Reformed Church Act 2000.\n\nFirst, I need to check the years these acts were passed. The names include the years, so that's a good start. Th",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Infrastructure (Financial Assistance) Act 2012 and the United Reformed Church Act 2000. \n\nFirst, I need to check the dates they were enacted. The Infrastructure Act was on 31st O"
+  },
+  {
+    "task_id": "CO052",
+    "expected_older": "Development of Rural Wales Act 1976",
+    "expected_newer": "Executive Committee (Functions) Act (Northern Ireland) 2020",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Executive Committee (Functions) Act (Northern Ireland) 2020 and the Development of Rural Wales Act 1976.\n\nFirst, I need to check the years these acts were passed. The first one has 2020 in its title, a",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Executive Committee (Functions) Act (Northern Ireland) 2020' and the 'Development of Rural Wales Act 1976'. \n\nFirst, I need to check the dates they were enacted. The Northern Ir"
+  },
+  {
+    "task_id": "CO053",
+    "expected_older": "Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015",
+    "expected_newer": "Addressing Bullying in Schools Act (Northern Ireland) 2016",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Addressing Bullying in Schools Act (Northern Ireland) 2016' and the 'Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015'. \n\nFirst, I need to check t",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts from Northern Ireland is older and which is newer. The acts mentioned are the 'Addressing Bullying in Schools Act (Northern Ireland) 2016' enacted on 12th May 2016, and the 'Off-street Parking (Functions of District Councils) Act (Nor"
+  },
+  {
+    "task_id": "CO054",
+    "expected_older": "Matrimonial Causes Act 1965",
+    "expected_newer": "National Debt Act 1972",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two acts is older and which is newer: the National Debt Act 1972 and the Matrimonial Causes Act 1965. Let me start by breaking down the question.\n\nFirst, the names of the acts include the years 1972 and 1965. At first glance, that would suggest th",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the National Debt Act 1972 and the Matrimonial Causes Act 1965. The dates given are 9th August 1972 for the National Debt Act and 8th November 1965 for the Matrimonial Causes Act.\n\nF"
+  },
+  {
+    "task_id": "CO055",
+    "expected_older": "Adoption and Children Act 2002",
+    "expected_newer": "Civil Contingencies Act 2004",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of the two acts, the Adoption and Children Act 2002 and the Civil Contingencies Act 2004, is older and which is newer. Let me start by recalling what I know about these pieces of legislation.\n\nFirst, the names themselves give part of the story. The Adoptio",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Adoption and Children Act 2002 and the Civil Contingencies Act 2004. They provided the dates as 7th November 2002 and 18th November 2004 respectively.\n\nFirst, I need to confirm t"
+  },
+  {
+    "task_id": "CO056",
+    "expected_older": "Malawi Republic Act 1966",
+    "expected_newer": "Imperial College Act 1997",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which legislation is older between the 'Imperial College Act 1997' and the 'Malawi Republic Act 1966'. They also want to know which one is newer.\n\nFirst, I need to check the years mentioned in the titles. The Malawi Republic Act is from 1966, and the Imper",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Imperial College Act 1997 and the Malawi Republic Act 1966. The dates given are 15th July 1997 for the Imperial College Act and 3rd August 1966 for the Malawi Republic Act.\n\nFirs"
+  },
+  {
+    "task_id": "CO057",
+    "expected_older": "Sale and Supply of Goods Act 1994",
+    "expected_newer": "Church of England Pensions (Amendment) Measure 2009",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two pieces of legislation is older and which is newer: the Church of England Pensions (Amendment) Measure 2009 and the Sale and Supply of Goods Act 1994.\n\nFirst, I need to figure out the years each was enacted. The names give away the years: 2",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two legal documents is older and which is newer. The two in question are the 'Church of England Pensions (Amendment) Measure 2009' enacted on 2nd April 2009 and the 'Sale and Supply of Goods Act 1994' enacted on 3rd November 1994.\n\nFirst, I ne"
+  },
+  {
+    "task_id": "CO058",
+    "expected_older": "Self-Governing Schools etc. (Scotland) Act 1989",
+    "expected_newer": "Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Self-Governing Schools etc. (Scotland) Act 1989' and the 'Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015'. \n\nFirst, I need to check the years th",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Self-Governing Schools etc. (Scotland) Act 1989' and the 'Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015'. \n\nFirst, I need to check the dates th"
+  },
+  {
+    "task_id": "CO059",
+    "expected_older": "Railways Act 1974",
+    "expected_newer": "Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 and the Railways Act 1974.\n\nFirst, I need to check the years these acts were passed. The Railways Act 1974 clearly has the ye",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 and the Railways Act 1974. \n\nFirst, I need to check the dates they were enacted. The user provided bot"
+  },
+  {
+    "task_id": "CO060",
+    "expected_older": "Civil Defence (Armed Forces) Act 1954",
+    "expected_newer": "Veterans Advisory and Pensions Committees Act 2023",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Veterans Advisory and Pensions Committees Act 2023 and the Civil Defence (Armed Forces) Act 1954.\n\nFirst, I need to check the years these acts were passed. The names themselves include the years, which",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Veterans Advisory and Pensions Committees Act 2023' and the 'Civil Defence (Armed Forces) Act 1954'. \n\nFirst, I need to check the enactment dates provided. The Veterans Advisory"
+  },
+  {
+    "task_id": "CO061",
+    "expected_older": "Variation of Trusts Act 1958",
+    "expected_newer": "Finance Act 1977",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of the two acts, the Variation of Trusts Act 1958 and the Finance Act 1977, is older and which is newer. Let me start by breaking down the question.\n\nFirst, the names of the acts include the years 1958 and 1977. That seems straightforward because usually, ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Variation of Trusts Act 1958' and the 'Finance Act 1977'. The dates given are 23rd July 1958 for the Variation of Trusts Act and 29th July 1977 for the Finance Act.\n\nFirst, I ne"
+  },
+  {
+    "task_id": "CO062",
+    "expected_older": "Cable and Wireless Act 1946",
+    "expected_newer": "Welfare Reform Act 2009",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two acts is older and which is newer: the Welfare Reform Act 2009 and the Cable and Wireless Act 1946. Let me start by recalling what I know about these pieces of legislation.\n\nFirst, the names themselves give some clues. The Cable and Wireless Ac",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Welfare Reform Act 2009 and the Cable and Wireless Act 1946. The dates given are 12th November 2009 for the Welfare Reform Act and 6th November 1946 for the Cable and Wireless Ac"
+  },
+  {
+    "task_id": "CO063",
+    "expected_older": "Rating and Valuation Act 1925",
+    "expected_newer": "Consolidated Fund Act 2006",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two acts is older and which is newer: the Consolidated Fund Act 2006 and the Rating and Valuation Act 1925. Let me start by recalling what I know about UK legislation. \n\nFirst, the names themselves give some clues. The years in the titles are 2006",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Consolidated Fund Act 2006 and the Rating and Valuation Act 1925. \n\nFirst, I need to check the dates they were enacted. The Consolidated Fund Act 2006 was enacted on 19th Decembe"
+  },
+  {
+    "task_id": "CO064",
+    "expected_older": "Local Government (Financial Provisions) Act 1963",
+    "expected_newer": "Representation of the People Act 1990",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two acts is older and which is newer: the Local Government (Financial Provisions) Act 1963 and the Representation of the People Act 1990. Let me start by breaking down the question.\n\nFirst, I know that the names of the acts include the years they ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Local Government (Financial Provisions) Act 1963 and the Representation of the People Act 1990. The dates given are 31st July 1963 and 26th July 1990, respectively.\n\nFirst, I nee"
+  },
+  {
+    "task_id": "CO065",
+    "expected_older": "Public Meeting Act, 1908",
+    "expected_newer": "Guardianship (Missing Persons) Act 2017",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Public Meeting Act, 1908, and the Guardianship (Missing Persons) Act 2017.\n\nFirst, I need to check the years mentioned in the titles. The Public Meeting Act is from 1908, and the Guardianship (Missing ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Public Meeting Act, 1908, and the Guardianship (Missing Persons) Act 2017. \n\nFirst, I need to check the dates they were enacted. The Public Meeting Act was enacted on 21st Decemb"
+  },
+  {
+    "task_id": "CO066",
+    "expected_older": "Lands Valuation Amendment (Scotland) Act 1982",
+    "expected_newer": "Local Government (Wales) Act 2015",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Local Government (Wales) Act 2015 and the Lands Valuation Amendment (Scotland) Act 1982.\n\nFirst, I need to check the years each act was passed. The names give it away a bit. The Wales one is from 2015,",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Local Government (Wales) Act 2015 and the Lands Valuation Amendment (Scotland) Act 1982.\n\nFirst, I need to check the dates they were enacted. The Wales one is from November 25, 2"
+  },
+  {
+    "task_id": "CO067",
+    "expected_older": "European Economic Area Act 1993",
+    "expected_newer": "Health and Social Care Act 2001",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two acts is older: the European Economic Area Act 1993 and the Health and Social Care Act 2001. Let me start by recalling what I know about UK legislation.\n\nFirst, the European Economic Area (EEA) Act 1993. I remember that the EEA was established ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the European Economic Area Act 1993 and the Health and Social Care Act 2001. They provided the enactment dates as 5th November 1993 and 11th May 2001 respectively.\n\nFirst, I need to "
+  },
+  {
+    "task_id": "CO068",
+    "expected_older": "Consolidated Fund (No. 2) Act 1990",
+    "expected_newer": "Medical (Professional Performance) Act 1995",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Consolidated Fund (No. 2) Act 1990 and the Medical (Professional Performance) Act 1995.\n\nFirst, I need to check the years each act was passed. The first one is from 1990, and the second one is from 199",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Consolidated Fund (No. 2) Act 1990' and the 'Medical (Professional Performance) Act 1995'. They provided the enactment dates as 20th December 1990 and 8th November 1995 respecti"
+  },
+  {
+    "task_id": "CO069",
+    "expected_older": "Justices of the Peace Act 1968",
+    "expected_newer": "Regulation of Registered Social Landlords (Wales) Act 2018",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Regulation of Registered Social Landlords (Wales) Act 2018 and the Justices of the Peace Act 1968.\n\nFirst, I need to check the years each act was passed. The Justices of the Peace Act 1968 clearly has ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Regulation of Registered Social Landlords (Wales) Act 2018 and the Justices of the Peace Act 1968.\n\nFirst, I need to check the dates they were enacted. The first one, Regulation "
+  },
+  {
+    "task_id": "CO070",
+    "expected_older": "Animal Welfare Act 2006",
+    "expected_newer": "Deregulation Act 2015",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of the two acts, the Deregulation Act 2015 and the Animal Welfare Act 2006, is older and which is newer. Let me start by recalling what I know about these pieces of legislation.\n\nFirst, the Animal Welfare Act 2006. I remember that this act is related to th",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Deregulation Act 2015 and the Animal Welfare Act 2006. The dates given are 26th March 2015 for the Deregulation Act and 8th November 2006 for the Animal Welfare Act.\n\nFirst, I ne"
+  },
+  {
+    "task_id": "CO071",
+    "expected_older": "Forced Marriage (Civil Protection) Act 2007",
+    "expected_newer": "Bournemouth Borough Council Act 2010",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two acts is older and which is newer: the Forced Marriage (Civil Protection) Act 2007 and the Bournemouth Borough Council Act 2010. Let me start by recalling what I know about UK legislation.\n\nFirst, the names of the acts include the years they we",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Forced Marriage (Civil Protection) Act 2007' and the 'Bournemouth Borough Council Act 2010'. They provided the enactment dates as 26th July 2007 and 8th April 2010 respectively."
+  },
+  {
+    "task_id": "CO072",
+    "expected_older": "Lesotho Independence Act 1966",
+    "expected_newer": "Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Lesotho Independence Act 1966 and the Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017.\n\nFirst, I need to check the years mentioned in the titles. The first one is clearly from 1",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Lesotho Independence Act 1966' and the 'Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017'. \n\nFirst, I need to check the dates they were enacted. The Lesot"
+  },
+  {
+    "task_id": "CO073",
+    "expected_older": "Consolidated Fund (No. 2) Act 1990",
+    "expected_newer": "Great British Energy Act 2025",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Great British Energy Act 2025 and the Consolidated Fund (No. 2) Act 1990.\n\nFirst, I need to check the years mentioned in the titles. The Consolidated Fund (No. 2) Act has the year 1990, and the Great B",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Great British Energy Act 2025' enacted on 15th May 2025 and the 'Consolidated Fund (No. 2) Act 1990' enacted on 20th December 1990.\n\nFirst, I need to compare the dates. The key "
+  },
+  {
+    "task_id": "CO074",
+    "expected_older": "Local Government (Contracts) Act 1997",
+    "expected_newer": "Environment Act 2021",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Environment Act 2021 and the Local Government (Contracts) Act 1997.\n\nFirst, I need to confirm the years these acts were passed. The names themselves give the years: 2021 and 1997. So the Environment Ac",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Environment Act 2021 and the Local Government (Contracts) Act 1997. The dates given are 9th November 2021 for the Environment Act and 27th November 1997 for the Local Government "
+  },
+  {
+    "task_id": "CO075",
+    "expected_older": "Suez Canal (Shares) Act 1876",
+    "expected_newer": "Hill Samuel Bank and United Dominions Trust Act 1994",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Hill Samuel Bank and United Dominions Trust Act 1994 and the Suez Canal (Shares) Act 1876.\n\nFirst, I need to check the years mentioned in the titles. The first one has 1994, and the second one is 1876.",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Hill Samuel Bank and United Dominions Trust Act 1994 and the Suez Canal (Shares) Act 1876. \n\nFirst, I need to check the dates they were enacted. The Hill Samuel Bank Act was on 2"
+  },
+  {
+    "task_id": "CO076",
+    "expected_older": "Tithe Act 1925",
+    "expected_newer": "Non-Domestic Rating Act 1992",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of the two acts, the Tithe Act 1925 and the Non-Domestic Rating Act 1992, is older and which is newer. Let me start by breaking down the question.\n\nFirst, the names of the acts give some clues. Both are pieces of legislation from the UK, I believe. The Tit",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Tithe Act 1925 and the Non-Domestic Rating Act 1992. \n\nFirst, I need to check the dates they were enacted. The Tithe Act 1925 was enacted on 22nd December 1925, and the Non-Domes"
+  },
+  {
+    "task_id": "CO077",
+    "expected_older": "Licensing Act (Northern Ireland) 2016",
+    "expected_newer": "Digital Markets, Competition and Consumers Act 2024",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two pieces of legislation is older and which is newer: the Digital Markets, Competition and Consumers Act 2024 and the Licensing Act (Northern Ireland) 2016.\n\nFirst, I need to check the years they were enacted. The names give away the years: 2",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Digital Markets, Competition and Consumers Act 2024' enacted on 24th May 2024, and the 'Licensing Act (Northern Ireland) 2016' enacted on 12th May 2016.\n\nFirst, I need to compar"
+  },
+  {
+    "task_id": "CO078",
+    "expected_older": "Vehicle Registration Marks Act 2007",
+    "expected_newer": "Sunbeds Act (Northern Ireland) 2011",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Vehicle Registration Marks Act 2007 and the Sunbeds Act (Northern Ireland) 2011.\n\nFirst, I need to check the years these acts were passed. The first one is the Vehicle Registration Marks Act 2007. The ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Vehicle Registration Marks Act 2007' and the 'Sunbeds Act (Northern Ireland) 2011'. \n\nFirst, I need to check the dates they were enacted. The Vehicle Registration Marks Act 2007"
+  },
+  {
+    "task_id": "CO079",
+    "expected_older": "Metropolitan Commons Amendment Act 1869",
+    "expected_newer": "Firearms Act 2023",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which legislation is older between the 'Metropolitan Commons Amendment Act 1869' and the 'Firearms Act 2023', and which is newer. \n\nFirst, I need to check the years in the titles. The first one is from 1869, and the second one is from 2023. That seems stra",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Metropolitan Commons Amendment Act 1869' and the 'Firearms Act 2023'. The dates given are 11th August 1869 and 18th September 2023, respectively.\n\nFirst, I need to confirm the y"
+  },
+  {
+    "task_id": "CO080",
+    "expected_older": "London Local Authorities Act 1994",
+    "expected_newer": "Justice and Security Act 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two acts is older and which is newer: the Justice and Security Act 2013 and the London Local Authorities Act 1994. Let me start by recalling what I know about UK legislation. Acts of Parliament are named with the year they were passed, right? So t",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Justice and Security Act 2013 and the London Local Authorities Act 1994. \n\nFirst, I need to check the dates they were enacted. The Justice and Security Act 2013 was enacted on 25"
+  },
+  {
+    "task_id": "CO081",
+    "expected_older": "Police, Crime, Sentencing and Courts Act 2022",
+    "expected_newer": "Investigatory Powers (Amendment) Act 2024",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Investigatory Powers (Amendment) Act 2024 and the Police, Crime, Sentencing and Courts Act 2022.\n\nFirst, I need to check the years mentioned in the titles. The Investigatory Powers (Amendment) Act is f",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Investigatory Powers (Amendment) Act 2024 and the Police, Crime, Sentencing and Courts Act 2022.\n\nFirst, I need to check the dates they were enacted. The user provided the dates:"
+  },
+  {
+    "task_id": "CO082",
+    "expected_older": "Auctions (Bidding Agreements) Act 1969",
+    "expected_newer": "Allhallows Staining Church Act 2010",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Auctions (Bidding Agreements) Act 1969 and the Allhallows Staining Church Act 2010.\n\nFirst, I need to check the years mentioned in the titles. The first one is clearly from 1969, and the second one is ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Auctions (Bidding Agreements) Act 1969' and the 'Allhallows Staining Church Act 2010'. They provided the enactment dates as 22nd October 1969 and 27th July 2010 respectively.\n\nF"
+  },
+  {
+    "task_id": "CO083",
+    "expected_older": "Veterinary Surgeons Act 1966",
+    "expected_newer": "Northern Ireland Act 1998",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which legislation is older between the 'Veterinary Surgeons Act 1966' and the 'Northern Ireland Act 1998', and which is newer. \n\nFirst, I need to confirm the dates of both acts. The names themselves include the years 1966 and 1998. So, the Veterinary Surge",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Veterinary Surgeons Act 1966' and the 'Northern Ireland Act 1998'. They provided the enactment dates as 17th November 1966 and 19th November 1998 respectively.\n\nFirst, I need to"
+  },
+  {
+    "task_id": "CO084",
+    "expected_older": "Local Government (Interim Provisions) Act 1984",
+    "expected_newer": "Non-Domestic Rating Act 2023",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Local Government (Interim Provisions) Act 1984 and the Non-Domestic Rating Act 2023.\n\nFirst, I need to check the years in the titles. The first one is from 1984, and the second one is from 2023. That s",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Local Government (Interim Provisions) Act 1984 and the Non-Domestic Rating Act 2023.\n\nFirst, I need to check the dates provided. The first act was enacted on 31st July 1984, and "
+  },
+  {
+    "task_id": "CO085",
+    "expected_older": "British Railways (No. 2) Order Confirmation Act 1994",
+    "expected_newer": "Addressing Bullying in Schools Act (Northern Ireland) 2016",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'British Railways (No. 2) Order Confirmation Act 1994' and the 'Addressing Bullying in Schools Act (Northern Ireland) 2016'. \n\nFirst, I need to check the years they were enacted.",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'British Railways (No. 2) Order Confirmation Act 1994' and the 'Addressing Bullying in Schools Act (Northern Ireland) 2016'. \n\nFirst, I need to check the dates they were enacted."
+  },
+  {
+    "task_id": "CO086",
+    "expected_older": "Citation Amendment (Scotland) Act 1882",
+    "expected_newer": "Local Authority Social Services Act 1970",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Citation Amendment (Scotland) Act 1882 and the Local Authority Social Services Act 1970.\n\nFirst, I need to check the years each act was passed. The first one has the year 1882 in its title, and the sec",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Citation Amendment (Scotland) Act 1882 and the Local Authority Social Services Act 1970. \n\nFirst, I need to check the dates they were enacted. The first one is from 1882, specifi"
+  },
+  {
+    "task_id": "CO087",
+    "expected_older": "Railway Fires Act 1905",
+    "expected_newer": "Justices of the Peace Act 1949",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of the two acts, the Railway Fires Act 1905 and the Justices of the Peace Act 1949, is older and which is newer. Let me start by breaking down the question.\n\nFirst, the names of the acts include the years 1905 and 1949. That seems straightforward because u",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Railway Fires Act 1905 and the Justices of the Peace Act 1949. They provided the enactment dates as 4th August 1905 and 16th December 1949 respectively.\n\nFirst, I need to confirm"
+  },
+  {
+    "task_id": "CO088",
+    "expected_older": "Terrorist Asset-Freezing etc. Act 2010",
+    "expected_newer": "Non-domestic Rates Valuations (Coronavirus) Act (Northern Ireland) 2022",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Terrorist Asset-Freezing etc. Act 2010' and the 'Non-domestic Rates Valuations (Coronavirus) Act (Northern Ireland) 2022'. \n\nFirst, I need to check the years in the titles. The ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Terrorist Asset-Freezing etc. Act 2010' and the 'Non-domestic Rates Valuations (Coronavirus) Act (Northern Ireland) 2022'. They provided the enactment dates as 16th December 201"
+  },
+  {
+    "task_id": "CO089",
+    "expected_older": "Ordnance Factories and Military Services Act 1984",
+    "expected_newer": "Public Audit (Wales) Act 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Ordnance Factories and Military Services Act 1984 and the Public Audit (Wales) Act 2013.\n\nFirst, I need to check the years these acts were passed. The first one has the year 1984 in its title, and the ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Ordnance Factories and Military Services Act 1984 and the Public Audit (Wales) Act 2013. \n\nFirst, I need to check the dates they were enacted. The first one, the Ordnance Factori"
+  },
+  {
+    "task_id": "CO090",
+    "expected_older": "Transport and Works Act 1992",
+    "expected_newer": "Gas Act 1995",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of the two acts, the Transport and Works Act 1992 and the Gas Act 1995, is older and which is newer. Let me start by recalling what I know about these pieces of legislation.\n\nFirst, the names both include the year they were enacted. In the UK, the year in ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Transport and Works Act 1992 and the Gas Act 1995. They provided the dates as 16th March 1992 and 8th November 1995 respectively.\n\nFirst, I need to confirm the dates. The Transpo"
+  },
+  {
+    "task_id": "CO091",
+    "expected_older": "Legal Deposit Libraries Act 2003",
+    "expected_newer": "Crown Estate Act 2025",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Legal Deposit Libraries Act 2003 and the Crown Estate Act 2025.\n\nFirst, I need to check the years they were enacted. The Legal Deposit Libraries Act 2003 has the year 2003 in its title, so that's strai",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Legal Deposit Libraries Act 2003 and the Crown Estate Act 2025. The dates given are 30th October 2003 for the first one and 11th March 2025 for the second.\n\nFirst, I need to conf"
+  },
+  {
+    "task_id": "CO092",
+    "expected_older": "Price’s Patent Candle Company Limited Act 1992",
+    "expected_newer": "Driving Instruction (Suspension and Exemption Powers) Act 2009",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Driving Instruction (Suspension and Exemption Powers) Act 2009' and the 'Price’s Patent Candle Company Limited Act 1992'. \n\nFirst, I need to check the years in the titles. The f",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Driving Instruction (Suspension and Exemption Powers) Act 2009' and the 'Price’s Patent Candle Company Limited Act 1992'. Both have the same enactment date of 12th November, but"
+  },
+  {
+    "task_id": "CO093",
+    "expected_older": "Tamar Bridge Act 1998",
+    "expected_newer": "Budget Act (Northern Ireland) 2011",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two acts is older and which is newer: the Budget Act (Northern Ireland) 2011 and the Tamar Bridge Act 1998. Let me start by recalling what I know about UK legislation. Acts of Parliament are named with the year they were passed, right? So the year",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Budget Act (Northern Ireland) 2011 and the Tamar Bridge Act 1998. \n\nFirst, I need to compare the dates they were enacted. The Budget Act was enacted on 22nd March 2011, and the T"
+  },
+  {
+    "task_id": "CO094",
+    "expected_older": "Metropolitan Commons Amendment Act 1869",
+    "expected_newer": "Irish Sailors and Soldiers Land Trust Act 1952",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Metropolitan Commons Amendment Act 1869 and the Irish Sailors and Soldiers Land Trust Act 1952.\n\nFirst, I need to check the years these acts were passed. The first one is from 1869, and the second one ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Metropolitan Commons Amendment Act 1869 and the Irish Sailors and Soldiers Land Trust Act 1952. \n\nFirst, I need to check the dates they were enacted. The first one, the Metropoli"
+  },
+  {
+    "task_id": "CO095",
+    "expected_older": "Medical Act  1983",
+    "expected_newer": "Henry Johnson, Sons & Co., Limited Act 1996",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two acts is older and which is newer: the Medical Act 1983 and the Henry Johnson, Sons & Co., Limited Act 1996. Let me start by breaking down the names and the years given.\n\nFirst, the Medical Act 1983. The name suggests it's related to medical ma",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Medical Act 1983' and the 'Henry Johnson, Sons & Co., Limited Act 1996'. \n\nFirst, I need to check the dates provided. The Medical Act 1983 was enacted on 26th July 1983, and the"
+  },
+  {
+    "task_id": "CO096",
+    "expected_older": "Road Traffic Act 1988",
+    "expected_newer": "Criminal Justice Act 2003",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of the two acts, the Criminal Justice Act 2003 and the Road Traffic Act 1988, is older and which is newer. Let me start by recalling what I know about these pieces of legislation.\n\nFirst, the names themselves give a clue because they include the years. The",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Criminal Justice Act 2003 and the Road Traffic Act 1988. The dates given are 20th November 2003 for the Criminal Justice Act and 15th November 1988 for the Road Traffic Act.\n\nFir"
+  },
+  {
+    "task_id": "CO097",
+    "expected_older": "Theft Act 1968",
+    "expected_newer": "Nuclear Safeguards Act 2018",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of the two acts, the Nuclear Safeguards Act 2018 and the Theft Act 1968, is older and which is newer. Let me start by recalling what I know about these pieces of legislation.\n\nFirst, the Theft Act 1968. I remember that in the UK, there have been several Th",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Nuclear Safeguards Act 2018 and the Theft Act 1968. They provided the enactment dates as 26th June 2018 for the Nuclear Safeguards Act and 26th July 1968 for the Theft Act.\n\nFirs"
+  },
+  {
+    "task_id": "CO098",
+    "expected_older": "Savings Accounts and Health in Pregnancy Grant Act 2010",
+    "expected_newer": "Welfare Benefits Up-rating Act 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two acts is older and which is newer: the 'Savings Accounts and Health in Pregnancy Grant Act 2010' and the 'Welfare Benefits Up-rating Act 2013'. Let me start by breaking down the names and the years mentioned.\n\nFirst, the years in the titles are",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the 'Savings Accounts and Health in Pregnancy Grant Act 2010' enacted on 16th December 2010, and the 'Welfare Benefits Up-rating Act 2013' enacted on 26th March 2013.\n\nFirst, I need "
+  },
+  {
+    "task_id": "CO099",
+    "expected_older": "Dangerous Dogs (Amendment) Act 1997",
+    "expected_newer": "Colchester Borough Council Act 2001",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer: the Colchester Borough Council Act 2001 and the Dangerous Dogs (Amendment) Act 1997.\n\nFirst, I need to check the years these acts were passed. The names already include the years, so that's a good start. T",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The acts mentioned are the Colchester Borough Council Act 2001 and the Dangerous Dogs (Amendment) Act 1997. The dates given are 22nd March 2001 for the Colchester one and 21st March 1997 for the Dangerous "
+  },
+  {
+    "task_id": "CO100",
+    "expected_older": "Diocese in Europe Measure 2013",
+    "expected_newer": "Groceries Code Adjudicator Act 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_main_snippet": "<think>\nOkay, so I need to figure out which of these two pieces of legislation is older: the Groceries Code Adjudicator Act 2013 and the Diocese in Europe Measure 2013. Both have the year 2013 in their titles, so maybe they were both passed in the same year. But the user is asking which is older and",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking which of the two acts is older and which is newer. The two acts mentioned are the 'Groceries Code Adjudicator Act 2013' enacted on 25th April 2013 and the 'Diocese in Europe Measure 2013' enacted on 26th March 2013.\n\nFirst, I need to compare the dates. Bot"
+  }
+]

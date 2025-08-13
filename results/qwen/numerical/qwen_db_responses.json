@@ -1,0 +1,802 @@
+[
+  {
+    "task_id": "DB001",
+    "expected_duration": "20 years 2 months 5 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Courts Act 2003 the Church of England Pensions (Application of Capital Funds) Measure 2024 was enacted. Let me start by breaking down the probl",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Courts Act 2003 was enacted, the Church of England Pensions Measure 2024 came into effect. The dates given are 2003-11-20 for the Courts Act an"
+  },
+  {
+    "task_id": "DB002",
+    "expected_duration": "8 years 0 months 4 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Justice and Security Act 2013 the Fire Safety Act 2021 was enacted. Let me start by recalling what I know about these two pieces of legislation",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Justice and Security Act 2013 was enacted, the Fire Safety Act 2021 was enacted. The dates given are 2013-04-25 for the first and 2021-04-29 fo"
+  },
+  {
+    "task_id": "DB003",
+    "expected_duration": "9 years 5 months 5 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Medway Ports Authority Act 1973 was the Administration of Justice Act 1982 enacted. Let me start by breaking down the problem.\n\nFirst, I need t",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Medway Ports Authority Act 1973 was enacted, the Administration of Justice Act 1982 was passed. The dates given are 1973-05-23 for the first an"
+  },
+  {
+    "task_id": "DB004",
+    "expected_duration": "101 years 4 months 8 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Churches (Scotland) Act 1905' the 'Consolidated Fund Act 2006' was enacted. Let me start by breaking down the problem.\n\nFirst, I need the date",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Churches (Scotland) Act 1905 and the Consolidated Fund Act 2006. Let me start by noting"
+  },
+  {
+    "task_id": "DB005",
+    "expected_duration": "22 years 3 months 13 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Public Order (Amendment) Act 1996' was the 'Childcare Funding (Wales) Act 2019' enacted. Let me start by breaking down the problem.\n\nFirst, I ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment of the Public Order (Amendment) Act 1996 on October 17, 1996, and the Childcare Funding (Wales) Act "
+  },
+  {
+    "task_id": "DB006",
+    "expected_duration": "22 years 9 months 0 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to find out how long after the Medicines Act 1968 the Water Consolidation (Consequential Provisions) Act 1991 was enacted. Let me start by recalling the dates of both acts.\n\nFi",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Medicines Act 1968 was enacted, the Water Consolidation (Consequential Provisions) Act 1991 was enacted. The dates given are 1968-10-25 for the"
+  },
+  {
+    "task_id": "DB007",
+    "expected_duration": "10 years 6 months 2 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Railtrack (Waverley Station) Order Confirmation Act 2000' was the 'Terrorist Asset-Freezing etc. Act 2010' enacted. Let me start by breaking d",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the first act was enacted the second one was. The first act is the Railtrack (Waverley Station) Order Confirmation Act 2000, which was enacted on J"
+  },
+  {
+    "task_id": "DB008",
+    "expected_duration": "4 years 6 months 29 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Tax Collection and Management (Wales) Act 2016' was enacted, the 'Social Security (Up-rating of Benefits) Act 2020' came into effect. Let me s",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Tax Collection and Management (Wales) Act 2016 was enacted, the Social Security (Up-rating of Benefits) Act 2020 was enacted. The dates given a"
+  },
+  {
+    "task_id": "DB009",
+    "expected_duration": "142 years 2 months 23 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Metropolitan Commons Amendment Act 1869 the Coinage (Measurement) Act 2011 was enacted. Let me start by breaking down the problem.\n\nFirst, I ne",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between August 11, 1869, and November 3, 2011. Let me start by breaking this down step by step.\n\nFirst, I know that calcul"
+  },
+  {
+    "task_id": "DB010",
+    "expected_duration": "46 years 8 months 9 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Channel Tunnel (Initial Finance) Act 1973' the 'Channel Islands Measure 2020' was enacted. Let me start by breaking down the problem.\n\nFirst, ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Channel Tunnel (Initial Finance) Act 1973 on November 13, 1973, and the Channel Islands"
+  },
+  {
+    "task_id": "DB011",
+    "expected_duration": "25 years 5 months 21 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Gas Act 1995 the Financial Services Act 2021 was enacted. Let me start by recalling what I know about these two pieces of legislation.\n\nFirst, ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Gas Act 1995 and the Financial Services Act 2021. Let me start by noting the two dates:"
+  },
+  {
+    "task_id": "DB012",
+    "expected_duration": "6 years 2 months 13 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Department of Justice Act (Northern Ireland) 2010 was enacted, the Tax Collection and Management (Wales) Act 2016 came into effect. Let me star",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Department of Justice Act (Northern Ireland) 2010 was enacted, the Tax Collection and Management (Wales) Act 2016 was enacted. The dates given "
+  },
+  {
+    "task_id": "DB013",
+    "expected_duration": "9 years 8 months 12 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Statute Law (Repeals) Act 1995' was the 'Appropriation (No. 3) Act 2005' enacted. Let me start by understanding what each of these acts is and",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Statute Law (Repeals) Act 1995 was enacted, the Appropriation (No. 3) Act 2005 was enacted. Let me start by noting the dates given. The first a"
+  },
+  {
+    "task_id": "DB014",
+    "expected_duration": "27 years 8 months 19 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'National Health Service (Private Finance) Act 1997' was the 'Non-Domestic Rating (Multipliers and Private Schools) Act 2025' enacted. Let me s",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the National Health Service (Private Finance) Act 1997 was enacted, the Non-Domestic Rating (Multipliers and Private Schools) Act 2025 was enacted."
+  },
+  {
+    "task_id": "DB015",
+    "expected_duration": "47 years 3 months 1 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to find out how long after the 'Rating and Valuation (Air-Raid Works) (Scotland) Act 1938' the 'Administration of Justice Act 1985' was enacted. Let me start by breaking down t",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the first act was enacted the second one was. The first act is the 'Rating and Valuation (Air-Raid Works) (Scotland) Act 1938' which was enacted on"
+  },
+  {
+    "task_id": "DB016",
+    "expected_duration": "37 years 0 months 11 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to find out how long after the 'Law Reform (Miscellaneous Provisions) Act 1934' the 'Medicines Act 1971' was enacted. Let me start by understanding the question. The user is as",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Law Reform (Miscellaneous Provisions) Act 1934 and the Medicines Act 1971. Let me start"
+  },
+  {
+    "task_id": "DB017",
+    "expected_duration": "7 years 10 months 3 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to find out how long after the Liverpool City Council Act 2006 was the Co-operative and Community Benefit Societies Act 2014 enacted. Let me break this down step by step.\n\nFirs",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Liverpool City Council Act 2006 was enacted, the Co-operative and Community Benefit Societies Act 2014 was enacted. The dates given are 2006-07"
+  },
+  {
+    "task_id": "DB018",
+    "expected_duration": "32 years 1 months 25 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Fishery Limits Act 1976' was enacted the 'Public Authorities (Reform) Act (Northern Ireland) 2009' came into effect. Let me start by breaking ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment of the Fishery Limits Act 1976 on December 22, 1976, and the Public Authorities (Reform) Act (Northern Irelan"
+  },
+  {
+    "task_id": "DB019",
+    "expected_duration": "41 years 7 months 19 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Ancient Monuments and Archaeological Areas Act 1979' the 'Social Security (Up-rating of Benefits) Act 2020' was enacted. Let me start by recal",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Ancient Monuments and Archaeological Areas Act 1979 and the Social Security (Up-rating "
+  },
+  {
+    "task_id": "DB020",
+    "expected_duration": "86 years 11 months 27 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Coastguard Act 1925 the Small Charitable Donations Act 2012 was enacted. Let me start by breaking down the problem.\n\nFirst, I need the dates of",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Coastguard Act 1925 and the Small Charitable Donations Act 2012. Let me start by writin"
+  },
+  {
+    "task_id": "DB021",
+    "expected_duration": "1 years 11 months 28 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Land Acquisition and Compensation (Amendment) Act (Northern Ireland) 2016' was enacted, the 'Mission and Pastoral' legislation was passed. Let",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Land Acquisition and Compensation (Amendment) Act (Northern Ireland) 2016 was enacted, the Mission and Pastoral Act was enacted. The dates give"
+  },
+  {
+    "task_id": "DB022",
+    "expected_duration": "106 years 5 months 29 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Irish Land Act 1903 the Department of Justice Act (Northern Ireland) 2010 was enacted. Let me start by recalling the dates of both acts.\n\nFirst",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment of the Irish Land Act 1903 on August 14, 1903, and the Department of Justice Act (Northern Ireland) "
+  },
+  {
+    "task_id": "DB023",
+    "expected_duration": "5 years 11 months 22 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to find out how long after the 'Administration of Justice Act 1985' was the 'Export and Investment Guarantees Act 1991' enacted. Let me start by understanding the question. The",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Administration of Justice Act 1985 was enacted, the Export and Investment Guarantees Act 1991 was passed. The dates given are 1985-10-30 for th"
+  },
+  {
+    "task_id": "DB024",
+    "expected_duration": "22 years 11 months 24 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Friendly Societies Act 1971' was enacted, the 'Trade Marks Act 1994' came into effect. Let me start by recalling what I know about these two p",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Friendly Societies Act 1971 the Trade Marks Act 1994 was enacted. Let me start by noting the dates given. The first act was enacted on July 27,"
+  },
+  {
+    "task_id": "DB025",
+    "expected_duration": "15 years 1 months 18 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Wildlife and Countryside Act 1981 the Western Isles Council (Berneray Causeway) Order Confirmation Act 1996 was enacted. Let me start by breaki",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Wildlife and Countryside Act 1981 was enacted the Western Isles Council (Berneray Causeway) Order Confirmation Act 1996 was enacted. The dates "
+  },
+  {
+    "task_id": "DB026",
+    "expected_duration": "27 years 4 months 5 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to find out how long after the Badgers Act 1973 the Disqualifications Act 2000 was enacted. Let me start by confirming the dates of both acts.\n\nFirst, the Badgers Act 1973. I k",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Badgers Act 1973 the Disqualifications Act 2000 was enacted. Let me start by noting the dates given. The Badgers Act was enacted on July 25, 19"
+  },
+  {
+    "task_id": "DB027",
+    "expected_duration": "3 years 3 months 22 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Bournemouth Borough Council Act 2010 was the Local Government (Democracy) (Wales) Act 2013 enacted. Let me start by breaking down the question.",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Bournemouth Borough Council Act 2010 was enacted, the Local Government (Democracy) (Wales) Act 2013 was enacted. The dates given are 2010-04-08"
+  },
+  {
+    "task_id": "DB028",
+    "expected_duration": "18 years 4 months 15 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Pension Schemes Act 1993 the Budget Act (Northern Ireland) 2012 was enacted. Let me start by recalling what I know about these two pieces of le",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Pension Schemes Act 1993 and the Budget Act (Northern Ireland) 2012. Let me start by no"
+  },
+  {
+    "task_id": "DB029",
+    "expected_duration": "0 years 11 months 24 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Consumer Insurance (Disclosure and Representations) Act 2012' was enacted, the 'School Standards and Organisation (Wales) Act 2013' came into ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the first act was enacted the second one was. The first act is the Consumer Insurance (Disclosure and Representations) Act 2012, which was enacted "
+  },
+  {
+    "task_id": "DB030",
+    "expected_duration": "69 years 8 months 23 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Rating and Valuation (Air-Raid Works) (Scotland) Act 1938' was the 'Taxis Act (Northern Ireland) 2008' enacted. Let me start by breaking down ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Rating and Valuation (Air-Raid Works) (Scotland) Act 1938 was enacted, the Taxis Act (Northern Ireland) 2008 was passed. The dates given are 19"
+  },
+  {
+    "task_id": "DB031",
+    "expected_duration": "18 years 3 months 10 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to find out how long after the Finance Act 1977 the Disability Discrimination Act 1995 was enacted. Let me start by recalling what I know about these two pieces of legislation.",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment dates of the Finance Act 1977 and the Disability Discrimination Act 1995. Let me start by noting the two date"
+  },
+  {
+    "task_id": "DB032",
+    "expected_duration": "48 years 9 months 3 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Nature Conservancy Council Act 1973' the 'British Sign Language Act 2022' was enacted. Let me start by breaking down the problem.\n\nFirst, I ne",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment of the Nature Conservancy Council Act 1973 and the British Sign Language Act 2022. Let me start by noting the"
+  },
+  {
+    "task_id": "DB033",
+    "expected_duration": "19 years 10 months 21 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Shrewsbury and Atcham Borough Council Act 1998 the Law Derived from the European Union (Wales) Act 2018 was enacted. Let me start by breaking d",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment of the Shrewsbury and Atcham Borough Council Act 1998 on July 16, 1998, and the Law Derived from the European"
+  },
+  {
+    "task_id": "DB034",
+    "expected_duration": "0 years 1 months 26 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Safeguarding and Clergy Discipline Measure 2016' was enacted, the 'Houses in Multiple Occupation Act (Northern Ireland) 2016' came into effect",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many days passed between the enactment dates of these two laws: the Safeguarding and Clergy Discipline Measure 2016, which was enacted on March 16, 2016, and "
+  },
+  {
+    "task_id": "DB035",
+    "expected_duration": "10 years 9 months 22 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Finance (No. 2) Act 2005' was the 'Housing and Planning Act 2016' enacted. Let me start by breaking down the problem.\n\nFirst, I need the exact",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Finance (No. 2) Act 2005 and the Housing and Planning Act 2016. Let me start by writing"
+  },
+  {
+    "task_id": "DB036",
+    "expected_duration": "11 years 5 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to find out how long after the 'Open-Ended Investment Companies Act (Northern Ireland) 2002' was enacted, the 'Local Government Act (Northern Ireland) 2014' came into effect. L",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Open-Ended Investment Companies Act (Northern Ireland) 2002 was enacted, the Local Government Act (Northern Ireland) 2014 was passed. The dates"
+  },
+  {
+    "task_id": "DB037",
+    "expected_duration": "56 years 1 months 9 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Offices, Shops and Railway Premises Act 1963' the 'European Union (Withdrawal) (No. 2) Act 2019' was enacted. Let me start by breaking this do",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment dates of these two acts: the Offices, Shops and Railway Premises Act 1963, which was enacted on July 31, 1963"
+  },
+  {
+    "task_id": "DB038",
+    "expected_duration": "14 years 8 months 14 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Railway Safety Act (Northern Ireland) 2002 was the Pension Schemes Act 2017 enacted. Let me start by breaking down the problem.\n\nFirst, I need ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Railway Safety Act (Northern Ireland) 2002 was enacted, the Pension Schemes Act 2017 was enacted. The dates given are 2002-08-13 for the first "
+  },
+  {
+    "task_id": "DB039",
+    "expected_duration": "34 years 4 months 13 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to find out how long after the Criminal Justice (Scotland) Act 1980 was the Deregulation Act 2015 enacted. Let me start by figuring out the dates when each of these acts was pa",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Criminal Justice (Scotland) Act 1980 and the Deregulation Act 2015. Let me start by not"
+  },
+  {
+    "task_id": "DB040",
+    "expected_duration": "33 years 4 months 4 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Education Act 1976 the Budget (No. 2) Act (Northern Ireland) 2010 was enacted. Let me start by breaking down the problem.\n\nFirst, I need the ex",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment of the Education Act 1976 on November 22, 1976, and the Budget (No. 2) Act (Northern Ireland) 2010 on March 2"
+  },
+  {
+    "task_id": "DB041",
+    "expected_duration": "117 years 6 months 22 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Secretary for Scotland Act 1887' the 'Inquiries Act 2005' was enacted. Let me start by breaking down the problem.\n\nFirst, I need the dates of ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment of the Secretary for Scotland Act 1887 on September 16, 1887, and the Inquiries Act 2005 on April 7,"
+  },
+  {
+    "task_id": "DB042",
+    "expected_duration": "36 years 7 months 0 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Value Added Tax Act 1983' the 'National Health Service (Indemnities) (Wales) Act 2020' was enacted. Let me start by breaking down the problem.",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Value Added Tax Act 1983 was enacted, the National Health Service (Indemnities) (Wales) Act 2020 was enacted. The dates given are 1983-07-26 fo"
+  },
+  {
+    "task_id": "DB043",
+    "expected_duration": "3 years 11 months 17 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Solicitors (Scotland) Act 1988' was the 'River Humber (Upper Pyewipe Outfall) Act 1992' enacted. Let me start by breaking down the problem.\n\nF",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Solicitors (Scotland) Act 1988 was enacted, the River Humber (Upper Pyewipe Outfall) Act 1992 was enacted. The dates given are 1988-07-29 for t"
+  },
+  {
+    "task_id": "DB044",
+    "expected_duration": "29 years 11 months 23 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Regimental Debts (Deposit of Wills) (Scotland) Act 1919' the 'National Health Service (Amendment) Act 1949' was enacted. Let me start by break",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the first act was enacted the second one was. The first act is the 'Regimental Debts (Deposit of Wills) (Scotland) Act 1919' which was enacted on D"
+  },
+  {
+    "task_id": "DB045",
+    "expected_duration": "6 years 9 months 21 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the European Union Act 2011 was the Statute Law (Repeals) Measure 2018 enacted. Let me start by recalling what I know about these two pieces of leg",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the European Union Act 2011 was enacted, the Statute Law (Repeals) Measure 2018 was enacted. The dates given are 2011-07-19 for the first and 2018-"
+  },
+  {
+    "task_id": "DB046",
+    "expected_duration": "17 years 9 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Allied Irish Banks Act 1996' was enacted, the 'Church of England (Miscellaneous Provisions) Measure 2014' came into effect. Let me start by br",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment dates of the Allied Irish Banks Act 1996 and the Church of England (Miscellaneous Provisions) Measure 2014. L"
+  },
+  {
+    "task_id": "DB047",
+    "expected_duration": "36 years 11 months 12 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Pneumoconiosis etc. (Workers' Compensation) Act 1979' the 'Education and Adoption Act 2016' was enacted. Let me start by breaking down the pro",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Pneumoconiosis etc. (Workers' Compensation) Act 1979 and the Education and Adoption Act"
+  },
+  {
+    "task_id": "DB048",
+    "expected_duration": "23 years 4 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Town and Country Planning Act 1968 the Avon Weir Act 1992 was enacted. Let me start by breaking down the problem.\n\nFirst, I need the dates of b",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Town and Country Planning Act 1968 and the Avon Weir Act 1992. Let me start by noting t"
+  },
+  {
+    "task_id": "DB049",
+    "expected_duration": "33 years 7 months 16 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Insurance Brokers (Registration) Act 1977' was the 'Local Government Finance Act (Northern Ireland) 2011' enacted. Let me start by breaking do",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment dates of the Insurance Brokers (Registration) Act 1977 and the Local Government Finance Act (Northern Ireland"
+  },
+  {
+    "task_id": "DB050",
+    "expected_duration": "49 years 4 months 9 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Finance Act 1971 was the Private International Law (Implementation of Agreements) Act 2020 enacted. Let me start by breaking down the problem.\n",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment of the Finance Act 1971 on August 5, 1971, and the Private International Law (Implementation of Agreements) A"
+  },
+  {
+    "task_id": "DB051",
+    "expected_duration": "7 years 2 months 19 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Companies Act 2006 the Control of Horses (Wales) Act 2014 was enacted. Let me start by recalling the dates of both acts. \n\nFirst, the Companies",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Companies Act 2006 was enacted, the Control of Horses (Wales) Act 2014 was passed. The dates given are 2006-11-08 for the Companies Act and 201"
+  },
+  {
+    "task_id": "DB052",
+    "expected_duration": "31 years 9 months 12 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Parliamentary Pensions etc. Act 1984' the 'House of Commons Members' Fund Act 2016' was enacted. Let me start by understanding the question. T",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment dates of the Parliamentary Pensions etc. Act 1984 and the House of Commons Members' Fund Act 2016. Let me sta"
+  },
+  {
+    "task_id": "DB053",
+    "expected_duration": "0 years 11 months 14 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the National Theatre Act 1974 the Sex Discrimination Act 1975 was enacted. Let me start by recalling what I know about these two pieces of legislat",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the National Theatre Act 1974 the Sex Discrimination Act 1975 was enacted. Let me start by noting the dates given. The National Theatre Act was ena"
+  },
+  {
+    "task_id": "DB054",
+    "expected_duration": "18 years 6 months 13 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Mental Health (Amendment) Act 1982' was the 'House of Commons (Removal of Clergy Disqualification) Act 2001' enacted. Let me start by breaking",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Mental Health (Amendment) Act 1982 was enacted, the House of Commons (Removal of Clergy Disqualification) Act 2001 came into effect. The dates "
+  },
+  {
+    "task_id": "DB055",
+    "expected_duration": "24 years 5 months 4 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Justices of the Peace Act 1968' the 'British Railways Act 1993' was enacted. Let me start by breaking down the problem.\n\nFirst, I need the dat",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment dates of the Justices of the Peace Act 1968 and the British Railways Act 1993. Let me start by noting the two"
+  },
+  {
+    "task_id": "DB056",
+    "expected_duration": "7 years 1 months 1 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to find out how long after the 'Health (Miscellaneous Provisions) Act (Northern Ireland) 2008' was the 'Deregulation Act 2015' enacted. Let me start by breaking down the proble",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Health (Miscellaneous Provisions) Act (Northern Ireland) 2008 was enacted, the Deregulation Act 2015 came into effect. The dates given are 2008"
+  },
+  {
+    "task_id": "DB057",
+    "expected_duration": "20 years 3 months 8 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the HFC Bank Act 1999 the Census (Return Particulars and Removal of Penalties) Act 2019 was enacted. Let me start by breaking down the problem.\n\nFi",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the HFC Bank Act 1999 was enacted, the Census (Return Particulars and Removal of Penalties) Act 2019 was passed. The dates given are 1999-06-30 for"
+  },
+  {
+    "task_id": "DB058",
+    "expected_duration": "11 years 0 months 0 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Wills Act 1963 the Housing Act 1974 was enacted. Let me start by confirming the dates of both acts.\n\nFirst, the Wills Act 1963. I know that in ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Wills Act 1963 the Housing Act 1974 was enacted. Let me start by noting the dates given. The Wills Act 1963 was enacted on July 31, 1963, and t"
+  },
+  {
+    "task_id": "DB059",
+    "expected_duration": "81 years 7 months 7 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Small Holdings and Allotments Act 1926' the 'Crossrail Act 2008' was enacted. Let me start by breaking down the problem.\n\nFirst, I need the da",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment of the Small Holdings and Allotments Act 1926 on December 15, 1926, and the Crossrail Act 2008 on July 22, 20"
+  },
+  {
+    "task_id": "DB060",
+    "expected_duration": "14 years 11 months 16 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Police Act 1997 the Welfare Reform Act 2012 was enacted. Let me start by recalling the dates of these two pieces of legislation. \n\nFirst, the P",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment dates of the Police Act 1997 and the Welfare Reform Act 2012. Let me start by noting the two dates: the Polic"
+  },
+  {
+    "task_id": "DB061",
+    "expected_duration": "21 years 7 months 11 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Representation of the People Act 1990 the Consumer Insurance (Disclosure and Representations) Act 2012 was enacted. Let me start by understandi",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Representation of the People Act 1990 the Consumer Insurance (Disclosure and Representations) Act 2012 was enacted. Let me start by noting the "
+  },
+  {
+    "task_id": "DB062",
+    "expected_duration": "19 years 11 months 29 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to find out how long after the 'Rate Support Grants Act 1988' the 'Planning and Energy Act 2008' was enacted. Let me start by breaking down the problem. \n\nFirst, I need the exa",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment dates of the Rate Support Grants Act 1988 and the Planning and Energy Act 2008. Let me start by noting the tw"
+  },
+  {
+    "task_id": "DB063",
+    "expected_duration": "15 years 3 months 16 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Political Parties, Elections and Referendums Act 2000' was the 'Safeguarding and Clergy Discipline Measure 2016' enacted. Let me start by brea",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Political Parties, Elections and Referendums Act 2000 was enacted, the Safeguarding and Clergy Discipline Measure 2016 was enacted. The dates g"
+  },
+  {
+    "task_id": "DB064",
+    "expected_duration": "21 years 0 months 29 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Postal Services Act 2000' was enacted, the 'Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021' was passed. Let me st",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Postal Services Act 2000 was enacted, the Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 was enacted. The dates gi"
+  },
+  {
+    "task_id": "DB065",
+    "expected_duration": "48 years 0 months 2 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Travel Concessions Act 1964' was the 'Prisons (Interference with Wireless Telegraphy) Act 2012' enacted. Let me start by breaking down the pro",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Travel Concessions Act 1964 and the Prisons (Interference with Wireless Telegraphy) Act"
+  },
+  {
+    "task_id": "DB066",
+    "expected_duration": "107 years 2 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Education (Provision of Meals) Act 1906' the 'Northern Ireland (Miscellaneous Provisions) Act 2014' was enacted. Let me start by breaking down",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Education (Provision of Meals) Act 1906 and the Northern Ireland (Miscellaneous Provisi"
+  },
+  {
+    "task_id": "DB067",
+    "expected_duration": "10 years 3 months 13 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to find out how long after the Finance Act 1998 the Human Fertilisation and Embryology Act 2008 was enacted. Let me start by understanding the question. The user is asking for ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Finance Act 1998 the Human Fertilisation and Embryology Act 2008 was enacted. Let me start by noting the dates given. The first act was enacted"
+  },
+  {
+    "task_id": "DB068",
+    "expected_duration": "11 years 0 months 3 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Competition Act 1998 the Autism Act 2009 was enacted. Let me start by recalling what these acts are and when they were passed.\n\nFirst, the Comp",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Competition Act 1998 was enacted, the Autism Act 2009 was passed. Let me start by noting the dates given. The Competition Act 1998 was enacted "
+  },
+  {
+    "task_id": "DB069",
+    "expected_duration": "0 years 10 months 12 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the House of Lords Reform Act 2014 was the Health Service Commissioner for England (Complaint Handling) Act 2015 enacted. Let me start by recalling",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the House of Lords Reform Act 2014 was enacted, the Health Service Commissioner for England (Complaint Handling) Act 2015 was enacted. The dates gi"
+  },
+  {
+    "task_id": "DB070",
+    "expected_duration": "17 years 9 months 6 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Energy Act 2004 the Elections Act 2022 was enacted. Let me start by recalling what I know about these two pieces of legislation.\n\nFirst, the En",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Energy Act 2004 and the Elections Act 2022. Let me start by writing down both dates to "
+  },
+  {
+    "task_id": "DB071",
+    "expected_duration": "63 years 8 months 27 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Marshall Aid Commemoration Act 1953' the 'Children and Social Work Act 2017' was enacted. Let me start by understanding what these acts are an",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Marshall Aid Commemoration Act 1953 and the Children and Social Work Act 2017. Let me s"
+  },
+  {
+    "task_id": "DB072",
+    "expected_duration": "0 years 9 months 26 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, I need to find out how long after the Taxis Act (Northern Ireland) 2008 was enacted, the Public Authorities (Reform) Act (Northern Ireland) 2009 came into effect. Let me start by figurin",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the first act was enacted the second one was. The first act is the Taxis Act (Northern Ireland) 2008, which was enacted on April 21, 2008. The seco"
+  },
+  {
+    "task_id": "DB073",
+    "expected_duration": "16 years 0 months 7 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Queen Mary and Westfield College Act 1995' the 'Education Act 2011' was enacted. Let me start by breaking down the problem.\n\nFirst, I need to ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Queen Mary and Westfield College Act 1995 and the Education Act 2011. Let me start by n"
+  },
+  {
+    "task_id": "DB074",
+    "expected_duration": "119 years 11 months 6 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Citation Amendment (Scotland) Act 1882' the 'Export Control Act 2002' was enacted. Let me start by breaking down the problem.\n\nFirst, I need t",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Citation Amendment (Scotland) Act 1882 and the Export Control Act 2002. Let me start by"
+  },
+  {
+    "task_id": "DB075",
+    "expected_duration": "10 years 11 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Building Control Act 1966 the Administration of Justice Act 1977 was enacted. Let me start by breaking down the problem. \n\nFirst, I need to con",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Building Control Act 1966 was enacted, the Administration of Justice Act 1977 was passed. The dates given are 1966-08-09 for the first and 1977"
+  },
+  {
+    "task_id": "DB076",
+    "expected_duration": "22 years 8 months 17 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Rate Support Grants Act 1986' was the 'Budget (No. 2) Act (Northern Ireland) 2009' enacted. Let me start by breaking down the problem.\n\nFirst,",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Rate Support Grants Act 1986 and the Budget (No. 2) Act (Northern Ireland) 2009. Let me"
+  },
+  {
+    "task_id": "DB077",
+    "expected_duration": "37 years 7 months 21 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Employment Protection (Consolidation) Act 1978 the Nurse Staffing Levels (Wales) Act 2016 was enacted. Let me start by breaking down the proble",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment dates of the Employment Protection (Consolidation) Act 1978 and the Nurse Staffing Levels (Wales) Act 2016. L"
+  },
+  {
+    "task_id": "DB078",
+    "expected_duration": "4 years 3 months 15 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Police Reform Act 2002 the National Health Service Act 2006 was enacted. Let me start by recalling the dates of these two pieces of legislation",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Police Reform Act 2002 was enacted, the National Health Service Act 2006 was enacted. The dates given are 2002-07-24 for the Police Reform Act "
+  },
+  {
+    "task_id": "DB079",
+    "expected_duration": "32 years 9 months 29 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Agricultural Holdings (Scotland) Act 1991 was enacted, the Digital Markets, Competition and Consumers Act 2024 was passed. Let me start by reca",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Agricultural Holdings (Scotland) Act 1991 was enacted, the Digital Markets, Competition and Consumers Act 2024 was enacted. The dates given are"
+  },
+  {
+    "task_id": "DB080",
+    "expected_duration": "103 years 11 months 24 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Slave Trade Act 1873' the 'Protection from Eviction Act 1977' was enacted. Let me start by breaking down the problem.\n\nFirst, I need to confir",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Slave Trade Act 1873 and the Protection from Eviction Act 1977. Let me start by noting "
+  },
+  {
+    "task_id": "DB081",
+    "expected_duration": "108 years 0 months 26 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Removal Terms (Scotland) Act 1886' the 'Police and Magistrates' Courts Act 1994' was enacted. Let me start by breaking down the problem.\n\nFirs",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Removal Terms (Scotland) Act 1886 and the Police and Magistrates' Courts Act 1994. Let "
+  },
+  {
+    "task_id": "DB082",
+    "expected_duration": "7 years 7 months 16 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Housing Defects Act 1984 the Competition and Service (Utilities) Act 1992 was enacted. Let me start by confirming the dates of both acts.\n\nFirs",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Housing Defects Act 1984 was enacted, the Competition and Service (Utilities) Act 1992 was enacted. The dates given are 1984-07-31 for the firs"
+  },
+  {
+    "task_id": "DB083",
+    "expected_duration": "1 years 9 months 9 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Dogs (Amendment) Act (Northern Ireland)' was the 'Animal Health Act 2002' enacted. Let me start by breaking down the problem.\n\nFirst, I need t",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Dogs (Amendment) Act (Northern Ireland) was enacted on January 29, 2001, the Animal Health Act 2002 was enacted on November 7, 2002. Let me bre"
+  },
+  {
+    "task_id": "DB084",
+    "expected_duration": "50 years 7 months 6 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Consumer Credit Act 1974 was the Budget Act (Northern Ireland) 2025 enacted. Let me start by breaking down the question.\n\nFirst, I need the dat",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Consumer Credit Act 1974 was enacted, the Budget Act (Northern Ireland) 2025 was enacted. The dates given are 1974-07-31 for the first and 2025"
+  },
+  {
+    "task_id": "DB085",
+    "expected_duration": "22 years 7 months 14 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Water Industry Act 1991 the Public Service Pensions Act (Northern Ireland) 2014 was enacted. Let me start by recalling what I know about these ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Water Industry Act 1991 was enacted, the Public Service Pensions Act (Northern Ireland) 2014 was enacted. The dates given are 1991-07-25 for th"
+  },
+  {
+    "task_id": "DB086",
+    "expected_duration": "197 years 7 months 17 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Stamp Act 1815 the Nottingham City Council Act 2013 was enacted. Let me start by breaking down the problem.\n\nFirst, I need to confirm the dates",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment of the Stamp Act 1815 on July 11, 1815, and the Nottingham City Council Act 2013 on February 28, 201"
+  },
+  {
+    "task_id": "DB087",
+    "expected_duration": "18 years 5 months 0 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Public Trustee and Administration of Funds Act 1986' the 'Finance Act 2005' was enacted. Let me start by breaking down the problem.\n\nFirst, I ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment of the Public Trustee and Administration of Funds Act 1986 on November 7, 1986, and the Finance Act 2005 on A"
+  },
+  {
+    "task_id": "DB088",
+    "expected_duration": "28 years 5 months 12 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Water (Scotland) Act 1967' the 'Northern Ireland (Remission of Sentences) Act 1995' was enacted. Let me start by breaking down the problem.\n\nF",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Water (Scotland) Act 1967 was enacted, the Northern Ireland (Remission of Sentences) Act 1995 was enacted. The dates given are 1967-05-27 for t"
+  },
+  {
+    "task_id": "DB089",
+    "expected_duration": "117 years 11 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Defence Acts Amendment Act 1873' the 'Ports Act 1991' was enacted. Let me start by breaking down the problem.\n\nFirst, I need to confirm the ex",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment of the Defence Acts Amendment Act 1873 on August 5, 1873, and the Ports Act 1991 on July 25, 1991. Let me sta"
+  },
+  {
+    "task_id": "DB090",
+    "expected_duration": "30 years 8 months 23 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to find out how long after the Cable and Wireless Act 1946 the Administration of Justice Act 1977 was enacted. Let me start by understanding the question. The user is asking fo",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment dates of the Cable and Wireless Act 1946 and the Administration of Justice Act 1977. Let me start by noting t"
+  },
+  {
+    "task_id": "DB091",
+    "expected_duration": "40 years 9 months 19 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Nature Conservancy Council Act 1973' the 'Pensions Act 2014' was enacted. Let me start by confirming the dates of both acts.\n\nFirst, the Natur",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment dates of the Nature Conservancy Council Act 1973 and the Pensions Act 2014. Let me start by noting the two da"
+  },
+  {
+    "task_id": "DB092",
+    "expected_duration": "25 years 11 months 2 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Trade Union Act 1984 the Forestry Act (Northern Ireland) 2010 was enacted. Let me start by recalling the dates of both acts.\n\nFirst, the Trade ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Trade Union Act 1984 was enacted, the Forestry Act (Northern Ireland) 2010 was passed. Let me start by noting the dates: the first one is July "
+  },
+  {
+    "task_id": "DB093",
+    "expected_duration": "17 years 10 months 9 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Consumer Protection Act 1987 was the Care of Cathedrals (Amendment) Measure 2005 enacted. Let me start by breaking down the problem.\n\nFirst, I ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Consumer Protection Act 1987 was enacted, the Care of Cathedrals (Amendment) Measure 2005 was passed. The dates given are 1987-05-15 for the fi"
+  },
+  {
+    "task_id": "DB094",
+    "expected_duration": "7 years 3 months 15 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Interest on Damages (Scotland) Act 1958' was the 'Southern Rhodesia Act 1965' enacted. Let me start by breaking down the problem.\n\nFirst, I ne",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the enactment of the 'Interest on Damages (Scotland) Act 1958' on August 1, 1958, the 'Southern Rhodesia Act 1965' was enacted on November 16, 1965"
+  },
+  {
+    "task_id": "DB095",
+    "expected_duration": "16 years 4 months 21 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Planning and Energy Act 2008 the Terrorism (Protection of Premises) Act 2025 was enacted. Let me start by breaking down the problem.\n\nFirst, I ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Planning and Energy Act 2008 was enacted, the Terrorism (Protection of Premises) Act 2025 was enacted. The dates given are 2008-11-13 for the f"
+  },
+  {
+    "task_id": "DB096",
+    "expected_duration": "74 years 5 months 8 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Justices of the Peace Act 1949' the 'Pet Abduction Act 2024' was enacted. Let me start by breaking down the problem.\n\nFirst, I need the dates ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of the Justices of the Peace Act 1949 and the Pet Abduction Act 2024. Let me start by writing "
+  },
+  {
+    "task_id": "DB097",
+    "expected_duration": "20 years 3 months 8 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Wildlife and Countryside Act 1981 was the Industrial Development Act (Northern Ireland) 2002 enacted. Let me start by breaking down the questio",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how long after the Wildlife and Countryside Act 1981 was enacted, the Industrial Development Act (Northern Ireland) 2002 was passed. Let me start by noting the da"
+  },
+  {
+    "task_id": "DB098",
+    "expected_duration": "87 years 1 months 0 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the 'Removal Terms (Scotland) Act 1886' the 'Nature Conservancy Council Act 1973' was enacted. Let me start by breaking down the problem.\n\nFirst, I",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment dates of the Removal Terms (Scotland) Act 1886 and the Nature Conservancy Council Act 1973. Let me start by n"
+  },
+  {
+    "task_id": "DB099",
+    "expected_duration": "38 years 11 months 19 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Employment Protection (Consolidation) Act 1978 was the Supply and Appropriation (Main Estimates) Act 2017 enacted. Let me start by understandin",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years, months, and days passed between the enactment dates of these two acts. The first one is the Employment Protection (Consolidation) Act 1978, which "
+  },
+  {
+    "task_id": "DB100",
+    "expected_duration": "47 years 4 months 23 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out how long after the Armed Forces Act 1966 the Pensions Act 2014 was enacted. Let me start by recalling what I know about these two pieces of legislation.\n\nFirst, t",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out how many years and days passed between the enactment dates of the Armed Forces Act 1966 and the Pensions Act 2014. Let me start by noting the two dates: the first"
+  }
+]

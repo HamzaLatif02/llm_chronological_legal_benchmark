@@ -1,0 +1,562 @@
+[
+  {
+    "task_id": "OV001",
+    "expected_answer": "Yes",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Foster Children (Scotland) Act 1984' received Royal Assent on 22 May 1984, while the 'Co-operative Development Agency and Industrial Development Act 1984' received Royal Assent on 12 July 1984, b",
+    "llama_answer_with_dates_snippet": "Yes, they were enacted on the same day, 1984-10-31."
+  },
+  {
+    "task_id": "OV002",
+    "expected_answer": "No",
+    "llama_main_first_word": "Yes",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Health and Social Security Act 1984' received Royal Assent on 31 January 1984, while the 'Foster Children (Scotland) Act 1984' received Royal Assent on 31 January 1984 as well. Therefore, yes, th",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Health and Social Security Act 1984' was enacted on July 26, 1984, while the 'Foster Children (Scotland) Act 1984' was enacted on October 31, 1984. Thes"
+  },
+  {
+    "task_id": "OV003",
+    "expected_answer": "No",
+    "llama_main_first_word": "No",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Health and Social Security Act 1984' received Royal Assent on 26 June 1984. \n\nThe 'Co-operative Development Agency and Industrial Development Act 1984' received Royal Assent on 26 July 1984.\n\nSo,",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Health and Social Security Act 1984' was enacted on July 26, 1984, while the 'Co-operative Development Agency and Industrial Development Act 1984' was e"
+  },
+  {
+    "task_id": "OV004",
+    "expected_answer": "No",
+    "llama_main_first_word": "Yes",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Co-operative and Community Benefit Societies Act 2014' received Royal Assent on 14 May 2014. \n\nThe 'Road Races (Amendment) Act (Northern Ireland) 2014' also received Royal Assent on 14 May 2014.\n",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Co-operative and Community Benefit Societies Act 2014' was enacted on 2014-05-14, while 'Road Races (Amendment) Act (Northern Ireland) 2014' was enacted on "
+  },
+  {
+    "task_id": "OV005",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Road Races (Amendment) Act (Northern Ireland) 2014' received Royal Assent on 12 March 2014, and the 'Immigration Act 2014' received Royal Assent on 14 May 2014. They were not enacted on the same ",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Road Races (Amendment) Act (Northern Ireland) 2014' was enacted on January 17, 2014, while the 'Immigration Act 2014' was enacted on May 14, 2014. These"
+  },
+  {
+    "task_id": "OV006",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'National Health Service Finance (Wales) Act 2014' received Royal Assent on 21 May 2014, and the 'Immigration Act 2014' received Royal Assent on 14 May 2014. They were not enacted on the same day ",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'National Health Service Finance (Wales) Act 2014' was enacted on January 27, 2014, while the 'Immigration Act 2014' was enacted on May 14, 2014. These d"
+  },
+  {
+    "task_id": "OV007",
+    "expected_answer": "Yes",
+    "llama_main_first_word": "Yes",
+    "llama_with_dates_first_word": "Yes",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Co-operative and Community Benefit Societies Act 2014' received Royal Assent on 14 May 2014. \n\nThe 'Immigration Act 2014' received Royal Assent on 14 May 2014.\n\nSo, yes, they were enacted on the ",
+    "llama_answer_with_dates_snippet": "Yes, they were enacted on the same day, 2014-05-14."
+  },
+  {
+    "task_id": "OV008",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'National Health Service Finance (Wales) Act 2014' received Royal Assent on 12 May 2014, and the 'Co-operative and Community Benefit Societies Act 2014' received Royal Assent on 14 May 2014. They ",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'National Health Service Finance (Wales) Act 2014' was enacted on January 27, 2014, while the 'Co-operative and Community Benefit Societies Act 2014' was"
+  },
+  {
+    "task_id": "OV009",
+    "expected_answer": "No",
+    "llama_main_first_word": "Yes",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Land at Palace Avenue, Kensington (Acquisition of Freehold) Act 2002' received Royal Assent on 7 November 2002. \n\nThe 'Railway Safety Act (Northern Ireland) 2002' was a Northern Ireland Act, and ",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Land at Palace Avenue, Kensington (Acquisition of Freehold) Act 2002' was enacted on 2002-06-25, while 'Railway Safety Act (Northern Ireland) 2002' was enac"
+  },
+  {
+    "task_id": "OV010",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Companies Act 1967' received Royal Assent on 21 October 1967, while the 'Sea Fish (Conservation) Act 1967' received Royal Assent on 27 July 1967. They were not enacted on the same day in 1967.",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Companies Act 1967' was enacted on July 27, 1967, while the 'Sea Fish (Conservation) Act 1967' was enacted on October 27, 1967, which is approximately 3"
+  },
+  {
+    "task_id": "OV011",
+    "expected_answer": "No",
+    "llama_main_first_word": "Yes",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Counsellors of State Act 2022' received Royal Assent on 6 April 2022, and the 'Tertiary Education and Research (Wales) Act 2022' received Royal Assent on 6 April 2022 as well. Therefore, yes, the",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Counsellors of State Act 2022' was enacted on 2022-12-06, while the 'Tertiary Education and Research (Wales) Act 2022' was enacted on 2022-09-08, nearly"
+  },
+  {
+    "task_id": "OV012",
+    "expected_answer": "No",
+    "llama_main_first_word": "Yes",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Climate Change Act (Northern Ireland) 2022' received Royal Assent on 6 June 2022, and the 'Motor Vehicles (Compulsory Insurance) Act (Northern Ireland) 2022' received Royal Assent on the same day",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Climate Change Act (Northern Ireland) 2022' was enacted on 2022-06-06, while the 'Motor Vehicles (Compulsory Insurance) Act (Northern Ireland) 2022' was"
+  },
+  {
+    "task_id": "OV013",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Counsellors of State Act 2022' received Royal Assent on 7 April 2022, and the 'Supply and Appropriation (Adjustments) Act 2022' received Royal Assent on 29 March 2022. They were not enacted on th",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Counsellors of State Act 2022' was enacted on 2022-12-06, while the 'Supply and Appropriation (Adjustments) Act 2022' was enacted on 2022-10-25, which i"
+  },
+  {
+    "task_id": "OV014",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Supply and Appropriation (Adjustments) Act 2022' and the 'Fair Employment (School Teachers) Act (Northern Ireland) 2022' were indeed enacted, but I do not have information on the exact dates of e",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Supply and Appropriation (Adjustments) Act 2022' was enacted on 2022-10-25, while 'Fair Employment (School Teachers) Act (Northern Ireland) 2022' was enacte"
+  },
+  {
+    "task_id": "OV015",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The Supply and Appropriation (Adjustments) Act 2022 received Royal Assent on 29 March 2022, and the Climate Change Act (Northern Ireland) 2022 received Royal Assent on 6 June 2022. They were not enact",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Supply and Appropriation (Adjustments) Act 2022' was enacted on 2022-10-25, while 'Climate Change Act (Northern Ireland) 2022' was enacted on 2022-06-06, wh"
+  },
+  {
+    "task_id": "OV016",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "I am unable to verify if the 'Weights and Measures (Amendment) Act (Northern Ireland) 2000' and the 'Transport Salaried Staffs' Association (Amendment of Rules) Act 2000' were enacted on the same day ",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Weights and Measures (Amendment) Act (Northern Ireland) 2000' was enacted on December 20, 2000, while 'Transport Salaried Staffs' Association (Amendment of "
+  },
+  {
+    "task_id": "OV017",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "I am unable to verify if the 'Weights and Measures (Amendment) Act (Northern Ireland) 2000' and the 'Comhairle Nan Eilean Siar (Eriskay Causeway) Order Confirmation Act 2000' were enacted on the same ",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Weights and Measures (Amendment) Act (Northern Ireland) 2000' was enacted on December 20, 2000, while 'Comhairle Nan Eilean Siar (Eriskay Causeway) Order Co"
+  },
+  {
+    "task_id": "OV018",
+    "expected_answer": "No",
+    "llama_main_first_word": "Yes",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "Yes, the 'Comhairle Nan Eilean Siar (Eriskay Causeway) Order Confirmation Act 2000' and the 'Transport Salaried Staffs' Association (Amendment of Rules) Act 2000' were both enacted on July 20, 2000.",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Comhairle Nan Eilean Siar (Eriskay Causeway) Order Confirmation Act 2000' was enacted on 2000-02-10, while 'Transport Salaried Staffs' Association (Amendmen"
+  },
+  {
+    "task_id": "OV019",
+    "expected_answer": "No",
+    "llama_main_first_word": "No",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Child Maintenance Act (Northern Ireland) 2008' received Royal Assent on 2 July 2008. \n\nThe 'Pensions Act (Northern Ireland) 2008' received Royal Assent on 22 July 2008, but the 'Pensions (No. 2) ",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Child Maintenance Act (Northern Ireland) 2008' was enacted on July 2, 2008, while the 'Pensions Act (Northern Ireland) 2008' was enacted on February 11,"
+  },
+  {
+    "task_id": "OV020",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Hunting Act 2004' received Royal Assent on November 18, 2004. \n\nThe 'Stipends (Cessation of Special Payments) Measure 2005' was enacted in 2005, not 2004. Therefore, they were not enacted on the ",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Stipends (Cessation of Special Payments) Measure 2005' was enacted on 2004-03-24, while the 'Hunting Act 2004' was enacted on 2004-11-18, which is appro"
+  },
+  {
+    "task_id": "OV021",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Domestic Violence, Crime and Victims Act 2004' received Royal Assent on November 15, 2004. \n\nThe 'Stipends (Cessation of Special Payments) Measure 2005' was enacted in 2005, not 2004. Therefore, ",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Stipends (Cessation of Special Payments) Measure 2005' was enacted on 2004-03-24, while the 'Domestic Violence, Crime and Victims Act 2004' was enacted "
+  },
+  {
+    "task_id": "OV022",
+    "expected_answer": "No",
+    "llama_main_first_word": "No",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The Hunting Act 2004 received Royal Assent on November 18, 2004. \n\nThe Domestic Violence, Crime and Victims Act 2004 received Royal Assent on November 15, 2004.\n\nSo, no, they were not enacted on the s",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Hunting Act 2004' was enacted on 2004-11-18, while 'Domestic Violence, Crime and Victims Act 2004' was enacted on 2004-11-15, three days earlier."
+  },
+  {
+    "task_id": "OV023",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "I am unable to verify if the 'Pneumoconiosis etc. (Workers' Compensation) Act 1979' and the 'Shipbuilding Act 1979' were enacted on the same day in 1979.",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Pneumoconiosis etc. (Workers' Compensation) Act 1979' was enacted on 1979-04-04, while 'Shipbuilding Act 1979' was enacted on 1979-12-20, more than 8 months"
+  },
+  {
+    "task_id": "OV024",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Criminal Appeal Act 1995' received Royal Assent on 19 June 1995, while the 'Criminal Injuries Compensation Act 1995' received Royal Assent on 19 July 1995. They were not enacted on the same day i",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Criminal Appeal Act 1995' was enacted on July 19, 1995, while the 'Criminal Injuries Compensation Act 1995' was enacted on November 8, 1995. These dates"
+  },
+  {
+    "task_id": "OV025",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Criminal Appeal Act 1995' received Royal Assent on 19 June 1995, while the 'Queen Mary and Westfield College Act 1995' received Royal Assent on 22 June 1995. They were not enacted on the same day",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Criminal Appeal Act 1995' was enacted on 1995-07-19, while the 'Queen Mary and Westfield College Act 1995' was enacted on 1995-11-08, which is approxima"
+  },
+  {
+    "task_id": "OV026",
+    "expected_answer": "Yes",
+    "llama_main_first_word": "Yes",
+    "llama_with_dates_first_word": "Yes",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Criminal Injuries Compensation Act 1995' received Royal Assent on 3 July 1995. \n\nThe 'Queen Mary and Westfield College Act 1995' also received Royal Assent on 3 July 1995.\n\nSo, yes, they were ena",
+    "llama_answer_with_dates_snippet": "Yes, they were enacted on the same day, 1995-11-08."
+  },
+  {
+    "task_id": "OV027",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "I'm not aware of the specific details regarding the enactment dates of the 'Local Government Finance (Wales) Act 2024' and the 'Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partner",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Local Government Finance (Wales) Act 2024' was enacted on September 16, 2024, while the 'Trade (Comprehensive and Progressive Agreement for Trans-Pacifi"
+  },
+  {
+    "task_id": "OV028",
+    "expected_answer": "No",
+    "llama_main_first_word": "No",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'UK Borders Act 2007' received Royal Assent on 30 October 2007. \n\nThe 'Greater London Authority Act 2007' received Royal Assent on 23 October 2007.\n\nSo, no, they were not enacted on the same day i",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Greater London Authority Act 2007' was enacted on 2007-10-23, while the 'UK Borders Act 2007' was enacted on 2007-10-30, which is 7 days later."
+  },
+  {
+    "task_id": "OV029",
+    "expected_answer": "Yes",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Further Education and Training Act 2007' and the 'Greater London Authority Act 2007' were indeed enacted in 2007, but I do not have information on the exact dates of enactment.",
+    "llama_answer_with_dates_snippet": "Yes, they were enacted on the same day, 2007-10-23."
+  },
+  {
+    "task_id": "OV030",
+    "expected_answer": "No",
+    "llama_main_first_word": "No",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Further Education and Training Act 2007' received Royal Assent on October 23, 2007. \n\nThe 'UK Borders Act 2007' received Royal Assent on October 30, 2007.\n\nSo, no, they were not enacted on the sa",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Further Education and Training Act 2007' was enacted on 2007-10-23, while the 'UK Borders Act 2007' was enacted on 2007-10-30, which is 7 days later."
+  },
+  {
+    "task_id": "OV031",
+    "expected_answer": "Yes",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Education and Training (Welfare of Children) Act 2021' does not appear to be a real act. \n\nHowever, the 'National Security and Investment Act 2021' is a real act and it received Royal Assent on 2",
+    "llama_answer_with_dates_snippet": "Yes, they were enacted on the same day, 2021-04-29."
+  },
+  {
+    "task_id": "OV032",
+    "expected_answer": "No",
+    "llama_main_first_word": "No",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Renting Homes (Amendment) (Wales) Act 2021' received Royal Assent on 7 July 2021. \n\nThe 'National Security and Investment Act 2021' received Royal Assent on 29 April 2021.\n\nSo, no, they were not ",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Renting Homes (Amendment) (Wales) Act 2021' was enacted on 2021-04-07, while 'National Security and Investment Act 2021' was enacted on 2021-04-29, which is"
+  },
+  {
+    "task_id": "OV033",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Renting Homes (Amendment) (Wales) Act 2021' received Royal Assent on 7 July 2021. \n\nThe 'Education and Training (Welfare of Children) Act 2021' is not a real act, I couldn't find any information ",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Renting Homes (Amendment) (Wales) Act 2021' was enacted on 2021-04-07, while 'Education and Training (Welfare of Children) Act 2021' was enacted on 2021-04-"
+  },
+  {
+    "task_id": "OV034",
+    "expected_answer": "No",
+    "llama_main_first_word": "Yes",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "Yes, the 'Budget (No. 2) Act (Northern Ireland) 2009' and the 'Public Authorities (Reform) Act (Northern Ireland) 2009' were both enacted on 28 May 2009, in Northern Ireland.",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Budget (No. 2) Act (Northern Ireland) 2009' was enacted on July 8, 2009, while 'Public Authorities (Reform) Act (Northern Ireland) 2009' was enacted on Febr"
+  },
+  {
+    "task_id": "OV035",
+    "expected_answer": "Yes",
+    "llama_main_first_word": "No",
+    "llama_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Road Traffic Act 1988' received Royal Assent on 3 May 1988. \n\nThe 'Copyright, Designs and Patents Act 1988' received Royal Assent on 15 November 1988.\n\nSo, no, they were not enacted on the same d",
+    "llama_answer_with_dates_snippet": "Yes, they were enacted on the same day, 1988-11-15."
+  },
+  {
+    "task_id": "OV036",
+    "expected_answer": "No",
+    "llama_main_first_word": "Yes",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Road Traffic Act 1988' received Royal Assent on 3 May 1988. \n\nThe 'Electricity (Financial Provisions) (Scotland) Act 1988' received Royal Assent on 3 May 1988.\n\nSo, yes, they were enacted on the ",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Road Traffic Act 1988' was enacted on November 15, 1988, while the 'Electricity (Financial Provisions) (Scotland) Act 1988' was enacted on July 29, 1988"
+  },
+  {
+    "task_id": "OV037",
+    "expected_answer": "No",
+    "llama_main_first_word": "No",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Copyright, Designs and Patents Act 1988' received Royal Assent on November 15, 1988. \n\nThe 'Electricity (Financial Provisions) (Scotland) Act 1988' received Royal Assent on July 27, 1988.\n\nSo, no",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Copyright, Designs and Patents Act 1988' was enacted on 1988-11-15, while 'Electricity (Financial Provisions) (Scotland) Act 1988' was enacted on 1988-07-29"
+  },
+  {
+    "task_id": "OV038",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Budget Act (Northern Ireland) 2012' received Royal Assent on 10 April 2012, and the 'Domestic Violence, Crime and Victims (Amendment) Act 2012' received Royal Assent on 10 May 2012, so they were ",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Domestic Violence, Crime and Victims (Amendment) Act 2012' was enacted on 2012-03-08, while 'Budget Act (Northern Ireland) 2012' was enacted 12 days later, "
+  },
+  {
+    "task_id": "OV039",
+    "expected_answer": "No",
+    "llama_main_first_word": "No",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Domestic Violence, Crime and Victims (Amendment) Act 2012' received Royal Assent on 8 May 2012. \n\nThe 'Health and Social Care Act 2012' received Royal Assent on 27 March 2012.\n\nSo, no, they were ",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Domestic Violence, Crime and Victims (Amendment) Act 2012' was enacted on 2012-03-08, while 'Health and Social Care Act 2012' was enacted on 2012-03-27, whi"
+  },
+  {
+    "task_id": "OV040",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Budget Act (Northern Ireland) 2012' received Royal Assent on 10 April 2012, and the 'Health and Social Care Act 2012' received Royal Assent on 27 March 2012. They were not enacted on the same day",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Budget Act (Northern Ireland) 2012' was enacted on 2012-03-20, while 'Health and Social Care Act 2012' was enacted on 2012-03-27, which is 7 days later."
+  },
+  {
+    "task_id": "OV041",
+    "expected_answer": "Yes",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The Friendly Societies Act 1974 received Royal Assent on 31 October 1974. \n\nThe Rent Act 1974 received Royal Assent on 1 November 1974, but the 'Rent Act 1974' in England and Wales, and the 'Rent (Sco",
+    "llama_answer_with_dates_snippet": "Yes, they were enacted on the same day, 1974-07-31."
+  },
+  {
+    "task_id": "OV042",
+    "expected_answer": "Yes",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Trade Union and Labour Relations Act 1974' received Royal Assent on 31 July 1974, while the 'Friendly Societies Act 1974' received Royal Assent on 8 November 1974. They were not enacted on the sa",
+    "llama_answer_with_dates_snippet": "Yes, they were enacted on the same day, 1974-07-31."
+  },
+  {
+    "task_id": "OV043",
+    "expected_answer": "Yes",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Trade Union and Labour Relations Act 1974' received Royal Assent on July 25, 1974. \n\nThe 'Rent Act 1974' received Royal Assent on July 24, 1974, in the United Kingdom, but the 'Rent Act 1974' in ",
+    "llama_answer_with_dates_snippet": "Yes, they were enacted on the same day, 1974-07-31."
+  },
+  {
+    "task_id": "OV044",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The Energy Act 2013 received Royal Assent on 18 December 2013, and the Mobile Homes Act 2013 received Royal Assent on 25 April 2013. They were not enacted on the same day in 2013.",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Energy Act 2013' was enacted on December 18, 2013, while the 'Mobile Homes Act 2013' was enacted on March 26, 2013. These dates are approximately 9 mont"
+  },
+  {
+    "task_id": "OV045",
+    "expected_answer": "Yes",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Humber Bridge Act 2013' received Royal Assent on 25 April 2013, and the 'Energy Act 2013' received Royal Assent on 18 December 2013. They were not enacted on the same day in 2013.",
+    "llama_answer_with_dates_snippet": "Yes, they were enacted on the same day, 2013-12-18."
+  },
+  {
+    "task_id": "OV046",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Energy Act 2013' received Royal Assent on 18 December 2013, and the 'Public Service Pensions Act 2013' received Royal Assent on 25 April 2013. They were not enacted on the same day in 2013.",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Energy Act 2013' was enacted on December 18, 2013, while the 'Public Service Pensions Act 2013' was enacted on April 25, 2013. They were enacted about 8"
+  },
+  {
+    "task_id": "OV047",
+    "expected_answer": "No",
+    "llama_main_first_word": "Yes",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The Humber Bridge Act 2013 received Royal Assent on 25 April 2013, and the Public Service Pensions Act 2013 received Royal Assent on 25 April 2013. Therefore, yes, they were enacted on the same day in",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Humber Bridge Act 2013' was enacted on December 18, 2013, while 'Public Service Pensions Act 2013' was enacted on April 25, 2013. They were enacted about 8 "
+  },
+  {
+    "task_id": "OV048",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Humber Bridge Act 2013' and the 'Mobile Homes Act 2013' were indeed enacted in 2013, but I do not have information on the exact dates of enactment.",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Humber Bridge Act 2013' was enacted on December 18, 2013, while 'Mobile Homes Act 2013' was enacted on March 26, 2013. These dates are approximately 9 month"
+  },
+  {
+    "task_id": "OV049",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Access to Medical Treatments (Innovation) Act 2016' received Royal Assent on March 23, 2016. \n\nThe 'Criminal Cases Review Commission (Information) Act 2016' received Royal Assent on March 12, 201",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Access to Medical Treatments (Innovation) Act 2016' was enacted on 2016-03-23, while the 'Criminal Cases Review Commission (Information) Act 2016' was e"
+  },
+  {
+    "task_id": "OV050",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010' and the 'Debt Relief Act (Northern Ireland) 2010' were indeed enacted in 2010, but I do not have information on the exact date",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010' was enacted on 2010-03-12, while 'Debt Relief Act (Northern Ireland) 2010' was enacted "
+  },
+  {
+    "task_id": "OV051",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The Senedd and Elections (Wales) Act 2020 received Royal Assent on 15 January 2020, in the United Kingdom. \n\nThe Private Tenancies (Coronavirus Modifications) Act (Northern Ireland) 2020 received Roya",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Senedd and Elections (Wales) Act 2020' was enacted on 2020-01-15, while 'Private Tenancies (Coronavirus Modifications) Act (Northern Ireland) 2020' was enac"
+  },
+  {
+    "task_id": "OV052",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Ecumenical Relations Measure 2018' received Royal Assent on 8 May 2018, and the 'Additional Learning Needs and Education Tribunal (Wales) Act 2018' received Royal Assent on 24 January 2018. They ",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'Ecumenical Relations Measure 2018' was enacted on 2018-12-20, while 'Additional Learning Needs and Education Tribunal (Wales) Act 2018' was enacted on 2018-"
+  },
+  {
+    "task_id": "OV053",
+    "expected_answer": "No",
+    "llama_main_first_word": "Yes",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'Water Industry Act 1991' received Royal Assent on 25 July 1991, and the 'Greater Manchester (Light Rapid Transit System) Act 1991' received Royal Assent on 25 July 1991 as well. Therefore, yes, t",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Water Industry Act 1991' was enacted on July 25, 1991, while the 'Greater Manchester (Light Rapid Transit System) Act 1991' was enacted on October 22, 1"
+  },
+  {
+    "task_id": "OV054",
+    "expected_answer": "No",
+    "llama_main_first_word": "Yes",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'London Underground (Safety Measures) Act 1991' received Royal Assent on 27 June 1991, while the 'Greater Manchester (Light Rapid Transit System) Act 1991' received Royal Assent on 27 June 1991 as",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'London Underground (Safety Measures) Act 1991' was enacted on 1991-11-28, while the 'Greater Manchester (Light Rapid Transit System) Act 1991' was enact"
+  },
+  {
+    "task_id": "OV055",
+    "expected_answer": "No",
+    "llama_main_first_word": "No",
+    "llama_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'London Underground (Safety Measures) Act 1991' received Royal Assent on 27 June 1991. \n\nThe 'Water Industry Act 1991' received Royal Assent on 25 July 1991.\n\nSo, no, they were not enacted on the ",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'London Underground (Safety Measures) Act 1991' was enacted on 1991-11-28, while the 'Water Industry Act 1991' was enacted on 1991-07-25, which is approx"
+  },
+  {
+    "task_id": "OV056",
+    "expected_answer": "No",
+    "llama_main_first_word": null,
+    "llama_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "llama_answer_snippet": "The 'River Humber (Upper Pyewipe Outfall) Act 1992' and the 'British Railways (No. 2) Act 1992' were both enacted in 1992, but I do not have information on the exact dates of enactment.",
+    "llama_answer_with_dates_snippet": "No, they were not enacted on the same day. 'River Humber (Upper Pyewipe Outfall) Act 1992' was enacted on 1992-07-16, while 'British Railways (No. 2) Act 1992' was enacted on 1992-06-18, which is abou"
+  }
+]

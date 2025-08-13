@@ -1,0 +1,2941 @@
+[
+  {
+    "task_id": "OR001",
+    "expected_order": [
+      "Chequers Estate Act 1917",
+      "Fertilisers and Feeding Stuffs Act 1926",
+      "Stipends (Cessation of Special Payments) Measure 2005",
+      "Domestic Abuse Act 2021"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Chequers Estate Act 1917",
+        "Fertilisers and Feeding Stuffs Act 1926",
+        "Stipends (Cessation of Special Payments) Measure 2005",
+        "Domestic Abuse Act 2021"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are:\n\n1. Stipends (Cessation of Special Payments) Measure 2005\n2. Chequers Estate Act 1917\n3. Fertilisers and Feeding Stuffs Act 1926\n4. Domestic Abuse Act 2021\n\nAlright, let's start by looking at t"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Chequers Estate Act 1917",
+        "Fertilisers and Feeding Stuffs Act 1926",
+        "Stipends (Cessation of Special Payments) Measure 2005",
+        "Domestic Abuse Act 2021"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. Let me list them out again with their dates to make sure I have them right:\n\n1. Stipends (Cessation of Special Payments) Measure 2005, dated 2004-03-24\n2. Fertilisers and Feeding Stuffs Act 1926, dated 1926-12-1"
+    }
+  },
+  {
+    "task_id": "OR002",
+    "expected_order": [
+      "Bills of Sale Act 1890",
+      "Adoption (Intercountry Aspects) Act (Northern Ireland) 2001",
+      "Church of England (Miscellaneous Provisions) Measure 2005",
+      "Control of Horses Act 2015"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Bills of Sale Act 1890",
+        "Adoption (Intercountry Aspects) Act (Northern Ireland) 2001",
+        "Church of England (Miscellaneous Provisions) Measure 2005",
+        "Control of Horses Act 2015"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are:\n\n1. Adoption (Intercountry Aspects) Act (Northern Ireland) 2001\n2. Bills of Sale Act 1890\n3. Church of England (Miscellaneous Provisions) Measure 2005\n4. Control of Horses Act 2015\n\nAlright, le"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Bills of Sale Act 1890",
+        "Adoption (Intercountry Aspects) Act (Northern Ireland) 2001",
+        "Church of England (Miscellaneous Provisions) Measure 2005",
+        "Control of Horses Act 2015"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. Let me start by listing them out with their dates:\n\n1. Bills of Sale Act 1890 - August 18, 1890\n2. Control of Horses Act 2015 - March 26, 2015\n3. Church of England (Miscellaneous Provisions) Measure 2005 - March"
+    }
+  },
+  {
+    "task_id": "OR003",
+    "expected_order": [
+      "Companies Act 1976",
+      "Birds (Registration Charges) Act 1997",
+      "Pensions (No. 2) Act (Northern Ireland) 2008",
+      "Borders, Citizenship and Immigration Act 2009",
+      "Local Government and Elections (Wales) Act 2021"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Companies Act 1976",
+        "Birds (Registration Charges) Act 1997",
+        "Pensions (No. 2) Act (Northern Ireland) 2008",
+        "Borders, Citizenship and Immigration Act 2009",
+        "Local Government and Elections (Wales) Act 2021"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. Let me list them out again to make sure I have them all:\n\n1. Local Government and Elections (Wales) Act 2021\n2. Pensions (No. 2) Act (Northern Ireland) 2008\n3. Birds (Registration Charges) Act 1997\n4. Compan"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Companies Act 1976",
+        "Birds (Registration Charges) Act 1997",
+        "Pensions (No. 2) Act (Northern Ireland) 2008",
+        "Borders, Citizenship and Immigration Act 2009",
+        "Local Government and Elections (Wales) Act 2021"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out again with their dates to make sure I have them all right:\n\n1. Borders, Citizenship and Immigration Act 2009 (2009-07-21)\n2. Local Government and Elections (Wales) Act 2021 (2021-01-20)\n3. Pe"
+    }
+  },
+  {
+    "task_id": "OR004",
+    "expected_order": [
+      "Animal Boarding Establishments Act 1963",
+      "Local Government Finance Act 1988",
+      "Dangerous Dogs (Amendment) Act 1997",
+      "Finance Act 2011",
+      "Housing (Amendment) Act (Northern Ireland) 2020"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Animal Boarding Establishments Act 1963",
+        "Local Government Finance Act 1988",
+        "Dangerous Dogs (Amendment) Act 1997",
+        "Finance Act 2011",
+        "Housing (Amendment) Act (Northern Ireland) 2020"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are:\n\n1. Housing (Amendment) Act (Northern Ireland) 2020\n2. Dangerous Dogs (Amendment) Act 1997\n3. Animal Boarding Establishments Act 1963\n4. Finance Act 2011\n5. Local Government Finance Act 1988\n\nF"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Animal Boarding Establishments Act 1963",
+        "Local Government Finance Act 1988",
+        "Dangerous Dogs (Amendment) Act 1997",
+        "Finance Act 2011",
+        "Housing (Amendment) Act (Northern Ireland) 2020"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out again with their dates to make sure I have them all:\n\n1. Animal Boarding Establishments Act 1963 - July 31, 1963\n2. Housing (Amendment) Act (Northern Ireland) 2020 - August 28, 2020\n3. Financ"
+    }
+  },
+  {
+    "task_id": "OR005",
+    "expected_order": [
+      "Matrimonial Causes Act 1965",
+      "British Railways Act 1994",
+      "Immigration and Asylum Act 1999",
+      "Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010",
+      "Public Health (Wales) Act 2017"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Matrimonial Causes Act 1965",
+        "British Railways Act 1994",
+        "Immigration and Asylum Act 1999",
+        "Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010",
+        "Public Health (Wales) Act 2017"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. Let me list them again to make sure I have them all:\n\n1. Immigration and Asylum Act 1999\n2. Public Health (Wales) Act 2017\n3. Matrimonial Causes Act 1965\n4. Goods Vehicles (Licensing of Operators) Act (North"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Matrimonial Causes Act 1965",
+        "British Railways Act 1994",
+        "Immigration and Asylum Act 1999",
+        "Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010",
+        "Public Health (Wales) Act 2017"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out first with their dates:\n\n1. Immigration and Asylum Act 1999 - 1999-11-11\n2. British Railways Act 1994 - 1994-03-31\n3. Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 - 201"
+    }
+  },
+  {
+    "task_id": "OR006",
+    "expected_order": [
+      "Small Holdings and Allotments Act 1926",
+      "Sea Fisheries Act 1968",
+      "Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015",
+      "Highgate Cemetery Act 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Small Holdings and Allotments Act 1926",
+        "Sea Fisheries Act 1968",
+        "Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015",
+        "Highgate Cemetery Act 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are:\n\n1. Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015\n2. Sea Fisheries Act 1968\n3. Small Holdings and Allotments Act 1926\n4. Highgate Cemetery Act 2022\n\nFirst, I shoul"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Small Holdings and Allotments Act 1926",
+        "Sea Fisheries Act 1968",
+        "Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015",
+        "Highgate Cemetery Act 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are:\n\n1. Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015, enacted on 2015-04-29.\n2. Sea Fisheries Act 1968, enacted on 1968-12-18.\n3. Small Holdings and Allotments Act 19"
+    }
+  },
+  {
+    "task_id": "OR007",
+    "expected_order": [
+      "Hotel Proprietors Act 1956",
+      "Greater Nottingham Light Rapid Transit Act 1994",
+      "HFC Bank Act 1999",
+      "Welfare Reform Act (Northern Ireland) 2007"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Hotel Proprietors Act 1956",
+        "Greater Nottingham Light Rapid Transit Act 1994",
+        "HFC Bank Act 1999",
+        "Welfare Reform Act (Northern Ireland) 2007"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are: HFC Bank Act 1999, Hotel Proprietors Act 1956, Welfare Reform Act (Northern Ireland) 2007, and Greater Nottingham Light Rapid Transit Act 1994. \n\nFirst, I should note the years given in each ac"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Hotel Proprietors Act 1956",
+        "Greater Nottingham Light Rapid Transit Act 1994",
+        "HFC Bank Act 1999",
+        "Welfare Reform Act (Northern Ireland) 2007"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts given are:\n\n1. HFC Bank Act 1999 (1999-06-30)\n2. Hotel Proprietors Act 1956 (1956-08-02)\n3. Greater Nottingham Light Rapid Transit Act 1994 (1994-07-21)\n4. Welfare Reform Act (Northern Ireland) 2007"
+    }
+  },
+  {
+    "task_id": "OR008",
+    "expected_order": [
+      "Sea Fisheries Regulation Act 1966",
+      "Industrial Common Ownership Act 1976",
+      "Public Trustee (Liability and Fees) Act 2002",
+      "National Insurance Contributions (Reduction in Rates) Act 2023"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Sea Fisheries Regulation Act 1966",
+        "Industrial Common Ownership Act 1976",
+        "Public Trustee (Liability and Fees) Act 2002",
+        "National Insurance Contributions (Reduction in Rates) Act 2023"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. The acts are:\n\n1. Industrial Common Ownership Act 1976\n2. Public Trustee (Liability and Fees) Act 2002\n3. Sea Fisheries Regulation Act 1966\n4. National Insurance Contributions (Reduction in Rates) Act 2023\n\nFirs"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Sea Fisheries Regulation Act 1966",
+        "Industrial Common Ownership Act 1976",
+        "Public Trustee (Liability and Fees) Act 2002",
+        "National Insurance Contributions (Reduction in Rates) Act 2023"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. Let me start by listing them out with their dates:\n\n1. Sea Fisheries Regulation Act 1966 - 1966-11-17\n2. Industrial Common Ownership Act 1976 - 1976-11-22\n3. National Insurance Contributions (Reduction in Rates)"
+    }
+  },
+  {
+    "task_id": "OR009",
+    "expected_order": [
+      "Aviation and Maritime Security Act 1990",
+      "Children, Schools and Families Act 2010",
+      "Health and Social Care (Safety and Quality) Act 2015",
+      "Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016",
+      "Finance Act 2016"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Aviation and Maritime Security Act 1990",
+        "Children, Schools and Families Act 2010",
+        "Health and Social Care (Safety and Quality) Act 2015",
+        "Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016",
+        "Finance Act 2016"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are:\n\n1. Health and Social Care (Safety and Quality) Act 2015\n2. Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016\n3. Children, Schools and Families Act 2010\n4. Finance Act 2016"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Aviation and Maritime Security Act 1990",
+        "Children, Schools and Families Act 2010",
+        "Health and Social Care (Safety and Quality) Act 2015",
+        "Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016",
+        "Finance Act 2016"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out first with their dates:\n\n1. Finance Act 2016 (2016-09-15)\n2. Health and Social Care (Safety and Quality) Act 2015 (2015-03-26)\n3. Aviation and Maritime Security Act 1990 (1990-07-26)\n4. Child"
+    }
+  },
+  {
+    "task_id": "OR010",
+    "expected_order": [
+      "Suez Canal (Shares) Act 1876",
+      "Welfare Reform Act (Northern Ireland) 2007",
+      "Public Services Ombudsman (Wales) Act 2019"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Suez Canal (Shares) Act 1876",
+        "Welfare Reform Act (Northern Ireland) 2007",
+        "Public Services Ombudsman (Wales) Act 2019"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted: the Suez Canal (Shares) Act 1876, the Public Services Ombudsman (Wales) Act 2019, and the Welfare Reform Act (Northern Ireland) 2007. Let me start by recalling what I know about each of these.\n\nFirst, the Suez "
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Suez Canal (Shares) Act 1876",
+        "Welfare Reform Act (Northern Ireland) 2007",
+        "Public Services Ombudsman (Wales) Act 2019"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of when they were enacted. The acts given are:\n\n1. Public Services Ombudsman (Wales) Act 2019, enacted on 2019-05-22\n2. Welfare Reform Act (Northern Ireland) 2007, enacted on 2007-06-29\n3. Suez Canal (Shares) Act 1876, enacted on 187"
+    }
+  },
+  {
+    "task_id": "OR011",
+    "expected_order": [
+      "Rehabilitation of Offenders Act 1974",
+      "Nottingham City Council Act 2013",
+      "Energy Act 2023"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Rehabilitation of Offenders Act 1974",
+        "Nottingham City Council Act 2013",
+        "Energy Act 2023"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted: Nottingham City Council Act 2013, Rehabilitation of Offenders Act 1974, and Energy Act 2023. Let me start by recalling what I know about each of these.\n\nFirst, the Rehabilitation of Offenders Act 1974. The name"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Rehabilitation of Offenders Act 1974",
+        "Nottingham City Council Act 2013",
+        "Energy Act 2023"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of when they were enacted. The acts given are the Energy Act 2023, the Rehabilitation of Offenders Act 1974, and the Nottingham City Council Act 2013. The dates provided are in the format (YYYY-MM-DD), so I can use those to determine"
+    }
+  },
+  {
+    "task_id": "OR012",
+    "expected_order": [
+      "Isle of Man Act 1979",
+      "Queen Mary and Westfield College Act 1995",
+      "Local Government (Boundaries) Act (Northern Ireland) 2008"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Isle of Man Act 1979",
+        "Queen Mary and Westfield College Act 1995",
+        "Local Government (Boundaries) Act (Northern Ireland) 2008"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted: the Isle of Man Act 1979, the Queen Mary and Westfield College Act 1995, and the Local Government (Boundaries) Act (Northern Ireland) 2008. Let me start by recalling what I know about each of these.\n\nFirst, the"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Isle of Man Act 1979",
+        "Queen Mary and Westfield College Act 1995",
+        "Local Government (Boundaries) Act (Northern Ireland) 2008"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of their enactment dates. Let me start by looking at each one individually.\n\nFirst, there's the Isle of Man Act 1979, which has the date 1979-12-20. That seems straightforward. The year is 1979, and the month and day are December 20t"
+    }
+  },
+  {
+    "task_id": "OR013",
+    "expected_order": [
+      "Sea Fisheries Regulation Act 1966",
+      "Transport Act 1968",
+      "London Underground (Jubilee) Act 1993",
+      "Land Drainage Act 1994",
+      "Driving Instructors (Registration) Act 2016"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Sea Fisheries Regulation Act 1966",
+        "Transport Act 1968",
+        "London Underground (Jubilee) Act 1993",
+        "Land Drainage Act 1994",
+        "Driving Instructors (Registration) Act 2016"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, I need to arrange these five legal acts in order of when they were enacted. Let me list them out again to make sure I have them all:\n\n1. Driving Instructors (Registration) Act 2016\n2. London Underground (Jubilee) Act 1993\n3. Sea Fisheries Regulation Act 1966\n4. Transport Act 1968\n5. La"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Sea Fisheries Regulation Act 1966",
+        "Transport Act 1968",
+        "London Underground (Jubilee) Act 1993",
+        "Land Drainage Act 1994",
+        "Driving Instructors (Registration) Act 2016"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in the order they were enacted. Let me list them out first with their dates:\n\n1. Sea Fisheries Regulation Act 1966 (1966-11-17)\n2. Driving Instructors (Registration) Act 2016 (2016-05-12)\n3. Transport Act 1968 (1968-10-25)\n4. Land Drainage Act"
+    }
+  },
+  {
+    "task_id": "OR014",
+    "expected_order": [
+      "Countryside (Scotland) Act 1967",
+      "Landmines Act 1998",
+      "Financial Services (Banking Reform) Act 2013",
+      "Nationality and Borders Act 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Countryside (Scotland) Act 1967",
+        "Landmines Act 1998",
+        "Financial Services (Banking Reform) Act 2013",
+        "Nationality and Borders Act 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are: Financial Services (Banking Reform) Act 2013, Countryside (Scotland) Act 1967, Nationality and Borders Act 2022, and Landmines Act 1998. \n\nFirst, I'll list them out with their years to see the "
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Countryside (Scotland) Act 1967",
+        "Landmines Act 1998",
+        "Financial Services (Banking Reform) Act 2013",
+        "Nationality and Borders Act 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts given are:\n\n1. Nationality and Borders Act 2022 (2022-04-28)\n2. Landmines Act 1998 (1998-07-28)\n3. Countryside (Scotland) Act 1967 (1967-10-27)\n4. Financial Services (Banking Reform) Act 2013 (2013-"
+    }
+  },
+  {
+    "task_id": "OR015",
+    "expected_order": [
+      "Finance (No. 2) Act 1915",
+      "Harbours Development (Scotland) Act 1972",
+      "Administration of Justice Act 1982",
+      "Nuclear Safeguards Act 2018"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Finance (No. 2) Act 1915",
+        "Harbours Development (Scotland) Act 1972",
+        "Administration of Justice Act 1982",
+        "Nuclear Safeguards Act 2018"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. The acts are: Finance (No. 2) Act 1915, Nuclear Safeguards Act 2018, Harbours Development (Scotland) Act 1972, and Administration of Justice Act 1982. \n\nFirst, I should check the years given in their names becau"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Finance (No. 2) Act 1915",
+        "Harbours Development (Scotland) Act 1972",
+        "Administration of Justice Act 1982",
+        "Nuclear Safeguards Act 2018"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. The acts given are:\n\n1. Nuclear Safeguards Act 2018 (2018-06-26)\n2. Finance (No. 2) Act 1915 (1915-12-23)\n3. Administration of Justice Act 1982 (1982-10-28)\n4. Harbours Development (Scotland) Act 1972 (1972-08-0"
+    }
+  },
+  {
+    "task_id": "OR016",
+    "expected_order": [
+      "Public Registers and Records (Scotland) Act 1948",
+      "Insurance Companies Amendment Act 1973",
+      "Alliance & Leicester plc (Group Reorganisation) Act 2000",
+      "Non-Domestic Rating (Multipliers and Private Schools) Act 2025"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Public Registers and Records (Scotland) Act 1948",
+        "Insurance Companies Amendment Act 1973",
+        "Alliance & Leicester plc (Group Reorganisation) Act 2000",
+        "Non-Domestic Rating (Multipliers and Private Schools) Act 2025"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are:\n\n1. Public Registers and Records (Scotland) Act 1948\n2. Insurance Companies Amendment Act 1973\n3. Alliance & Leicester plc (Group Reorganisation) Act 2000\n4. Non-Domestic Rating (Multipliers an"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Public Registers and Records (Scotland) Act 1948",
+        "Insurance Companies Amendment Act 1973",
+        "Alliance & Leicester plc (Group Reorganisation) Act 2000",
+        "Non-Domestic Rating (Multipliers and Private Schools) Act 2025"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. Let me start by listing them out with their dates:\n\n1. Insurance Companies Amendment Act 1973 - 1973-07-25\n2. Alliance & Leicester plc (Group Reorganisation) Act 2000 - 2000-02-10\n3. Public Registers and Records"
+    }
+  },
+  {
+    "task_id": "OR017",
+    "expected_order": [
+      "Consumer Credit Act 1974",
+      "Cathedrals Measure 1999",
+      "Animal Welfare Act 2006"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Consumer Credit Act 1974",
+        "Cathedrals Measure 1999",
+        "Animal Welfare Act 2006"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted: Animal Welfare Act 2006, Consumer Credit Act 1974, and Cathedrals Measure 1999. Let me start by recalling what each of these acts is about and when they might have been passed.\n\nFirst, the Animal Welfare Act 20"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Consumer Credit Act 1974",
+        "Cathedrals Measure 1999",
+        "Animal Welfare Act 2006"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of when they were enacted. The three are the Animal Welfare Act 2006, the Consumer Credit Act 1974, and the Cathedrals Measure 1999. The dates given are in parentheses with the year-month-day format. Let me think.\n\nFirst, I should lo"
+    }
+  },
+  {
+    "task_id": "OR018",
+    "expected_order": [
+      "Chequers Estate Act 1958",
+      "Llanelli Borough Council (Dafen Estuary) Act 1991",
+      "Pensions Act 2008",
+      "National Health Service Finance (Wales) Act 2014"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Chequers Estate Act 1958",
+        "Llanelli Borough Council (Dafen Estuary) Act 1991",
+        "Pensions Act 2008",
+        "National Health Service Finance (Wales) Act 2014"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are: National Health Service Finance (Wales) Act 2014, Pensions Act 2008, Chequers Estate Act 1958, and Llanelli Borough Council (Dafen Estuary) Act 1991. \n\nFirst, I should note the years given in t"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Chequers Estate Act 1958",
+        "Llanelli Borough Council (Dafen Estuary) Act 1991",
+        "Pensions Act 2008",
+        "National Health Service Finance (Wales) Act 2014"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. Let me start by listing them out with their dates:\n\n1. Chequers Estate Act 1958 - August 1, 1958\n2. Pensions Act 2008 - November 26, 2008\n3. Llanelli Borough Council (Dafen Estuary) Act 1991 - June 27, 1991\n4. N"
+    }
+  },
+  {
+    "task_id": "OR019",
+    "expected_order": [
+      "Penal Servitude Act 1891",
+      "Official Secrets Act 1939",
+      "Automated Vehicles Act 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Penal Servitude Act 1891",
+        "Official Secrets Act 1939",
+        "Automated Vehicles Act 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted: Official Secrets Act 1939, Automated Vehicles Act 2024, and Penal Servitude Act 1891. Let me start by recalling what I know about each of these.\n\nFirst, the Penal Servitude Act 1891. The name sounds old, and th"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Penal Servitude Act 1891",
+        "Official Secrets Act 1939",
+        "Automated Vehicles Act 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. The acts given are the Penal Servitude Act 1891, the Official Secrets Act 1939, and the Automated Vehicles Act 2024. The dates provided are August 5, 1891; November 23, 1939; and May 20, 2024. \n\nFirst, I should"
+    }
+  },
+  {
+    "task_id": "OR020",
+    "expected_order": [
+      "Fur Farming (Prohibition) Act 2000",
+      "Children Act 2004",
+      "Apprenticeships, Skills, Children and Learning Act 2009",
+      "Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015",
+      "Higher Education and Research Act 2017"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Fur Farming (Prohibition) Act 2000",
+        "Children Act 2004",
+        "Apprenticeships, Skills, Children and Learning Act 2009",
+        "Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015",
+        "Higher Education and Research Act 2017"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in the order they were enacted. Let me start by listing them out again to make sure I have them all:\n\n1. Higher Education and Research Act 2017\n2. Children Act 2004\n3. Apprenticeships, Skills, Children and Learning Act 2009\n4. Violence against"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Fur Farming (Prohibition) Act 2000",
+        "Children Act 2004",
+        "Apprenticeships, Skills, Children and Learning Act 2009",
+        "Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015",
+        "Higher Education and Research Act 2017"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, let's see. I need to arrange these legal acts in order of when they were enacted. The user provided the names and dates, so maybe I can just sort them by the dates given. Let me list them out first.\n\nFirst, the Fur Farming (Prohibition) Act 2000 was enacted on 2000-11-23. Then there's "
+    }
+  },
+  {
+    "task_id": "OR021",
+    "expected_order": [
+      "Church Commissioners (Assistance for Priority Areas) Measure 1988 (",
+      "Finance Act 1999",
+      "Housing and Regeneration Act 2008",
+      "Building Societies Act 1986 (Amendment) Act 2024",
+      "Leasehold and Freehold Reform Act 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Church Commissioners (Assistance for Priority Areas) Measure 1988 (",
+        "Finance Act 1999",
+        "Housing and Regeneration Act 2008",
+        "Building Societies Act 1986 (Amendment) Act 2024",
+        "Leasehold and Freehold Reform Act 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, let's see. I need to arrange these legal acts in order of when they were enacted. The list given is:\n\n1. Housing and Regeneration Act 2008\n2. Building Societies Act 1986 (Amendment) Act 2024\n3. Leasehold and Freehold Reform Act 2024\n4. Finance Act 1999\n5. Church Commissioners (Assistan"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Church Commissioners (Assistance for Priority Areas) Measure 1988 (",
+        "Finance Act 1999",
+        "Housing and Regeneration Act 2008",
+        "Building Societies Act 1986 (Amendment) Act 2024",
+        "Leasehold and Freehold Reform Act 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, let's see. I need to arrange these legal acts in order of when they were enacted. The user provided the names along with their dates in parentheses. Let me list them out first to make sure I have all the details right.\n\nFirst, the Church Commissioners (Assistance for Priority Areas) Me"
+    }
+  },
+  {
+    "task_id": "OR022",
+    "expected_order": [
+      "Law Reform (Miscellaneous Provisions) (Scotland) Act 1980",
+      "Priests (Ordination of Women) Measure 1993 (",
+      "Anti-social Behaviour Act 2003"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Law Reform (Miscellaneous Provisions) (Scotland) Act 1980",
+        "Priests (Ordination of Women) Measure 1993 (",
+        "Anti-social Behaviour Act 2003"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted: the Law Reform (Miscellaneous Provisions) (Scotland) Act 1980, the Priests (Ordination of Women) Measure 1993, and the Anti-social Behaviour Act 2003. Let me start by recalling what I know about each of these.\n"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Law Reform (Miscellaneous Provisions) (Scotland) Act 1980",
+        "Priests (Ordination of Women) Measure 1993 (",
+        "Anti-social Behaviour Act 2003"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. The acts given are:\n\n1. Priests (Ordination of Women) Measure 1993 (date: 1993-11-05)\n2. Anti-social Behaviour Act 2003 (date: 2003-11-20)\n3. Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (date: 198"
+    }
+  },
+  {
+    "task_id": "OR023",
+    "expected_order": [
+      "Fertilisers and Feeding Stuffs Act 1926",
+      "Health Services Act 1976",
+      "Inner Urban Areas Act 1978",
+      "Consumer Protection Act 1987",
+      "National Health Service (Consequential Provisions) Act 2006"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Fertilisers and Feeding Stuffs Act 1926",
+        "Health Services Act 1976",
+        "Inner Urban Areas Act 1978",
+        "Consumer Protection Act 1987",
+        "National Health Service (Consequential Provisions) Act 2006"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are:\n\n1. Health Services Act 1976\n2. National Health Service (Consequential Provisions) Act 2006\n3. Inner Urban Areas Act 1978\n4. Fertilisers and Feeding Stuffs Act 1926\n5. Consumer Protection Act 1"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Fertilisers and Feeding Stuffs Act 1926",
+        "Health Services Act 1976",
+        "Inner Urban Areas Act 1978",
+        "Consumer Protection Act 1987",
+        "National Health Service (Consequential Provisions) Act 2006"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. Let me list them out again with their dates to make sure I have all the information right.\n\nFirst, the Health Services Act 1976 with the date 1976-11-22. Then the Fertilisers and Feeding Stuffs Act 1926 date"
+    }
+  },
+  {
+    "task_id": "OR024",
+    "expected_order": [
+      "Building Societies Act 1986",
+      "British Shipbuilders (Borrowing Powers) Act 1987",
+      "Finance Act 1999",
+      "Kent County Council Act 2001",
+      "Charities Act 2006"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Building Societies Act 1986",
+        "British Shipbuilders (Borrowing Powers) Act 1987",
+        "Finance Act 1999",
+        "Kent County Council Act 2001",
+        "Charities Act 2006"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are: Charities Act 2006, Kent County Council Act 2001, Finance Act 1999, Building Societies Act 1986, and British Shipbuilders (Borrowing Powers) Act 1987.\n\nFirst, I should list them all out with th"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Building Societies Act 1986",
+        "British Shipbuilders (Borrowing Powers) Act 1987",
+        "Finance Act 1999",
+        "Kent County Council Act 2001",
+        "Charities Act 2006"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in the order they were enacted. Let me start by listing them out with their dates:\n\n1. Building Societies Act 1986 (1986-07-25)\n2. British Shipbuilders (Borrowing Powers) Act 1987 (1987-07-23)\n3. Finance Act 1999 (1999-07-27)\n4. Charities Act 2006 "
+    }
+  },
+  {
+    "task_id": "OR025",
+    "expected_order": [
+      "Congested Districts (Scotland) Act 1897",
+      "Housing Act 1980",
+      "Strathclyde Regional Council Order Confirmation Act 1991",
+      "Shared Education Act (Northern Ireland) 2016",
+      "Civil Liability Act 2018"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Congested Districts (Scotland) Act 1897",
+        "Housing Act 1980",
+        "Strathclyde Regional Council Order Confirmation Act 1991",
+        "Shared Education Act (Northern Ireland) 2016",
+        "Civil Liability Act 2018"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, I need to arrange these five legal acts in order of when they were enacted. Let me list them out again to make sure I have them all:\n\n1. Housing Act 1980\n2. Civil Liability Act 2018\n3. Strathclyde Regional Council Order Confirmation Act 1991\n4. Congested Districts (Scotland) Act 1897\n5"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Congested Districts (Scotland) Act 1897",
+        "Housing Act 1980",
+        "Strathclyde Regional Council Order Confirmation Act 1991",
+        "Shared Education Act (Northern Ireland) 2016",
+        "Civil Liability Act 2018"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. Let me start by listing them out again to make sure I have all the details right:\n\n1. Congested Districts (Scotland) Act 1897 - Date given is 1897-08-06\n2. Strathclyde Regional Council Order Confirmation Act"
+    }
+  },
+  {
+    "task_id": "OR026",
+    "expected_order": [
+      "Coal Industry Act 1967",
+      "Local Authority Social Services Act 1970",
+      "National Health Service Finance (Wales) Act 2014"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Coal Industry Act 1967",
+        "Local Authority Social Services Act 1970",
+        "National Health Service Finance (Wales) Act 2014"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of when they were enacted: the Coal Industry Act 1967, the National Health Service Finance (Wales) Act 2014, and the Local Authority Social Services Act 1970. Let me start by recalling what I know about each of these.\n\nFirst, the Coa"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Coal Industry Act 1967",
+        "Local Authority Social Services Act 1970",
+        "National Health Service Finance (Wales) Act 2014"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of when they were enacted. The acts are:\n\n1. National Health Service Finance (Wales) Act 2014, enacted on 2014-01-27\n2. Local Authority Social Services Act 1970, enacted on 1970-05-29\n3. Coal Industry Act 1967, enacted on 1967-12-20\n"
+    }
+  },
+  {
+    "task_id": "OR027",
+    "expected_order": [
+      "Unsolicited Services (Trade and Business Directories) Act (Northern Ireland) 2010",
+      "Rates (Amendment) Act (Northern Ireland) 2012",
+      "Holocaust (Return of Cultural Objects) (Amendment) Act 2019",
+      "Victims and Prisoners Act 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Unsolicited Services (Trade and Business Directories) Act (Northern Ireland) 2010",
+        "Rates (Amendment) Act (Northern Ireland) 2012",
+        "Holocaust (Return of Cultural Objects) (Amendment) Act 2019",
+        "Victims and Prisoners Act 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are:\n\n1. Victims and Prisoners Act 2024\n2. Holocaust (Return of Cultural Objects) (Amendment) Act 2019\n3. Unsolicited Services (Trade and Business Directories) Act (Northern Ireland) 2010\n4. Rates ("
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Unsolicited Services (Trade and Business Directories) Act (Northern Ireland) 2010",
+        "Rates (Amendment) Act (Northern Ireland) 2012",
+        "Holocaust (Return of Cultural Objects) (Amendment) Act 2019",
+        "Victims and Prisoners Act 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. Let me start by listing them out with their dates to make it clearer.\n\nFirst, the Victims and Prisoners Act 2024 was enacted on 2024-05-24. That's the most recent one since it's in 2024. Then there's the Rat"
+    }
+  },
+  {
+    "task_id": "OR028",
+    "expected_order": [
+      "Railway Companies Act 1867",
+      "Education (Scotland) Act 1981",
+      "Judicial Review and Courts Act 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Railway Companies Act 1867",
+        "Education (Scotland) Act 1981",
+        "Judicial Review and Courts Act 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of when they were enacted: the Education (Scotland) Act 1981, the Judicial Review and Courts Act 2022, and the Railway Companies Act 1867. Let me start by recalling what I know about each of these.\n\nFirst, the Railway Companies Act 1"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Railway Companies Act 1867",
+        "Education (Scotland) Act 1981",
+        "Judicial Review and Courts Act 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. The acts given are the Railway Companies Act 1867, the Education (Scotland) Act 1981, and the Judicial Review and Courts Act 2022. Each has a date provided in parentheses, which I assume is the date they were e"
+    }
+  },
+  {
+    "task_id": "OR029",
+    "expected_order": [
+      "Trustee Savings Banks Act 1985",
+      "University College London Act 1996",
+      "Care of Cathedrals Measure 2011",
+      "Marine Act (Northern Ireland) 2013"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Trustee Savings Banks Act 1985",
+        "University College London Act 1996",
+        "Care of Cathedrals Measure 2011",
+        "Marine Act (Northern Ireland) 2013"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. The acts are: Trustee Savings Banks Act 1985, University College London Act 1996, Care of Cathedrals Measure 2011, and Marine Act (Northern Ireland) 2013. \n\nFirst, I notice that each of these has a year attached"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Trustee Savings Banks Act 1985",
+        "University College London Act 1996",
+        "Care of Cathedrals Measure 2011",
+        "Marine Act (Northern Ireland) 2013"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are:\n\n1. University College London Act 1996 (date given as 1996-07-04)\n2. Marine Act (Northern Ireland) 2013 (2013-09-17)\n3. Care of Cathedrals Measure 2011 (2011-05-24)\n4. Trustee Savings Banks Act"
+    }
+  },
+  {
+    "task_id": "OR030",
+    "expected_order": [
+      "Finance Act 1971",
+      "Local Authorities (Expenditure Powers) Act 1983",
+      "Health and Social Care Act 2008",
+      "Finance (No. 3) Act 2010",
+      "Offender Rehabilitation Act 2014"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Finance Act 1971",
+        "Local Authorities (Expenditure Powers) Act 1983",
+        "Health and Social Care Act 2008",
+        "Finance (No. 3) Act 2010",
+        "Offender Rehabilitation Act 2014"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are: Finance Act 1971, Offender Rehabilitation Act 2014, Local Authorities (Expenditure Powers) Act 1983, Finance (No. 3) Act 2010, and Health and Social Care Act 2008. \n\nFirst, I'll list them out w"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Finance Act 1971",
+        "Local Authorities (Expenditure Powers) Act 1983",
+        "Health and Social Care Act 2008",
+        "Finance (No. 3) Act 2010",
+        "Offender Rehabilitation Act 2014"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, I need to arrange these legal acts in order of their enactment dates. Let me list them out first with their dates:\n\n1. Local Authorities (Expenditure Powers) Act 1983 - July 26, 1983\n2. Health and Social Care Act 2008 - July 21, 2008\n3. Offender Rehabilitation Act 2014 - March 13, 2014"
+    }
+  },
+  {
+    "task_id": "OR031",
+    "expected_order": [
+      "Wellington Museum Act 1947",
+      "Registered Designs Act 1949",
+      "Diocesan Boards of Education Measure 1991",
+      "Energy (Oil and Gas) Profits Levy Act 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Wellington Museum Act 1947",
+        "Registered Designs Act 1949",
+        "Diocesan Boards of Education Measure 1991",
+        "Energy (Oil and Gas) Profits Levy Act 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are: Registered Designs Act 1949, Diocesan Boards of Education Measure 1991, Energy (Oil and Gas) Profits Levy Act 2022, and Wellington Museum Act 1947. \n\nFirst, I notice that each of these has a ye"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Wellington Museum Act 1947",
+        "Registered Designs Act 1949",
+        "Diocesan Boards of Education Measure 1991",
+        "Energy (Oil and Gas) Profits Levy Act 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The ones given are:\n\n1. Energy (Oil and Gas) Profits Levy Act 2022 (2022-07-14)\n2. Diocesan Boards of Education Measure 1991 (1991-07-12)\n3. Registered Designs Act 1949 (1949-12-16)\n4. Wellington Museum Act "
+    }
+  },
+  {
+    "task_id": "OR032",
+    "expected_order": [
+      "National Insurance Contributions (Reduction in Rates) Act 2023",
+      "Arbitration Act 2025",
+      "Water (Special Measures) Act 2025"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "National Insurance Contributions (Reduction in Rates) Act 2023",
+        "Arbitration Act 2025",
+        "Water (Special Measures) Act 2025"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted: Water (Special Measures) Act 2025, National Insurance Contributions (Reduction in Rates) Act 2023, and Arbitration Act 2025. Let me start by looking at the years given in their titles. \n\nThe first one is the Na"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "National Insurance Contributions (Reduction in Rates) Act 2023",
+        "Arbitration Act 2025",
+        "Water (Special Measures) Act 2025"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. The acts are:\n\n1. National Insurance Contributions (Reduction in Rates) Act 2023, dated 2023-12-18\n2. Arbitration Act 2025, dated 2025-02-24\n3. Water (Special Measures) Act 2025, also dated 2025-02-24\n\nHmm, let"
+    }
+  },
+  {
+    "task_id": "OR033",
+    "expected_order": [
+      "Territorial Waters Jurisdiction Act 1878",
+      "Ecclesiastical Jurisdiction and Care of Churches Measure 2018",
+      "Renting Homes (Amendment) (Wales) Act 2021"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Territorial Waters Jurisdiction Act 1878",
+        "Ecclesiastical Jurisdiction and Care of Churches Measure 2018",
+        "Renting Homes (Amendment) (Wales) Act 2021"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted: the Ecclesiastical Jurisdiction and Care of Churches Measure 2018, the Renting Homes (Amendment) (Wales) Act 2021, and the Territorial Waters Jurisdiction Act 1878. Let me start by recalling what each of these "
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Territorial Waters Jurisdiction Act 1878",
+        "Ecclesiastical Jurisdiction and Care of Churches Measure 2018",
+        "Renting Homes (Amendment) (Wales) Act 2021"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. Let me start by looking at each one's name and the dates provided in parentheses. \n\nFirst, there's the Ecclesiastical Jurisdiction and Care of Churches Measure 2018, which has the date 2018-05-10. That seems st"
+    }
+  },
+  {
+    "task_id": "OR034",
+    "expected_order": [
+      "Commonwealth Development Corporation Act 1982",
+      "Continental Shelf Act 1989",
+      "City of London (Various Powers) Act 2013"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Commonwealth Development Corporation Act 1982",
+        "Continental Shelf Act 1989",
+        "City of London (Various Powers) Act 2013"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of their enactment: the City of London (Various Powers) Act 2013, the Continental Shelf Act 1989, and the Commonwealth Development Corporation Act 1982. Let me start by recalling what each of these acts might be about and when they w"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Commonwealth Development Corporation Act 1982",
+        "Continental Shelf Act 1989",
+        "City of London (Various Powers) Act 2013"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. The acts are:\n\n1. City of London (Various Powers) Act 2013, enacted on 2013-12-18\n2. Continental Shelf Act 1989, enacted on 1989-07-27\n3. Commonwealth Development Corporation Act 1982, enacted on 1982-12-22\n\nHm"
+    }
+  },
+  {
+    "task_id": "OR035",
+    "expected_order": [
+      "Ground Rents Act (Northern Ireland) 2001",
+      "Wildlife and Natural Environment Act (Northern Ireland) 2011",
+      "European Union (Withdrawal) Act 2019",
+      "Economic Crime and Corporate Transparency Act 2023"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Ground Rents Act (Northern Ireland) 2001",
+        "Wildlife and Natural Environment Act (Northern Ireland) 2011",
+        "European Union (Withdrawal) Act 2019",
+        "Economic Crime and Corporate Transparency Act 2023"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are:\n\n1. Ground Rents Act (Northern Ireland) 2001\n2. Economic Crime and Corporate Transparency Act 2023\n3. Wildlife and Natural Environment Act (Northern Ireland) 2011\n4. European Union (Withdrawal)"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Ground Rents Act (Northern Ireland) 2001",
+        "Wildlife and Natural Environment Act (Northern Ireland) 2011",
+        "European Union (Withdrawal) Act 2019",
+        "Economic Crime and Corporate Transparency Act 2023"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. Let me start by listing them out with their dates:\n\n1. Wildlife and Natural Environment Act (Northern Ireland) 2011 - 2011-03-29\n2. Economic Crime and Corporate Transparency Act 2023 - 2023-10-26\n3. European"
+    }
+  },
+  {
+    "task_id": "OR036",
+    "expected_order": [
+      "Bills of Sale Act 1890",
+      "New Towns Act 1946",
+      "House of Commons Members' Fund Act 1962",
+      "Health and Personal Social Services Act (Northern Ireland) 2002",
+      "Care of Cathedrals (Amendment) Measure 2005"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Bills of Sale Act 1890",
+        "New Towns Act 1946",
+        "House of Commons Members' Fund Act 1962",
+        "Health and Personal Social Services Act (Northern Ireland) 2002",
+        "Care of Cathedrals (Amendment) Measure 2005"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are:\n\n1. Health and Personal Social Services Act (Northern Ireland) 2002\n2. House of Commons Members' Fund Act 1962\n3. New Towns Act 1946\n4. Care of Cathedrals (Amendment) Measure 2005\n5. Bills of S"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Bills of Sale Act 1890",
+        "New Towns Act 1946",
+        "House of Commons Members' Fund Act 1962",
+        "Health and Personal Social Services Act (Northern Ireland) 2002",
+        "Care of Cathedrals (Amendment) Measure 2005"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, I need to arrange these legal acts in order of when they were enacted. Let me list them out first with their dates:\n\n1. Bills of Sale Act 1890 (1890-08-18)\n2. Health and Personal Social Services Act (Northern Ireland) 2002 (2002-10-04)\n3. House of Commons Members' Fund Act 1962 (1962-0"
+    }
+  },
+  {
+    "task_id": "OR037",
+    "expected_order": [
+      "Civil Aviation Act 1980",
+      "Housing Act 1985",
+      "Local Government Finance and Valuation Act 1991",
+      "Appropriation Act 2001"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Civil Aviation Act 1980",
+        "Housing Act 1985",
+        "Local Government Finance and Valuation Act 1991",
+        "Appropriation Act 2001"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted: Local Government Finance and Valuation Act 1991, Civil Aviation Act 1980, Appropriation Act 2001, and Housing Act 1985. Let me start by recalling what each of these acts might be related to and their possibl"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Civil Aviation Act 1980",
+        "Housing Act 1985",
+        "Local Government Finance and Valuation Act 1991",
+        "Appropriation Act 2001"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. The user provided the names and the dates, which is helpful. Let me list them out again to make sure I have all the details right.\n\nFirst, the Housing Act 1985 with the date 1985-10-30. Then the Civil Aviation A"
+    }
+  },
+  {
+    "task_id": "OR038",
+    "expected_order": [
+      "Health and Social Services and Social Security Adjudications Act 1983",
+      "Community Care (Residential Accommodation) Act 1992",
+      "Church of England (Miscellaneous Provisions) Measure 2005",
+      "Dormant Bank and Building Society Accounts Act 2008",
+      "Agriculture Act 2020"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Health and Social Services and Social Security Adjudications Act 1983",
+        "Community Care (Residential Accommodation) Act 1992",
+        "Church of England (Miscellaneous Provisions) Measure 2005",
+        "Dormant Bank and Building Society Accounts Act 2008",
+        "Agriculture Act 2020"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out again to make sure I have them all:\n\n1. Dormant Bank and Building Society Accounts Act 2008\n2. Community Care (Residential Accommodation) Act 1992\n3. Church of England (Miscellaneous Provisio"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Health and Social Services and Social Security Adjudications Act 1983",
+        "Community Care (Residential Accommodation) Act 1992",
+        "Church of England (Miscellaneous Provisions) Measure 2005",
+        "Dormant Bank and Building Society Accounts Act 2008",
+        "Agriculture Act 2020"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, I need to arrange these legal acts in order of their enactment dates. Let me list them out first with their dates:\n\n1. Community Care (Residential Accommodation) Act 1992 - July 16, 1992\n2. Agriculture Act 2020 - November 11, 2020\n3. Church of England (Miscellaneous Provisions) Measure"
+    }
+  },
+  {
+    "task_id": "OR039",
+    "expected_order": [
+      "Finance Act 1988",
+      "Human Rights Act 1998",
+      "Energy (Oil and Gas) Profits Levy Act 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Finance Act 1988",
+        "Human Rights Act 1998",
+        "Energy (Oil and Gas) Profits Levy Act 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted: Finance Act 1988, Human Rights Act 1998, and Energy (Oil and Gas) Profits Levy Act 2022. Let me start by recalling what each of these acts is and when they might have been passed.\n\nFirst, the Finance Act. I kno"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Finance Act 1988",
+        "Human Rights Act 1998",
+        "Energy (Oil and Gas) Profits Levy Act 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. The acts given are the Finance Act 1988, the Energy (Oil and Gas) Profits Levy Act 2022, and the Human Rights Act 1998. Each has a date provided in parentheses. Let me think through this step by step.\n\nFirst, I"
+    }
+  },
+  {
+    "task_id": "OR040",
+    "expected_order": [
+      "Finance Act 1973",
+      "Debt Relief Act (Northern Ireland) 2010",
+      "Well-being of Future Generations (Wales) Act 2015"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Finance Act 1973",
+        "Debt Relief Act (Northern Ireland) 2010",
+        "Well-being of Future Generations (Wales) Act 2015"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of when they were enacted: the Well-being of Future Generations (Wales) Act 2015, the Debt Relief Act (Northern Ireland) 2010, and the Finance Act 1973. Let me start by recalling what each of these acts is and when they might have be"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Finance Act 1973",
+        "Debt Relief Act (Northern Ireland) 2010",
+        "Well-being of Future Generations (Wales) Act 2015"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. The acts are the Finance Act 1973, the Debt Relief Act (Northern Ireland) 2010, and the Well-being of Future Generations (Wales) Act 2015. The dates given are 1973-07-25, 2010-12-15, and 2015-04-29 respectively"
+    }
+  },
+  {
+    "task_id": "OR041",
+    "expected_order": [
+      "Marriage with Foreigners Act 1906",
+      "Company and Business Names (Chamber of Commerce, Etc.) Act 1999",
+      "Automated Vehicles Act 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Marriage with Foreigners Act 1906",
+        "Company and Business Names (Chamber of Commerce, Etc.) Act 1999",
+        "Automated Vehicles Act 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted: the Company and Business Names (Chamber of Commerce, Etc.) Act 1999, the Automated Vehicles Act 2024, and the Marriage with Foreigners Act 1906. Let me start by looking at the years given in their titles. \n\nThe"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Marriage with Foreigners Act 1906",
+        "Company and Business Names (Chamber of Commerce, Etc.) Act 1999",
+        "Automated Vehicles Act 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. The user provided the names along with their dates. Let me start by looking at each one carefully.\n\nFirst, the Marriage with Foreigners Act 1906 with the date 1906-11-29. That seems like the oldest one here bec"
+    }
+  },
+  {
+    "task_id": "OR042",
+    "expected_order": [
+      "Employers' Liability (Compulsory Insurance) Act 1969",
+      "Synodical Government (Amendment) Measure 2003",
+      "Immigration Act 2014"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Employers' Liability (Compulsory Insurance) Act 1969",
+        "Synodical Government (Amendment) Measure 2003",
+        "Immigration Act 2014"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted: Synodical Government (Amendment) Measure 2003, Employers' Liability (Compulsory Insurance) Act 1969, and Immigration Act 2014. Let me start by recalling what each of these acts might be about and when they coul"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Employers' Liability (Compulsory Insurance) Act 1969",
+        "Synodical Government (Amendment) Measure 2003",
+        "Immigration Act 2014"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. The acts are:\n\n1. Immigration Act 2014 (date given as 2014-05-14)\n2. Employers' Liability (Compulsory Insurance) Act 1969 (1969-10-22)\n3. Synodical Government (Amendment) Measure 2003 (2003-03-06)\n\nFirst, I sho"
+    }
+  },
+  {
+    "task_id": "OR043",
+    "expected_order": [
+      "Rent (Agriculture) Act 1976",
+      "Limitation Act 1980",
+      "Electricity (Financial Provisions) (Scotland) Act 1988",
+      "Budget (No. 2) Act (Northern Ireland) 2008",
+      "Social Security (Up-rating of Benefits) Act 2020"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Rent (Agriculture) Act 1976",
+        "Limitation Act 1980",
+        "Electricity (Financial Provisions) (Scotland) Act 1988",
+        "Budget (No. 2) Act (Northern Ireland) 2008",
+        "Social Security (Up-rating of Benefits) Act 2020"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are:\n\n1. Rent (Agriculture) Act 1976\n2. Social Security (Up-rating of Benefits) Act 2020\n3. Limitation Act 1980\n4. Electricity (Financial Provisions) (Scotland) Act 1988\n5. Budget (No. 2) Act (North"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Rent (Agriculture) Act 1976",
+        "Limitation Act 1980",
+        "Electricity (Financial Provisions) (Scotland) Act 1988",
+        "Budget (No. 2) Act (Northern Ireland) 2008",
+        "Social Security (Up-rating of Benefits) Act 2020"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in the order they were enacted. Let me start by listing them out with their dates:\n\n1. Limitation Act 1980 (1980-11-13)\n2. Budget (No. 2) Act (Northern Ireland) 2008 (2008-07-02)\n3. Electricity (Financial Provisions) (Scotland) Act 1988 (1988-"
+    }
+  },
+  {
+    "task_id": "OR044",
+    "expected_order": [
+      "Medway Ports Authority Act 1973",
+      "Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015",
+      "Sentencing Act 2020"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Medway Ports Authority Act 1973",
+        "Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015",
+        "Sentencing Act 2020"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of when they were enacted. The acts are: Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015, Sentencing Act 2020, and Medway Ports Authority Act 1973. \n\nFirst, I should check the years given in each title"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Medway Ports Authority Act 1973",
+        "Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015",
+        "Sentencing Act 2020"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of their enactment dates. Let me start by looking at each one individually.\n\nFirst, there's the Medway Ports Authority Act 1973, which has the date 1973-05-23. That seems straightforward. The year is 1973, so that's the earliest one "
+    }
+  },
+  {
+    "task_id": "OR045",
+    "expected_order": [
+      "Ministry of Pensions Act 1916",
+      "Building Control Act 1966",
+      "Administration of Justice Act 1985",
+      "Curriculum and Assessment (Wales) Act 2021",
+      "Private Tenancies Act (Northern Ireland) 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Ministry of Pensions Act 1916",
+        "Building Control Act 1966",
+        "Administration of Justice Act 1985",
+        "Curriculum and Assessment (Wales) Act 2021",
+        "Private Tenancies Act (Northern Ireland) 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are: Building Control Act 1966, Ministry of Pensions Act 1916, Curriculum and Assessment (Wales) Act 2021, Administration of Justice Act 1985, and Private Tenancies Act (Northern Ireland) 2022.\n\nFir"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Ministry of Pensions Act 1916",
+        "Building Control Act 1966",
+        "Administration of Justice Act 1985",
+        "Curriculum and Assessment (Wales) Act 2021",
+        "Private Tenancies Act (Northern Ireland) 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. Let me start by listing them out with their dates:\n\n1. Building Control Act 1966 - August 9, 1966\n2. Ministry of Pensions Act 1916 - December 22, 1916\n3. Curriculum and Assessment (Wales) Act 2021 - April 29"
+    }
+  },
+  {
+    "task_id": "OR046",
+    "expected_order": [
+      "Railways Act 1974",
+      "Environmental Protection Act 1990",
+      "Criminal Justice and Police Act 2001",
+      "Stamp Duty Land Tax (Temporary Relief) Act 2020",
+      "National Security and Investment Act 2021"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Railways Act 1974",
+        "Environmental Protection Act 1990",
+        "Criminal Justice and Police Act 2001",
+        "Stamp Duty Land Tax (Temporary Relief) Act 2020",
+        "National Security and Investment Act 2021"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, I need to arrange these five legal acts in the order they were enacted. Let me start by listing them out again to make sure I have them all:\n\n1. Railways Act 1974\n2. Environmental Protection Act 1990\n3. Criminal Justice and Police Act 2001\n4. National Security and Investment Act 2021\n5"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Railways Act 1974",
+        "Environmental Protection Act 1990",
+        "Criminal Justice and Police Act 2001",
+        "Stamp Duty Land Tax (Temporary Relief) Act 2020",
+        "National Security and Investment Act 2021"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, I need to arrange these legal acts in order of their enactment dates. Let me start by listing them all out with their dates to get a clear picture.\n\nFirst, the Environmental Protection Act 1990 has a date of 1990-11-01. Then there's the Railways Act 1974, which is from 1974-07-31. The "
+    }
+  },
+  {
+    "task_id": "OR047",
+    "expected_order": [
+      "National Galleries of Scotland Act 1959",
+      "Trade Marks Act 1994",
+      "Special Educational Needs and Disability Act 2001",
+      "Domestic Violence, Crime and Victims Act 2004",
+      "Local Government Act (Northern Ireland) 2014"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "National Galleries of Scotland Act 1959",
+        "Trade Marks Act 1994",
+        "Special Educational Needs and Disability Act 2001",
+        "Domestic Violence, Crime and Victims Act 2004",
+        "Local Government Act (Northern Ireland) 2014"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are:\n\n1. Local Government Act (Northern Ireland) 2014\n2. Domestic Violence, Crime and Victims Act 2004\n3. National Galleries of Scotland Act 1959\n4. Special Educational Needs and Disability Act 2001"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "National Galleries of Scotland Act 1959",
+        "Trade Marks Act 1994",
+        "Special Educational Needs and Disability Act 2001",
+        "Domestic Violence, Crime and Victims Act 2004",
+        "Local Government Act (Northern Ireland) 2014"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, I need to arrange these legal acts in order of their enactment dates. Let me list them out first with their dates:\n\n1. Trade Marks Act 1994 - 1994-07-21\n2. Domestic Violence, Crime and Victims Act 2004 - 2004-11-15\n3. Local Government Act (Northern Ireland) 2014 - 2014-05-12\n4. Special"
+    }
+  },
+  {
+    "task_id": "OR048",
+    "expected_order": [
+      "London Local Authorities Act 1995",
+      "Insolvency Act 2000",
+      "Dealing in Cultural Objects (Offences) Act 2003",
+      "Hereford Markets Act 2003"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "London Local Authorities Act 1995",
+        "Insolvency Act 2000",
+        "Dealing in Cultural Objects (Offences) Act 2003",
+        "Hereford Markets Act 2003"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted: Dealing in Cultural Objects (Offences) Act 2003, London Local Authorities Act 1995, Insolvency Act 2000, and Hereford Markets Act 2003. Let me start by recalling what I know about each of these.\n\nFirst, the "
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "London Local Authorities Act 1995",
+        "Insolvency Act 2000",
+        "Dealing in Cultural Objects (Offences) Act 2003",
+        "Hereford Markets Act 2003"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. Let me list them out again with their dates to make sure I have them right:\n\n1. London Local Authorities Act 1995 – date is 1995-11-08\n2. Dealing in Cultural Objects (Offences) Act 2003 – 2003-10-30\n3. Insolvenc"
+    }
+  },
+  {
+    "task_id": "OR049",
+    "expected_order": [
+      "Military Lands Act 1900",
+      "Southern Rhodesia Act 1979",
+      "Higher Education and Research Act 2017",
+      "Defamation Act (Northern Ireland) 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Military Lands Act 1900",
+        "Southern Rhodesia Act 1979",
+        "Higher Education and Research Act 2017",
+        "Defamation Act (Northern Ireland) 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are: Southern Rhodesia Act 1979, Higher Education and Research Act 2017, Military Lands Act 1900, and Defamation Act (Northern Ireland) 2022. Let me start by recalling what I know about each of thes"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Military Lands Act 1900",
+        "Southern Rhodesia Act 1979",
+        "Higher Education and Research Act 2017",
+        "Defamation Act (Northern Ireland) 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are:\n\n1. Defamation Act (Northern Ireland) 2022, enacted on 2022-06-06\n2. Southern Rhodesia Act 1979, enacted on 1979-11-14\n3. Higher Education and Research Act 2017, enacted on 2017-04-27\n4. Milita"
+    }
+  },
+  {
+    "task_id": "OR050",
+    "expected_order": [
+      "Ordination of Women (Financial Provisions) Measure 1993 (",
+      "Deer (Amendment) (Scotland) Act 1996",
+      "Financial Services Act 2010",
+      "Employment Act (Northern Ireland) 2016",
+      "Church of England Pensions (Application of Capital Funds) Measure 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Ordination of Women (Financial Provisions) Measure 1993 (",
+        "Deer (Amendment) (Scotland) Act 1996",
+        "Financial Services Act 2010",
+        "Employment Act (Northern Ireland) 2016",
+        "Church of England Pensions (Application of Capital Funds) Measure 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out again to make sure I have them all:\n\n1. Employment Act (Northern Ireland) 2016\n2. Financial Services Act 2010\n3. Church of England Pensions (Application of Capital Funds) Measure 2024\n4. Ordi"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Ordination of Women (Financial Provisions) Measure 1993 (",
+        "Deer (Amendment) (Scotland) Act 1996",
+        "Financial Services Act 2010",
+        "Employment Act (Northern Ireland) 2016",
+        "Church of England Pensions (Application of Capital Funds) Measure 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out first with their dates:\n\n1. Ordination of Women (Financial Provisions) Measure 1993 - 1993-11-05\n2. Employment Act (Northern Ireland) 2016 - 2016-04-22\n3. Church of England Pensions (Applicat"
+    }
+  },
+  {
+    "task_id": "OR051",
+    "expected_order": [
+      "Coal Industry Act 1967",
+      "Statute Law Revision (Isle of Man) Act 1991",
+      "Transport for London Act 2008"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Coal Industry Act 1967",
+        "Statute Law Revision (Isle of Man) Act 1991",
+        "Transport for London Act 2008"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted: Coal Industry Act 1967, Statute Law Revision (Isle of Man) Act 1991, and Transport for London Act 2008. Let me start by recalling what I know about each of these.\n\nFirst, the Coal Industry Act 1967. I remember "
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Coal Industry Act 1967",
+        "Statute Law Revision (Isle of Man) Act 1991",
+        "Transport for London Act 2008"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. The acts given are:\n\n1. Transport for London Act 2008 (2008-05-22)\n2. Coal Industry Act 1967 (1967-12-20)\n3. Statute Law Revision (Isle of Man) Act 1991 (1991-07-25)\n\nFirst, I notice that each act has a date in"
+    }
+  },
+  {
+    "task_id": "OR052",
+    "expected_order": [
+      "Law Reform (Miscellaneous Provisions) (Scotland) Act 1980",
+      "Tribunals and Inquiries Act 1992",
+      "Civil Partnership Act 2004",
+      "Welsh Elections (Coronavirus) Act 2021"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Law Reform (Miscellaneous Provisions) (Scotland) Act 1980",
+        "Tribunals and Inquiries Act 1992",
+        "Civil Partnership Act 2004",
+        "Welsh Elections (Coronavirus) Act 2021"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are: Civil Partnership Act 2004, Tribunals and Inquiries Act 1992, Law Reform (Miscellaneous Provisions) (Scotland) Act 1980, and Welsh Elections (Coronavirus) Act 2021. \n\nFirst, I should note the y"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Law Reform (Miscellaneous Provisions) (Scotland) Act 1980",
+        "Tribunals and Inquiries Act 1992",
+        "Civil Partnership Act 2004",
+        "Welsh Elections (Coronavirus) Act 2021"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. Let me start by listing them out with their dates:\n\n1. Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 - 1980-10-29\n2. Welsh Elections (Coronavirus) Act 2021 - 2021-03-16\n3. Civil Partnership Act 2"
+    }
+  },
+  {
+    "task_id": "OR053",
+    "expected_order": [
+      "Government Annuities Act 1929",
+      "Veterinary Surgeons Act 1966",
+      "Oil and Pipelines Act 1985",
+      "Police (Detention and Bail) Act 2011"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Government Annuities Act 1929",
+        "Veterinary Surgeons Act 1966",
+        "Oil and Pipelines Act 1985",
+        "Police (Detention and Bail) Act 2011"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted: Veterinary Surgeons Act 1966, Police (Detention and Bail) Act 2011, Oil and Pipelines Act 1985, and Government Annuities Act 1929. Let me start by recalling what I know about each of these.\n\nFirst, the Gover"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Government Annuities Act 1929",
+        "Veterinary Surgeons Act 1966",
+        "Oil and Pipelines Act 1985",
+        "Police (Detention and Bail) Act 2011"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts given are the Veterinary Surgeons Act 1966, the Oil and Pipelines Act 1985, the Police (Detention and Bail) Act 2011, and the Government Annuities Act 1929. Each has a date in parentheses, which I a"
+    }
+  },
+  {
+    "task_id": "OR054",
+    "expected_order": [
+      "Criminal Justice Act 1967",
+      "London Local Authorities Act 1991",
+      "Environment (Wales) Act 2016",
+      "Curriculum and Assessment (Wales) Act 2021",
+      "Diocesan Stipends Funds (Amendment) Measure 2023"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Criminal Justice Act 1967",
+        "London Local Authorities Act 1991",
+        "Environment (Wales) Act 2016",
+        "Curriculum and Assessment (Wales) Act 2021",
+        "Diocesan Stipends Funds (Amendment) Measure 2023"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are:\n\n1. Curriculum and Assessment (Wales) Act 2021\n2. London Local Authorities Act 1991\n3. Diocesan Stipends Funds (Amendment) Measure 2023\n4. Environment (Wales) Act 2016\n5. Criminal Justice Act 1"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Criminal Justice Act 1967",
+        "London Local Authorities Act 1991",
+        "Environment (Wales) Act 2016",
+        "Curriculum and Assessment (Wales) Act 2021",
+        "Diocesan Stipends Funds (Amendment) Measure 2023"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, I need to arrange these legal acts in order of their enactment dates. Let me list them out first with their dates:\n\n1. Environment (Wales) Act 2016 - 2016-03-21\n2. Criminal Justice Act 1967 - 1967-07-27\n3. Diocesan Stipends Funds (Amendment) Measure 2023 - 2023-06-29\n4. London Local Au"
+    }
+  },
+  {
+    "task_id": "OR055",
+    "expected_order": [
+      "National Health Service Act 1977",
+      "Preventing and Combating Violence Against Women and Domestic Violence (Ratification of Convention) Act 2017",
+      "Childcare Funding (Wales) Act 2019"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "National Health Service Act 1977",
+        "Preventing and Combating Violence Against Women and Domestic Violence (Ratification of Convention) Act 2017",
+        "Childcare Funding (Wales) Act 2019"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of their enactment: the Preventing and Combating Violence Against Women and Domestic Violence (Ratification of Convention) Act 2017, the Childcare Funding (Wales) Act 2019, and the National Health Service Act 1977. Let me start by re"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "National Health Service Act 1977",
+        "Preventing and Combating Violence Against Women and Domestic Violence (Ratification of Convention) Act 2017",
+        "Childcare Funding (Wales) Act 2019"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of their enactment dates. Let me start by looking at each one's date.\n\nFirst, the Childcare Funding (Wales) Act 2019 has a date of 2019-01-30. That's straightforward; it was enacted in 2019. Then there's the National Health Service A"
+    }
+  },
+  {
+    "task_id": "OR056",
+    "expected_order": [
+      "Rent (Scotland) Act 1984",
+      "Care of Churches and Ecclesiastical Jurisdiction Measure 1991 (",
+      "Single Use Carrier Bags Act (Northern Ireland) 2011",
+      "Pension Schemes Act 2017",
+      "Bank Resolution (Recapitalisation) Act 2025"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Rent (Scotland) Act 1984",
+        "Care of Churches and Ecclesiastical Jurisdiction Measure 1991 (",
+        "Single Use Carrier Bags Act (Northern Ireland) 2011",
+        "Pension Schemes Act 2017",
+        "Bank Resolution (Recapitalisation) Act 2025"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out again to make sure I have them all:\n\n1. Pension Schemes Act 2017\n2. Rent (Scotland) Act 1984\n3. Single Use Carrier Bags Act (Northern Ireland) 2011\n4. Bank Resolution (Recapitalisation) Act 2"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Rent (Scotland) Act 1984",
+        "Care of Churches and Ecclesiastical Jurisdiction Measure 1991 (",
+        "Single Use Carrier Bags Act (Northern Ireland) 2011",
+        "Pension Schemes Act 2017",
+        "Bank Resolution (Recapitalisation) Act 2025"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out again with their dates to make sure I have them all:\n\n1. Pension Schemes Act 2017 - 2017-04-27\n2. Care of Churches and Ecclesiastical Jurisdiction Measure 1991 - 1991-07-25\n3. Bank Resolution"
+    }
+  },
+  {
+    "task_id": "OR057",
+    "expected_order": [
+      "Congested Districts (Scotland) Act 1897",
+      "Clergy Discipline Measure 2003",
+      "Antarctic Act 2013",
+      "Bishop's Stortford Cemetery Act 2024",
+      "Church of Scotland (Lord High Commissioner) Act 2025"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Congested Districts (Scotland) Act 1897",
+        "Clergy Discipline Measure 2003",
+        "Antarctic Act 2013",
+        "Bishop's Stortford Cemetery Act 2024",
+        "Church of Scotland (Lord High Commissioner) Act 2025"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are: Clergy Discipline Measure 2003, Congested Districts (Scotland) Act 1897, Church of Scotland (Lord High Commissioner) Act 2025, Bishop's Stortford Cemetery Act 2024, and Antarctic Act 2013. \n\nFi"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Congested Districts (Scotland) Act 1897",
+        "Clergy Discipline Measure 2003",
+        "Antarctic Act 2013",
+        "Bishop's Stortford Cemetery Act 2024",
+        "Church of Scotland (Lord High Commissioner) Act 2025"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, let's see. I need to arrange these legal acts in order of when they were enacted. The user provided the names and the dates in parentheses. The dates are in the format YYYY-MM-DD, so I should sort them based on the year first, then the month, then the day.\n\nFirst, I'll list out all the"
+    }
+  },
+  {
+    "task_id": "OR058",
+    "expected_order": [
+      "Marriage Act 1994",
+      "Tyne Tunnels Act 1998",
+      "Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013",
+      "Northern Ireland Budget Act 2019",
+      "Procurement Act 2023"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Marriage Act 1994",
+        "Tyne Tunnels Act 1998",
+        "Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013",
+        "Northern Ireland Budget Act 2019",
+        "Procurement Act 2023"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are:\n\n1. Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013\n2. Procurement Act 2023\n3. Marriage Act 1994\n4. Northern Ireland Budget Act 2019\n5. Tyne Tunnels Act 1998\n\nFirst, I shoul"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Marriage Act 1994",
+        "Tyne Tunnels Act 1998",
+        "Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013",
+        "Northern Ireland Budget Act 2019",
+        "Procurement Act 2023"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, I need to arrange these legal acts in order of their enactment dates. Let me list them out first with their dates:\n\n1. Tyne Tunnels Act 1998 - 1998-04-08\n2. Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013 - 2013-04-25\n3. Northern Ireland Budget Act 2019 - 2019-10-31"
+    }
+  },
+  {
+    "task_id": "OR059",
+    "expected_order": [
+      "Commercial and Private Bank Act 1991",
+      "Budget Act (Northern Ireland) 2021",
+      "General Teaching Council (Directions) Act (Northern Ireland) 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Commercial and Private Bank Act 1991",
+        "Budget Act (Northern Ireland) 2021",
+        "General Teaching Council (Directions) Act (Northern Ireland) 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of their enactment: the Budget Act (Northern Ireland) 2021, the Commercial and Private Bank Act 1991, and the General Teaching Council (Directions) Act (Northern Ireland) 2022. Let me start by recalling what I know about these acts.\n"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Commercial and Private Bank Act 1991",
+        "Budget Act (Northern Ireland) 2021",
+        "General Teaching Council (Directions) Act (Northern Ireland) 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. Let me start by looking at each one's name and the dates provided.\n\nFirst, there's the Commercial and Private Bank Act 1991, which was enacted on December 19, 1991. That seems pretty straightforward. The date i"
+    }
+  },
+  {
+    "task_id": "OR060",
+    "expected_order": [
+      "Seal Fisheries (North Pacific) Act 1912",
+      "Local Government Finance Act 2012",
+      "Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Seal Fisheries (North Pacific) Act 1912",
+        "Local Government Finance Act 2012",
+        "Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of when they were enacted. The acts are:\n\n1. Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015\n2. Seal Fisheries (North Pacific) Act 1912\n3. Local Government Finance Act 2012\n\nA"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Seal Fisheries (North Pacific) Act 1912",
+        "Local Government Finance Act 2012",
+        "Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. Let me start by looking at each one's name and the dates provided. \n\nFirst, there's the Seal Fisheries (North Pacific) Act 1912 with the date 1912-08-07. The year here is 1912, which seems the earliest. Then th"
+    }
+  },
+  {
+    "task_id": "OR061",
+    "expected_order": [
+      "Housing Act 1985",
+      "Social Security Fraud Act 2001",
+      "Waste and Emissions Trading Act 2003",
+      "Horserace Betting and Olympic Lottery Act 2004",
+      "European Union (Future Relationship) Act 2020"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Housing Act 1985",
+        "Social Security Fraud Act 2001",
+        "Waste and Emissions Trading Act 2003",
+        "Horserace Betting and Olympic Lottery Act 2004",
+        "European Union (Future Relationship) Act 2020"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are: Social Security Fraud Act 2001, Horserace Betting and Olympic Lottery Act 2004, Housing Act 1985, European Union (Future Relationship) Act 2020, and Waste and Emissions Trading Act 2003.\n\nFirst"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Housing Act 1985",
+        "Social Security Fraud Act 2001",
+        "Waste and Emissions Trading Act 2003",
+        "Horserace Betting and Olympic Lottery Act 2004",
+        "European Union (Future Relationship) Act 2020"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in the order they were enacted. Let me list them out first with their dates:\n\n1. Waste and Emissions Trading Act 2003 - 2003-11-13\n2. Social Security Fraud Act 2001 - 2001-05-11\n3. European Union (Future Relationship) Act 2020 - 2020-12-31\n4. Horse"
+    }
+  },
+  {
+    "task_id": "OR062",
+    "expected_order": [
+      "Friendly Societies Act 1974",
+      "Social Security Act 1990",
+      "Street Trading Act (Northern Ireland) 2001",
+      "Criminal Justice Act 2003"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Friendly Societies Act 1974",
+        "Social Security Act 1990",
+        "Street Trading Act (Northern Ireland) 2001",
+        "Criminal Justice Act 2003"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted: Friendly Societies Act 1974, Street Trading Act (Northern Ireland) 2001, Social Security Act 1990, and Criminal Justice Act 2003. Let me start by recalling what I know about each of these acts and their date"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Friendly Societies Act 1974",
+        "Social Security Act 1990",
+        "Street Trading Act (Northern Ireland) 2001",
+        "Criminal Justice Act 2003"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are:\n\n1. Street Trading Act (Northern Ireland) 2001, enacted on 2001-04-05\n2. Friendly Societies Act 1974, enacted on 1974-07-31\n3. Social Security Act 1990, enacted on 1990-07-13\n4. Criminal Justic"
+    }
+  },
+  {
+    "task_id": "OR063",
+    "expected_order": [
+      "Development of Rural Wales Act 1976",
+      "Energy Act 1976",
+      "British Railways Board (Finance) Act 1991",
+      "Employment Act 2008",
+      "Apprenticeships, Skills, Children and Learning Act 2009"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Development of Rural Wales Act 1976",
+        "Energy Act 1976",
+        "British Railways Board (Finance) Act 1991",
+        "Employment Act 2008",
+        "Apprenticeships, Skills, Children and Learning Act 2009"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are:\n\n1. British Railways Board (Finance) Act 1991\n2. Energy Act 1976\n3. Employment Act 2008\n4. Development of Rural Wales Act 1976\n5. Apprenticeships, Skills, Children and Learning Act 2009\n\nFirst,"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Development of Rural Wales Act 1976",
+        "Energy Act 1976",
+        "British Railways Board (Finance) Act 1991",
+        "Employment Act 2008",
+        "Apprenticeships, Skills, Children and Learning Act 2009"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out first with their dates:\n\n1. Development of Rural Wales Act 1976 (1976-11-22)\n2. Apprenticeships, Skills, Children and Learning Act 2009 (2009-11-12)\n3. British Railways Board (Finance) Act 19"
+    }
+  },
+  {
+    "task_id": "OR064",
+    "expected_order": [
+      "Criminal Justice Act 1972",
+      "Church of England (Pensions) Measure 1988 (",
+      "Charities Act (Northern Ireland) 2013",
+      "Diocesan Boards of Education Measure 2021",
+      "British Nationality (Irish Citizens) Act 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Criminal Justice Act 1972",
+        "Church of England (Pensions) Measure 1988 (",
+        "Charities Act (Northern Ireland) 2013",
+        "Diocesan Boards of Education Measure 2021",
+        "British Nationality (Irish Citizens) Act 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, let's see. I need to arrange these legal acts in order of when they were enacted. The list is: Criminal Justice Act 1972, Diocesan Boards of Education Measure 2021, Charities Act (Northern Ireland) 2013, British Nationality (Irish Citizens) Act 2024, and Church of England (Pensions) Me"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Criminal Justice Act 1972",
+        "Church of England (Pensions) Measure 1988 (",
+        "Charities Act (Northern Ireland) 2013",
+        "Diocesan Boards of Education Measure 2021",
+        "British Nationality (Irish Citizens) Act 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out again with their dates to make sure I have them all:\n\n1. Diocesan Boards of Education Measure 2021 (2021-04-29)\n2. Criminal Justice Act 1972 (1972-10-26)\n3. British Nationality (Irish Citizen"
+    }
+  },
+  {
+    "task_id": "OR065",
+    "expected_order": [
+      "Newspaper Libel and Registration Act 1881",
+      "Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010",
+      "Finance Act 2011",
+      "Guardianship (Missing Persons) Act 2017",
+      "Arbitration Act 2025"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Newspaper Libel and Registration Act 1881",
+        "Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010",
+        "Finance Act 2011",
+        "Guardianship (Missing Persons) Act 2017",
+        "Arbitration Act 2025"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are:\n\n1. Guardianship (Missing Persons) Act 2017\n2. Newspaper Libel and Registration Act 1881\n3. Finance Act 2011\n4. Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010\n5. Arbi"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Newspaper Libel and Registration Act 1881",
+        "Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010",
+        "Finance Act 2011",
+        "Guardianship (Missing Persons) Act 2017",
+        "Arbitration Act 2025"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in the order they were enacted. Let me list them out first with their dates:\n\n1. Newspaper Libel and Registration Act 1881 - August 27, 1881\n2. Arbitration Act 2025 - February 24, 2025\n3. Vacancies in Suffragan Sees and Other Ecclesiastical Offices"
+    }
+  },
+  {
+    "task_id": "OR066",
+    "expected_order": [
+      "Agricultural Produce (Grading and Marking) Amendment Act 1931",
+      "Diplomatic and Consular Premises Act 1987",
+      "Court of Session Act 1988",
+      "Cattewater Reclamation Act 1992"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Agricultural Produce (Grading and Marking) Amendment Act 1931",
+        "Diplomatic and Consular Premises Act 1987",
+        "Court of Session Act 1988",
+        "Cattewater Reclamation Act 1992"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. The acts are:\n\n1. Agricultural Produce (Grading and Marking) Amendment Act 1931\n2. Diplomatic and Consular Premises Act 1987\n3. Court of Session Act 1988\n4. Cattewater Reclamation Act 1992\n\nFirst, I should check"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Agricultural Produce (Grading and Marking) Amendment Act 1931",
+        "Diplomatic and Consular Premises Act 1987",
+        "Court of Session Act 1988",
+        "Cattewater Reclamation Act 1992"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. Let me start by listing them out with their dates:\n\n1. Diplomatic and Consular Premises Act 1987 - Date: 1987-05-15\n2. Court of Session Act 1988 - Date: 1988-07-29\n3. Cattewater Reclamation Act 1992 - Date: 1992"
+    }
+  },
+  {
+    "task_id": "OR067",
+    "expected_order": [
+      "Race Relations Act 1968",
+      "London Underground (Victoria) Act 1991",
+      "Health Service Commissioners (Amendment) Act 2000",
+      "Domestic Violence, Crime and Victims Act 2004",
+      "Budget Act (Northern Ireland) 2010"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Race Relations Act 1968",
+        "London Underground (Victoria) Act 1991",
+        "Health Service Commissioners (Amendment) Act 2000",
+        "Domestic Violence, Crime and Victims Act 2004",
+        "Budget Act (Northern Ireland) 2010"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out again to make sure I have them all:\n\n1. Domestic Violence\n2. Crime and Victims Act 2004\n3. Budget Act (Northern Ireland) 2010\n4. Race Relations Act 1968\n5. Health Service Commissioners (Amend"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Race Relations Act 1968",
+        "London Underground (Victoria) Act 1991",
+        "Health Service Commissioners (Amendment) Act 2000",
+        "Domestic Violence, Crime and Victims Act 2004",
+        "Budget Act (Northern Ireland) 2010"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out first with their dates:\n\n1. Domestic Violence, Crime and Victims Act 2004 (2004-11-15)\n2. Budget Act (Northern Ireland) 2010 (2010-03-12)\n3. Race Relations Act 1968 (1968-10-25)\n4. London Und"
+    }
+  },
+  {
+    "task_id": "OR068",
+    "expected_order": [
+      "Local Government (Financial Provisions) Act 1963",
+      "Local Government (Scotland) Act 1966",
+      "Ragwort Control Act 2003",
+      "Wild Animals in Circuses Act 2019",
+      "Safeguarding (Code of Practice) Measure 2021"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Local Government (Financial Provisions) Act 1963",
+        "Local Government (Scotland) Act 1966",
+        "Ragwort Control Act 2003",
+        "Wild Animals in Circuses Act 2019",
+        "Safeguarding (Code of Practice) Measure 2021"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. Let me list them again to make sure I have them all:\n\n1. Ragwort Control Act 2003\n2. Wild Animals in Circuses Act 2019\n3. Local Government (Financial Provisions) Act 1963\n4. Safeguarding (Code of Practice) M"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Local Government (Financial Provisions) Act 1963",
+        "Local Government (Scotland) Act 1966",
+        "Ragwort Control Act 2003",
+        "Wild Animals in Circuses Act 2019",
+        "Safeguarding (Code of Practice) Measure 2021"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out with their dates first to get a clear picture.\n\n1. Safeguarding (Code of Practice) Measure 2021 - 2021-10-20\n2. Wild Animals in Circuses Act 2019 - 2019-07-24\n3. Local Government (Scotland) A"
+    }
+  },
+  {
+    "task_id": "OR069",
+    "expected_order": [
+      "Aire and Calder Navigation Act 1992",
+      "Consolidated Fund (No.2) Act 1999",
+      "Gambling (Licensing and Advertising) Act 2014",
+      "Integrated Education Act (Northern Ireland) 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Aire and Calder Navigation Act 1992",
+        "Consolidated Fund (No.2) Act 1999",
+        "Gambling (Licensing and Advertising) Act 2014",
+        "Integrated Education Act (Northern Ireland) 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are:\n\n1. Aire and Calder Navigation Act 1992\n2. Integrated Education Act (Northern Ireland) 2022\n3. Consolidated Fund (No.2) Act 1999\n4. Gambling (Licensing and Advertising) Act 2014\n\nFirst, I shoul"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Aire and Calder Navigation Act 1992",
+        "Consolidated Fund (No.2) Act 1999",
+        "Gambling (Licensing and Advertising) Act 2014",
+        "Integrated Education Act (Northern Ireland) 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. Let me start by listing them out with their dates:\n\n1. Aire and Calder Navigation Act 1992 - March 16, 1992\n2. Consolidated Fund (No.2) Act 1999 - December 16, 1999\n3. Integrated Education Act (Northern Ireland)"
+    }
+  },
+  {
+    "task_id": "OR070",
+    "expected_order": [
+      "Adoption of Children Act 1949",
+      "Housing Defects Act 1984",
+      "Oil and Pipelines Act 1985",
+      "Law Reform (Miscellaneous Provisions) (Scotland) Act 1990",
+      "Shard Bridge Act 1991"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Adoption of Children Act 1949",
+        "Housing Defects Act 1984",
+        "Oil and Pipelines Act 1985",
+        "Law Reform (Miscellaneous Provisions) (Scotland) Act 1990",
+        "Shard Bridge Act 1991"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are:\n\n1. Shard Bridge Act 1991\n2. Law Reform (Miscellaneous Provisions) (Scotland) Act 1990\n3. Adoption of Children Act 1949\n4. Housing Defects Act 1984\n5. Oil and Pipelines Act 1985\n\nFirst, I shoul"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Adoption of Children Act 1949",
+        "Housing Defects Act 1984",
+        "Oil and Pipelines Act 1985",
+        "Law Reform (Miscellaneous Provisions) (Scotland) Act 1990",
+        "Shard Bridge Act 1991"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in the order they were enacted. Let me list them out first with their dates:\n\n1. Oil and Pipelines Act 1985 - October 30, 1985\n2. Shard Bridge Act 1991 - May 9, 1991\n3. Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 - November 1, 1990\n4."
+    }
+  },
+  {
+    "task_id": "OR071",
+    "expected_order": [
+      "Rating and Valuation (Air-Raid Works) (Scotland) Act 1938",
+      "Education (Scotland) Act 1981",
+      "Local Authorities (Expenditure Powers) Act 1983",
+      "Trade Union and Labour Relations (Consolidation) Act 1992",
+      "Alliance & Leicester (Girobank) Act 1993"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Rating and Valuation (Air-Raid Works) (Scotland) Act 1938",
+        "Education (Scotland) Act 1981",
+        "Local Authorities (Expenditure Powers) Act 1983",
+        "Trade Union and Labour Relations (Consolidation) Act 1992",
+        "Alliance & Leicester (Girobank) Act 1993"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, I need to arrange these five legal acts in the order they were enacted. Let me start by listing them out again to make sure I have them all:\n\n1. Local Authorities (Expenditure Powers) Act 1983\n2. Rating and Valuation (Air-Raid Works) (Scotland) Act 1938\n3. Education (Scotland) Act 1981"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Rating and Valuation (Air-Raid Works) (Scotland) Act 1938",
+        "Education (Scotland) Act 1981",
+        "Local Authorities (Expenditure Powers) Act 1983",
+        "Trade Union and Labour Relations (Consolidation) Act 1992",
+        "Alliance & Leicester (Girobank) Act 1993"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in the order they were enacted. Let me start by listing them out with their dates:\n\n1. Alliance & Leicester (Girobank) Act 1993 - March 29, 1993\n2. Rating and Valuation (Air-Raid Works) (Scotland) Act 1938 - July 29, 1938\n3. Education (Scotlan"
+    }
+  },
+  {
+    "task_id": "OR072",
+    "expected_order": [
+      "International Monetary Arrangements Act 1983",
+      "Criminal Justice and Public Order Act 1994",
+      "Groceries Code Adjudicator Act 2013"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "International Monetary Arrangements Act 1983",
+        "Criminal Justice and Public Order Act 1994",
+        "Groceries Code Adjudicator Act 2013"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of when they were enacted: the Criminal Justice and Public Order Act 1994, the International Monetary Arrangements Act 1983, and the Groceries Code Adjudicator Act 2013. Let me start by recalling what I know about each of these.\n\nFir"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "International Monetary Arrangements Act 1983",
+        "Criminal Justice and Public Order Act 1994",
+        "Groceries Code Adjudicator Act 2013"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. The user provided the names along with their dates. Let me start by listing them out again to make sure I have the information right.\n\nFirst, the International Monetary Arrangements Act 1983 with the date 1983-"
+    }
+  },
+  {
+    "task_id": "OR073",
+    "expected_order": [
+      "Inebriates Act 1898",
+      "Intellectual Property Act 2014",
+      "Budget (No. 2) Act (Northern Ireland) 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Inebriates Act 1898",
+        "Intellectual Property Act 2014",
+        "Budget (No. 2) Act (Northern Ireland) 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted: the Inebriates Act 1898, the Budget (No. 2) Act (Northern Ireland) 2024, and the Intellectual Property Act 2014. Let me start by recalling what I know about each of these.\n\nFirst, the Inebriates Act 1898. The y"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Inebriates Act 1898",
+        "Intellectual Property Act 2014",
+        "Budget (No. 2) Act (Northern Ireland) 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of when they were enacted. The acts given are the Intellectual Property Act 2014, the Budget (No. 2) Act (Northern Ireland) 2024, and the Inebriates Act 1898. The dates provided are in the format (YYYY-MM-DD), so I should use those d"
+    }
+  },
+  {
+    "task_id": "OR074",
+    "expected_order": [
+      "Light Railways Act 1912",
+      "Official Secrets Act 1939",
+      "Consumer Credit Act 1974",
+      "European Union Act 2011"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Light Railways Act 1912",
+        "Official Secrets Act 1939",
+        "Consumer Credit Act 1974",
+        "European Union Act 2011"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted: Light Railways Act 1912, European Union Act 2011, Consumer Credit Act 1974, and Official Secrets Act 1939. Let me start by recalling what I know about each of these.\n\nFirst, the Light Railways Act 1912. The "
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Light Railways Act 1912",
+        "Official Secrets Act 1939",
+        "Consumer Credit Act 1974",
+        "European Union Act 2011"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. Let me see... The acts are the Consumer Credit Act 1974, the Light Railways Act 1912, the European Union Act 2011, and the Official Secrets Act 1939. The dates given are in parentheses, so I should look at those"
+    }
+  },
+  {
+    "task_id": "OR075",
+    "expected_order": [
+      "National Audit Act 1983",
+      "Welsh Development Agency Act 1991",
+      "Bank of England and Financial Services Act 2016"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "National Audit Act 1983",
+        "Welsh Development Agency Act 1991",
+        "Bank of England and Financial Services Act 2016"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of their enactment: the Bank of England and Financial Services Act 2016, the Welsh Development Agency Act 1991, and the National Audit Act 1983. Let me start by recalling what each of these acts does and maybe some historical context"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "National Audit Act 1983",
+        "Welsh Development Agency Act 1991",
+        "Bank of England and Financial Services Act 2016"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. The acts are the Welsh Development Agency Act 1991, the National Audit Act 1983, and the Bank of England and Financial Services Act 2016. Each has a date given in parentheses. Let me think through this step by "
+    }
+  },
+  {
+    "task_id": "OR076",
+    "expected_order": [
+      "Agriculture (Miscellaneous Provisions) Act 1972",
+      "Church of England (Miscellaneous Provisions) Measure 2010",
+      "Deregulation Act 2015",
+      "Northern Ireland Budget Act 2018"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Agriculture (Miscellaneous Provisions) Act 1972",
+        "Church of England (Miscellaneous Provisions) Measure 2010",
+        "Deregulation Act 2015",
+        "Northern Ireland Budget Act 2018"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are: Deregulation Act 2015, Northern Ireland Budget Act 2018, Agriculture (Miscellaneous Provisions) Act 1972, and the Church of England (Miscellaneous Provisions) Measure 2010. \n\nFirst, I should no"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Agriculture (Miscellaneous Provisions) Act 1972",
+        "Church of England (Miscellaneous Provisions) Measure 2010",
+        "Deregulation Act 2015",
+        "Northern Ireland Budget Act 2018"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The ones given are:\n\n1. Northern Ireland Budget Act 2018 (2018-07-19)\n2. Deregulation Act 2015 (2015-03-26)\n3. Agriculture (Miscellaneous Provisions) Act 1972 (1972-08-09)\n4. Church of England (Miscellaneous"
+    }
+  },
+  {
+    "task_id": "OR077",
+    "expected_order": [
+      "Architects Registration Act 1938",
+      "Veterinary Surgeons Act 1966",
+      "Income Tax (Trading and Other Income) Act 2005",
+      "Corporation Tax (Northern Ireland) Act 2015",
+      "Extradition (Provisional Arrest) Act 2020"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Architects Registration Act 1938",
+        "Veterinary Surgeons Act 1966",
+        "Income Tax (Trading and Other Income) Act 2005",
+        "Corporation Tax (Northern Ireland) Act 2015",
+        "Extradition (Provisional Arrest) Act 2020"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in the order they were enacted. Let me list them out again to make sure I have them all:\n\n1. Veterinary Surgeons Act 1966\n2. Extradition (Provisional Arrest) Act 2020\n3. Income Tax (Trading and Other Income) Act 2005\n4. Architects Registration"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Architects Registration Act 1938",
+        "Veterinary Surgeons Act 1966",
+        "Income Tax (Trading and Other Income) Act 2005",
+        "Corporation Tax (Northern Ireland) Act 2015",
+        "Extradition (Provisional Arrest) Act 2020"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, I need to arrange these legal acts in order of their enactment dates. Let me start by listing each act along with its date:\n\n1. Architects Registration Act 1938 - July 29, 1938\n2. Income Tax (Trading and Other Income) Act 2005 - March 24, 2005\n3. Extradition (Provisional Arrest) Act 20"
+    }
+  },
+  {
+    "task_id": "OR078",
+    "expected_order": [
+      "Sunday Entertainments Act 1932",
+      "Appropriation (No. 3) Act 2010",
+      "Non-Domestic Rating (Preparation for Digital Services) Act 2019"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Sunday Entertainments Act 1932",
+        "Appropriation (No. 3) Act 2010",
+        "Non-Domestic Rating (Preparation for Digital Services) Act 2019"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted: the Sunday Entertainments Act 1932, the Non-Domestic Rating (Preparation for Digital Services) Act 2019, and the Appropriation (No. 3) Act 2010. Let me start by recalling what each of these acts might be about "
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Sunday Entertainments Act 1932",
+        "Appropriation (No. 3) Act 2010",
+        "Non-Domestic Rating (Preparation for Digital Services) Act 2019"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. The acts are:\n\n1. Appropriation (No. 3) Act 2010 (2010-07-29)\n2. Non-Domestic Rating (Preparation for Digital Services) Act 2019 (2019-07-04)\n3. Sunday Entertainments Act 1932 (1932-07-13)\n\nFirst, I should chec"
+    }
+  },
+  {
+    "task_id": "OR079",
+    "expected_order": [
+      "Education Act 1996",
+      "Freedom of Information Act 2000",
+      "National Australia Group Europe Act 2001",
+      "Charities Act 2006",
+      "Welsh Tax Acts etc. (Power to Modify) Act 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Education Act 1996",
+        "Freedom of Information Act 2000",
+        "National Australia Group Europe Act 2001",
+        "Charities Act 2006",
+        "Welsh Tax Acts etc. (Power to Modify) Act 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in the order they were enacted. The acts are:\n\n1. National Australia Group Europe Act 2001\n2. Charities Act 2006\n3. Welsh Tax Acts etc. (Power to Modify) Act 2022\n4. Education Act 1996\n5. Freedom of Information Act 2000\n\nFirst, I should figure"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Education Act 1996",
+        "Freedom of Information Act 2000",
+        "National Australia Group Europe Act 2001",
+        "Charities Act 2006",
+        "Welsh Tax Acts etc. (Power to Modify) Act 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out again with their dates to make sure I have all the information right:\n\n1. Welsh Tax Acts etc. (Power to Modify) Act 2022 - 2022-09-08\n2. Freedom of Information Act 2000 - 2000-11-30\n3. Nation"
+    }
+  },
+  {
+    "task_id": "OR080",
+    "expected_order": [
+      "Law Reform (Married Women and Tortfeasors) Act 1935",
+      "Education Act 1964",
+      "Church of England (Ecumenical Relations) Measure 1988 (",
+      "Broads Authority Act 2009",
+      "Care Act 2014"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Law Reform (Married Women and Tortfeasors) Act 1935",
+        "Education Act 1964",
+        "Church of England (Ecumenical Relations) Measure 1988 (",
+        "Broads Authority Act 2009",
+        "Care Act 2014"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out again to make sure I have them all: Care Act 2014, Broads Authority Act 2009, Church of England (Ecumenical Relations) Measure 1988, Education Act 1964, and Law Reform (Married Women and Tort"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Law Reform (Married Women and Tortfeasors) Act 1935",
+        "Education Act 1964",
+        "Church of England (Ecumenical Relations) Measure 1988 (",
+        "Broads Authority Act 2009",
+        "Care Act 2014"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out again with their dates to make sure I have all the information right.\n\nFirst, the Broads Authority Act 2009 with the date 2009-07-02. Then the Education Act 1964 dated 1964-07-31. The Care Ac"
+    }
+  },
+  {
+    "task_id": "OR081",
+    "expected_order": [
+      "Local Government Finance Act 1988",
+      "Local Government and Housing Act 1989",
+      "Food Hygiene Rating (Wales) Act 2013",
+      "Protection from Sex-based Harassment in Public Act 2023"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Local Government Finance Act 1988",
+        "Local Government and Housing Act 1989",
+        "Food Hygiene Rating (Wales) Act 2013",
+        "Protection from Sex-based Harassment in Public Act 2023"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are:\n\n1. Local Government and Housing Act 1989\n2. Local Government Finance Act 1988\n3. Food Hygiene Rating (Wales) Act 2013\n4. Protection from Sex-based Harassment in Public Act 2023\n\nFirst, I shoul"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Local Government Finance Act 1988",
+        "Local Government and Housing Act 1989",
+        "Food Hygiene Rating (Wales) Act 2013",
+        "Protection from Sex-based Harassment in Public Act 2023"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. Let me start by listing them out with their dates:\n\n1. Local Government and Housing Act 1989 - November 16, 1989\n2. Local Government Finance Act 1988 - July 29, 1988\n3. Protection from Sex-based Harassment i"
+    }
+  },
+  {
+    "task_id": "OR082",
+    "expected_order": [
+      "Slave Trade Act 1873",
+      "Exchequer and Audit Departments Act 1957",
+      "Appropriation Act 1993",
+      "Identity Documents Act 2010",
+      "Historic Environment (Wales) Act 2023"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Slave Trade Act 1873",
+        "Exchequer and Audit Departments Act 1957",
+        "Appropriation Act 1993",
+        "Identity Documents Act 2010",
+        "Historic Environment (Wales) Act 2023"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in the order they were enacted. The acts are: Slave Trade Act 1873, Identity Documents Act 2010, Exchequer and Audit Departments Act 1957, Historic Environment (Wales) Act 2023, and Appropriation Act 1993.\n\nFirst, I'll list them out with their"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Slave Trade Act 1873",
+        "Exchequer and Audit Departments Act 1957",
+        "Appropriation Act 1993",
+        "Identity Documents Act 2010",
+        "Historic Environment (Wales) Act 2023"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in the order they were enacted. Let me list them out again with their dates to make sure I have them right:\n\n1. Slave Trade Act 1873 (1873-08-05)\n2. Historic Environment (Wales) Act 2023 (2023-06-14)\n3. Identity Documents Act 2010 (2010-12-21)"
+    }
+  },
+  {
+    "task_id": "OR083",
+    "expected_order": [
+      "Public Order Act 1963",
+      "Hill Samuel Bank and United Dominions Trust Act 1994",
+      "Crime (International Co-operation) Act 2003",
+      "Autism Act (Northern Ireland) 2011"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Public Order Act 1963",
+        "Hill Samuel Bank and United Dominions Trust Act 1994",
+        "Crime (International Co-operation) Act 2003",
+        "Autism Act (Northern Ireland) 2011"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are:\n\n1. Crime (International Co-operation) Act 2003\n2. Hill Samuel Bank and United Dominions Trust Act 1994\n3. Public Order Act 1963\n4. Autism Act (Northern Ireland) 2011\n\nFirst, I should figure ou"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Public Order Act 1963",
+        "Hill Samuel Bank and United Dominions Trust Act 1994",
+        "Crime (International Co-operation) Act 2003",
+        "Autism Act (Northern Ireland) 2011"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are:\n\n1. Autism Act (Northern Ireland) 2011, enacted on 2011-05-09\n2. Crime (International Co-operation) Act 2003, enacted on 2003-10-30\n3. Hill Samuel Bank and United Dominions Trust Act 1994, enac"
+    }
+  },
+  {
+    "task_id": "OR084",
+    "expected_order": [
+      "European Economic Area Act 1993",
+      "Assembly Members (Reduction of Numbers) Act (Northern Ireland) 2016",
+      "Automated and Electric Vehicles Act 2018"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "European Economic Area Act 1993",
+        "Assembly Members (Reduction of Numbers) Act (Northern Ireland) 2016",
+        "Automated and Electric Vehicles Act 2018"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of when they were enacted. The acts are:\n\n1. Assembly Members (Reduction of Numbers) Act (Northern Ireland) 2016\n2. European Economic Area Act 1993\n3. Automated and Electric Vehicles Act 2018\n\nFirst, I should figure out the year each"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "European Economic Area Act 1993",
+        "Assembly Members (Reduction of Numbers) Act (Northern Ireland) 2016",
+        "Automated and Electric Vehicles Act 2018"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of when they were enacted. The acts are:\n\n1. Assembly Members (Reduction of Numbers) Act (Northern Ireland) 2016, dated 2016-07-22\n2. European Economic Area Act 1993, dated 1993-11-05\n3. Automated and Electric Vehicles Act 2018, date"
+    }
+  },
+  {
+    "task_id": "OR085",
+    "expected_order": [
+      "Regency Act 1943",
+      "Cardiff Bay Barrage Act 1993",
+      "Waste and Emissions Trading Act 2003",
+      "Reservoirs Act (Northern Ireland) 2015",
+      "Shared Education Act (Northern Ireland) 2016"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Regency Act 1943",
+        "Cardiff Bay Barrage Act 1993",
+        "Waste and Emissions Trading Act 2003",
+        "Reservoirs Act (Northern Ireland) 2015",
+        "Shared Education Act (Northern Ireland) 2016"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are:\n\n1. Reservoirs Act (Northern Ireland) 2015\n2. Shared Education Act (Northern Ireland) 2016\n3. Regency Act 1943\n4. Cardiff Bay Barrage Act 1993\n5. Waste and Emissions Trading Act 2003\n\nFirst, I "
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Regency Act 1943",
+        "Cardiff Bay Barrage Act 1993",
+        "Waste and Emissions Trading Act 2003",
+        "Reservoirs Act (Northern Ireland) 2015",
+        "Shared Education Act (Northern Ireland) 2016"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out again with their dates to make sure I have them all:\n\n1. Shared Education Act (Northern Ireland) 2016 - 2016-05-09\n2. Waste and Emissions Trading Act 2003 - 2003-11-13\n3. Cardiff Bay Barrage "
+    }
+  },
+  {
+    "task_id": "OR086",
+    "expected_order": [
+      "Police and Criminal Evidence Act 1984",
+      "Lloyds TSB Act 1998",
+      "City of London (Various Powers) Act 2013"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Police and Criminal Evidence Act 1984",
+        "Lloyds TSB Act 1998",
+        "City of London (Various Powers) Act 2013"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted: Lloyds TSB Act 1998, Police and Criminal Evidence Act 1984, and City of London (Various Powers) Act 2013. Let me start by recalling what I know about each of these acts.\n\nFirst, the Police and Criminal Evidence"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Police and Criminal Evidence Act 1984",
+        "Lloyds TSB Act 1998",
+        "City of London (Various Powers) Act 2013"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. The user provided the names along with their dates, which should make it straightforward. Let me check each one.\n\nFirst, the Police and Criminal Evidence Act 1984 has the date 1984-10-31. That's the earliest ye"
+    }
+  },
+  {
+    "task_id": "OR087",
+    "expected_order": [
+      "Town and Country Planning (Scotland) Act 1947",
+      "Pensions (No. 2) Act (Northern Ireland) 2008",
+      "Flood and Water Management Act 2010",
+      "Northern Ireland (Executive Formation and Exercise of Functions) Act 2018"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Town and Country Planning (Scotland) Act 1947",
+        "Pensions (No. 2) Act (Northern Ireland) 2008",
+        "Flood and Water Management Act 2010",
+        "Northern Ireland (Executive Formation and Exercise of Functions) Act 2018"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are:\n\n1. Town and Country Planning (Scotland) Act 1947\n2. Flood and Water Management Act 2010\n3. Pensions (No. 2) Act (Northern Ireland) 2008\n4. Northern Ireland (Executive Formation and Exercise of"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Town and Country Planning (Scotland) Act 1947",
+        "Pensions (No. 2) Act (Northern Ireland) 2008",
+        "Flood and Water Management Act 2010",
+        "Northern Ireland (Executive Formation and Exercise of Functions) Act 2018"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. Let me start by listing them out with their dates:\n\n1. Flood and Water Management Act 2010 - 2010-04-08\n2. Town and Country Planning (Scotland) Act 1947 - 1947-08-13\n3. Pensions (No. 2) Act (Northern Ireland) 20"
+    }
+  },
+  {
+    "task_id": "OR088",
+    "expected_order": [
+      "Local Government (Scotland) Act 1929",
+      "Export and Investment Guarantees Act 1991",
+      "Midland Metro Act 1993",
+      "University of Wales, Cardiff Act 2004",
+      "Animal Welfare Act 2006"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Local Government (Scotland) Act 1929",
+        "Export and Investment Guarantees Act 1991",
+        "Midland Metro Act 1993",
+        "University of Wales, Cardiff Act 2004",
+        "Animal Welfare Act 2006"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are: Animal Welfare Act 2006, Local Government (Scotland) Act 1929, Midland Metro Act 1993, Export and Investment Guarantees Act 1991, and University of Wales, Cardiff Act 2004.\n\nFirst, I'll list th"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Local Government (Scotland) Act 1929",
+        "Export and Investment Guarantees Act 1991",
+        "Midland Metro Act 1993",
+        "University of Wales, Cardiff Act 2004",
+        "Animal Welfare Act 2006"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in the order they were enacted. The user provided the names along with their dates. Let me start by listing them out again to make sure I have all the details right.\n\nFirst, the Midland Metro Act 1993 with the date 1993-05-27. Then the Local G"
+    }
+  },
+  {
+    "task_id": "OR089",
+    "expected_order": [
+      "Development of Rural Wales Act 1976",
+      "Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022",
+      "Monken Hadley Common Act 2022",
+      "Economic Crime and Corporate Transparency Act 2023",
+      "Environment (Air Quality and Soundscapes) (Wales) Act 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Development of Rural Wales Act 1976",
+        "Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022",
+        "Monken Hadley Common Act 2022",
+        "Economic Crime and Corporate Transparency Act 2023",
+        "Environment (Air Quality and Soundscapes) (Wales) Act 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. Let me start by listing them out again to make sure I have them all:\n\n1. Environment (Air Quality and Soundscapes) (Wales) Act 2024\n2. Monken Hadley Common Act 2022\n3. Development of Rural Wales Act 1976\n4. "
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Development of Rural Wales Act 1976",
+        "Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022",
+        "Monken Hadley Common Act 2022",
+        "Economic Crime and Corporate Transparency Act 2023",
+        "Environment (Air Quality and Soundscapes) (Wales) Act 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of their enactment dates. Let me start by listing them out with their dates to make it clearer.\n\nFirst, the Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022 has a date of 2022-04-27. Then there's the Development "
+    }
+  },
+  {
+    "task_id": "OR090",
+    "expected_order": [
+      "Imperial Telegraphs Act 1938",
+      "Church of England (Miscellaneous Provisions) Measure 1992 (",
+      "Transport Salaried Staffs' Association (Amendment of Rules) Act 2000"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Imperial Telegraphs Act 1938",
+        "Church of England (Miscellaneous Provisions) Measure 1992 (",
+        "Transport Salaried Staffs' Association (Amendment of Rules) Act 2000"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted: the Church of England (Miscellaneous Provisions) Measure 1992, the Transport Salaried Staffs' Association (Amendment of Rules) Act 2000, and the Imperial Telegraphs Act 1938. Let me start by recalling what each"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Imperial Telegraphs Act 1938",
+        "Church of England (Miscellaneous Provisions) Measure 1992 (",
+        "Transport Salaried Staffs' Association (Amendment of Rules) Act 2000"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. The three acts are:\n\n1. Transport Salaried Staffs' Association (Amendment of Rules) Act 2000, enacted on 2000-03-09.\n2. Imperial Telegraphs Act 1938, enacted on 1938-07-29.\n3. Church of England (Miscellaneous P"
+    }
+  },
+  {
+    "task_id": "OR091",
+    "expected_order": [
+      "Town and Country Planning (Scotland) Act 1947",
+      "Energy Act 1976",
+      "Further Education and Training Act 2007",
+      "Northern Ireland Budget Act 2018",
+      "Judicial Review and Courts Act 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Town and Country Planning (Scotland) Act 1947",
+        "Energy Act 1976",
+        "Further Education and Training Act 2007",
+        "Northern Ireland Budget Act 2018",
+        "Judicial Review and Courts Act 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. Let me list them again to make sure I have them all:\n\n1. Further Education and Training Act 2007\n2. Judicial Review and Courts Act 2022\n3. Energy Act 1976\n4. Town and Country Planning (Scotland) Act 1947\n5. "
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Town and Country Planning (Scotland) Act 1947",
+        "Energy Act 1976",
+        "Further Education and Training Act 2007",
+        "Northern Ireland Budget Act 2018",
+        "Judicial Review and Courts Act 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out first with their dates:\n\n1. Further Education and Training Act 2007 (2007-10-23)\n2. Energy Act 1976 (1976-11-22)\n3. Northern Ireland Budget Act 2018 (2018-07-19)\n4. Judicial Review and Courts"
+    }
+  },
+  {
+    "task_id": "OR092",
+    "expected_order": [
+      "Coinage (Measurement) Act 2011",
+      "Wales Act 2014",
+      "Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016",
+      "Steel Industry (Special Measures) Act 2025"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Coinage (Measurement) Act 2011",
+        "Wales Act 2014",
+        "Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016",
+        "Steel Industry (Special Measures) Act 2025"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. The acts are:\n\n1. Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016\n2. Steel Industry (Special Measures) Act 2025\n3. Wales Act 2014\n4. Coinage (Measurement) Act 2011\n\nFirst, I shoul"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Coinage (Measurement) Act 2011",
+        "Wales Act 2014",
+        "Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016",
+        "Steel Industry (Special Measures) Act 2025"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. Let me start by listing them out with their dates:\n\n1. Wales Act 2014 - 2014-12-17\n2. Steel Industry (Special Measures) Act 2025 - 2025-04-12\n3. Health and Personal Social Services (Amendment) Act (Northern Irel"
+    }
+  },
+  {
+    "task_id": "OR093",
+    "expected_order": [
+      "National Assistance (Amendment) Act 1951",
+      "Oil Taxation Act 1983",
+      "Local Democracy, Economic Development and Construction Act 2009",
+      "Church of England (Miscellaneous Provisions) Measure 2018"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "National Assistance (Amendment) Act 1951",
+        "Oil Taxation Act 1983",
+        "Local Democracy, Economic Development and Construction Act 2009",
+        "Church of England (Miscellaneous Provisions) Measure 2018"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. The acts are: Oil Taxation Act 1983, Church of England (Miscellaneous Provisions) Measure 2018, National Assistance (Amendment) Act 1951, and Local Democracy, Economic Development and Construction Act 2009.\n\nFir"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "National Assistance (Amendment) Act 1951",
+        "Oil Taxation Act 1983",
+        "Local Democracy, Economic Development and Construction Act 2009",
+        "Church of England (Miscellaneous Provisions) Measure 2018"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. Let me list them out again with their dates:\n\n1. Oil Taxation Act 1983 - December 1, 1983\n2. Church of England (Miscellaneous Provisions) Measure 2018 - December 20, 2018\n3. Local Democracy, Economic Development"
+    }
+  },
+  {
+    "task_id": "OR094",
+    "expected_order": [
+      "Hong Kong Economic and Trade Office Act 1996",
+      "Lords Spiritual (Women) Act 2015",
+      "General Teaching Council (Directions) Act (Northern Ireland) 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Hong Kong Economic and Trade Office Act 1996",
+        "Lords Spiritual (Women) Act 2015",
+        "General Teaching Council (Directions) Act (Northern Ireland) 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in order of when they were enacted: the Hong Kong Economic and Trade Office Act 1996, the Lords Spiritual (Women) Act 2015, and the General Teaching Council (Directions) Act (Northern Ireland) 2022. Let me start by recalling what each of thes"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Hong Kong Economic and Trade Office Act 1996",
+        "Lords Spiritual (Women) Act 2015",
+        "General Teaching Council (Directions) Act (Northern Ireland) 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these three legal acts in the order they were enacted. The acts are:\n\n1. Lords Spiritual (Women) Act 2015, dated 2015-03-26\n2. Hong Kong Economic and Trade Office Act 1996, dated 1996-12-18\n3. General Teaching Council (Directions) Act (Northern Ireland) 2022, dated"
+    }
+  },
+  {
+    "task_id": "OR095",
+    "expected_order": [
+      "Export and Investment Guarantees Act 1991",
+      "Child Support, Pensions and Social Security Act (Northern Ireland)",
+      "Industrial Development Act (Northern Ireland) 2002",
+      "Fixed-term Parliaments Act 2011"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Export and Investment Guarantees Act 1991",
+        "Child Support, Pensions and Social Security Act (Northern Ireland)",
+        "Industrial Development Act (Northern Ireland) 2002",
+        "Fixed-term Parliaments Act 2011"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, I need to arrange these five legal acts in order of when they were enacted. Let me start by listing them out again to make sure I have them all:\n\n1. Child Support, Pensions and Social Security Act (Northern Ireland)\n2. Export and Investment Guarantees Act 1991\n3. Industrial Development"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Export and Investment Guarantees Act 1991",
+        "Child Support, Pensions and Social Security Act (Northern Ireland)",
+        "Industrial Development Act (Northern Ireland) 2002",
+        "Fixed-term Parliaments Act 2011"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. Let me list them out again with their dates to make sure I have them right:\n\n1. Fixed-term Parliaments Act 2011 (2011-09-15)\n2. Industrial Development Act (Northern Ireland) 2002 (2002-02-07)\n3. Export and I"
+    }
+  },
+  {
+    "task_id": "OR096",
+    "expected_order": [
+      "Development of Tourism Act 1969",
+      "Ancient Monuments and Archaeological Areas Act 1979",
+      "Alliance & Leicester Group Treasury plc (Transfer) Act 2001",
+      "City of London (Ward Elections) Act 2002",
+      "Offender Rehabilitation Act 2014"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Development of Tourism Act 1969",
+        "Ancient Monuments and Archaeological Areas Act 1979",
+        "Alliance & Leicester Group Treasury plc (Transfer) Act 2001",
+        "City of London (Ward Elections) Act 2002",
+        "Offender Rehabilitation Act 2014"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are:\n\n1. Offender Rehabilitation Act 2014\n2. Development of Tourism Act 1969\n3. Ancient Monuments and Archaeological Areas Act 1979\n4. City of London (Ward Elections) Act 2002\n5. Alliance & Leiceste"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Development of Tourism Act 1969",
+        "Ancient Monuments and Archaeological Areas Act 1979",
+        "Alliance & Leicester Group Treasury plc (Transfer) Act 2001",
+        "City of London (Ward Elections) Act 2002",
+        "Offender Rehabilitation Act 2014"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, I need to arrange these legal acts in order of their enactment dates. Let me list them out first with their dates:\n\n1. Alliance & Leicester Group Treasury plc (Transfer) Act 2001 - 2001-03-22\n2. Offender Rehabilitation Act 2014 - 2014-03-13\n3. City of London (Ward Elections) Act 2002 -"
+    }
+  },
+  {
+    "task_id": "OR097",
+    "expected_order": [
+      "Company and Business Names (Chamber of Commerce, Etc.) Act 1999",
+      "Consolidated Fund Act 2006",
+      "Civil Aviation Act 2012",
+      "Well-being of Future Generations (Wales) Act 2015"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Company and Business Names (Chamber of Commerce, Etc.) Act 1999",
+        "Consolidated Fund Act 2006",
+        "Civil Aviation Act 2012",
+        "Well-being of Future Generations (Wales) Act 2015"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted: the Company and Business Names (Chamber of Commerce, Etc.) Act 1999, the Civil Aviation Act 2012, the Consolidated Fund Act 2006, and the Well-being of Future Generations (Wales) Act 2015. Let me start by recall"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Company and Business Names (Chamber of Commerce, Etc.) Act 1999",
+        "Consolidated Fund Act 2006",
+        "Civil Aviation Act 2012",
+        "Well-being of Future Generations (Wales) Act 2015"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. Let me start by listing them out with their dates:\n\n1. Company and Business Names (Chamber of Commerce, Etc.) Act 1999 (1999-07-27)\n2. Well-being of Future Generations (Wales) Act 2015 (2015-04-29)\n3. Civil Avia"
+    }
+  },
+  {
+    "task_id": "OR098",
+    "expected_order": [
+      "British Railways Order Confirmation Act 1994",
+      "Maidstone Borough Council Act 2006",
+      "Charities Act 2011",
+      "Product Security and Telecommunications Infrastructure Act 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "British Railways Order Confirmation Act 1994",
+        "Maidstone Borough Council Act 2006",
+        "Charities Act 2011",
+        "Product Security and Telecommunications Infrastructure Act 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in the order they were enacted. The acts are: Charities Act 2011, Maidstone Borough Council Act 2006, Product Security and Telecommunications Infrastructure Act 2022, and British Railways Order Confirmation Act 1994.\n\nFirst, I should note the "
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "British Railways Order Confirmation Act 1994",
+        "Maidstone Borough Council Act 2006",
+        "Charities Act 2011",
+        "Product Security and Telecommunications Infrastructure Act 2022"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these four legal acts in order of when they were enacted. Let me list them out again with their dates to make sure I have them right:\n\n1. British Railways Order Confirmation Act 1994 (1994-03-24)\n2. Product Security and Telecommunications Infrastructure Act 2022 (2"
+    }
+  },
+  {
+    "task_id": "OR099",
+    "expected_order": [
+      "Statute Law (Repeals) Act 1969",
+      "Agriculture Act 1970",
+      "Ministerial and other Salaries Act 1997",
+      "Northern Ireland (St Andrews Agreement) Act 2006",
+      "Bishop's Stortford Cemetery Act 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "Statute Law (Repeals) Act 1969",
+        "Agriculture Act 1970",
+        "Ministerial and other Salaries Act 1997",
+        "Northern Ireland (St Andrews Agreement) Act 2006",
+        "Bishop's Stortford Cemetery Act 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are: Agriculture Act 1970, Bishop's Stortford Cemetery Act 2024, Statute Law (Repeals) Act 1969, Northern Ireland (St Andrews Agreement) Act 2006, and Ministerial and other Salaries Act 1997.\n\nFirst"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "Statute Law (Repeals) Act 1969",
+        "Agriculture Act 1970",
+        "Ministerial and other Salaries Act 1997",
+        "Northern Ireland (St Andrews Agreement) Act 2006",
+        "Bishop's Stortford Cemetery Act 2024"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in the order they were enacted. Let me start by listing them out with their dates:\n\n1. Statute Law (Repeals) Act 1969 - 1969-10-22\n2. Ministerial and other Salaries Act 1997 - 1997-11-06\n3. Agriculture Act 1970 - 1970-05-29\n4. Bishop's Stortfo"
+    }
+  },
+  {
+    "task_id": "OR100",
+    "expected_order": [
+      "British Nationality Act 1981",
+      "Pensions Measure 1997",
+      "Public Audit (Wales) Act 2013",
+      "Justice Act (Northern Ireland) 2015",
+      "Domestic Abuse Act 2021"
+    ],
+    "answer": {
+      "is_correct": true,
+      "qwen_order": [
+        "British Nationality Act 1981",
+        "Pensions Measure 1997",
+        "Public Audit (Wales) Act 2013",
+        "Justice Act (Northern Ireland) 2015",
+        "Domestic Abuse Act 2021"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these five legal acts in order of when they were enacted. The acts are: Public Audit (Wales) Act 2013, Justice Act (Northern Ireland) 2015, Domestic Abuse Act 2021, Pensions Measure 1997, and British Nationality Act 1981. \n\nFirst, I should figure out the year each "
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "qwen_order": [
+        "British Nationality Act 1981",
+        "Pensions Measure 1997",
+        "Public Audit (Wales) Act 2013",
+        "Justice Act (Northern Ireland) 2015",
+        "Domestic Abuse Act 2021"
+      ],
+      "qwen_text_snippet": "<think>\nOkay, so I need to arrange these legal acts in order of when they were enacted. Let me list them out again with their dates to make sure I have all the information right.\n\nFirst, the Justice Act (Northern Ireland) 2015, which was enacted on 2015-07-24. Then the Domestic Abuse Act 2021, enact"
+    }
+  }
+]

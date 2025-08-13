@@ -1,0 +1,802 @@
+[
+  {
+    "task_id": "DB001",
+    "expected_duration": "20 years 2 months 5 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "I apologize, but I cannot find a definitive record of a \"Church of England Pensions (Application of Capital Funds) Measure 2024\" being enacted. Without verifying the specific details of this measure, ",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 2003-11-20\nSecond date: 2024-01-25\n\nI'll calculate the time between these dates:\n• Years: 2024 - 2003 = 21 years\n• Months: From"
+  },
+  {
+    "task_id": "DB002",
+    "expected_duration": "8 years 0 months 4 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "The Fire Safety Act 2021 was enacted approximately 8 years after the Justice and Security Act 2013. The Fire Safety Act 2021 received Royal Assent on 29 April 2021, while the Justice and Security Act ",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First Act (Justice and Security Act 2013) enacted on: 2013-04-25\n2. Second Act (Fire Safety Act 2021) enacted on: 2021-04-29\n\nTo calcula"
+  },
+  {
+    "task_id": "DB003",
+    "expected_duration": "9 years 5 months 5 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "The Medway Ports Authority Act 1973 was enacted in 1973, and the Administration of Justice Act 1982 was enacted in 1982. Therefore, the Administration of Justice Act 1982 was enacted 9 years after the",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Medway Ports Authority Act 1973): 1973-05-23\n2. Second date (Administration of Justice Act 1982): 1982-10-28\n\nI'll calculate"
+  },
+  {
+    "task_id": "DB004",
+    "expected_duration": "101 years 4 months 8 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll determine the years and subtract:\n\n2006 - 1905 = 101 years\n\nSo the Consolidated Fund Act 2006 was enacted 101 years after the Churches (Scotland) Act",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Churches (Scotland) Act 1905): 1905-08-11\n2. Second date (Consolidated Fund Act 2006): 2006-12-19\n\nI'll calculate the time b"
+  },
+  {
+    "task_id": "DB005",
+    "expected_duration": "22 years 3 months 13 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll determine their enactment years:\n\nPublic Order (Amendment) Act 1996: 1996\nChildcare Funding (Wales) Act 2019: 2019\n\n2019 - 1996 = 23 years\n\nSo the Ch",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst Act (Public Order (Amendment) Act 1996): 1996-10-17\nSecond Act (Childcare Funding (Wales) Act 2019): 2019-01-30\n\nI'll calculate the t"
+  },
+  {
+    "task_id": "DB006",
+    "expected_duration": "22 years 9 months 0 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To determine the time between these two Acts, I'll look at their years of enactment:\n\nMedicines Act 1968\nWater Consolidation (Consequential Provisions) Act 1991\n\nThe time between these Acts is: 1991 -",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Medicines Act 1968): 1968-10-25\nSecond date (Water Consolidation Act 1991): 1991-07-25\n\nI'll calculate the time between these d"
+  },
+  {
+    "task_id": "DB007",
+    "expected_duration": "10 years 6 months 2 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To determine the time between these two Acts, I'll look at their years:\n\n- 'Railtrack (Waverley Station) Order Confirmation Act 2000'\n- 'Terrorist Asset-Freezing etc. Act 2010'\n\nThe difference between",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 2000-06-14\nSecond date: 2010-12-16\n\nI'll calculate the time between these dates:\n\nYears: 10\nMonths: 6\nDays: 2\n\nSo the 'Terroris"
+  },
+  {
+    "task_id": "DB008",
+    "expected_duration": "4 years 6 months 29 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To accurately answer this, I'll need to check the enactment dates of both acts.\n\nThe 'Tax Collection and Management (Wales) Act 2016' was enacted in 2016.\n\nThe 'Social Security (Up-rating of Benefits)",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Tax Collection and Management (Wales) Act 2016): 2016-04-25\nSecond date (Social Security (Up-rating of Benefits) Act 2020): 202"
+  },
+  {
+    "task_id": "DB009",
+    "expected_duration": "142 years 2 months 23 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two acts, I'll need to look at their respective years:\n\nMetropolitan Commons Amendment Act 1869\nCoinage (Measurement) Act 2011\n\nThe time between these acts is: 2011",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First Act (Metropolitan Commons Amendment Act 1869): 1869-08-11\n2. Second Act (Coinage (Measurement) Act 2011): 2011-11-03\n\nI'll calcula"
+  },
+  {
+    "task_id": "DB010",
+    "expected_duration": "46 years 8 months 9 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To answer this, I'll need to calculate the time between the two Acts:\n\nChannel Tunnel (Initial Finance) Act 1973 was enacted in 1973\nChannel Islands Measure 2020 was enacted in 2020\n\nThe time between ",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Channel Tunnel Act): 1973-11-13\n2. Second date (Channel Islands Measure): 2020-07-22\n\nI'll calculate the time between these "
+  },
+  {
+    "task_id": "DB011",
+    "expected_duration": "25 years 5 months 21 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "I apologize, but there is an error in your statement. While the Gas Act 1995 is a real piece of legislation in the UK, I cannot confirm the existence of a \"Financial Services Act 2021\" without verifyi",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Gas Act 1995): 1995-11-08\nSecond date (Financial Services Act 2021): 2021-04-29\n\nI'll calculate the time between these dates:\n\n"
+  },
+  {
+    "task_id": "DB012",
+    "expected_duration": "6 years 2 months 13 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To answer this, I'll find the years of enactment for each Act:\n\n- Department of Justice Act (Northern Ireland) 2010: 2010\n- Tax Collection and Management (Wales) Act 2016: 2016\n\nThe difference between",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Department of Justice Act): 2010-02-12\nSecond date (Tax Collection and Management Act): 2016-04-25\n\nI'll calculate the time bet"
+  },
+  {
+    "task_id": "DB013",
+    "expected_duration": "9 years 8 months 12 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To determine the time between these two Acts, I'll look at their years:\n\n- Statute Law (Repeals) Act 1995\n- Appropriation (No. 3) Act 2005\n\nThe difference between these years is 2005 - 1995 = 10 years",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 1995-11-08\nSecond date: 2005-07-20\n\nI'll calculate the time between these dates:\n• Years: 2005 - 1995 = 10 years\n• Months: 7 - "
+  },
+  {
+    "task_id": "DB014",
+    "expected_duration": "27 years 8 months 19 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "I apologize, but there's an error in your statement. The 'Non-Domestic Rating (Multipliers and Private Schools) Act 2025' has not been enacted yet, as it is a future date. Therefore, I cannot calculat",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 1997-07-15\nSecond date: 2025-04-03\n\nI'll calculate the time between these dates:\n\nYears: 2025 - 1997 = 28 years\nMonths: 4 - 7 ="
+  },
+  {
+    "task_id": "DB015",
+    "expected_duration": "47 years 3 months 1 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To answer this, I'll calculate the time between these two Acts:\n\n'Rating and Valuation (Air-Raid Works) (Scotland) Act 1938' was enacted in 1938\n'Administration of Justice Act 1985' was enacted in 198",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First Act (Rating and Valuation (Air-Raid Works) (Scotland) Act 1938): 1938-07-29\n2. Second Act (Administration of Justice Act 1985): 19"
+  },
+  {
+    "task_id": "DB016",
+    "expected_duration": "37 years 0 months 11 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "The Medicines Act 1971 was enacted 37 years after the Law Reform (Miscellaneous Provisions) Act 1934.",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Law Reform Act): 1934-07-25\nSecond date (Medicines Act): 1971-08-05\n\nI'll calculate the time between these dates:\n\n• Years: 197"
+  },
+  {
+    "task_id": "DB017",
+    "expected_duration": "7 years 10 months 3 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "The Co-operative and Community Benefit Societies Act 2014 was enacted approximately 8 years after the Liverpool City Council Act 2006.",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 2006-07-11\nSecond date: 2014-05-14\n\nI'll calculate the time between these dates:\n• Years: 2014 - 2006 = 8 years\n• Months: From "
+  },
+  {
+    "task_id": "DB018",
+    "expected_duration": "32 years 1 months 25 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll determine their enactment years:\n\n• Fishery Limits Act 1976: 1976\n• Public Authorities (Reform) Act (Northern Ireland) 2009: 2009\n\n2009 - 1976 = 33 y",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two enactment dates:\n\nFirst Act (Fishery Limits Act 1976) enacted on: 1976-12-22\nSecond Act (Public Authorities (Reform) Act (Northern Ireland) 2009) e"
+  },
+  {
+    "task_id": "DB019",
+    "expected_duration": "41 years 7 months 19 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll need to check their exact enactment dates.\n\nThe Ancient Monuments and Archaeological Areas Act 1979 was enacted in 1979.\n\nThe Social Security (Up-rat",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 1979-04-04\nSecond date: 2020-11-23\n\nI'll calculate the time between these dates:\n\nYears: 2020 - 1979 = 41 years\nMonths: 11 - 04"
+  },
+  {
+    "task_id": "DB020",
+    "expected_duration": "86 years 11 months 27 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll count the years from 1925 to 2012.\n\n2012 - 1925 = 87 years\n\nSo the Small Charitable Donations Act 2012 was enacted 87 years after the Coastguard Act ",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Coastguard Act 1925): 1925-12-22\nSecond date (Small Charitable Donations Act 2012): 2012-12-19\n\nI'll calculate the time between"
+  },
+  {
+    "task_id": "DB021",
+    "expected_duration": "1 years 11 months 28 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "I apologize, but I cannot find a definitive answer to this specific question without additional context or research. To accurately determine the time between these two acts, I would need to verify the",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Land Acquisition Act): 2016-05-12\nSecond date (Mission and Pastoral): 2018-05-10\n\nThe time between these dates is:\n1 year, 11 m"
+  },
+  {
+    "task_id": "DB022",
+    "expected_duration": "106 years 5 months 29 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two acts, I'll need to look at their enactment dates:\n\nIrish Land Act 1903: 1903\nDepartment of Justice Act (Northern Ireland) 2010: 2010\n\nThe time between these act",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Irish Land Act 1903): 1903-08-14\n2. Second date (Department of Justice Act (Northern Ireland) 2010): 2010-02-12\n\nI'll calcul"
+  },
+  {
+    "task_id": "DB023",
+    "expected_duration": "5 years 11 months 22 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To determine the time between these two Acts, I'll look at their years of enactment:\n\nAdministration of Justice Act 1985\nExport and Investment Guarantees Act 1991\n\nThe time between these Acts is 6 yea",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Administration of Justice Act 1985): 1985-10-30\nSecond date (Export and Investment Guarantees Act 1991): 1991-10-22\n\nI'll calcu"
+  },
+  {
+    "task_id": "DB024",
+    "expected_duration": "22 years 11 months 24 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll determine the years of each Act:\n\n- Friendly Societies Act 1971\n- Trade Marks Act 1994\n\nThe time between these Acts is: 1994 - 1971 = 23 years.",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Friendly Societies Act 1971): 1971-07-27\nSecond date (Trade Marks Act 1994): 1994-07-21\n\nI'll calculate the time between these "
+  },
+  {
+    "task_id": "DB025",
+    "expected_duration": "15 years 1 months 18 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll look at their years:\n\nWildlife and Countryside Act 1981\nWestern Isles Council (Berneray Causeway) Order Confirmation Act 1996\n\nThe difference is: 199",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Wildlife and Countryside Act 1981): 1981-10-30\n2. Second date (Western Isles Council Act 1996): 1996-12-18\n\nI'll calculate t"
+  },
+  {
+    "task_id": "DB026",
+    "expected_duration": "27 years 4 months 5 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "The Badgers Act was passed in 1973, and the Disqualifications Act was enacted in 2000. Therefore, the Disqualifications Act was passed 27 years after the Badgers Act.",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Badgers Act 1973): 1973-07-25\nSecond date (Disqualifications Act 2000): 2000-11-30\n\nI'll calculate the time between these dates"
+  },
+  {
+    "task_id": "DB027",
+    "expected_duration": "3 years 3 months 22 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "I apologize, but I cannot find a \"Bournemouth Borough Council Act 2010\" in my records. Without being able to verify the existence of this specific act, I cannot calculate the time between its enactmen",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Bournemouth Borough Council Act 2010): 2010-04-08\nSecond date (Local Government (Democracy) (Wales) Act 2013): 2013-07-30\n\nTime"
+  },
+  {
+    "task_id": "DB028",
+    "expected_duration": "18 years 4 months 15 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll need to look at their enactment dates:\n\nPension Schemes Act 1993: Enacted in 1993\nBudget Act (Northern Ireland) 2012: Enacted in 2012\n\nThe time betwe",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Pension Schemes Act 1993): 1993-11-05\nSecond date (Budget Act (Northern Ireland) 2012): 2012-03-20\n\nI'll calculate the time bet"
+  },
+  {
+    "task_id": "DB029",
+    "expected_duration": "0 years 11 months 24 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To answer this question, I'll look at the enactment dates of both acts:\n\n- Consumer Insurance (Disclosure and Representations) Act 2012: Enacted in 2012\n- School Standards and Organisation (Wales) Act",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst Act (Consumer Insurance) enacted on: 2012-03-08\nSecond Act (School Standards) enacted on: 2013-03-04\n\nTo calculate the time between t"
+  },
+  {
+    "task_id": "DB030",
+    "expected_duration": "69 years 8 months 23 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To answer this, I'll calculate the time between these two Acts:\n\n1938 (Taxis Act (Northern Ireland) 2008 - Rating and Valuation (Air-Raid Works) (Scotland) Act 1938)\n= 2008 - 1938\n= 70 years\n\nThe 'Tax",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 1938-07-29\nSecond date: 2008-04-21\n\nI'll calculate the time between these dates:\n\nYears: 2008 - 1938 = 70 years\nMonths: 4 - 7 ="
+  },
+  {
+    "task_id": "DB031",
+    "expected_duration": "18 years 3 months 10 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "The Disability Discrimination Act 1995 was enacted 18 years after the Finance Act 1977.\n\nThe Finance Act 1977 was passed in 1977, and the Disability Discrimination Act 1995 was passed in 1995, which i",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Finance Act 1977): 1977-07-29\nSecond date (Disability Discrimination Act 1995): 1995-11-08\n\nI'll calculate the time between the"
+  },
+  {
+    "task_id": "DB032",
+    "expected_duration": "48 years 9 months 3 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "The British Sign Language Act 2022 was enacted approximately 49 years after the Nature Conservancy Council Act 1973. The British Sign Language Act received Royal Assent on 28 April 2022, while the Nat",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First Act (Nature Conservancy Council Act 1973): 1973-07-25\n2. Second Act (British Sign Language Act 2022): 2022-04-28\n\nI'll calculate t"
+  },
+  {
+    "task_id": "DB033",
+    "expected_duration": "19 years 10 months 21 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "I apologize, but I cannot find a definitive record of a \"Law Derived from the European Union (Wales) Act 2018\". While there are acts related to European Union law and Wales, I cannot confidently state",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 1998-07-16\nSecond date: 2018-06-06\n\nI'll calculate the time between these dates:\n\nYears: 2018 - 1998 = 20 years\nMonths: 6 - 7 ="
+  },
+  {
+    "task_id": "DB034",
+    "expected_duration": "0 years 1 months 26 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "I apologize, but I cannot confidently state the exact time between these two specific legislative measures without verifying the precise dates of their enactment. To provide an accurate answer, I woul",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Safeguarding and Clergy Discipline Measure 2016): 2016-03-16\nSecond date (Houses in Multiple Occupation Act (Northern Ireland) "
+  },
+  {
+    "task_id": "DB035",
+    "expected_duration": "10 years 9 months 22 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll find their enactment dates and determine the duration.\n\nThe Finance (No. 2) Act 2005 was enacted on 15 July 2005.\nThe Housing and Planning Act 2016 w",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Finance Act 2005): 2005-07-20\nSecond date (Housing and Planning Act 2016): 2016-05-12\n\nI'll calculate the time between these da"
+  },
+  {
+    "task_id": "DB036",
+    "expected_duration": "11 years 5 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To answer this, I'll calculate the time between the two Acts:\n\nOpen-Ended Investment Companies Act (Northern Ireland) 2002 was enacted in 2002\nLocal Government Act (Northern Ireland) 2014 was enacted ",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Open-Ended Investment Companies Act): 2002-11-22\nSecond date (Local Government Act): 2014-05-12\n\nI'll calculate the time betwee"
+  },
+  {
+    "task_id": "DB037",
+    "expected_duration": "56 years 1 months 9 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To answer this, I'll calculate the time between these two Acts:\n\n- Offices, Shops and Railway Premises Act 1963: Enacted in 1963\n- European Union (Withdrawal) (No. 2) Act 2019: Enacted in 2019\n\nThe ti",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Offices, Shops and Railway Premises Act 1963): 1963-07-31\nSecond date (European Union (Withdrawal) (No. 2) Act 2019): 2019-09-0"
+  },
+  {
+    "task_id": "DB038",
+    "expected_duration": "14 years 8 months 14 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To answer this, I'll find the years of each Act:\n\n'Railway Safety Act (Northern Ireland)' was enacted in 2002\n'Pension Schemes Act' was enacted in 2017\n\nThe time between these Acts is: 2017 - 2002 = 1",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Railway Safety Act): 2002-08-13\nSecond date (Pension Schemes Act): 2017-04-27\n\nI'll calculate the time difference:\n\nYears: 2017"
+  },
+  {
+    "task_id": "DB039",
+    "expected_duration": "34 years 4 months 13 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll determine their enactment years:\n\n'Criminal Justice (Scotland) Act 1980' was enacted in 1980\n'Deregulation Act 2015' was enacted in 2015\n\n2015 - 1980",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two enactment dates:\n\nFirst date: 1980-11-13\nSecond date: 2015-03-26\n\nI'll calculate the time difference:\n• Years: 2015 - 1980 = 35 years\n• Months: 3 -"
+  },
+  {
+    "task_id": "DB040",
+    "expected_duration": "33 years 4 months 4 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To answer this, I'll calculate the time between the two Acts:\n\nEducation Act 1976 was enacted in 1976\nBudget (No. 2) Act (Northern Ireland) 2010 was enacted in 2010\n\nThe time between these two Acts is",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Education Act 1976): 1976-11-22\n2. Second date (Budget (No. 2) Act (Northern Ireland) 2010): 2010-03-26\n\nI'll calculate the "
+  },
+  {
+    "task_id": "DB041",
+    "expected_duration": "117 years 6 months 22 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two acts, I'll determine their years:\n\n• 'Secretary for Scotland Act 1887'\n• 'Inquiries Act 2005'\n\nThe time between them is: 2005 - 1887 = 118 years",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First Act (Secretary for Scotland Act 1887): 1887-09-16\n2. Second Act (Inquiries Act 2005): 2005-04-07\n\nI'll calculate the time between "
+  },
+  {
+    "task_id": "DB042",
+    "expected_duration": "36 years 7 months 0 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll need to look at their enactment dates:\n\nValue Added Tax Act 1983: Enacted in 1983\nNational Health Service (Indemnities) (Wales) Act 2020: Enacted in ",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 1983-07-26\nSecond date: 2020-02-26\n\nI'll calculate the difference:\n• Years: 2020 - 1983 = 37 years\n• Months: 2 - 7 = -5 months "
+  },
+  {
+    "task_id": "DB043",
+    "expected_duration": "3 years 11 months 17 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To determine the time between these two Acts, I'll look at their years:\n\nSolicitors (Scotland) Act 1988\nRiver Humber (Upper Pyewipe Outfall) Act 1992\n\nThe difference between these years is: 1992 - 198",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 1988-07-29\nSecond date: 1992-07-16\n\nTo calculate the time between these dates, I'll subtract the first date from the second:\n\n1"
+  },
+  {
+    "task_id": "DB044",
+    "expected_duration": "29 years 11 months 23 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To answer this, I'll calculate the time between the two Acts:\n\n1. Regimental Debts (Deposit of Wills) (Scotland) Act 1919\n2. National Health Service (Amendment) Act 1949\n\nThe time between these two Ac",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First Act (Regimental Debts Act): 1919-12-23\n2. Second Act (National Health Service Act): 1949-12-16\n\nI'll calculate the time between th"
+  },
+  {
+    "task_id": "DB045",
+    "expected_duration": "6 years 9 months 21 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "I apologize, but I cannot find a definitive record of a 'Statute Law (Repeals) Measure 2018' in my current knowledge base. While the European Union Act 2011 is a known piece of UK legislation, I do no",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (European Union Act 2011): 2011-07-19\nSecond date (Statute Law (Repeals) Measure 2018): 2018-05-10\n\nI'll calculate the time betw"
+  },
+  {
+    "task_id": "DB046",
+    "expected_duration": "17 years 9 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To answer this, I'll calculate the time between the two enactments:\n\nAllied Irish Banks Act 1996: Enacted in 1996\nChurch of England (Miscellaneous Provisions) Measure 2014: Enacted in 2014\n\n2014 - 199",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two enactment dates:\n\nFirst enactment date: 1996-07-24\nSecond enactment date: 2014-05-14\n\nTo calculate the time between these dates:\n• Years: 2014 - 19"
+  },
+  {
+    "task_id": "DB047",
+    "expected_duration": "36 years 11 months 12 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll find their enactment years:\n\nPneumoconiosis etc. (Workers' Compensation) Act 1979\nEducation and Adoption Act 2016\n\nThe time between these Acts is: 20",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two enactment dates:\n\nFirst Act (Pneumoconiosis etc. (Workers' Compensation) Act 1979): 1979-04-04\nSecond Act (Education and Adoption Act 2016): 2016-0"
+  },
+  {
+    "task_id": "DB048",
+    "expected_duration": "23 years 4 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "I apologize, but I cannot find a reference to an \"Avon Weir Act 1992\" in my available sources. Without verifying the existence of this specific act, I cannot calculate the time between it and the Town",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First Act (Town and Country Planning Act 1968) date: 1968-10-25\n2. Second Act (Avon Weir Act 1992) date: 1992-03-16\n\nI'll calculate the "
+  },
+  {
+    "task_id": "DB049",
+    "expected_duration": "33 years 7 months 16 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To answer this, I'll need to calculate the time between the two Acts:\n\n- Insurance Brokers (Registration) Act 1977\n- Local Government Finance Act (Northern Ireland) 2011\n\nThe time between these two Ac",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 1977-07-29\nSecond date: 2011-03-16\n\nI'll calculate the difference:\n• Years: 2011 - 1977 = 34 years\n• Months: 3 - 7 = -4 months "
+  },
+  {
+    "task_id": "DB050",
+    "expected_duration": "49 years 4 months 9 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll need to look at their enactment years:\n\nFinance Act 1971: 1971\nPrivate International Law (Implementation of Agreements) Act 2020: 2020\n\nThe time betw",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Finance Act 1971): 1971-08-05\nSecond date (Private International Law (Implementation of Agreements) Act 2020): 2020-12-14\n\nI'll"
+  },
+  {
+    "task_id": "DB051",
+    "expected_duration": "7 years 2 months 19 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "The Companies Act 2006 was enacted on 8 November 2006, and the Control of Horses (Wales) Act 2014 was enacted on 17 September 2014. Therefore, the Control of Horses (Wales) Act 2014 was enacted approx",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First Act (Companies Act 2006) date: 2006-11-08\n2. Second Act (Control of Horses (Wales) Act 2014) date: 2014-01-27\n\nI'll calculate the "
+  },
+  {
+    "task_id": "DB052",
+    "expected_duration": "31 years 9 months 12 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll need to check their exact enactment dates.\n\nThe Parliamentary Pensions etc. Act 1984 was enacted in 1984.\nThe House of Commons Members' Fund Act 2016",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 1984-07-31\nSecond date: 2016-05-12\n\nI'll calculate the time between these dates:\n\nYears: 2016 - 1984 = 32 years\nMonths: 5 - 7 ="
+  },
+  {
+    "task_id": "DB053",
+    "expected_duration": "0 years 11 months 14 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "The Sex Discrimination Act 1975 was enacted approximately one year after the National Theatre Act 1974. The National Theatre Act 1974 was passed in 1974, and the Sex Discrimination Act 1975 was passed",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (National Theatre Act 1974): 1974-11-29\nSecond date (Sex Discrimination Act 1975): 1975-11-12\n\nTo calculate the time between the"
+  },
+  {
+    "task_id": "DB054",
+    "expected_duration": "18 years 6 months 13 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To answer this, I'll calculate the time between the two Acts:\n\nMental Health (Amendment) Act 1982: 1982\nHouse of Commons (Removal of Clergy Disqualification) Act 2001: 2001\n\n2001 - 1982 = 19 years\n\nTh",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Mental Health (Amendment) Act 1982): 1982-10-28\nSecond date (House of Commons (Removal of Clergy Disqualification) Act 2001): 2"
+  },
+  {
+    "task_id": "DB055",
+    "expected_duration": "24 years 5 months 4 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll count the years from 1968 to 1993.\n\n1993 - 1968 = 25 years\n\nSo the British Railways Act 1993 was enacted 25 years after the Justices of the Peace Act",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Justices of the Peace Act 1968): 1968-10-25\nSecond date (British Railways Act 1993): 1993-03-29\n\nI'll calculate the time betwee"
+  },
+  {
+    "task_id": "DB056",
+    "expected_duration": "7 years 1 months 1 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To answer this, I'll need to find the enactment dates of both acts and calculate the time between them.\n\nThe Health (Miscellaneous Provisions) Act (Northern Ireland) 2008 was enacted in 2008.\n\nThe Der",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 2008-02-25\nSecond date: 2015-03-26\n\nI'll calculate the time difference:\n• Years: 2015 - 2008 = 7 years\n• Months: 3 - 2 = 1 mont"
+  },
+  {
+    "task_id": "DB057",
+    "expected_duration": "20 years 3 months 8 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To determine the time between these two acts, I'll need to look at their enactment years:\n\nHFC Bank Act 1999\nCensus (Return Particulars and Removal of Penalties) Act 2019\n\nThe time between these acts ",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (HFC Bank Act 1999): 1999-06-30\nSecond date (Census Act 2019): 2019-10-08\n\nI'll calculate the time between these dates:\n\nYears: "
+  },
+  {
+    "task_id": "DB058",
+    "expected_duration": "11 years 0 months 0 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To accurately calculate the time between the Wills Act 1963 and the Housing Act 1974, I'll subtract the years:\n\n1974 - 1963 = 11 years\n\nSo the Housing Act 1974 was enacted 11 years after the Wills Act",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Wills Act 1963): 1963-07-31\n2. Second date (Housing Act 1974): 1974-07-31\n\nThe time between these dates is exactly 11 years."
+  },
+  {
+    "task_id": "DB059",
+    "expected_duration": "81 years 7 months 7 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll determine the years of enactment:\n\n- Small Holdings and Allotments Act 1926\n- Crossrail Act 2008\n\nThe difference between these years is: 2008 - 1926 ",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First Act (Small Holdings and Allotments Act 1926): 1926-12-15\n2. Second Act (Crossrail Act 2008): 2008-07-22\n\nI'll calculate the time b"
+  },
+  {
+    "task_id": "DB060",
+    "expected_duration": "14 years 11 months 16 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "The Police Act 1997 was enacted on 25 November 1997, and the Welfare Reform Act 2012 was enacted on 8 March 2012. Therefore, the Welfare Reform Act 2012 was enacted approximately 14 years and 3-4 mont",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Police Act 1997): 1997-03-21\n2. Second date (Welfare Reform Act 2012): 2012-03-08\n\nI'll calculate the time between these dat"
+  },
+  {
+    "task_id": "DB061",
+    "expected_duration": "21 years 7 months 11 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll need to check their exact enactment dates.\n\nThe Representation of the People Act 1990 was enacted in 1990.\nThe Consumer Insurance (Disclosure and Rep",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Representation of the People Act 1990): 1990-07-26\nSecond date (Consumer Insurance Act 2012): 2012-03-08\n\nI'll calculate the ti"
+  },
+  {
+    "task_id": "DB062",
+    "expected_duration": "19 years 11 months 29 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To answer this, I'll calculate the time between the two Acts:\n\nRate Support Grants Act 1988 was enacted in 1988\nPlanning and Energy Act 2008 was enacted in 2008\n\nThe time between these two Acts is: 20",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Rate Support Grants Act 1988): 1988-11-15\nSecond date (Planning and Energy Act 2008): 2008-11-13\n\nI'll calculate the time betwe"
+  },
+  {
+    "task_id": "DB063",
+    "expected_duration": "15 years 3 months 16 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To accurately answer this, I'll need to check the exact years of enactment for both pieces of legislation.\n\nThe Political Parties, Elections and Referendums Act 2000 was enacted in 2000.\n\nThe Safeguar",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two enactment dates:\n\nFirst date: 2000-11-30\nSecond date: 2016-03-16\n\nI'll calculate the time between these dates:\n• Years: 2016 - 2000 = 16 years\n• Mo"
+  },
+  {
+    "task_id": "DB064",
+    "expected_duration": "21 years 0 months 29 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To answer this, I'll need to look at the enactment dates of both acts:\n\n- Postal Services Act 2000: Enacted in 2000\n- Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021: Enact",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 2000-07-28\nSecond date: 2021-08-26\n\nI'll calculate the time between these dates:\n• Years: 21 years\n• Months: 1 month\n• Days: 29"
+  },
+  {
+    "task_id": "DB065",
+    "expected_duration": "48 years 0 months 2 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To answer this, I'll calculate the time between the two Acts:\n\n'Travel Concessions Act 1964' was enacted in 1964\n'Prisons (Interference with Wireless Telegraphy) Act 2012' was enacted in 2012\n\n2012 - ",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst Act (Travel Concessions Act 1964) enacted on: 1964-12-17\nSecond Act (Prisons (Interference with Wireless Telegraphy) Act 2012) enacte"
+  },
+  {
+    "task_id": "DB066",
+    "expected_duration": "107 years 2 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll determine the years of enactment:\n\n- Education (Provision of Meals) Act 1906\n- Northern Ireland (Miscellaneous Provisions) Act 2014\n\nThe time between",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First Act: 'Education (Provision of Meals) Act 1906' - enacted on 1906-12-21\n2. Second Act: 'Northern Ireland (Miscellaneous Provisions)"
+  },
+  {
+    "task_id": "DB067",
+    "expected_duration": "10 years 3 months 13 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll count the years from the 'Finance Act 1998' to the 'Human Fertilisation and Embryology Act 2008'.\n\n2008 - 1998 = 10 years\n\nSo the 'Human Fertilisatio",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Finance Act 1998): 1998-07-31\nSecond date (Human Fertilisation and Embryology Act 2008): 2008-11-13\n\nI'll calculate the time be"
+  },
+  {
+    "task_id": "DB068",
+    "expected_duration": "11 years 0 months 3 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "The Competition Act 1998 was enacted in 1998, and the Autism Act 2009 was enacted in 2009. Therefore, the Autism Act was enacted 11 years after the Competition Act.",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Competition Act 1998): 1998-11-09\nSecond date (Autism Act 2009): 2009-11-12\n\nThe time between these dates is:\n• 10 years, 0 mon"
+  },
+  {
+    "task_id": "DB069",
+    "expected_duration": "0 years 10 months 12 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To answer this, I'll need to check the enactment dates of both acts.\n\nThe House of Lords Reform Act 2014 was enacted in 2014.\n\nThe Health Service Commissioner for England (Complaint Handling) Act 2015",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First Act (House of Lords Reform Act 2014) enacted on: 2014-05-14\n2. Second Act (Health Service Commissioner for England (Complaint Hand"
+  },
+  {
+    "task_id": "DB070",
+    "expected_duration": "17 years 9 months 6 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "The Energy Act 2004 was enacted on 18 November 2004, and the Elections Act 2022 was enacted on 28 April 2022. Therefore, the Elections Act 2022 was enacted approximately 17 years and 5 months after th",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Energy Act 2004): 2004-07-22\n2. Second date (Elections Act 2022): 2022-04-28\n\nI'll calculate the time between these dates:\n\n"
+  },
+  {
+    "task_id": "DB071",
+    "expected_duration": "63 years 8 months 27 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll determine their years:\n\nMarshall Aid Commemoration Act 1953\nChildren and Social Work Act 2017\n\nThe difference between these years is: 2017 - 1953 = 6",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Marshall Aid Commemoration Act 1953): 1953-07-31\n2. Second date (Children and Social Work Act 2017): 2017-04-27\n\nI'll calcul"
+  },
+  {
+    "task_id": "DB072",
+    "expected_duration": "0 years 9 months 26 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To accurately answer this, I would need to check the exact dates of enactment for both the 'Taxis Act (Northern Ireland) 2008' and the 'Public Authorities (Reform) Act (Northern Ireland) 2009'. Withou",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Taxis Act): 2008-04-21\nSecond date (Public Authorities Reform Act): 2009-02-16\n\nI'll calculate the time between these dates:\n• "
+  },
+  {
+    "task_id": "DB073",
+    "expected_duration": "16 years 0 months 7 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To answer this, I'll calculate the time between the two Acts:\n\n'Queen Mary and Westfield College Act 1995' was enacted in 1995\n'Education Act 2011' was enacted in 2011\n\nThe time between these two Acts",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Queen Mary and Westfield College Act 1995): 1995-11-08\n2. Second date (Education Act 2011): 2011-11-15\n\nI'll calculate the t"
+  },
+  {
+    "task_id": "DB074",
+    "expected_duration": "119 years 11 months 6 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll determine the years of each Act:\n\n'Citation Amendment (Scotland) Act 1882'\n'Export Control Act 2002'\n\nThe time between these Acts is: 2002 - 1882 = 1",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Citation Amendment (Scotland) Act 1882): 1882-08-18\nSecond date (Export Control Act 2002): 2002-07-24\n\nI'll calculate the time "
+  },
+  {
+    "task_id": "DB075",
+    "expected_duration": "10 years 11 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To determine how long after the 'Building Control Act 1966' the 'Administration of Justice Act 1977' was enacted, I'll calculate the time between these two Acts.\n\nThe 'Building Control Act 1966' was e",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Building Control Act 1966): 1966-08-09\n2. Second date (Administration of Justice Act 1977): 1977-07-29\n\nI'll calculate the t"
+  },
+  {
+    "task_id": "DB076",
+    "expected_duration": "22 years 8 months 17 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To answer this, I'll calculate the time between the two Acts:\n\nRate Support Grants Act 1986 was enacted in 1986\nBudget (No. 2) Act (Northern Ireland) 2009 was enacted in 2009\n\nThe time between these t",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Rate Support Grants Act 1986): 1986-10-21\nSecond date (Budget (No. 2) Act (Northern Ireland) 2009): 2009-07-08\n\nI'll calculate "
+  },
+  {
+    "task_id": "DB077",
+    "expected_duration": "37 years 7 months 21 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll look at their enactment years:\n\nEmployment Protection (Consolidation) Act 1978\nNurse Staffing Levels (Wales) Act 2016\n\nThe difference is: 2016 - 1978",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 1978-07-31\nSecond date: 2016-03-21\n\nI'll calculate the time between these dates:\n\nYears: 2016 - 1978 = 38 years\nMonths: 3 - 7 ="
+  },
+  {
+    "task_id": "DB078",
+    "expected_duration": "4 years 3 months 15 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "The Police Reform Act 2002 was enacted in 2002, and the National Health Service Act 2006 was enacted in 2006. Therefore, the National Health Service Act 2006 was enacted 4 years after the Police Refor",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First Act (Police Reform Act 2002) enacted on: 2002-07-24\n2. Second Act (National Health Service Act 2006) enacted on: 2006-11-08\n\nTo ca"
+  },
+  {
+    "task_id": "DB079",
+    "expected_duration": "32 years 9 months 29 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "The Digital Markets, Competition and Consumers Act 2024 was enacted approximately 33 years after the Agricultural Holdings (Scotland) Act 1991.",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 1991-07-25\nSecond date: 2024-05-24\n\nI'll calculate the time between these dates:\n\nYears: 2024 - 1991 = 33 years\nMonths: 5 - 7 ="
+  },
+  {
+    "task_id": "DB080",
+    "expected_duration": "103 years 11 months 24 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll determine the years:\n\n• Slave Trade Act 1873\n• Protection from Eviction Act 1977\n\nThe time between these Acts is: 1977 - 1873 = 104 years",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Slave Trade Act 1873): 1873-08-05\n2. Second date (Protection from Eviction Act 1977): 1977-07-29\n\nI'll calculate the time be"
+  },
+  {
+    "task_id": "DB081",
+    "expected_duration": "108 years 0 months 26 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two acts, I'll determine the years:\n\n• Removal Terms (Scotland) Act 1886\n• Police and Magistrates' Courts Act 1994\n\nThe time between these acts is: 1994 - 1886 = 10",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date: 1886-06-25\nSecond date: 1994-07-21\n\nI'll calculate the difference:\n• Years: 1994 - 1886 = 108 years\n• Months: 7 - 6 = 1 month\n•"
+  },
+  {
+    "task_id": "DB082",
+    "expected_duration": "7 years 7 months 16 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "The Competition and Service (Utilities) Act 1992 was enacted 8 years after the Housing Defects Act 1984.",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Housing Defects Act 1984): 1984-07-31\nSecond date (Competition and Service (Utilities) Act 1992): 1992-03-16\n\nI'll calculate th"
+  },
+  {
+    "task_id": "DB083",
+    "expected_duration": "1 years 9 months 9 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "I apologize, but I cannot confidently state the exact time between these two specific acts without verifying the precise dates of their enactment. To provide an accurate answer, I would need to confir",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Dogs (Amendment) Act): 2001-01-29\nSecond date (Animal Health Act): 2002-11-07\n\nTo calculate the time between these dates:\n• Fro"
+  },
+  {
+    "task_id": "DB084",
+    "expected_duration": "50 years 7 months 6 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "I apologize, but there seems to be an error in your statement. As of 2023, the \"Budget Act (Northern Ireland) 2025\" has not yet been enacted. The year 2025 is in the future, so this act does not exist",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Consumer Credit Act 1974): 1974-07-31\n2. Second date (Budget Act (Northern Ireland) 2025): 2025-03-06\n\nI'll calculate the ti"
+  },
+  {
+    "task_id": "DB085",
+    "expected_duration": "22 years 7 months 14 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To calculate the time between these two acts, I'll look at their years:\n\nWater Industry Act 1991\nPublic Service Pensions Act (Northern Ireland) 2014\n\n2014 - 1991 = 23 years\n\nSo the Public Service Pens",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Water Industry Act 1991): 1991-07-25\n2. Second date (Public Service Pensions Act (Northern Ireland) 2014): 2014-03-11\n\nI'll "
+  },
+  {
+    "task_id": "DB086",
+    "expected_duration": "197 years 7 months 17 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two acts, I'll need to check their exact dates:\n\nStamp Act 1815: 1815\nNottingham City Council Act 2013: 2013\n\nThe time between these acts is: 2013 - 1815 = 198 year",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Stamp Act 1815): 1815-07-11\n2. Second date (Nottingham City Council Act 2013): 2013-02-28\n\nI'll calculate the time between t"
+  },
+  {
+    "task_id": "DB087",
+    "expected_duration": "18 years 5 months 0 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "I apologize, but I cannot confidently provide the exact time difference between these two acts without verifying the specific dates of their enactment. To accurately calculate the time between these a",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Public Trustee and Administration of Funds Act 1986): 1986-11-07\nSecond date (Finance Act 2005): 2005-04-07\n\nI'll calculate the"
+  },
+  {
+    "task_id": "DB088",
+    "expected_duration": "28 years 5 months 12 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To answer this, I'll calculate the time between the two Acts:\n\nWater (Scotland) Act 1967 was enacted in 1967\nNorthern Ireland (Remission of Sentences) Act 1995 was enacted in 1995\n\n1995 - 1967 = 28 ye",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two enactment dates:\n\nFirst Act (Water (Scotland) Act 1967) enacted on: 1967-05-27\nSecond Act (Northern Ireland (Remission of Sentences) Act 1995) enac"
+  },
+  {
+    "task_id": "DB089",
+    "expected_duration": "117 years 11 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To calculate the time between the 'Defence Acts Amendment Act 1873' and the 'Ports Act 1991', I'll subtract the years:\n\n1991 - 1873 = 118 years\n\nSo the 'Ports Act 1991' was enacted 118 years after the",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Defence Acts Amendment Act 1873): 1873-08-05\nSecond date (Ports Act 1991): 1991-07-25\n\nI'll calculate the time between these da"
+  },
+  {
+    "task_id": "DB090",
+    "expected_duration": "30 years 8 months 23 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll count the years from 1946 to 1977.\n\n1977 - 1946 = 31 years\n\nSo the Administration of Justice Act 1977 was enacted 31 years after the Cable and Wirele",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First Act (Cable and Wireless Act 1946) date: 1946-11-06\n2. Second Act (Administration of Justice Act 1977) date: 1977-07-29\n\nI'll calcu"
+  },
+  {
+    "task_id": "DB091",
+    "expected_duration": "40 years 9 months 19 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To answer this, I'll calculate the time between the two Acts:\n\n• Nature Conservancy Council Act 1973 was enacted in 1973\n• Pensions Act 2014 was enacted in 2014\n\nThe time between these two Acts is: 20",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Nature Conservancy Council Act 1973): 1973-07-25\nSecond date (Pensions Act 2014): 2014-05-14\n\nI'll calculate the time between t"
+  },
+  {
+    "task_id": "DB092",
+    "expected_duration": "25 years 11 months 2 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll determine their enactment years:\n\nTrade Union Act 1984: 1984\nForestry Act (Northern Ireland) 2010: 2010\n\n2010 - 1984 = 26 years\n\nSo the Forestry Act ",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two enactment dates:\n\nFirst date (Trade Union Act 1984): 1984-07-26\nSecond date (Forestry Act (Northern Ireland) 2010): 2010-06-28\n\nI'll calculate the "
+  },
+  {
+    "task_id": "DB093",
+    "expected_duration": "17 years 10 months 9 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To answer this, I'll need to know the exact year of the Consumer Protection Act 1987 and the Care of Cathedrals (Amendment) Measure 2005.\n\nConsumer Protection Act 1987: 1987\nCare of Cathedrals (Amendm",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Consumer Protection Act 1987): 1987-05-15\n2. Second date (Care of Cathedrals (Amendment) Measure 2005): 2005-03-24\n\nI'll cal"
+  },
+  {
+    "task_id": "DB094",
+    "expected_duration": "7 years 3 months 15 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To answer this, I'll need to know the year of the 'Interest on Damages (Scotland) Act 1958' and the 'Southern Rhodesia Act 1965'.\n\nFrom the information provided, the 'Interest on Damages (Scotland) Ac",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First date (Interest on Damages (Scotland) Act 1958): 1958-08-01\n2. Second date (Southern Rhodesia Act 1965): 1965-11-16\n\nTo calculate t"
+  },
+  {
+    "task_id": "DB095",
+    "expected_duration": "16 years 4 months 21 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "I apologize, but I cannot find a reference to a 'Terrorism (Protection of Premises) Act 2025'. This appears to be a fictional or hypothetical act that does not exist in reality. Without a real piece o",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Planning and Energy Act 2008): 2008-11-13\nSecond date (Terrorism (Protection of Premises) Act 2025): 2025-04-03\n\nI'll calculate"
+  },
+  {
+    "task_id": "DB096",
+    "expected_duration": "74 years 5 months 8 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "I apologize, but there is an error in your statement. As of early 2024, the 'Pet Abduction Act 2024' has not yet been enacted. While there have been discussions and proposals about creating such an ac",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Justices of the Peace Act 1949): 1949-12-16\nSecond date (Pet Abduction Act 2024): 2024-05-24\n\nI'll calculate the time between t"
+  },
+  {
+    "task_id": "DB097",
+    "expected_duration": "20 years 3 months 8 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between these two acts, I'll need to look at their enactment dates:\n\n- Wildlife and Countryside Act 1981: Enacted in 1981\n- Industrial Development Act (Northern Ireland) 2002: En",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Wildlife and Countryside Act 1981): 1981-10-30\nSecond date (Industrial Development Act (Northern Ireland) 2002): 2002-02-07\n\nI'"
+  },
+  {
+    "task_id": "DB098",
+    "expected_duration": "87 years 1 months 0 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To calculate the time between these two acts, I'll determine their years and subtract:\n\n1973 - 1886 = 87 years\n\nSo the 'Nature Conservancy Council Act 1973' was enacted 87 years after the 'Removal Ter",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\n1. First Act (Removal Terms (Scotland) Act 1886): 1886-06-25\n2. Second Act (Nature Conservancy Council Act 1973): 1973-07-25\n\nTo calculate "
+  },
+  {
+    "task_id": "DB099",
+    "expected_duration": "38 years 11 months 19 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "claude_answer_snippet": "To calculate the time between these two Acts, I'll determine their enactment years:\n\n1. Employment Protection (Consolidation) Act 1978: Enacted in 1978\n2. Supply and Appropriation (Main Estimates) Act",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Employment Protection Act): 1978-07-31\nSecond date (Supply and Appropriation Act): 2017-07-19\n\nI'll calculate the time between "
+  },
+  {
+    "task_id": "DB100",
+    "expected_duration": "47 years 4 months 23 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "claude_answer_snippet": "To calculate the time between the 'Armed Forces Act 1966' and the 'Pensions Act 2014', I'll subtract the years:\n\n2014 - 1966 = 48 years\n\nSo the Pensions Act 2014 was enacted 48 years after the Armed F",
+    "claude_answer_with_dates_snippet": "Let me help you calculate the time between these two dates:\n\nFirst date (Armed Forces Act 1966): 1966-12-21\nSecond date (Pensions Act 2014): 2014-05-14\n\nI'll calculate the time between these dates:\n\nY"
+  }
+]

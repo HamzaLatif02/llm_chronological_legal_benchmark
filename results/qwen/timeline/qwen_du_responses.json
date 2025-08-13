@@ -1,0 +1,1002 @@
+[
+  {
+    "task_id": "DU001",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Budget Act (Northern Ireland) 2010 was during the National Debt Act 1972. Let me break this down.\n\nFirst, I need to check the dates of both acts. The Na",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Budget Act (Northern Ireland) 2010 was in effect during the time when the National Debt Act 1972 was active. They provided specific date ranges "
+  },
+  {
+    "task_id": "DU002",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Bell’s Bridge Order Confirmation Act 1995 was during the Pests Act 1954. Let me break this down.\n\nFirst, I need to check the dates. The Pests Act 1954 w",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Bell’s Bridge Order Confirmation Act 1995 was in effect during the same period as the Pests Act 1954. They provided specific dates: Bell’s Bridg"
+  },
+  {
+    "task_id": "DU003",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Statutory Instruments (Production and Sale) Act 1996' was in effect during the 'Budget Act (Northern Ireland) 2009'. Let me break this down.\n\nFirst, I ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Statutory Instruments (Production and Sale) Act 1996 was in effect during the time of the Budget Act (Northern Ireland) 2009. They provided spec"
+  },
+  {
+    "task_id": "DU004",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Public Trustee (Liability and Fees) Act 2002' was in effect during the 'Road Races (Amendment) Act (Northern Ireland) 2014'. Let me break this down.\n\nF",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Public Trustee (Liability and Fees) Act 2002 was in effect during the time period of the Road Races (Amendment) Act (Northern Ireland) 2014. Bot"
+  },
+  {
+    "task_id": "DU005",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Armed Forces Act 2006 was during the Deer Act 1991. Let me break this down.\n\nFirst, I need to check the dates of both acts. The Deer Act 1991, as the name su",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Armed Forces Act 2006 was in effect during the Deer Act 1991. Hmm. Wait, the dates given are from 2006-11-08 to 2024-10-17 for the Armed Forces "
+  },
+  {
+    "task_id": "DU006",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the \"Veterans Advisory and Pensions Committees Act 2023\" was during the \"Regulation of Registered Social Landlords (Wales) Act 2018.\" Let me break this down",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Veterans Advisory and Pensions Committees Act 2023 was in effect during the Regulation of Registered Social Landlords (Wales) Act 2018. They pro"
+  },
+  {
+    "task_id": "DU007",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012 was during the National Health Service (Amendment) Act 1949. Let me break this down.\n\nF",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012 was in effect during the time period of the National Health Service (Amendment)"
+  },
+  {
+    "task_id": "DU008",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the \"Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021\" was during the \"Mental Health (Approval Functions) Act 2012.\" Let me ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's tackle this question. The user is asking whether the \"Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021\" was in effect during the period of the \"Ment"
+  },
+  {
+    "task_id": "DU009",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Post Office Act 1953 was in effect during the Succession to the Crown Act 2013. Let me break this down.\n\nFirst, I need to confirm the dates of both acts",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Post Office Act 1953 was in effect during the Succession to the Crown Act 2013. Hmm. First, I need to understand the timelines of both acts.\n\nTh"
+  },
+  {
+    "task_id": "DU010",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Harris Tweed Act 1993 came into effect during the Civil Evidence Act 1995. Let me break this down.\n\nFirst, I need to confirm the dates when each of thes",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Harris Tweed Act 1993 was in effect during the Civil Evidence Act 1995. They provided specific date ranges for both acts. First, I need to check"
+  },
+  {
+    "task_id": "DU011",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the British Railways Order Confirmation Act 1994 was during the Friendly Societies Act 1974. Let me break this down.\n\nFirst, I need to check the dates of bo",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the British Railways Order Confirmation Act 1994 was in effect during the time of the Friendly Societies Act 1974. They provided specific date range"
+  },
+  {
+    "task_id": "DU012",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016' was in effect during the 'London Local Authorities Act 1995'. Let me b",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's tackle this question. The user is asking whether the Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016 was in effect during the period of the London L"
+  },
+  {
+    "task_id": "DU013",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the \"Building Societies (Funding) and Mutual Societies (Transfers) Act 2007\" was during the \"Supreme Court (Offices) Act 1997.\" Let me break this down.\n\nFir",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 was in effect during the time when the Supreme Court (Offices) Act 1997 w"
+  },
+  {
+    "task_id": "DU014",
+    "expected": "yes",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Consolidated Fund (No. 2) Act 2004' was during the 'Railways (Electrical Power) Act 1903'. Let me break this down.\n\nFirst, I need to check the dates of",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if the Consolidated Fund (No. 2) Act 2004 was in effect during the time of the Railways (Electrical Power) Act 1903. Hmm, first, I need to understand the dates in"
+  },
+  {
+    "task_id": "DU015",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Paymaster General Act 1848 was in effect during the Companies (Consolidation) Act 1908. Let me start by understanding both acts.\n\nFirst, the Paymaster G",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out the user's question. They're asking whether the Paymaster General Act 1848 was in effect during the Companies (Consolidation) Act 1908. The dates given are a bit "
+  },
+  {
+    "task_id": "DU016",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Hill Samuel Bank and United Dominions Trust Act 1994 was during the Nurseries and Child-Minders Regulation Act 1948. Let me break this down.\n\nFirst, I n",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Hill Samuel Bank and United Dominions Trust Act 1994 was in effect during the same period as the Nurseries and Child-Minders Regulation Act 1948"
+  },
+  {
+    "task_id": "DU017",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Pensions Act 2011 was in effect during the Supply and Appropriation (Main Estimates) Act 2019. Let me break this down.\n\nFirst, I need to understand both",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Pensions Act 2011 was in effect during the time period of the Supply and Appropriation (Main Estimates) Act 2019. \n\nFirst, I need to understand "
+  },
+  {
+    "task_id": "DU018",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the National Gallery and Tate Gallery Act 1954 came into effect during the Accession Declaration Act 1910. Let me start by understanding both acts.\n\nFirst, ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the National Gallery and Tate Gallery Act 1954 was in effect during the time of the Accession Declaration Act 1910. Hmm. Wait, the dates they provid"
+  },
+  {
+    "task_id": "DU019",
+    "expected": "yes",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Corporate Manslaughter and Corporate Homicide Act 2007 was during the Trade Union Act 1984. Let me break this down.\n\nFirst, I need to check the dates of",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Corporate Manslaughter and Corporate Homicide Act 2007 was in effect during the period of the Trade Union Act 1984. The dates given are from 200"
+  },
+  {
+    "task_id": "DU020",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Agricultural Land (Utilisation) Act 1931 was in effect during the Safeguarding and Clergy Discipline Measure 2016. Let me break this down.\n\nFirst, I nee",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Agricultural Land (Utilisation) Act 1931 was in effect during the Safeguarding and Clergy Discipline Measure 2016. The dates given are from 1931"
+  },
+  {
+    "task_id": "DU021",
+    "expected": "yes",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Criminal Injuries Compensation Act 1995 was during the Land Charges Act 1972. Let me break this down.\n\nFirst, I need to check the dates of both acts. Th",
+    "qwen_with_dates_snippet": "<think>\nOkay, so the user is asking whether the Criminal Injuries Compensation Act 1995 was in effect during the same time as the Land Charges Act 1972. They provided specific date ranges: the Crimina"
+  },
+  {
+    "task_id": "DU022",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Broads Authority Act 2009 was during the Education Act 1976. Let me break this down.\n\nFirst, I need to check the dates of both acts. The Broads Authorit",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Broads Authority Act 2009 falls within the timeframe of the Education Act 1976. The dates given are from 2009-07-02 to 2025-07-01 for the Broads"
+  },
+  {
+    "task_id": "DU023",
+    "expected": "yes",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Northern Ireland (Executive Formation etc) Act 2019 was during the Enterprise and New Towns (Scotland) Act 1990. Let me break this down.\n\nFirst, I need ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Northern Ireland (Executive Formation etc) Act 2019 was in effect during the Enterprise and New Towns (Scotland) Act 1990. Hmm, first, I need to"
+  },
+  {
+    "task_id": "DU024",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Visiting Forces Act 1952 was in effect during the Curriculum and Assessment (Wales) Act 2021. Let me break this down.\n\nFirst, I need to confirm the dates. Th",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Visiting Forces Act 1952 was in effect during the time period of the Curriculum and Assessment (Wales) Act 2021. The dates given are from 1952-1"
+  },
+  {
+    "task_id": "DU025",
+    "expected": "yes",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Derelict Land Act 1982 was in effect during the India (Consequential Provision) Act 1949. Let me start by understanding both acts.\n\nFirst, the India (Consequ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Derelict Land Act 1982 was in effect during the India (Consequential Provision) Act 1949. The dates given are from 1982-07-30 to 2018-08-24 for "
+  },
+  {
+    "task_id": "DU026",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Consolidated Fund (No. 2) Act 1995' was during the 'Children Act 2004'. Let me break this down.\n\nFirst, I need to check the dates of both acts. The Con",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the 'Consolidated Fund (No. 2) Act 1995' was in effect during the time of the 'Children Act 2004'. They provided specific date ranges for both acts."
+  },
+  {
+    "task_id": "DU027",
+    "expected": "yes",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Business and Planning Act 2020 was during the Woodgrange Park Cemetery Act 1993. Let me break this down.\n\nFirst, I need to check the dates of both acts. The ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Business and Planning Act 2020 was in effect during the period of the Woodgrange Park Cemetery Act 1993. The dates given are from 2020-07-22 to "
+  },
+  {
+    "task_id": "DU028",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Human Fertilisation and Embryology Act 2008 was passed during the London Olympic Games and Paralympic Games (Amendment) Act 2011. Let me break this down",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Human Fertilisation and Embryology Act 2008 was in effect during the time of the London Olympic Games and Paralympic Games (Amendment) Act 2011."
+  },
+  {
+    "task_id": "DU029",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the National Audit Act 1983 was in effect during the Civil Aviation Act 2012. Let me break this down.\n\nFirst, I need to confirm the dates of both acts. The ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the National Audit Act 1983 was in effect during the Civil Aviation Act 2012. They provided specific date ranges for both acts. The National Audit A"
+  },
+  {
+    "task_id": "DU030",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Superannuation Act (Northern Ireland) 2013 was during the Civil List Act 1975. Let me break this down.\n\nFirst, I need to check the dates of both acts. T",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Superannuation Act (Northern Ireland) 2013 was in effect during the period of the Civil List Act 1975. The dates given are from 2013-01-09 to 20"
+  },
+  {
+    "task_id": "DU031",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the \"Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016\" was during the \"Parliamentary Buildings (Restoration and Re",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the \"Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016\" was in effect during the time period of the \"Parlia"
+  },
+  {
+    "task_id": "DU032",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Administration of Justice Act 1969 was in effect during the time the Local Government (Contracts) Act 1997 was passed. Let me break this down.\n\nFirst, I",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Administration of Justice Act 1969 was in effect during the time period of the Local Government (Contracts) Act 1997. The dates provided are fro"
+  },
+  {
+    "task_id": "DU033",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Work and Families Act (Northern Ireland) 2015 was during the Highway Act 1835. Let me break this down.\n\nFirst, I need to check the dates of both acts. The Hi",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out the user's question. They're asking if the Work and Families Act (Northern Ireland) 2015 was in effect during the period of the Highway Act 1835. Wait, but the da"
+  },
+  {
+    "task_id": "DU034",
+    "expected": "yes",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Rent (Agriculture) Act 1976 was during the Coal-Mining (Subsidence) Act 1957. Let me break this down.\n\nFirst, I need to check the dates of both acts. Th",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Rent (Agriculture) Act 1976 was in effect during the time of the Coal-Mining (Subsidence) Act 1957. The dates given are from 1976-11-22 to 2024-"
+  },
+  {
+    "task_id": "DU035",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Armed Forces Act 1981 was in effect during the time of the Income Tax (Trading and Other Income) Act 2005. Let me break this down.\n\nFirst, I need to con",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Armed Forces Act 1981 was in effect during the period of the Income Tax (Trading and Other Income) Act 2005. They provided specific date ranges "
+  },
+  {
+    "task_id": "DU036",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Human Rights Act 1998 came into effect after the Post Office Act 1969. Let me start by recalling the dates of these two pieces of legislation.\n\nFirst, t",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Human Rights Act 1998 was in effect during the Post Office Act 1969. Hmm. First, I need to check the dates when each of these acts were in force"
+  },
+  {
+    "task_id": "DU037",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Killingholme Generating Stations (Ancillary Powers) Act 1991' was in effect during the 'Landlord and Tenant Act 1985'. Let me break this down.\n\nFirst, ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Killingholme Generating Stations (Ancillary Powers) Act 1991 was in effect during the Landlord and Tenant Act 1985. The dates given are from 199"
+  },
+  {
+    "task_id": "DU038",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the War Pensions Act 1921 was in effect during the time of the Sexual Offences (Amendment) Act 2000. Let me break this down.\n\nFirst, I need to confirm the d",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the War Pensions Act 1921 was in effect during the time of the Sexual Offences (Amendment) Act 2000. They provided specific date ranges for both act"
+  },
+  {
+    "task_id": "DU039",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Concealment of Birth (Scotland) Act 1809 was in effect during the Patents Act 1949. Let me start by understanding both acts.\n\nFirst, the Concealment of ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out the user's question. They're asking whether the Concealment of Birth (Scotland) Act 1809 was in effect during the Patents Act 1949, considering specific date rang"
+  },
+  {
+    "task_id": "DU040",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Electronic Communications Act (Northern Ireland) 2001 was during the Sale of Farming Stock Act 1814. Let me break this down.\n\nFirst, I need to check the",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure this out. The user is asking whether the Electronic Communications Act (Northern Ireland) 2001 was in effect during the time of the Sale of Farming Stock Act 1814. Wa"
+  },
+  {
+    "task_id": "DU041",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the \"Trees Act 1970\" was during the \"Duchy of Lancaster Act 1808.\" Let me break this down.\n\nFirst, I need to check the dates. The Duchy of Lancaster Act 1808 was",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure this out. The user is asking whether the Trees Act 1970 was in effect during the Duchy of Lancaster Act 1808. Wait, that doesn't make sense at first glance because th"
+  },
+  {
+    "task_id": "DU042",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the \"Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988\" was during the \"Local Government (Boundaries) Act (Northern Ireland) 2008.\" Le",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's tackle this question. The user is asking whether the \"Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988\" was in effect during the time period of the \"Local Go"
+  },
+  {
+    "task_id": "DU043",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992' was in effect during the 'Merchant Shipping Act 1894'. Let me break this down.\n\nFirst, ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the 'Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992' was in effect during the same period as the 'Merchant Shipping Act 1894'. They "
+  },
+  {
+    "task_id": "DU044",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Sexual Offences (Scotland) Act 1976 was during the National Insurance Contributions (Reduction in Rates) Act 2023. Hmm, first I need to figure out what ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Sexual Offences (Scotland) Act 1976 was in effect during the time of the National Insurance Contributions (Reduction in Rates) Act 2023. They pr"
+  },
+  {
+    "task_id": "DU045",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Small Charitable Donations Act 2012' was during the 'Consolidated Fund (No. 2) Act 2004'. Let me break this down.\n\nFirst, I need to check the dates of ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Small Charitable Donations Act 2012 was in effect during the Consolidated Fund (No. 2) Act 2004. The dates given are from 2012-12-19 to 2017-04-"
+  },
+  {
+    "task_id": "DU046",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the \"Crown Benefices (Parish Representatives) Measure 2010\" was in effect during the \"Local Authority Social Services Act 1970.\" Let me break this down.\n\nFi",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's tackle this question. The user is asking whether the Crown Benefices (Parish Representatives) Measure 2010 was in effect during the time when the Local Authority Social Services Ac"
+  },
+  {
+    "task_id": "DU047",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the \"Senedd Cymru (Members and Elections) Act 2024\" happened during the \"Bills of Exchange (Ireland) Act 1828.\" Let me break this down.\n\nFirst, I need to check t",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out the user's question. They're asking whether the Senedd Cymru (Members and Elections) Act 2024 was in effect during the time of the Bills of Exchange (Ireland) Act"
+  },
+  {
+    "task_id": "DU048",
+    "expected": "yes",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Finance (No. 2) Act 2005 was during the Midland Metro (No. 2) Act 1992. Let me break this down.\n\nFirst, I need to check the dates of both acts. The Midl",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Finance (No. 2) Act 2005 was in effect during the period of the Midland Metro (No. 2) Act 1992. The dates given are from 2005-07-20 to 2023-01-3"
+  },
+  {
+    "task_id": "DU049",
+    "expected": "yes",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Scottish Land Court Act 1993 was during the Railway Companies Act 1867. Let me break this down.\n\nFirst, I need to check the dates of both acts. The Rail",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Scottish Land Court Act 1993 was in effect during the time of the Railway Companies Act 1867. The dates given are from 1993-11-05 to 2016-11-14 "
+  },
+  {
+    "task_id": "DU050",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, let's try to figure out the user's question. They asked, \"Is 'Hospital Parking Charges Act (Northern Ireland) 2024' during 'Church of England (Miscellaneous Provisions) Measure 2005'?\" H",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out the user's question. They're asking whether the \"Hospital Parking Charges Act (Northern Ireland) 2024\" was in effect during the time when the \"Church of England ("
+  },
+  {
+    "task_id": "DU051",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Hunting Act 2004 was passed during the Borders, Citizenship and Immigration Act 2009. Let me start by recalling the dates of these two pieces of legisla",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Hunting Act 2004 was in effect during the time when the Borders, Citizenship and Immigration Act 2009 was in place. They provided specific date "
+  },
+  {
+    "task_id": "DU052",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013' was during the 'Appellate Jurisdiction Act 1887'. Let me break this down.\n\nFirst, ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's tackle this question. The user is asking whether the Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013 was in effect during the period of the Appellate Jurisdicti"
+  },
+  {
+    "task_id": "DU053",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Employers' Liability (Compulsory Insurance) Act 1969 was in effect during the time of the Parliamentary Constituencies Act 2020. Let me break this down.",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out the user's question. They're asking whether the Employers' Liability (Compulsory Insurance) Act 1969 was in effect during the time of the Parliamentary Constituen"
+  },
+  {
+    "task_id": "DU054",
+    "expected": "yes",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Consolidated Fund (No. 2) Act 1995' was during the 'Easter Act 1928'. Let me break this down.\n\nFirst, I need to check the dates of both acts. The Easte",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Consolidated Fund (No. 2) Act 1995 was in effect during the time of the Easter Act 1928. The dates given are from 1995-12-19 to 2013-10-12 for t"
+  },
+  {
+    "task_id": "DU055",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Sheriff Courts and Legal Officers (Scotland) Act 1927 was in effect during the time of the Family Allowances and National Insurance Act 1967. Let me bre",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Sheriff Courts and Legal Officers (Scotland) Act 1927 was in effect during the time of the Family Allowances and National Insurance Act 1967. Th"
+  },
+  {
+    "task_id": "DU056",
+    "expected": "yes",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Sex Discrimination Act 1975 was during the Executors (Scotland) Act 1900. Let me break this down.\n\nFirst, I need to check the dates of both acts. The Se",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Sex Discrimination Act 1975 was in effect during the time of the Executors (Scotland) Act 1900. The dates given are from 1975-11-12 to 2021-12-0"
+  },
+  {
+    "task_id": "DU057",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 was during the Political Parties and Elections Act 2009. Let me break this down.\n\nFirst",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 was in effect during the time when the Political Parties and Elections Act 2009"
+  },
+  {
+    "task_id": "DU058",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Breeding of Dogs Act 1973' was in effect during the 'Nottingham City Council Act 2013'. Let me start by understanding both pieces of legislation.\n\nFirs",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the 'Breeding of Dogs Act 1973' was in effect during the time of the 'Nottingham City Council Act 2013'. The dates provided are from 1973-10-25 to 2"
+  },
+  {
+    "task_id": "DU059",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Local Authorities (Restoration of Works Powers) Act 1977 was in effect during the time the Church of England (Miscellaneous Provisions) Measure 2018 was",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Local Authorities (Restoration of Works Powers) Act 1977 was in effect during the time when the Church of England (Miscellaneous Provisions) Mea"
+  },
+  {
+    "task_id": "DU060",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Green Energy (Definition and Promotion) Act 2009' was during the 'Children Act 2004'. Let me break this down.\n\nFirst, I need to confirm the dates of bo",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Green Energy (Definition and Promotion) Act 2009 was in effect during the Children Act 2004. The dates provided are from 2009-11-12 to 2025-07-0"
+  },
+  {
+    "task_id": "DU061",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Police (Northern Ireland) Act 1998 was during the Concessionary Bus Travel Act 2007. Let me break this down.\n\nFirst, I need to check the dates of both a",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Police (Northern Ireland) Act 1998 was in effect during the Concessionary Bus Travel Act 2007. They provided specific date ranges for both acts."
+  },
+  {
+    "task_id": "DU062",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the \"Pastoral (Amendment) Measure 2006\" was during the \"House of Commons (Disqualifications) Act 1801.\" Let me break this down.\n\nFirst, I need to check the ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out the user's question. They're asking whether the \"Pastoral (Amendment) Measure 2006\" was in effect during the time when the \"House of Commons (Disqualifications) A"
+  },
+  {
+    "task_id": "DU063",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Bus Services Act 2017 happened during the Removal Terms (Scotland) Act 1886. Let me break this down.\n\nFirst, I need to check the dates of both acts. The Bus ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Bus Services Act 2017 was in effect during the Removal Terms (Scotland) Act 1886. Hmm, that sounds a bit confusing because the dates are way apa"
+  },
+  {
+    "task_id": "DU064",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Consolidated Fund Act 1816 occurred during the British Technology Group Act 1991. Let me break this down.\n\nFirst, I need to check the dates of both acts",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out the answer to this question. The user is asking whether the Consolidated Fund Act 1816 was in effect during the British Technology Group Act 1991. The dates given"
+  },
+  {
+    "task_id": "DU065",
+    "expected": "yes",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Tobacco Advertising and Promotion Act 2002' happened during the 'Light Railways Act 1912'. Let me break this down.\n\nFirst, I need to check the dates of",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Tobacco Advertising and Promotion Act 2002 was in effect during the time of the Light Railways Act 1912. Hmm. First, I need to check the dates p"
+  },
+  {
+    "task_id": "DU066",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Ivory Act 2018 was during the Energy Act 2013. Let me start by recalling what these acts are about. The Energy Act 2013 is something I remember was related t",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Ivory Act 2018 was in effect during the Energy Act 2013. The dates given are from 2018-12-20 to 2025-07-01 for the Ivory Act, and from 2013-12-1"
+  },
+  {
+    "task_id": "DU067",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Chequers Estate Act 1917 was during the Industrial Common Ownership Act 1976. Let me start by checking the dates of both acts. The Chequers Estate Act is fro",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Chequers Estate Act 1917 was in effect during the time of the Industrial Common Ownership Act 1976. They provided specific date ranges for both "
+  },
+  {
+    "task_id": "DU068",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Local Authorities (Goods and Services) Act 1970 was in effect during the Trustee Savings Banks Act 1981. Let me break this down.\n\nFirst, I need to confi",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Local Authorities (Goods and Services) Act 1970 was in effect during the Trustee Savings Banks Act 1981. So, they want to know if the time perio"
+  },
+  {
+    "task_id": "DU069",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Law Officers Act 1997 was in effect during the Incumbents (Vacation of Benefices) (Amendment) Measure 1993. Let me break this down.\n\nFirst, I need to ch",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if the Law Officers Act 1997 was in effect during the same time as the Incumbents (Vacation of Benefices) (Amendment) Measure 1993. \n\nFirst, I need to understand "
+  },
+  {
+    "task_id": "DU070",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Pensions Act 2007 was during the Antarctic Act 2013. Let me break this down.\n\nFirst, I need to check the dates of both acts. The Pensions Act 2007 was passed",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Pensions Act 2007 was in effect during the time of the Antarctic Act 2013. They provided specific date ranges for both acts. First, I need to ch"
+  },
+  {
+    "task_id": "DU071",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Agriculture Act 1986 came into effect during the time of the Hairdressers (Registration) Act 1964. Let me break this down.\n\nFirst, I need to confirm the",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Agriculture Act 1986 was in effect during the time of the Hairdressers (Registration) Act 1964. The dates provided are from 1986-07-25 to 2025-0"
+  },
+  {
+    "task_id": "DU072",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the \"Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015\" was during the \"Improvement of Land Act 1864.\" Let me break this down.\n\nFi",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if the Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015 was in effect during the Improvement of Land Act 1864. The user provided specif"
+  },
+  {
+    "task_id": "DU073",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Education Act 2005 came into effect during the time when the Police and Criminal Evidence Act 1984 was in place. Let me break this down.\n\nFirst, I need ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the 'Education Act 2005' was in effect during the time of the 'Police and Criminal Evidence Act 1984'. They provided specific date ranges for both a"
+  },
+  {
+    "task_id": "DU074",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the \"Dawat-e-Hadiyah Act 1993\" was during the \"Mines and Quarries Act 1954.\" Let me break this down.\n\nFirst, I need to check if both acts exist. The Mines a",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Dawat-e-Hadiyah Act 1993 was in effect during the Mines and Quarries Act 1954. The dates given are from 1993-07-01 to 2025-07-01 for the Dawat-e"
+  },
+  {
+    "task_id": "DU075",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Finance Act 1988 was during the Sailors and Soldiers (Gifts for Land Settlement) Act 1916. Let me break this down.\n\nFirst, I need to check the dates of ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Finance Act 1988 was in effect during the time of the Sailors and Soldiers (Gifts for Land Settlement) Act 1916. Hmm. Wait, that doesn't make se"
+  },
+  {
+    "task_id": "DU076",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Penalties for Drunkenness Act 1962' was in effect during the 'Sports Grounds Safety Authority Act 2011'. Let me break this down.\n\nFirst, I need to chec",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the 'Penalties for Drunkenness Act 1962' was in effect during the time of the 'Sports Grounds Safety Authority Act 2011'. They provided dates for bo"
+  },
+  {
+    "task_id": "DU077",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Supreme Court (Offices) Act 1997 was in effect during the Drugs Act 2005. Let me break this down.\n\nFirst, I need to confirm the dates of both acts. The ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Supreme Court (Offices) Act 1997 was in effect during the time when the Drugs Act 2005 was in place. They provided specific date ranges for both"
+  },
+  {
+    "task_id": "DU078",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Diocesan Stipends Funds (Amendment) Measure 2016' was during the 'Pensions Act 2007'. Let me break this down.\n\nFirst, I need to check the dates of both",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's tackle this question. The user is asking whether the 'Diocesan Stipends Funds (Amendment) Measure 2016' was in effect during the time when the 'Pensions Act 2007' was active. They "
+  },
+  {
+    "task_id": "DU079",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Parliamentary Standards Act 2009 was in effect during the Strikes (Minimum Service Levels) Act 2023. Let me break this down.\n\nFirst, I need to confirm t",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Parliamentary Standards Act 2009 was in effect during the time of the Strikes (Minimum Service Levels) Act 2023. They provided specific date ran"
+  },
+  {
+    "task_id": "DU080",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Solicitors (Scotland) Act 1988 was during the Public Registers and Records (Scotland) Act 1948. Let me break this down.\n\nFirst, I need to check the date",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Solicitors (Scotland) Act 1988 was in effect during the time of the Public Registers and Records (Scotland) Act 1948. The dates given are from 1"
+  },
+  {
+    "task_id": "DU081",
+    "expected": "yes",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Consolidated Fund Act 2008 was during the Administration of Justice Act 1960. Let me break this down.\n\nFirst, I need to check the dates of both acts. Th",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Consolidated Fund Act 2008 was in effect during the Administration of Justice Act 1960. The dates given are from 2008-12-18 to 2015-02-17 for th"
+  },
+  {
+    "task_id": "DU082",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the 'School Grants Act 1855' happened during the 'Housing Act 1974'. Let me break this down.\n\nFirst, I need to check the dates of both acts. The School Grants Ac",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if the School Grants Act 1855 was in effect during the Housing Act 1974. The user provided specific dates, so I need to check those first.\n\nThe School Grants Act "
+  },
+  {
+    "task_id": "DU083",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Refreshment Houses Act 1964 was in effect during the time of the Criminal Law (Consolidation) (Scotland) Act 1995. Let me start by understanding both ac",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Refreshment Houses Act 1964 was in effect during the time of the Criminal Law (Consolidation) (Scotland) Act 1995. They provided specific dates:"
+  },
+  {
+    "task_id": "DU084",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Railways Act 1921 was in effect during the time of the Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010. Let me break this down.\n\nFir",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if the Railways Act 1921 was in effect during the time of the Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010. \n\nFirst, I need to understand t"
+  },
+  {
+    "task_id": "DU085",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the \"Product Security and Telecommunications Infrastructure Act 2022\" was passed during the \"Powers of Attorney Act 2023.\" Let me break this down.\n\nFirst, I need",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Product Security and Telecommunications Infrastructure Act 2022 was in effect during the Powers of Attorney Act 2023. They provided specific dat"
+  },
+  {
+    "task_id": "DU086",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Criminal Justice (Terrorism and Conspiracy) Act 1998 was in effect during the time of the Mission and Pastoral Measure 2011. Let me start by understandi",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Criminal Justice (Terrorism and Conspiracy) Act 1998 was in effect during the time period of the Mission and Pastoral Measure 2011. The dates gi"
+  },
+  {
+    "task_id": "DU087",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the \"Veterans Advisory and Pensions Committees Act 2023\" was during the \"European Communities (Finance) Act 2001.\" Hmm, first, I need to understand what they're ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Veterans Advisory and Pensions Committees Act 2023 was in effect during the time of the European Communities (Finance) Act 2001. The dates given"
+  },
+  {
+    "task_id": "DU088",
+    "expected": "yes",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Export Control Act 2002 was enacted during the Belfast Charitable Society Act 1996. Let me break this down.\n\nFirst, I need to check the dates of both ac",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Export Control Act 2002 was in effect during the Belfast Charitable Society Act 1996. The dates given are from 2002-07-24 to 2021-10-05 for the "
+  },
+  {
+    "task_id": "DU089",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the 'Consolidated Fund (No. 2) Act 1998' was during the 'Solicitors Act 1974'. Let me break this down.\n\nFirst, I need to check the dates of both acts. The S",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Consolidated Fund (No. 2) Act 1998 was in effect during the Solicitors Act 1974. Hmm. Wait, the dates they provided are from 1998-12-17 to 2025-"
+  },
+  {
+    "task_id": "DU090",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Justices of the Peace Act 1949 was in effect during the time of the Aberdeen Harbour Order Confirmation Act 1992. Let me break this down.\n\nFirst, I need",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Justices of the Peace Act 1949 was in effect during the time of the Aberdeen Harbour Order Confirmation Act 1992. They provided specific date ra"
+  },
+  {
+    "task_id": "DU091",
+    "expected": "no",
+    "qwen_main_answer": null,
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the \"Offices, Shops and Railway Premises Act 1963\" was during the \"Sustainable Communities Act 2007.\" Let me break this down.\n\nFirst, I need to confirm the ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Offices, Shops and Railway Premises Act 1963 was in effect during the time of the Sustainable Communities Act 2007. They provided specific dates"
+  },
+  {
+    "task_id": "DU092",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Northern Ireland (Loans) Act 1975 was during the Housing Act 1974. Let me break this down.\n\nFirst, I need to check the dates of both acts. The Housing A",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Northern Ireland (Loans) Act 1975 was in effect during the period of the Housing Act 1974. Both acts have end dates listed as 2025-07-01, but th"
+  },
+  {
+    "task_id": "DU093",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Sustainable Communities Act 2007 was during the Autism Act (Northern Ireland) 2011. Let me break this down.\n\nFirst, I need to check the dates of both ac",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Sustainable Communities Act 2007 was in effect during the Autism Act (Northern Ireland) 2011. So first, I need to check the dates when each of t"
+  },
+  {
+    "task_id": "DU094",
+    "expected": "no",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, the user is asking if the Non-Domestic Rating Act 2023 was during the Modern Slavery Act 2015. Let me start by understanding the question. They want to know the timeline relationship bet",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Non-Domestic Rating Act 2023 was in effect during the Modern Slavery Act 2015. Hmm. First, I need to check the dates provided for both acts.\n\nTh"
+  },
+  {
+    "task_id": "DU095",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the 'Geological Survey Act 1845' was during the 'Water Act 2014'. Let me break this down.\n\nFirst, I need to check the dates. The Geological Survey Act 1845 – tha",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the 'Geological Survey Act 1845' was in effect during the time of the 'Water Act 2014'. They provided specific date ranges for both acts. The Geolog"
+  },
+  {
+    "task_id": "DU096",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Prevention of Crimes Act 1871 was in effect during the time the Public Audit (Wales) Act 2013 was passed. Let me break this down.\n\nFirst, I need to unde",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's try to figure out if the Prevention of Crimes Act 1871 was in effect during the time the Public Audit (Wales) Act 2013 was active. \n\nFirst, I need to understand the dates involved."
+  },
+  {
+    "task_id": "DU097",
+    "expected": "yes",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016 was during the City of London (Approved Premises for Marriage) Act 1996. Let",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016 was in effect during the period of the City of London (Approved Prem"
+  },
+  {
+    "task_id": "DU098",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the Environmental Protection (Single-use Plastic Products) (Wales) Act 2023 was passed during the Medway Ports Authority Act 1973. Let me break this down.\n\n",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Environmental Protection (Single-use Plastic Products) (Wales) Act 2023 was in effect during the Medway Ports Authority Act 1973. The dates give"
+  },
+  {
+    "task_id": "DU099",
+    "expected": "no",
+    "qwen_main_answer": "no",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking if the Employment Act (Northern Ireland) 2010 was during the Commons Registration (East Sussex) Act 1994. Let me break this down.\n\nFirst, I need to check the dates ",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Employment Act (Northern Ireland) 2010 was in effect during the period of the Commons Registration (East Sussex) Act 1994. The dates given are f"
+  },
+  {
+    "task_id": "DU100",
+    "expected": "yes",
+    "qwen_main_answer": "yes",
+    "qwen_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "qwen_main_snippet": "<think>\nOkay, so the user is asking whether the United Kingdom Internal Market Act 2020 was enacted during the Matrimonial Homes (Family Protection) (Scotland) Act 1981. Let me break this down.\n\nFirst",
+    "qwen_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the United Kingdom Internal Market Act 2020 was in effect during the period of the Matrimonial Homes (Family Protection) (Scotland) Act 1981. The da"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "task_id": "DU001",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To determine if the 'Budget Act (Northern Ireland) 2010' is during the 'National Debt Act 1972', I would need to compare their time periods. \n\nThe National Debt Act 1972 was enacted in 1972.\nThe Budge",
+    "claude_with_dates_snippet": "To determine if the 'Budget Act (Northern Ireland) 2010' is during the 'National Debt Act 1972', I'll compare their date ranges:\n\nBudget Act (Northern Ireland) 2010:\nStart: 2010-03-12\nEnd: 2016-02-05\n"
+  },
+  {
+    "task_id": "DU002",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot find a reference to a \"Bell's Bridge Order Confirmation Act 1995\" in my knowledge base. Without being able to verify the specific act, I cannot confirm whether it was during ",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\n'Bell's Bridge Order Confirmation Act 1995':\n- Start date: 1995-07-19\n- End date: 2025-07-01\n\n'Pests Act 1954':\n- Start date: 1954-11-25\n-"
+  },
+  {
+    "task_id": "DU003",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot confidently determine whether the 'Statutory Instruments (Production and Sale) Act 1996' was in effect during the 'Budget Act (Northern Ireland) 2009' without verifying the s",
+    "claude_with_dates_snippet": "To determine if the 'Statutory Instruments (Production and Sale) Act 1996' is during the 'Budget Act (Northern Ireland) 2009', I'll compare their date ranges:\n\nStatutory Instruments (Production and Sa"
+  },
+  {
+    "task_id": "DU004",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively answer whether the 'Public Trustee (Liability and Fees) Act 2002' was during the 'Road Races (Amendment) Act (Northern Ireland) 2014' without additional context ",
+    "claude_with_dates_snippet": "To determine if the 'Public Trustee (Liability and Fees) Act 2002' is during the 'Road Races (Amendment) Act (Northern Ireland) 2014', I'll compare their date ranges:\n\nPublic Trustee (Liability and Fe"
+  },
+  {
+    "task_id": "DU005",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the Armed Forces Act 2006 was not during the Deer Act 1991. The Armed Forces Act 2006 came after the Deer Act 1991. The Deer Act 1991 was passed in 1991, while the Armed Forces Act 2006 was passed",
+    "claude_with_dates_snippet": "To determine if the 'Armed Forces Act 2006' is during the 'Deer Act 1991', I'll compare their date ranges:\n\nArmed Forces Act 2006:\nStart: 2006-11-08\nEnd: 2024-10-17\n\nDeer Act 1991:\nStart: 1991-07-25\nE"
+  },
+  {
+    "task_id": "DU006",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot find a definitive reference to a 'Veterans Advisory and Pensions Committees Act 2023' in my current knowledge base. Without being able to verify the specific details of this ",
+    "claude_with_dates_snippet": "To determine if the 'Veterans Advisory and Pensions Committees Act 2023' is during the 'Regulation of Registered Social Landlords (Wales) Act 2018', I'll compare their date ranges:\n\nVeterans Advisory "
+  },
+  {
+    "task_id": "DU007",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To determine if the 'Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012' is during the 'National Health Service (Amendment) Act 1949', I'll compare their years:\n\n- Air Passenger Duty Act",
+    "claude_with_dates_snippet": "To determine if the 'Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012' is during the 'National Health Service (Amendment) Act 1949', I'll compare their date ranges:\n\nAir Passenger Duty"
+  },
+  {
+    "task_id": "DU008",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm the temporal relationship between these two specific Acts without verifying their exact dates. To accurately determine if one Act was in effect during an",
+    "claude_with_dates_snippet": "To determine if the 'Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021' is during the 'Mental Health (Approval Functions) Act 2012', I'll compare their date ranges:\n\n'Fu"
+  },
+  {
+    "task_id": "DU009",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the Post Office Act 1953 predates the Succession to the Crown Act 2013. The Post Office Act 1953 was enacted in 1953, while the Succession to the Crown Act 2013 was passed in 2013, approximately 6",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\nPost Office Act 1953: 1953-07-31 to 2015-10-21\nSuccession to the Crown Act 2013: 2013-04-25 to 2025-07-01\n\nSince the Post Office Act 1953 "
+  },
+  {
+    "task_id": "DU010",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the Harris Tweed Act 1993 is not during the Civil Evidence Act 1995. These are two separate pieces of legislation in the United Kingdom that deal with different subjects. The Harris Tweed Act 1993",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\nHarris Tweed Act 1993: \n- Start date: 1993-07-20\n- End date: 2025-07-01\n\nCivil Evidence Act 1995:\n- Start date: 1995-11-08\n- End date: 202"
+  },
+  {
+    "task_id": "DU011",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "I apologize, but I cannot find a definitive record of a \"British Railways Order Confirmation Act 1994\" or confirm its specific temporal relationship with the \"Friendly Societies Act 1974\" without furt",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\n'British Railways Order Confirmation Act 1994':\n- Start date: 1994-03-24\n- End date: 2025-07-01\n\n'Friendly Societies Act 1974':\n- Start da"
+  },
+  {
+    "task_id": "DU012",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the 'Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016' was not during the 'London Local Authorities Act 1995'. The London Local Authorities Act 1995 predates the Nor",
+    "claude_with_dates_snippet": "To determine if the 'Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016' is during the 'London Local Authorities Act 1995', I'll compare their date ranges:\n\nHealth and Soc"
+  },
+  {
+    "task_id": "DU013",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To determine if the 'Building Societies (Funding) and Mutual Societies (Transfers) Act 2007' is during the 'Supreme Court (Offices) Act 1997', I'll compare their years:\n\n- Supreme Court (Offices) Act ",
+    "claude_with_dates_snippet": "To determine if the 'Building Societies (Funding) and Mutual Societies (Transfers) Act 2007' is during the 'Supreme Court (Offices) Act 1997', I'll compare their date ranges:\n\nBuilding Societies Act: "
+  },
+  {
+    "task_id": "DU014",
+    "expected": "yes",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "To accurately answer this, I would need to verify the specific dates of these two Acts. However, based on the years provided:\n\n- 'Consolidated Fund (No. 2) Act 2004' is from 2004\n- 'Railways (Electric",
+    "claude_with_dates_snippet": "To determine if the 'Consolidated Fund (No. 2) Act 2004' is during the 'Railways (Electrical Power) Act 1903', I'll compare their date ranges:\n\nRailways (Electrical Power) Act 1903:\n- Start date: 1903"
+  },
+  {
+    "task_id": "DU015",
+    "expected": "no",
+    "claude_main_answer": "yes",
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To accurately answer this, I'll clarify the chronology:\n\n- Paymaster General Act 1848 was passed in 1848\n- Companies (Consolidation) Act 1908 was passed in 1908\n\nSince 1848 is earlier than 1908, the P",
+    "claude_with_dates_snippet": "Let me help you compare the dates:\n\nPaymaster General Act 1848:\n- Start date: 2025-07-14\n- End date: 2025-07-01\n\nCompanies (Consolidation) Act 1908:\n- Start date: 1908-12-21\n- End date: 2025-07-01\n\nTh"
+  },
+  {
+    "task_id": "DU016",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm the temporal relationship between these two acts without additional context or research. To accurately determine if the 'Hill Samuel Bank and United Domi",
+    "claude_with_dates_snippet": "To determine if the 'Hill Samuel Bank and United Dominions Trust Act 1994' is during the 'Nurseries and Child-Minders Regulation Act 1948', I'll compare their date ranges:\n\nHill Samuel Bank and United"
+  },
+  {
+    "task_id": "DU017",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To determine if the 'Pensions Act 2011' is during the 'Supply and Appropriation (Main Estimates) Act 2019', I'll compare their years:\n\nPensions Act 2011: Year is 2011\nSupply and Appropriation (Main Es",
+    "claude_with_dates_snippet": "To determine if the 'Pensions Act 2011' is during the 'Supply and Appropriation (Main Estimates) Act 2019', I'll compare their date ranges:\n\nPensions Act 2011:\n- Start date: 2011-11-03\n- End date: 202"
+  },
+  {
+    "task_id": "DU018",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the 'National Gallery and Tate Gallery Act 1954' is not during the 'Accession Declaration Act 1910'. These are two separate pieces of legislation from different time periods. The Accession Declara",
+    "claude_with_dates_snippet": "To determine if the 'National Gallery and Tate Gallery Act 1954' is during the 'Accession Declaration Act 1910', I'll compare their date ranges:\n\nNational Gallery and Tate Gallery Act 1954:\n- Start da"
+  },
+  {
+    "task_id": "DU019",
+    "expected": "yes",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the 'Corporate Manslaughter and Corporate Homicide Act 2007' was not during the 'Trade Union Act 1984'. These are two separate pieces of legislation from different time periods:\n\n1. Trade Union Ac",
+    "claude_with_dates_snippet": "To determine if the 'Corporate Manslaughter and Corporate Homicide Act 2007' is during the 'Trade Union Act 1984', I'll compare their date ranges:\n\nTrade Union Act 1984:\n- Start: 1984-07-26\n- End: 202"
+  },
+  {
+    "task_id": "DU020",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "I apologize, but I cannot confidently confirm whether the 'Agricultural Land (Utilisation) Act 1931' was in effect during the 'Safeguarding and Clergy Discipline Measure 2016'. To accurately answer th",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\nAgricultural Land (Utilisation) Act 1931:\n- Start date: 1931-07-31\n- End date: 2025-06-10\n\nSafeguarding and Clergy Discipline Measure 2016"
+  },
+  {
+    "task_id": "DU021",
+    "expected": "yes",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "No, the 'Criminal Injuries Compensation Act 1995' is not during the 'Land Charges Act 1972'. These are two separate pieces of legislation in the UK that deal with different areas of law:\n\n1. Criminal ",
+    "claude_with_dates_snippet": "To determine if the 'Criminal Injuries Compensation Act 1995' is during the 'Land Charges Act 1972', I'll compare their date ranges:\n\nCriminal Injuries Compensation Act 1995:\nStart date: 1995-11-08\nEn"
+  },
+  {
+    "task_id": "DU022",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To determine if the 'Broads Authority Act 2009' is during the 'Education Act 1976', I'll compare their dates:\n\n- Broads Authority Act 2009: 2009\n- Education Act 1976: 1976\n\nSince 2009 comes after 1976",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\n• 'Broads Authority Act 2009' runs from 2009-07-02 to 2025-07-01\n• 'Education Act 1976' runs from 1976-11-22 to 2025-07-01\n\nTo check if th"
+  },
+  {
+    "task_id": "DU023",
+    "expected": "yes",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot determine the precise temporal relationship between these two Acts without additional context or specific date references. The 'Northern Ireland (Executive Formation etc) Act",
+    "claude_with_dates_snippet": "Let me help you compare the dates:\n\n'Northern Ireland (Executive Formation etc) Act 2019':\n- Start date: 2019-07-24\n- End date: 2022-11-24\n\n'Enterprise and New Towns (Scotland) Act 1990':\n- Start date"
+  },
+  {
+    "task_id": "DU024",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "claude_main_snippet": "No, the Visiting Forces Act 1952 was enacted well before the Curriculum and Assessment (Wales) Act 2021. The Visiting Forces Act 1952 is a much older piece of legislation that deals with the legal sta",
+    "claude_with_dates_snippet": "Let me help you compare the date ranges:\n\nVisiting Forces Act 1952:\n- Start date: 1952-10-30\n- End date: 2024-04-18\n\nCurriculum and Assessment (Wales) Act 2021:\n- Start date: 2021-04-29\n- End date: 20"
+  },
+  {
+    "task_id": "DU025",
+    "expected": "yes",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "I apologize, but I cannot confidently confirm whether the 'Derelict Land Act 1982' was during the 'India (Consequential Provision) Act 1949' without verifying the specific details. To provide an accur",
+    "claude_with_dates_snippet": "To determine if the 'Derelict Land Act 1982' is during the 'India (Consequential Provision) Act 1949', I'll compare their date ranges:\n\nDerelict Land Act 1982:\n- Start date: 1982-07-30\n- End date: 201"
+  },
+  {
+    "task_id": "DU026",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To accurately answer this, I would need to check the specific dates and details of these two Acts. Without direct reference to their exact timelines, I cannot confidently state whether the 'Consolidat",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\n'Consolidated Fund (No. 2) Act 1995':\n- Start date: 1995-12-19\n- End date: 2013-10-12\n\n'Children Act 2004':\n- Start date: 2004-11-15\n- End"
+  },
+  {
+    "task_id": "DU027",
+    "expected": "yes",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm the temporal relationship between these two specific acts without verifying their exact dates. To accurately determine if the Business and Planning Act 2",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\n'Business and Planning Act 2020':\n- Start date: 2020-07-22\n- End date: 2025-04-08\n\n'Woodgrange Park Cemetery Act 1993':\n- Start date: 1993"
+  },
+  {
+    "task_id": "DU028",
+    "expected": "no",
+    "claude_main_answer": "yes",
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To accurately answer this, I'll check the chronology of these two Acts:\n\n- Human Fertilisation and Embryology Act 2008 was passed in 2008\n- London Olympic Games and Paralympic Games (Amendment) Act 20",
+    "claude_with_dates_snippet": "To determine if the 'Human Fertilisation and Embryology Act 2008' is during the 'London Olympic Games and Paralympic Games (Amendment) Act 2011', I'll compare their date ranges:\n\nHuman Fertilisation a"
+  },
+  {
+    "task_id": "DU029",
+    "expected": "no",
+    "claude_main_answer": "yes",
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To determine if the 'National Audit Act 1983' is during the 'Civil Aviation Act 2012', I'll compare their years:\n\nNational Audit Act 1983: Year is 1983\nCivil Aviation Act 2012: Year is 2012\n\n1983 is b",
+    "claude_with_dates_snippet": "To determine if the 'National Audit Act 1983' is during the 'Civil Aviation Act 2012', I'll compare their date ranges:\n\nNational Audit Act 1983:\n- Start date: 1983-05-13\n- End date: 2018-06-08\n\nCivil "
+  },
+  {
+    "task_id": "DU030",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To determine if the 'Superannuation Act (Northern Ireland) 2013' is during the 'Civil List Act 1975', I would need to check their respective time periods. \n\nThe Civil List Act 1975 was enacted in 1975",
+    "claude_with_dates_snippet": "Let me help you compare the dates:\n\n'Superannuation Act (Northern Ireland) 2013':\n- Start date: 2013-01-09\n- End date: 2025-07-01\n\n'Civil List Act 1975':\n- Start date: 1975-12-19\n- End date: 2015-11-1"
+  },
+  {
+    "task_id": "DU031",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm the temporal relationship between these two specific Acts without verifying their exact dates. To accurately determine if the Credit Unions Act (Northern",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\nCredit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016:\n- Start date: 2016-04-22\n- End date: 2025-07-0"
+  },
+  {
+    "task_id": "DU032",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm the chronological relationship between these two acts without verifying the exact dates. To accurately determine if the Administration of Justice Act 196",
+    "claude_with_dates_snippet": "To determine if the 'Administration of Justice Act 1969' is during the 'Local Government (Contracts) Act 1997', I'll compare their date ranges:\n\nAdministration of Justice Act 1969:\n- Start date: 1969-"
+  },
+  {
+    "task_id": "DU033",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "claude_main_snippet": "No, the 'Work and Families Act (Northern Ireland) 2015' was enacted long after the 'Highway Act 1835'. The Highway Act 1835 is a much older piece of legislation from the 19th century, while the Work a",
+    "claude_with_dates_snippet": "No, the 'Work and Families Act (Northern Ireland) 2015' (from 2015-01-08 to 2025-07-01) is not during the 'Highway Act 1835' (from 2025-07-31 to 2025-07-01).\n\nThe dates for the 'Highway Act 1835' appe"
+  },
+  {
+    "task_id": "DU034",
+    "expected": "yes",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "I apologize, but I cannot definitively answer whether the 'Rent (Agriculture) Act 1976' was during the 'Coal-Mining (Subsidence) Act 1957' without additional context or verification. These appear to b",
+    "claude_with_dates_snippet": "To determine if the 'Rent (Agriculture) Act 1976' is during the 'Coal-Mining (Subsidence) Act 1957', I'll compare their date ranges:\n\nRent (Agriculture) Act 1976:\nStart: 1976-11-22\nEnd: 2024-11-20\n\nCo"
+  },
+  {
+    "task_id": "DU035",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot determine the precise chronological relationship between these two acts without additional context or verification. To accurately state whether the Armed Forces Act 1981 was ",
+    "claude_with_dates_snippet": "To determine if the 'Armed Forces Act 1981' is during the 'Income Tax (Trading and Other Income) Act 2005', I'll compare their date ranges:\n\nArmed Forces Act 1981:\nStart: 1981-07-28\nEnd: 2020-09-04\n\nI"
+  },
+  {
+    "task_id": "DU036",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the Human Rights Act 1998 was enacted after the Post Office Act 1969. The Post Office Act 1969 was passed in 1969, while the Human Rights Act 1998 was passed in 1998, approximately 29 years later.",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\nHuman Rights Act 1998:\n- Start date: 1998-11-09\n- End date: 2024-04-29\n\nPost Office Act 1969:\n- Start date: 1969-07-25\n- End date: 2018-06"
+  },
+  {
+    "task_id": "DU037",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To determine if the 'Killingholme Generating Stations (Ancillary Powers) Act 1991' was during the 'Landlord and Tenant Act 1985', I'll compare their dates:\n\n- Landlord and Tenant Act 1985: Enacted in ",
+    "claude_with_dates_snippet": "Let me help you compare the dates:\n\n'Killingholme Generating Stations (Ancillary Powers) Act 1991':\n- Start date: 1991-06-27\n- End date: 2025-07-01\n\n'Landlord and Tenant Act 1985':\n- Start date: 1985-"
+  },
+  {
+    "task_id": "DU038",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the War Pensions Act 1921 was not during the Sexual Offences (Amendment) Act 2000. These are two separate pieces of legislation from different time periods. The War Pensions Act 1921 predates the ",
+    "claude_with_dates_snippet": "To determine if the 'War Pensions Act 1921' is during the 'Sexual Offences (Amendment) Act 2000', I'll compare their date ranges:\n\nWar Pensions Act 1921:\n- Start date: 1921-08-19\n- End date: 2025-07-0"
+  },
+  {
+    "task_id": "DU039",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the 'Concealment of Birth (Scotland) Act 1809' is not during the 'Patents Act 1949'. These are two separate pieces of legislation from different time periods and dealing with different legal matte",
+    "claude_with_dates_snippet": "Let me help you compare the dates:\n\n'Concealment of Birth (Scotland) Act 1809':\n- Start date: 2025-07-20\n- End date: 2025-07-01\n\n'Patents Act 1949':\n- Start date: 1949-12-16\n- End date: 2013-10-11\n\nTh"
+  },
+  {
+    "task_id": "DU040",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To determine if the 'Electronic Communications Act (Northern Ireland) 2001' is during the 'Sale of Farming Stock Act 1814', I'll compare their dates:\n\nElectronic Communications Act (Northern Ireland) ",
+    "claude_with_dates_snippet": "To determine if the 'Electronic Communications Act (Northern Ireland) 2001' is during the 'Sale of Farming Stock Act 1814', I'll compare their date ranges:\n\nElectronic Communications Act (Northern Ire"
+  },
+  {
+    "task_id": "DU041",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To determine if the 'Trees Act 1970' is during the 'Duchy of Lancaster Act 1808', I'll compare their dates:\n\nTrees Act 1970: 1970\nDuchy of Lancaster Act 1808: 1808\n\n1970 is after 1808, so the Trees Ac",
+    "claude_with_dates_snippet": "Let me help you compare the date ranges:\n\nTrees Act 1970:\n- Start date: 1970-05-29\n- End date: 2025-07-01\n\nDuchy of Lancaster Act 1808:\n- Start date: 2025-07-18\n- End date: 2025-07-01\n\nTo determine if"
+  },
+  {
+    "task_id": "DU042",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the 'Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988' was not during the 'Local Government (Boundaries) Act (Northern Ireland) 2008'. These are two separate legislative act",
+    "claude_with_dates_snippet": "To determine if the 'Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988' is during the 'Local Government (Boundaries) Act (Northern Ireland) 2008', I'll compare their date ranges:"
+  },
+  {
+    "task_id": "DU043",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To determine if the 'Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992' is during the 'Merchant Shipping Act 1894', I'll compare their dates:\n\n- Merchant Shipping Act 1894: 1894\n- Sportin",
+    "claude_with_dates_snippet": "Let me help you compare the dates:\n\n'Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992':\n- Start date: 1992-12-03\n- End date: 2017-10-16\n\n'Merchant Shipping Act 1894':\n- Start date: 1894-"
+  },
+  {
+    "task_id": "DU044",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm whether the 'Sexual Offences (Scotland) Act 1976' was in effect during the 'National Insurance Contributions (Reduction in Rates) Act 2023' without verif",
+    "claude_with_dates_snippet": "Let me help you determine this by checking the date ranges:\n\n'Sexual Offences (Scotland) Act 1976':\n- Start date: 1976-11-15\n- End date: 2025-07-01\n\n'National Insurance Contributions (Reduction in Rat"
+  },
+  {
+    "task_id": "DU045",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm whether the 'Small Charitable Donations Act 2012' was during the 'Consolidated Fund (No. 2) Act 2004' without additional context or verification. These a",
+    "claude_with_dates_snippet": "To determine if the 'Small Charitable Donations Act 2012' is during the 'Consolidated Fund (No. 2) Act 2004', I'll compare their date ranges:\n\nSmall Charitable Donations Act 2012:\n- Start date: 2012-1"
+  },
+  {
+    "task_id": "DU046",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To accurately answer this, I would need to verify the specific dates and details of these two legal measures. However, based on the years mentioned, the Crown Benefices (Parish Representatives) Measur",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\n'Crown Benefices (Parish Representatives) Measure 2010':\n- Start date: 2010-03-18\n- End date: 2025-07-01\n\n'Local Authority Social Services"
+  },
+  {
+    "task_id": "DU047",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm the temporal relationship between these two acts without additional context or verification. The 'Senedd Cymru (Members and Elections) Act 2024' appears ",
+    "claude_with_dates_snippet": "Let me help you compare the dates:\n\n'Senedd Cymru (Members and Elections) Act 2024':\n- Start date: 2024-06-24\n- End date: 2025-02-27\n\n'Bills of Exchange (Ireland) Act 1828':\n- Start date: 2025-07-19\n-"
+  },
+  {
+    "task_id": "DU048",
+    "expected": "yes",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "To determine if the 'Finance (No. 2) Act 2005' is during the 'Midland Metro (No. 2) Act 1992', I'll compare their years:\n\n- Midland Metro (No. 2) Act 1992: Year is 1992\n- Finance (No. 2) Act 2005: Yea",
+    "claude_with_dates_snippet": "To determine if the 'Finance (No. 2) Act 2005' is during the 'Midland Metro (No. 2) Act 1992', I'll compare their date ranges:\n\nFinance (No. 2) Act 2005:\n- Start date: 2005-07-20\n- End date: 2023-01-3"
+  },
+  {
+    "task_id": "DU049",
+    "expected": "yes",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the Scottish Land Court Act 1993 is not during the Railway Companies Act 1867. These are two separate pieces of legislation from different time periods. The Railway Companies Act 1867 predates the",
+    "claude_with_dates_snippet": "Let me help you compare the time periods:\n\n'Scottish Land Court Act 1993':\n- Start date: 1993-11-05\n- End date: 2016-11-14\n\n'Railway Companies Act 1867':\n- Start date: 1867-08-20\n- End date: 2025-07-0"
+  },
+  {
+    "task_id": "DU050",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm whether the 'Hospital Parking Charges Act (Northern Ireland) 2024' is during the 'Church of England (Miscellaneous Provisions) Measure 2005' without veri",
+    "claude_with_dates_snippet": "Let me help you compare the dates:\n\n'Hospital Parking Charges Act (Northern Ireland) 2024':\n- Start date: 2024-05-16\n- End date: 2025-07-01\n\n'Church of England (Miscellaneous Provisions) Measure 2005'"
+  },
+  {
+    "task_id": "DU051",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the Hunting Act 2004 was passed before the Borders, Citizenship and Immigration Act 2009. The Hunting Act 2004 was enacted in November 2004, while the Borders, Citizenship and Immigration Act 2009",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\nHunting Act 2004: \n- Start date: 2004-11-18\n- End date: 2020-04-16\n\nBorders, Citizenship and Immigration Act 2009:\n- Start date: 2009-07-2"
+  },
+  {
+    "task_id": "DU052",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm whether the 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013' was during the 'Appellate Jurisdiction Act 1887' without additional con",
+    "claude_with_dates_snippet": "Let me help you compare the dates:\n\n'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013':\n- Start date: 2013-04-25\n- End date: 2025-07-01\n\n'Appellate Jurisdiction Act 1887':\n- Start d"
+  },
+  {
+    "task_id": "DU053",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "claude_main_snippet": "No, the 'Employers' Liability (Compulsory Insurance) Act 1969' was enacted before the 'Parliamentary Constituencies Act 2020'. The 1969 Act predates the 2020 Act by several decades.\n\nThe Employers' Li",
+    "claude_with_dates_snippet": "Let me help you compare the date ranges:\n\n'Employers' Liability (Compulsory Insurance) Act 1969':\n- Start date: 1969-10-22\n- End date: 2019-11-18\n\n'Parliamentary Constituencies Act 2020':\n- Start date"
+  },
+  {
+    "task_id": "DU054",
+    "expected": "yes",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively answer whether the 'Consolidated Fund (No. 2) Act 1995' was during the 'Easter Act 1928' without additional context or verification. These appear to be specific ",
+    "claude_with_dates_snippet": "To determine if the 'Consolidated Fund (No. 2) Act 1995' is during the 'Easter Act 1928', I'll compare their date ranges:\n\nEaster Act 1928: 1928-08-03 to 2025-07-01\nConsolidated Fund (No. 2) Act 1995:"
+  },
+  {
+    "task_id": "DU055",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "To determine if the 'Sheriff Courts and Legal Officers (Scotland) Act 1927' was during the 'Family Allowances and National Insurance Act 1967', I'll compare their dates:\n\n- Sheriff Courts and Legal Of",
+    "claude_with_dates_snippet": "To determine if the 'Sheriff Courts and Legal Officers (Scotland) Act 1927' is during the 'Family Allowances and National Insurance Act 1967', I'll compare their date ranges:\n\nSheriff Courts and Legal"
+  },
+  {
+    "task_id": "DU056",
+    "expected": "yes",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "No, the Sex Discrimination Act 1975 was not during the time of the Executors (Scotland) Act 1900. The Sex Discrimination Act 1975 was enacted much later, in 1975, while the Executors (Scotland) Act 19",
+    "claude_with_dates_snippet": "Let me help you compare the time periods:\n\nSex Discrimination Act 1975: 1975-11-12 to 2021-12-08\nExecutors (Scotland) Act 1900: 1900-08-08 to 2025-07-01\n\nThe Sex Discrimination Act 1975 starts after t"
+  },
+  {
+    "task_id": "DU057",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm whether the 'Courts and Tribunals (Judiciary and Functions of Staff) Act 2018' was enacted during the period of the 'Political Parties and Elections Act ",
+    "claude_with_dates_snippet": "To determine if the 'Courts and Tribunals (Judiciary and Functions of Staff) Act 2018' is during the 'Political Parties and Elections Act 2009', I'll compare their date ranges:\n\nCourts and Tribunals A"
+  },
+  {
+    "task_id": "DU058",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the Breeding of Dogs Act 1973 predates the Nottingham City Council Act 2013. The Breeding of Dogs Act 1973 was enacted in 1973, while the Nottingham City Council Act 2013 was passed much later in ",
+    "claude_with_dates_snippet": "Let me help you compare the dates:\n\n'Breeding of Dogs Act 1973':\n- Start date: 1973-10-25\n- End date: 2021-11-12\n\n'Nottingham City Council Act 2013':\n- Start date: 2013-02-28\n- End date: 2025-07-01\n\nT"
+  },
+  {
+    "task_id": "DU059",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To accurately answer this, I would need to review the specific details of both the 'Local Authorities (Restoration of Works Powers) Act 1977' and the 'Church of England (Miscellaneous Provisions) Meas",
+    "claude_with_dates_snippet": "To determine if the 'Local Authorities (Restoration of Works Powers) Act 1977' is during the 'Church of England (Miscellaneous Provisions) Measure 2018', I'll compare their date ranges:\n\nLocal Authori"
+  },
+  {
+    "task_id": "DU060",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the 'Green Energy (Definition and Promotion) Act 2009' is not part of the 'Children Act 2004'. These are two separate pieces of legislation dealing with different subjects. The Green Energy Act is",
+    "claude_with_dates_snippet": "Let me help you compare the dates:\n\n'Green Energy (Definition and Promotion) Act 2009':\n- Start date: 2009-11-12\n- End date: 2025-07-01\n\n'Children Act 2004':\n- Start date: 2004-11-15\n- End date: 2025-"
+  },
+  {
+    "task_id": "DU061",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively answer whether the 'Police (Northern Ireland) Act 1998' was during the 'Concessionary Bus Travel Act 2007' without additional context or verification. These appe",
+    "claude_with_dates_snippet": "Let me help you compare the date ranges:\n\n'Police (Northern Ireland) Act 1998':\n- Start date: 1998-07-24\n- End date: 2025-04-22\n\n'Concessionary Bus Travel Act 2007':\n- Start date: 2007-07-19\n- End dat"
+  },
+  {
+    "task_id": "DU062",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "claude_main_snippet": "No, the 'Pastoral (Amendment) Measure 2006' is not during the 'House of Commons (Disqualifications) Act 1801'. These are two separate pieces of legislation from different time periods. The House of Co",
+    "claude_with_dates_snippet": "To determine if the 'Pastoral (Amendment) Measure 2006' is during the 'House of Commons (Disqualifications) Act 1801', I'll compare their date ranges:\n\nPastoral (Amendment) Measure 2006:\nStart: 2006-0"
+  },
+  {
+    "task_id": "DU063",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the Bus Services Act 2017 is not during the Removal Terms (Scotland) Act 1886. The Bus Services Act 2017 was passed much later, in the 21st century, while the Removal Terms (Scotland) Act 1886 was",
+    "claude_with_dates_snippet": "To determine if the 'Bus Services Act 2017' is during the 'Removal Terms (Scotland) Act 1886', I'll compare their date ranges:\n\nBus Services Act 2017:\n- Start date: 2017-04-27\n- End date: 2025-07-01\n\n"
+  },
+  {
+    "task_id": "DU064",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm whether the 'Consolidated Fund Act 1816' was during the 'British Technology Group Act 1991' without additional context or verification. These two acts ar",
+    "claude_with_dates_snippet": "Let me help you compare the dates:\n\n'Consolidated Fund Act 1816': 2025-07-01 to 2025-07-01\n'British Technology Group Act 1991': 1991-10-22 to 2015-09-11\n\nThe Consolidated Fund Act 1816 is dated in the"
+  },
+  {
+    "task_id": "DU065",
+    "expected": "yes",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "No, the Tobacco Advertising and Promotion Act 2002 was not during the Light Railways Act 1912. These are two separate pieces of legislation from different time periods. The Light Railways Act 1912 pre",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\nTobacco Advertising and Promotion Act 2002:\n- Start date: 2002-11-07\n- End date: 2023-09-26\n\nLight Railways Act 1912:\n- Start date: 1912-1"
+  },
+  {
+    "task_id": "DU066",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "claude_main_snippet": "No, the Ivory Act 2018 is not during the Energy Act 2013. These are two separate pieces of legislation in the UK that deal with different subjects. The Ivory Act 2018 is about regulating the trade of ",
+    "claude_with_dates_snippet": "To determine if the 'Ivory Act 2018' is during the 'Energy Act 2013', I'll compare their date ranges:\n\nIvory Act 2018:\n- Start date: 2018-12-20\n- End date: 2025-07-01\n\nEnergy Act 2013:\n- Start date: 2"
+  },
+  {
+    "task_id": "DU067",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the Chequers Estate Act 1917 predates the Industrial Common Ownership Act 1976. The Chequers Estate Act was passed in 1917 during World War I, while the Industrial Common Ownership Act was passed ",
+    "claude_with_dates_snippet": "Let me help you compare the date ranges:\n\nChequers Estate Act 1917: 1917-12-20 to 2025-07-01\nIndustrial Common Ownership Act 1976: 1976-11-22 to 2015-05-22\n\nThe Chequers Estate Act 1917 starts before "
+  },
+  {
+    "task_id": "DU068",
+    "expected": "no",
+    "claude_main_answer": "yes",
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To determine if the 'Local Authorities (Goods and Services) Act 1970' was in effect during the 'Trustee Savings Banks Act 1981', I'll compare their dates:\n\n- Local Authorities (Goods and Services) Act",
+    "claude_with_dates_snippet": "To determine if the 'Local Authorities (Goods and Services) Act 1970' is during the 'Trustee Savings Banks Act 1981', I'll compare their date ranges:\n\nLocal Authorities (Goods and Services) Act 1970:\n"
+  },
+  {
+    "task_id": "DU069",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm whether the Law Officers Act 1997 was in effect during the Incumbents (Vacation of Benefices) (Amendment) Measure 1993. To accurately answer this, I woul",
+    "claude_with_dates_snippet": "To determine if the 'Law Officers Act 1997' is during the 'Incumbents (Vacation of Benefices) (Amendment) Measure 1993', I'll compare their date ranges:\n\nLaw Officers Act 1997:\nStart: 1997-07-31\nEnd: "
+  },
+  {
+    "task_id": "DU070",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the Pensions Act 2007 is not during the Antarctic Act 2013. The Pensions Act 2007 was enacted before the Antarctic Act 2013.",
+    "claude_with_dates_snippet": "To determine if the 'Pensions Act 2007' is during the 'Antarctic Act 2013', I'll compare their date ranges:\n\nPensions Act 2007: 2007-07-26 to 2022-01-19\nAntarctic Act 2013: 2013-03-26 to 2025-07-01\n\nT"
+  },
+  {
+    "task_id": "DU071",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot determine the precise chronological relationship between these two acts without additional context or verification. To accurately state whether the Agriculture Act 1986 was d",
+    "claude_with_dates_snippet": "To determine if the 'Agriculture Act 1986' is during the 'Hairdressers (Registration) Act 1964', I'll compare their date ranges:\n\nAgriculture Act 1986:\n- Start date: 1986-07-25\n- End date: 2025-06-10\n"
+  },
+  {
+    "task_id": "DU072",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "claude_main_snippet": "No, the 'Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015' was not during the 'Improvement of Land Act 1864'. These are two separate acts from different time periods:\n\n1. Th",
+    "claude_with_dates_snippet": "No, the 'Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015' (from 2015-04-29 to 2025-04-09) is not during the 'Improvement of Land Act 1864' (from 2025-07-29 to 2017-10-17).\n"
+  },
+  {
+    "task_id": "DU073",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the Education Act 2005 was passed after the Police and Criminal Evidence Act 1984. The Police and Criminal Evidence Act 1984 (PACE) was enacted in 1984, while the Education Act 2005 was passed in ",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\nEducation Act 2005:\n- Start date: 2005-04-07\n- End date: 2025-04-09\n\nPolice and Criminal Evidence Act 1984:\n- Start date: 1984-10-31\n- End"
+  },
+  {
+    "task_id": "DU074",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot confidently confirm the chronological relationship between these two acts without verifying the specific dates. To accurately determine whether the 'Dawat-e-Hadiyah Act 1993'",
+    "claude_with_dates_snippet": "To determine if the 'Dawat-e-Hadiyah Act 1993' is during the 'Mines and Quarries Act 1954', I'll compare their date ranges:\n\nDawat-e-Hadiyah Act 1993:\nStart: 1993-07-01\nEnd: 2025-07-01\n\nMines and Quar"
+  },
+  {
+    "task_id": "DU075",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To determine if the 'Finance Act 1988' is during the 'Sailors and Soldiers (Gifts for Land Settlement) Act 1916', I'll compare their years:\n\n- Sailors and Soldiers (Gifts for Land Settlement) Act 1916",
+    "claude_with_dates_snippet": "To determine if the 'Finance Act 1988' is during the 'Sailors and Soldiers (Gifts for Land Settlement) Act 1916', I'll compare their date ranges:\n\nSailors and Soldiers (Gifts for Land Settlement) Act "
+  },
+  {
+    "task_id": "DU076",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the 'Penalties for Drunkenness Act 1962' is not during the 'Sports Grounds Safety Authority Act 2011'. These are two separate pieces of legislation from different time periods. The Penalties for D",
+    "claude_with_dates_snippet": "To determine if the 'Penalties for Drunkenness Act 1962' is during the 'Sports Grounds Safety Authority Act 2011', I'll compare their date ranges:\n\nPenalties for Drunkenness Act 1962:\n- Start date: 19"
+  },
+  {
+    "task_id": "DU077",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To accurately answer this, I would need to check the specific dates of these two Acts. However, based on the years mentioned, the Supreme Court (Offices) Act 1997 predates the Drugs Act 2005. So the S",
+    "claude_with_dates_snippet": "To determine if the 'Supreme Court (Offices) Act 1997' is during the 'Drugs Act 2005', I'll compare their date ranges:\n\nSupreme Court (Offices) Act 1997:\n- Start date: 1997-12-17\n- End date: 2013-08-2"
+  },
+  {
+    "task_id": "DU078",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm whether the 'Diocesan Stipends Funds (Amendment) Measure 2016' was during the 'Pensions Act 2007' without additional context or reference. These appear t",
+    "claude_with_dates_snippet": "Let me help you compare the time periods:\n\n'Diocesan Stipends Funds (Amendment) Measure 2016':\n- Start date: 2016-03-16\n- End date: 2025-07-01\n\n'Pensions Act 2007':\n- Start date: 2007-07-26\n- End date"
+  },
+  {
+    "task_id": "DU079",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "To determine if the Parliamentary Standards Act 2009 is during the Strikes (Minimum Service Levels) Act 2023, I'll check their chronological order:\n\nParliamentary Standards Act 2009: Enacted in 2009\nS",
+    "claude_with_dates_snippet": "Let me help you compare the date ranges:\n\nParliamentary Standards Act 2009:\n- Start date: 2009-07-21\n- End date: 2023-03-08\n\nStrikes (Minimum Service Levels) Act 2023:\n- Start date: 2023-07-20\n- End d"
+  },
+  {
+    "task_id": "DU080",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To determine if the 'Solicitors (Scotland) Act 1988' is during the 'Public Registers and Records (Scotland) Act 1948', I'll compare their years:\n\n- Public Registers and Records (Scotland) Act 1948: Ye",
+    "claude_with_dates_snippet": "To determine if the 'Solicitors (Scotland) Act 1988' is during the 'Public Registers and Records (Scotland) Act 1948', I'll compare their date ranges:\n\nSolicitors (Scotland) Act 1988:\n- Start date: 19"
+  },
+  {
+    "task_id": "DU081",
+    "expected": "yes",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm the temporal relationship between these two acts without verifying their specific dates. To accurately determine if the Consolidated Fund Act 2008 was du",
+    "claude_with_dates_snippet": "To determine if the 'Consolidated Fund Act 2008' is during the 'Administration of Justice Act 1960', I'll compare their date ranges:\n\nConsolidated Fund Act 2008:\n- Start date: 2008-12-18\n- End date: 2"
+  },
+  {
+    "task_id": "DU082",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "claude_main_snippet": "No, the 'School Grants Act 1855' is not during the 'Housing Act 1974'. These two acts were passed in different time periods. The School Grants Act 1855 was passed in the mid-19th century, while the Ho",
+    "claude_with_dates_snippet": "Let me help you determine this by checking the date ranges:\n\n• 'School Grants Act 1855': from 2025-07-14 to 2025-07-01\n• 'Housing Act 1974': from 1974-07-31 to 2025-07-01\n\nThe 'School Grants Act 1855'"
+  },
+  {
+    "task_id": "DU083",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm whether the 'Refreshment Houses Act 1964' was during the 'Criminal Law (Consolidation) (Scotland) Act 1995' without verifying the specific dates and deta",
+    "claude_with_dates_snippet": "To determine if the 'Refreshment Houses Act 1964' is during the 'Criminal Law (Consolidation) (Scotland) Act 1995', I'll compare their date ranges:\n\nRefreshment Houses Act 1964:\n- Start date: 1964-07-"
+  },
+  {
+    "task_id": "DU084",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the 'Railways Act 1921' is not during the 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010'. These are two separate acts from different time periods. The Railways Act 1921 pred",
+    "claude_with_dates_snippet": "To determine if the 'Railways Act 1921' is during the 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010', I'll compare their date ranges:\n\nRailways Act 1921:\n- Start date: 1921-08-1"
+  },
+  {
+    "task_id": "DU085",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm the chronological relationship between these two acts without verifying their specific dates and enactment details. To accurately determine if the 'Produ",
+    "claude_with_dates_snippet": "Let me help you compare the dates:\n\n'Product Security and Telecommunications Infrastructure Act 2022':\n- Start date: 2022-12-06\n- End date: 2025-07-01\n\n'Powers of Attorney Act 2023':\n- Start date: 202"
+  },
+  {
+    "task_id": "DU086",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the 'Criminal Justice (Terrorism and Conspiracy) Act 1998' is not part of the 'Mission and Pastoral Measure 2011'. These are two separate pieces of legislation dealing with different areas of law.",
+    "claude_with_dates_snippet": "Let me help you compare the date ranges:\n\n'Criminal Justice (Terrorism and Conspiracy) Act 1998':\n- Start date: 1998-09-04\n- End date: 2021-10-12\n\n'Mission and Pastoral Measure 2011':\n- Start date: 20"
+  },
+  {
+    "task_id": "DU087",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm whether the 'Veterans Advisory and Pensions Committees Act 2023' was during the 'European Communities (Finance) Act 2001' without additional context or s",
+    "claude_with_dates_snippet": "To determine if the 'Veterans Advisory and Pensions Committees Act 2023' is during the 'European Communities (Finance) Act 2001', I'll compare their date ranges:\n\nVeterans Advisory and Pensions Commit"
+  },
+  {
+    "task_id": "DU088",
+    "expected": "yes",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm the temporal relationship between these two specific acts without verifying their exact dates. To accurately determine if the Export Control Act 2002 was",
+    "claude_with_dates_snippet": "Let me help you compare the time periods:\n\n'Export Control Act 2002':\n- Start date: 2002-07-24\n- End date: 2021-10-05\n\n'Belfast Charitable Society Act 1996':\n- Start date: 1996-07-18\n- End date: 2025-"
+  },
+  {
+    "task_id": "DU089",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To accurately determine if the 'Consolidated Fund (No. 2) Act 1998' was during the 'Solicitors Act 1974', I would need to check the specific years of these Acts.\n\nThe Solicitors Act 1974 was enacted i",
+    "claude_with_dates_snippet": "To determine if the 'Consolidated Fund (No. 2) Act 1998' is during the 'Solicitors Act 1974', I'll compare their date ranges:\n\nConsolidated Fund (No. 2) Act 1998:\n- Start date: 1998-12-17\n- End date: "
+  },
+  {
+    "task_id": "DU090",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm whether the 'Justices of the Peace Act 1949' was during the 'Aberdeen Harbour Order Confirmation Act 1992' without additional context or specific researc",
+    "claude_with_dates_snippet": "To determine if the 'Justices of the Peace Act 1949' is during the 'Aberdeen Harbour Order Confirmation Act 1992', I'll compare their date ranges:\n\nJustices of the Peace Act 1949:\n- Start date: 1949-1"
+  },
+  {
+    "task_id": "DU091",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the 'Offices, Shops and Railway Premises Act 1963' predates the 'Sustainable Communities Act 2007'. The Offices, Shops and Railway Premises Act 1963 was enacted earlier, while the Sustainable Comm",
+    "claude_with_dates_snippet": "Let me help you compare the dates:\n\n'Offices, Shops and Railway Premises Act 1963':\n- Start date: 1963-07-31\n- End date: 2021-09-29\n\n'Sustainable Communities Act 2007':\n- Start date: 2007-10-23\n- End "
+  },
+  {
+    "task_id": "DU092",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "To accurately answer this, I would need to verify the specific dates and chronology of these two Acts. Without direct access to the precise legislative records, I cannot confidently state whether the ",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\n'Northern Ireland (Loans) Act 1975':\n- Start date: 1975-12-19\n- End date: 2025-07-01\n\n'Housing Act 1974':\n- Start date: 1974-07-31\n- End d"
+  },
+  {
+    "task_id": "DU093",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the Sustainable Communities Act 2007 is not during the Autism Act (Northern Ireland) 2011. These are two separate pieces of legislation from different years and addressing different topics. The Su",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\n'Sustainable Communities Act 2007':\n- Start date: 2007-10-23\n- End date: 2018-08-24\n\n'Autism Act (Northern Ireland) 2011':\n- Start date: 2"
+  },
+  {
+    "task_id": "DU094",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "claude_main_snippet": "No, the 'Non-Domestic Rating Act 2023' is not during the 'Modern Slavery Act 2015'. These are two separate pieces of UK legislation that were enacted at different times. The Modern Slavery Act 2015 wa",
+    "claude_with_dates_snippet": "Let me help you compare the date ranges:\n\n'Non-Domestic Rating Act 2023': 2023-10-26 to 2025-06-08\n'Modern Slavery Act 2015': 2015-03-26 to 2022-07-29\n\nThe Non-Domestic Rating Act 2023 starts after th"
+  },
+  {
+    "task_id": "DU095",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the Geological Survey Act 1845 predates the Water Act 2014. The Geological Survey Act 1845 was enacted in the mid-19th century, while the Water Act 2014 is a much more recent piece of legislation.",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\nGeological Survey Act 1845:\n- Start date: 2025-07-31\n- End date: 2025-07-01\n\nWater Act 2014:\n- Start date: 2014-05-14\n- End date: 2025-04-"
+  },
+  {
+    "task_id": "DU096",
+    "expected": "no",
+    "claude_main_answer": "no",
+    "claude_with_dates_answer": null,
+    "correct_main": true,
+    "correct_with_dates": false,
+    "claude_main_snippet": "No, the Prevention of Crimes Act 1871 predates the Public Audit (Wales) Act 2013. The Prevention of Crimes Act 1871 was enacted in the 19th century, while the Public Audit (Wales) Act 2013 is a more r",
+    "claude_with_dates_snippet": "Let me help you compare the dates:\n\nPrevention of Crimes Act 1871:\n- Start date: 1871-08-21\n- End date: 2025-07-01\n\nPublic Audit (Wales) Act 2013:\n- Start date: 2013-04-29\n- End date: 2023-02-17\n\nTo d"
+  },
+  {
+    "task_id": "DU097",
+    "expected": "yes",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "I apologize, but I cannot definitively determine the temporal relationship between these two specific acts without additional context or reference materials. To accurately state whether one act occurr",
+    "claude_with_dates_snippet": "To determine if the 'Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016' is during the 'City of London (Approved Premises for Marriage) Act 1996', I'll compare their date rang"
+  },
+  {
+    "task_id": "DU098",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively confirm the temporal relationship between these two specific acts without verifying their exact dates. The Environmental Protection Act for Wales was passed in 2",
+    "claude_with_dates_snippet": "To determine if 'The Environmental Protection (Single-use Plastic Products) (Wales) Act 2023' is during 'Medway Ports Authority Act 1973', I'll compare their date ranges:\n\nEnvironmental Protection Act"
+  },
+  {
+    "task_id": "DU099",
+    "expected": "no",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": null,
+    "correct_main": false,
+    "correct_with_dates": false,
+    "claude_main_snippet": "I apologize, but I cannot definitively answer whether the 'Employment Act (Northern Ireland) 2010' was during the 'Commons Registration (East Sussex) Act 1994' without additional context or specific d",
+    "claude_with_dates_snippet": "To determine if the 'Employment Act (Northern Ireland) 2010' is during the 'Commons Registration (East Sussex) Act 1994', I'll compare their date ranges:\n\nEmployment Act (Northern Ireland) 2010:\nStart"
+  },
+  {
+    "task_id": "DU100",
+    "expected": "yes",
+    "claude_main_answer": null,
+    "claude_with_dates_answer": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "claude_main_snippet": "I apologize, but this question doesn't make sense in terms of temporal relationships. The United Kingdom Internal Market Act 2020 and the Matrimonial Homes (Family Protection) (Scotland) Act 1981 are ",
+    "claude_with_dates_snippet": "Let me help you determine this by comparing the date ranges:\n\nUnited Kingdom Internal Market Act 2020:\n- Start date: 2020-12-17\n- End date: 2024-02-21\n\nMatrimonial Homes (Family Protection) (Scotland)"
+  }
+]

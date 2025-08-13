@@ -1,0 +1,562 @@
+[
+  {
+    "task_id": "OV001",
+    "expected_answer": "Yes",
+    "gpt_main_first_word": "Yes",
+    "gpt_with_dates_first_word": "Yes",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Foster Children (Scotland) Act 1984** and the **Co-operative Development Agency and Industrial Development Act 1984** were **not enacted on the same day**.\n\n- The **Foster Children (Scotland",
+    "gpt_answer_with_dates_snippet": "Yes, both the 'Foster Children (Scotland) Act 1984' and the 'Co-operative Development Agency and Industrial Development Act 1984' were enacted on the same day, 31 October 1984."
+  },
+  {
+    "task_id": "OV002",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Health and Social Security Act 1984** and the **Foster Children (Scotland) Act 1984** were **not enacted on the same day**.\n\n- The **Health and Social Security Act 1984** received Royal Asse",
+    "gpt_answer_with_dates_snippet": "No, the 'Health and Social Security Act 1984' was enacted on 1984-07-26, and the 'Foster Children (Scotland) Act 1984' was enacted on 1984-10-31. They were not enacted on the same day."
+  },
+  {
+    "task_id": "OV003",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Health and Social Security Act 1984** and the **Co-operative Development Agency and Industrial Development Act 1984** were **not enacted on the same day**.\n\n- The **Health and Social Securit",
+    "gpt_answer_with_dates_snippet": "No, the 'Health and Social Security Act 1984' was enacted on 1984-07-26, and the 'Co-operative Development Agency and Industrial Development Act 1984' was enacted on 1984-10-31. They were not enacted "
+  },
+  {
+    "task_id": "OV004",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Co-operative and Community Benefit Societies Act 2014** and the **Road Races (Amendment) Act (Northern Ireland) 2014** were **not enacted on the same day** in 2014.\n\n- The **Co-operative and",
+    "gpt_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Co-operative and Community Benefit Societies Act 2014' was enacted on 2014-05-14, while the 'Road Races (Amendment) Act (Northern Ireland) 2014' was ena"
+  },
+  {
+    "task_id": "OV005",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Road Races (Amendment) Act (Northern Ireland) 2014** and the **Immigration Act 2014** were not enacted on the same day in 2014.\n\n- The **Road Races (Amendment) Act (Northern Ireland) 2014** ",
+    "gpt_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Road Races (Amendment) Act (Northern Ireland) 2014' was enacted on 2014-01-17, while the 'Immigration Act 2014' was enacted on 2014-05-14."
+  },
+  {
+    "task_id": "OV006",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **National Health Service Finance (Wales) Act 2014** and the **Immigration Act 2014** were **not enacted on the same day**.\n\n- The **Immigration Act 2014** received Royal Assent on **14 May 20",
+    "gpt_answer_with_dates_snippet": "No, the 'National Health Service Finance (Wales) Act 2014' was enacted on 2014-01-27, and the 'Immigration Act 2014' was enacted on 2014-05-14. They were not enacted on the same day."
+  },
+  {
+    "task_id": "OV007",
+    "expected_answer": "Yes",
+    "gpt_main_first_word": "Yes",
+    "gpt_with_dates_first_word": "Yes",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Co-operative and Community Benefit Societies Act 2014** and the **Immigration Act 2014** were **not enacted on the same day**.\n\n- The **Co-operative and Community Benefit Societies Act 2014*",
+    "gpt_answer_with_dates_snippet": "Yes, both the 'Co-operative and Community Benefit Societies Act 2014' and the 'Immigration Act 2014' were enacted on the same day, 14 May 2014."
+  },
+  {
+    "task_id": "OV008",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **National Health Service Finance (Wales) Act 2014** and the **Co-operative and Community Benefit Societies Act 2014** were **not** enacted on the same day.\n\n- The **National Health Service Fi",
+    "gpt_answer_with_dates_snippet": "No, the 'National Health Service Finance (Wales) Act 2014' was enacted on 2014-01-27, and the 'Co-operative and Community Benefit Societies Act 2014' was enacted on 2014-05-14. They were not enacted o"
+  },
+  {
+    "task_id": "OV009",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **'Land at Palace Avenue, Kensington (Acquisition of Freehold) Act 2002'** and the **'Railway Safety Act (Northern Ireland) 2002'** were **not enacted on the same day** in 2002.\n\n- The **Land ",
+    "gpt_answer_with_dates_snippet": "No, they were not enacted on the same day.  \n- The 'Land at Palace Avenue, Kensington (Acquisition of Freehold) Act 2002' was enacted on 2002-06-25.  \n- The 'Railway Safety Act (Northern Ireland) 2002"
+  },
+  {
+    "task_id": "OV010",
+    "expected_answer": "No",
+    "gpt_main_first_word": null,
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "The **Companies Act 1967** and the **Sea Fish (Conservation) Act 1967** were **not enacted on the same day** in 1967.\n\n- The **Companies Act 1967** was enacted on **1 August 1967**.\n- The **Sea Fish (",
+    "gpt_answer_with_dates_snippet": "No, the 'Companies Act 1967' was enacted on 1967-07-27, and the 'Sea Fish (Conservation) Act 1967' was enacted on 1967-10-27. They were enacted on different days."
+  },
+  {
+    "task_id": "OV011",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Counsellors of State Act 2022** and the **Tertiary Education and Research (Wales) Act 2022** were not enacted on the same day in 2022.\n\n- The **Counsellors of State Act 2022** received Royal",
+    "gpt_answer_with_dates_snippet": "No, the 'Counsellors of State Act 2022' was enacted on 2022-12-06, and the 'Tertiary Education and Research (Wales) Act 2022' was enacted on 2022-09-08. They were not enacted on the same day."
+  },
+  {
+    "task_id": "OV012",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Climate Change Act (Northern Ireland) 2022** and the **Motor Vehicles (Compulsory Insurance) Act (Northern Ireland) 2022** were **not enacted on the same day** in 2022.\n\n- The **Climate Chan",
+    "gpt_answer_with_dates_snippet": "No, the 'Climate Change Act (Northern Ireland) 2022' was enacted on 2022-06-06, and the 'Motor Vehicles (Compulsory Insurance) Act (Northern Ireland) 2022' was enacted on 2022-04-26. Therefore, they w"
+  },
+  {
+    "task_id": "OV013",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Counsellors of State Act 2022** and the **Supply and Appropriation (Adjustments) Act 2022** were **not enacted on the same day** in 2022.\n\n- The **Counsellors of State Act 2022** received Ro",
+    "gpt_answer_with_dates_snippet": "No, the 'Counsellors of State Act 2022' was enacted on 2022-12-06, and the 'Supply and Appropriation (Adjustments) Act 2022' was enacted on 2022-10-25. Therefore, they were not enacted on the same day"
+  },
+  {
+    "task_id": "OV014",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Supply and Appropriation (Adjustments) Act 2022** and the **Fair Employment (School Teachers) Act (Northern Ireland) 2022** were not enacted on the same day in 2022.\n\n- The **Supply and Appr",
+    "gpt_answer_with_dates_snippet": "No, the 'Supply and Appropriation (Adjustments) Act 2022' was enacted on 2022-10-25, and the 'Fair Employment (School Teachers) Act (Northern Ireland) 2022' was enacted on 2022-05-12. They were not en"
+  },
+  {
+    "task_id": "OV015",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Supply and Appropriation (Adjustments) Act 2022** and the **Climate Change Act (Northern Ireland) 2022** were not enacted on the same day in 2022.\n\n- The **Supply and Appropriation (Adjustme",
+    "gpt_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Supply and Appropriation (Adjustments) Act 2022' was enacted on 2022-10-25, while the 'Climate Change Act (Northern Ireland) 2022' was enacted earlier o"
+  },
+  {
+    "task_id": "OV016",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Weights and Measures (Amendment) Act (Northern Ireland) 2000** and the **Transport Salaried Staffs' Association (Amendment of Rules) Act 2000** were **not enacted on the same day**.\n\n- The *",
+    "gpt_answer_with_dates_snippet": "No, they were not enacted on the same day.  \n- The 'Weights and Measures (Amendment) Act (Northern Ireland) 2000' was enacted on 2000-12-20.  \n- The 'Transport Salaried Staffs' Association (Amendment "
+  },
+  {
+    "task_id": "OV017",
+    "expected_answer": "No",
+    "gpt_main_first_word": "Yes",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "Yes, both the **Weights and Measures (Amendment) Act (Northern Ireland) 2000** and the **Comhairle Nan Eilean Siar (Eriskay Causeway) Order Confirmation Act 2000** were enacted on the same day in 2000",
+    "gpt_answer_with_dates_snippet": "No, they were not enacted on the same day. \n\n- The **Weights and Measures (Amendment) Act (Northern Ireland) 2000** was enacted on **2000-12-20**.\n- The **Comhairle Nan Eilean Siar (Eriskay Causeway) "
+  },
+  {
+    "task_id": "OV018",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Comhairle Nan Eilean Siar (Eriskay Causeway) Order Confirmation Act 2000** and the **Transport Salaried Staffs' Association (Amendment of Rules) Act 2000** were **not enacted on the same day",
+    "gpt_answer_with_dates_snippet": "No, they were not enacted on the same day. \n\n- The **'Comhairle Nan Eilean Siar (Eriskay Causeway) Order Confirmation Act 2000'** was enacted on **2000-02-10**.\n- The **'Transport Salaried Staffs' Ass"
+  },
+  {
+    "task_id": "OV019",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Child Maintenance Act (Northern Ireland) 2008** and the **Pensions Act (Northern Ireland) 2008** were **not enacted on the same day** in 2008.\n\n- The **Child Maintenance Act (Northern Irelan",
+    "gpt_answer_with_dates_snippet": "No, the 'Child Maintenance Act (Northern Ireland) 2008' was enacted on 2008-07-02, and the 'Pensions Act (Northern Ireland) 2008' was enacted on 2008-02-11. They were not enacted on the same day."
+  },
+  {
+    "task_id": "OV020",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Stipends (Cessation of Special Payments) Measure 2005** and the **Hunting Act 2004** were not enacted on the same day in 2004.\n\n- The **Hunting Act 2004** received Royal Assent on **18 Novem",
+    "gpt_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Stipends (Cessation of Special Payments) Measure 2005' was enacted on 2004-03-24, while the 'Hunting Act 2004' was enacted on 2004-11-18. These dates ar"
+  },
+  {
+    "task_id": "OV021",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Stipends (Cessation of Special Payments) Measure 2005** and the **Domestic Violence, Crime and Victims Act 2004** were not enacted on the same day in 2004.\n\n- The **Domestic Violence, Crime ",
+    "gpt_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Stipends (Cessation of Special Payments) Measure 2005' was enacted on 2004-03-24, while the 'Domestic Violence, Crime and Victims Act 2004' was enacted "
+  },
+  {
+    "task_id": "OV022",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Hunting Act 2004** and the **Domestic Violence, Crime and Victims Act 2004** were **not enacted on the same day** in 2004.\n\n- The **Hunting Act 2004** received Royal Assent on **18 November ",
+    "gpt_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Domestic Violence, Crime and Victims Act 2004' was enacted on 2004-11-15, while the 'Hunting Act 2004' was enacted on 2004-11-18."
+  },
+  {
+    "task_id": "OV023",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Pneumoconiosis etc. (Workers' Compensation) Act 1979** and the **Shipbuilding Act 1979** were **not enacted on the same day** in 1979.\n\n- The **Pneumoconiosis etc. (Workers' Compensation) Ac",
+    "gpt_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Pneumoconiosis etc. (Workers' Compensation) Act 1979' was enacted on April 4, 1979, while the 'Shipbuilding Act 1979' was enacted on December 20, 1979."
+  },
+  {
+    "task_id": "OV024",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Criminal Appeal Act 1995** and the **Criminal Injuries Compensation Act 1995** were **not enacted on the same day** in 1995.\n\n- The **Criminal Appeal Act 1995** received Royal Assent on **8 ",
+    "gpt_answer_with_dates_snippet": "No, the 'Criminal Appeal Act 1995' was enacted on 1995-07-19, and the 'Criminal Injuries Compensation Act 1995' was enacted on 1995-11-08. They were not enacted on the same day."
+  },
+  {
+    "task_id": "OV025",
+    "expected_answer": "No",
+    "gpt_main_first_word": "Yes",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "Yes, both the **Criminal Appeal Act 1995** and the **Queen Mary and Westfield College Act 1995** were enacted on the same day. According to the official UK legislation records, both Acts received Roya",
+    "gpt_answer_with_dates_snippet": "No, the 'Criminal Appeal Act 1995' was enacted on 1995-07-19, and the 'Queen Mary and Westfield College Act 1995' was enacted on 1995-11-08. Therefore, they were not enacted on the same day."
+  },
+  {
+    "task_id": "OV026",
+    "expected_answer": "Yes",
+    "gpt_main_first_word": "Yes",
+    "gpt_with_dates_first_word": "Yes",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "Yes, both the **Criminal Injuries Compensation Act 1995** and the **Queen Mary and Westfield College Act 1995** were enacted on the same day. According to the UK legislation records, both Acts receive",
+    "gpt_answer_with_dates_snippet": "Yes, both the 'Criminal Injuries Compensation Act 1995' and the 'Queen Mary and Westfield College Act 1995' were enacted on the same day, 1995-11-08."
+  },
+  {
+    "task_id": "OV027",
+    "expected_answer": "No",
+    "gpt_main_first_word": "Yes",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "Yes, both the **Local Government Finance (Wales) Act 2024** and the **Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024** were enacted on the same day in 2024. The",
+    "gpt_answer_with_dates_snippet": "No, the 'Local Government Finance (Wales) Act 2024' was enacted on 2024-09-16, and the 'Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024' was enacted on 2024-03-2"
+  },
+  {
+    "task_id": "OV028",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **UK Borders Act 2007** and the **Greater London Authority Act 2007** were **not enacted on the same day** in 2007.\n\n- The **UK Borders Act 2007** received Royal Assent on **30 October 2007**.",
+    "gpt_answer_with_dates_snippet": "No, the 'UK Borders Act 2007' was enacted on 2007-10-30, and the 'Greater London Authority Act 2007' was enacted on 2007-10-23. They were enacted on different days."
+  },
+  {
+    "task_id": "OV029",
+    "expected_answer": "Yes",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Further Education and Training Act 2007** and the **Greater London Authority Act 2007** were **not** enacted on the same day.\n\n- The **Further Education and Training Act 2007** received Roya",
+    "gpt_answer_with_dates_snippet": "Yes, both the 'Further Education and Training Act 2007' and the 'Greater London Authority Act 2007' were enacted on the same day, 2007-10-23."
+  },
+  {
+    "task_id": "OV030",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Further Education and Training Act 2007** and the **UK Borders Act 2007** were **not** enacted on the same day.\n\n- The **Further Education and Training Act 2007** received Royal Assent on **",
+    "gpt_answer_with_dates_snippet": "No, the 'Further Education and Training Act 2007' was enacted on 2007-10-23, and the 'UK Borders Act 2007' was enacted on 2007-10-30. They were enacted on different days."
+  },
+  {
+    "task_id": "OV031",
+    "expected_answer": "Yes",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Education and Training (Welfare of Children) Act 2021** and the **National Security and Investment Act 2021** were **not enacted on the same day** in 2021.\n\n- The **Education and Training (W",
+    "gpt_answer_with_dates_snippet": "Yes, both the 'Education and Training (Welfare of Children) Act 2021' and the 'National Security and Investment Act 2021' were enacted on the same day, 2021-04-29."
+  },
+  {
+    "task_id": "OV032",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Renting Homes (Amendment) (Wales) Act 2021** and the **National Security and Investment Act 2021** were **not enacted on the same day** in 2021.\n\n- The **Renting Homes (Amendment) (Wales) Ac",
+    "gpt_answer_with_dates_snippet": "No, the 'Renting Homes (Amendment) (Wales) Act 2021' was enacted on 2021-04-07, and the 'National Security and Investment Act 2021' was enacted on 2021-04-29. They were not enacted on the same day."
+  },
+  {
+    "task_id": "OV033",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Renting Homes (Amendment) (Wales) Act 2021** and the **Education and Training (Welfare of Children) Act 2021** were **not enacted on the same day** in 2021.\n\n- The **Renting Homes (Amendment",
+    "gpt_answer_with_dates_snippet": "No, the 'Renting Homes (Amendment) (Wales) Act 2021' was enacted on 2021-04-07, and the 'Education and Training (Welfare of Children) Act 2021' was enacted on 2021-04-29. They were not enacted on the "
+  },
+  {
+    "task_id": "OV034",
+    "expected_answer": "No",
+    "gpt_main_first_word": "Yes",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "Yes, both the **Budget (No. 2) Act (Northern Ireland) 2009** and the **Public Authorities (Reform) Act (Northern Ireland) 2009** were enacted on the same day in 2009. According to the official records",
+    "gpt_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Budget (No. 2) Act (Northern Ireland) 2009' was enacted on 2009-07-08, while the 'Public Authorities (Reform) Act (Northern Ireland) 2009' was enacted e"
+  },
+  {
+    "task_id": "OV035",
+    "expected_answer": "Yes",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Road Traffic Act 1988** and the **Copyright, Designs and Patents Act 1988** were **not enacted on the same day**.\n\n- The **Road Traffic Act 1988** received Royal Assent on **25 July 1988**.\n",
+    "gpt_answer_with_dates_snippet": "Yes, both the 'Road Traffic Act 1988' and the 'Copyright, Designs and Patents Act 1988' were enacted on the same day, 15 November 1988."
+  },
+  {
+    "task_id": "OV036",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Road Traffic Act 1988** and the **Electricity (Financial Provisions) (Scotland) Act 1988** were **not enacted on the same day**.\n\n- The **Road Traffic Act 1988** received Royal Assent on **2",
+    "gpt_answer_with_dates_snippet": "No, the 'Road Traffic Act 1988' was enacted on 1988-11-15, and the 'Electricity (Financial Provisions) (Scotland) Act 1988' was enacted on 1988-07-29. They were not enacted on the same day."
+  },
+  {
+    "task_id": "OV037",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Copyright, Designs and Patents Act 1988** and the **Electricity (Financial Provisions) (Scotland) Act 1988** were **not enacted on the same day**.\n\n- The **Copyright, Designs and Patents Act",
+    "gpt_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Copyright, Designs and Patents Act 1988' was enacted on 1988-11-15, while the 'Electricity (Financial Provisions) (Scotland) Act 1988' was enacted earli"
+  },
+  {
+    "task_id": "OV038",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Budget Act (Northern Ireland) 2012** and the **Domestic Violence, Crime and Victims (Amendment) Act 2012** were **not enacted on the same day** in 2012.\n\n- The **Budget Act (Northern Ireland",
+    "gpt_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Budget Act (Northern Ireland) 2012' was enacted on 2012-03-20, while the 'Domestic Violence, Crime and Victims (Amendment) Act 2012' was enacted earlier"
+  },
+  {
+    "task_id": "OV039",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Domestic Violence, Crime and Victims (Amendment) Act 2012** and the **Health and Social Care Act 2012** were **not enacted on the same day** in 2012.\n\n- The **Domestic Violence, Crime and Vi",
+    "gpt_answer_with_dates_snippet": "No, the 'Domestic Violence, Crime and Victims (Amendment) Act 2012' was enacted on 2012-03-08, and the 'Health and Social Care Act 2012' was enacted on 2012-03-27. They were enacted on different days."
+  },
+  {
+    "task_id": "OV040",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Budget Act (Northern Ireland) 2012** and the **Health and Social Care Act 2012** were **not enacted on the same day** in 2012.\n\n- The **Budget Act (Northern Ireland) 2012** received Royal As",
+    "gpt_answer_with_dates_snippet": "No, the 'Budget Act (Northern Ireland) 2012' was enacted on 2012-03-20, and the 'Health and Social Care Act 2012' was enacted on 2012-03-27. They were enacted on different days."
+  },
+  {
+    "task_id": "OV041",
+    "expected_answer": "Yes",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Friendly Societies Act 1974** and the **Rent Act 1974** were **not enacted on the same day** in 1974.\n\n- The **Friendly Societies Act 1974** received Royal Assent on **31 July 1974**.\n- The ",
+    "gpt_answer_with_dates_snippet": "Yes, both the 'Friendly Societies Act 1974' and the 'Rent Act 1974' were enacted on the same day, 1974-07-31."
+  },
+  {
+    "task_id": "OV042",
+    "expected_answer": "Yes",
+    "gpt_main_first_word": "Yes",
+    "gpt_with_dates_first_word": "Yes",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "Yes, both the **Trade Union and Labour Relations Act 1974** and the **Friendly Societies Act 1974** were enacted on the same day. They both received Royal Assent on **31 July 1974**.",
+    "gpt_answer_with_dates_snippet": "Yes, both the 'Trade Union and Labour Relations Act 1974' and the 'Friendly Societies Act 1974' were enacted on the same day, 31 July 1974."
+  },
+  {
+    "task_id": "OV043",
+    "expected_answer": "Yes",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Trade Union and Labour Relations Act 1974** and the **Rent Act 1974** were **not enacted on the same day**.\n\n- The **Trade Union and Labour Relations Act 1974** received Royal Assent on **8 ",
+    "gpt_answer_with_dates_snippet": "Yes, both the 'Trade Union and Labour Relations Act 1974' and the 'Rent Act 1974' were enacted on the same day, 31 July 1974."
+  },
+  {
+    "task_id": "OV044",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Energy Act 2013** and the **Mobile Homes Act 2013** were **not enacted on the same day**.\n\n- The **Energy Act 2013** received Royal Assent on **18 December 2013**.\n- The **Mobile Homes Act 2",
+    "gpt_answer_with_dates_snippet": "No, the 'Energy Act 2013' and the 'Mobile Homes Act 2013' were not enacted on the same day. The 'Energy Act 2013' was enacted on 2013-12-18, while the 'Mobile Homes Act 2013' was enacted earlier on 20"
+  },
+  {
+    "task_id": "OV045",
+    "expected_answer": "Yes",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Humber Bridge Act 2013** and the **Energy Act 2013** were **not enacted on the same day** in 2013.\n\n- The **Energy Act 2013** received Royal Assent on **18 December 2013**.\n- The **Humber Br",
+    "gpt_answer_with_dates_snippet": "Yes, both the 'Humber Bridge Act 2013' and the 'Energy Act 2013' were enacted on the same day, 2013-12-18."
+  },
+  {
+    "task_id": "OV046",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Energy Act 2013** and the **Public Service Pensions Act 2013** were **not enacted on the same day** in 2013.\n\n- The **Energy Act 2013** received Royal Assent on **18 December 2013**.\n- The *",
+    "gpt_answer_with_dates_snippet": "No, the Energy Act 2013 and the Public Service Pensions Act 2013 were not enacted on the same day. The Energy Act 2013 was enacted on 2013-12-18, while the Public Service Pensions Act 2013 was enacted"
+  },
+  {
+    "task_id": "OV047",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Humber Bridge Act 2013** and the **Public Service Pensions Act 2013** were **not** enacted on the same day.\n\n- The **Humber Bridge Act 2013** received Royal Assent on **31 January 2013**.\n- ",
+    "gpt_answer_with_dates_snippet": "No, the 'Humber Bridge Act 2013' was enacted on 2013-12-18, and the 'Public Service Pensions Act 2013' was enacted on 2013-04-25. They were not enacted on the same day."
+  },
+  {
+    "task_id": "OV048",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Humber Bridge Act 2013** and the **Mobile Homes Act 2013** were **not** enacted on the same day in 2013.\n\n- The **Humber Bridge Act 2013** received Royal Assent on **31 October 2013**.\n- The",
+    "gpt_answer_with_dates_snippet": "No, the 'Humber Bridge Act 2013' and the 'Mobile Homes Act 2013' were not enacted on the same day. The 'Humber Bridge Act 2013' was enacted on 2013-12-18, while the 'Mobile Homes Act 2013' was enacted"
+  },
+  {
+    "task_id": "OV049",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Access to Medical Treatments (Innovation) Act 2016** and the **Criminal Cases Review Commission (Information) Act 2016** were **not enacted on the same day** in 2016.\n\n- The **Access to Medi",
+    "gpt_answer_with_dates_snippet": "No, the 'Access to Medical Treatments (Innovation) Act 2016' was enacted on 2016-03-23, and the 'Criminal Cases Review Commission (Information) Act 2016' was enacted on 2016-05-12. They were not enact"
+  },
+  {
+    "task_id": "OV050",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010** and the **Debt Relief Act (Northern Ireland) 2010** were **not enacted on the same day** in 2010.\n\n- The **Water and Sew",
+    "gpt_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010' was enacted on 2010-03-12, while the 'Debt Relief Act (Northern Ireland) 2010' was "
+  },
+  {
+    "task_id": "OV051",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Senedd and Elections (Wales) Act 2020** and the **Private Tenancies (Coronavirus Modifications) Act (Northern Ireland) 2020** were **not enacted on the same day** in 2020.\n\n- The **Senedd an",
+    "gpt_answer_with_dates_snippet": "No, the 'Senedd and Elections (Wales) Act 2020' was enacted on 2020-01-15, and the 'Private Tenancies (Coronavirus Modifications) Act (Northern Ireland) 2020' was enacted on 2020-05-04. They were not "
+  },
+  {
+    "task_id": "OV052",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Ecumenical Relations Measure 2018** and the **Additional Learning Needs and Education Tribunal (Wales) Act 2018** were not enacted on the same day in 2018.\n\n- The **Ecumenical Relations Meas",
+    "gpt_answer_with_dates_snippet": "No, the 'Ecumenical Relations Measure 2018' was enacted on 2018-12-20, and the 'Additional Learning Needs and Education Tribunal (Wales) Act 2018' was enacted on 2018-01-24. They were not enacted on t"
+  },
+  {
+    "task_id": "OV053",
+    "expected_answer": "No",
+    "gpt_main_first_word": "No",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "No, the **Water Industry Act 1991** and the **Greater Manchester (Light Rapid Transit System) Act 1991** were **not enacted on the same day**.\n\n- The **Water Industry Act 1991** received Royal Assent ",
+    "gpt_answer_with_dates_snippet": "No, the 'Water Industry Act 1991' was enacted on 1991-07-25, and the 'Greater Manchester (Light Rapid Transit System) Act 1991' was enacted on 1991-10-22. They were not enacted on the same day."
+  },
+  {
+    "task_id": "OV054",
+    "expected_answer": "No",
+    "gpt_main_first_word": "Yes",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "Yes, both the **London Underground (Safety Measures) Act 1991** and the **Greater Manchester (Light Rapid Transit System) Act 1991** were enacted on the same day. According to the official records, bo",
+    "gpt_answer_with_dates_snippet": "No, the 'London Underground (Safety Measures) Act 1991' was enacted on 1991-11-28, and the 'Greater Manchester (Light Rapid Transit System) Act 1991' was enacted on 1991-10-22. They were not enacted o"
+  },
+  {
+    "task_id": "OV055",
+    "expected_answer": "No",
+    "gpt_main_first_word": "Yes",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "Yes, both the **London Underground (Safety Measures) Act 1991** and the **Water Industry Act 1991** were enacted on the same day. They both received Royal Assent on **25 July 1991**.",
+    "gpt_answer_with_dates_snippet": "No, the 'London Underground (Safety Measures) Act 1991' was enacted on 1991-11-28, and the 'Water Industry Act 1991' was enacted on 1991-07-25. They were not enacted on the same day."
+  },
+  {
+    "task_id": "OV056",
+    "expected_answer": "No",
+    "gpt_main_first_word": "Yes",
+    "gpt_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gpt_answer_snippet": "Yes, both the **River Humber (Upper Pyewipe Outfall) Act 1992** and the **British Railways (No. 2) Act 1992** were enacted on the same day. According to the official records, both Acts received Royal ",
+    "gpt_answer_with_dates_snippet": "No, they were not enacted on the same day. The 'British Railways (No. 2) Act 1992' was enacted on 1992-06-18, while the 'River Humber (Upper Pyewipe Outfall) Act 1992' was enacted later, on 1992-07-16"
+  }
+]

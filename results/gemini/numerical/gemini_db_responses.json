@@ -1,0 +1,802 @@
+[
+  {
+    "task_id": "DB001",
+    "expected_duration": "20 years 2 months 5 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The 'Courts Act 2003' received Royal Assent on **20 November 2003**.\n\nThe 'Church of England Pensions (Application of Capital Funds) Measure 2024' received Royal Assent on **23 April 2024**.\n\nTherefor",
+    "gemini_answer_with_dates_snippet": "The Courts Act 2003 was enacted on 2003-11-20.\nThe Church of England Pensions (Application of Capital Funds) Measure 2024 was enacted on 2024-01-25.\n\nLet's calculate the duration:\n\n*   From 2003-11-20"
+  },
+  {
+    "task_id": "DB002",
+    "expected_duration": "8 years 0 months 4 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The Justice and Security Act 2013 received Royal Assent on **25 April 2013**.\nThe Fire Safety Act 2021 received Royal Assent on **29 April 2021**.\n\nTherefore, the Fire Safety Act 2021 was enacted **8 ",
+    "gemini_answer_with_dates_snippet": "The 'Fire Safety Act 2021' was enacted **8 years and 4 days** after the 'Justice and Security Act 2013'.\n\nHere's the breakdown:\n*   From 2013-04-25 to 2021-04-25 is exactly 8 years.\n*   From 2021-04-2"
+  },
+  {
+    "task_id": "DB003",
+    "expected_duration": "9 years 5 months 5 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Administration of Justice Act 1982' was enacted **9 years** after the 'Medway Ports Authority Act 1973'.",
+    "gemini_answer_with_dates_snippet": "Let's break down the time difference:\n\n1.  **Years:** From May 23, 1973 to May 23, 1982 is exactly **9 years**.\n2.  **Months:** From May 23, 1982 to October 23, 1982:\n    *   May to June = 1 month\n   "
+  },
+  {
+    "task_id": "DB004",
+    "expected_duration": "101 years 4 months 8 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Churches (Scotland) Act 1905 was enacted in **1905**.\nThe Consolidated Fund Act 2006 was enacted in **2006**.\n\nThe time difference between them is **101 years**.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1905-08-11.\nThe second act was enacted on 2006-12-19.\n\nTo calculate the duration:\n*   From 1905-08-11 to 2005-08-11 is exactly 100 years.\n*   From 2005-08-11 to 2006-08-11"
+  },
+  {
+    "task_id": "DB005",
+    "expected_duration": "22 years 3 months 13 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The enactment dates for the two Acts are:\n\n*   **Public Order (Amendment) Act 1996:** Received Royal Assent on **24th July 1996**.\n*   **Childcare Funding (Wales) Act 2019:** Received Royal Assent on ",
+    "gemini_answer_with_dates_snippet": "The second act was enacted **22 years, 3 months, and 13 days** after the first.\n\nHere's the breakdown:\n*   From 1996-10-17 to 2018-10-17: 22 years\n*   From 2018-10-17 to 2019-01-17: 3 months (Oct to N"
+  },
+  {
+    "task_id": "DB006",
+    "expected_duration": "22 years 9 months 0 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The Water Consolidation (Consequential Provisions) Act 1991 was enacted **23 years** after the Medicines Act 1968.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1968-10-25.\nThe second act was enacted on 1991-07-25.\n\nTo calculate the difference:\n* From 1968-10-25 to 1990-10-25 is exactly 22 years.\n* From 1990-10-25 to 1991-07-25 is"
+  },
+  {
+    "task_id": "DB007",
+    "expected_duration": "10 years 6 months 2 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The enactment dates for these Acts are:\n\n*   **Railtrack (Waverley Station) Order Confirmation Act 2000:** 28th July 2000\n*   **Terrorist Asset-Freezing etc. Act 2010:** 16th December 2010\n\nThe time b",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 2000-06-14.\nThe second act was enacted on 2010-12-16.\n\nTo calculate the duration:\n* From 2000-06-14 to 2010-06-14 is exactly 10 years.\n* From 2010-06-14 to 2010-12-14 is 6"
+  },
+  {
+    "task_id": "DB008",
+    "expected_duration": "4 years 6 months 29 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The enactment dates for the two Acts are:\n\n*   **Tax Collection and Management (Wales) Act 2016**: Royal Assent was given on **27th April 2016**.\n*   **Social Security (Up-rating of Benefits) Act 2020",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 2016-04-25.\nThe second act was enacted on 2020-11-23.\n\nTo calculate the time difference:\n\n*   **Years:** From 2016-04-25 to 2020-04-25 is exactly 4 years.\n*   **Remaining "
+  },
+  {
+    "task_id": "DB009",
+    "expected_duration": "142 years 2 months 23 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Metropolitan Commons Amendment Act 1869' was enacted in **1869**.\nThe 'Coinage (Measurement) Act 2011' was enacted in **2011**.\n\nThe difference is 2011 - 1869 = **142 years**.\n\nSo, the 'Coinage (",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1869-08-11.\nThe second act was enacted on 2011-11-03.\n\nTo calculate the duration:\nFrom 1869-08-11 to 2011-08-11 is 142 years.\nFrom 2011-08-11 to 2011-10-11 is 2 months (Au"
+  },
+  {
+    "task_id": "DB010",
+    "expected_duration": "46 years 8 months 9 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Channel Tunnel (Initial Finance) Act 1973' was enacted on **25th July 1973**.\nThe 'Channel Islands Measure 2020' was enacted on **23rd July 2020**.\n\nTherefore, the 'Channel Islands Measure 2020' ",
+    "gemini_answer_with_dates_snippet": "The second act was enacted **46 years, 8 months, and 9 days** after the first."
+  },
+  {
+    "task_id": "DB011",
+    "expected_duration": "25 years 5 months 21 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Financial Services Act 2021' was enacted **26 years** after the 'Gas Act 1995'.",
+    "gemini_answer_with_dates_snippet": "Let's break down the time difference:\n\n1.  **Years:** From 1995-11-08 to 2020-11-08 is exactly 25 years.\n2.  **Months:** From 2020-11-08 to 2021-04-08 is 5 months (Dec 2020, Jan 2021, Feb 2021, Mar 20"
+  },
+  {
+    "task_id": "DB012",
+    "expected_duration": "6 years 2 months 13 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The enactment dates for the two Acts are:\n\n1.  **Department of Justice Act (Northern Ireland) 2010:** Royal Assent given on **12th May 2010**.\n2.  **Tax Collection and Management (Wales) Act 2016:** R",
+    "gemini_answer_with_dates_snippet": "The 'Tax Collection and Management (Wales) Act 2016' was enacted **6 years, 2 months, and 13 days** after the 'Department of Justice Act (Northern Ireland) 2010'."
+  },
+  {
+    "task_id": "DB013",
+    "expected_duration": "9 years 8 months 12 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The enactment dates for the two Acts are:\n\n*   **Statute Law (Repeals) Act 1995:** 19th July 1995\n*   **Appropriation (No. 3) Act 2005:** 7th July 2005\n\nTo calculate the time difference:\n\nFrom 19th Ju",
+    "gemini_answer_with_dates_snippet": "To calculate the duration, we'll count the full years, then months, then days.\n\n1.  **Years:** From 1995-11-08 to 2004-11-08 is exactly 9 years.\n\n2.  **Months (from 2004-11-08 to 2005-07-20):**\n    * "
+  },
+  {
+    "task_id": "DB014",
+    "expected_duration": "27 years 8 months 19 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The **National Health Service (Private Finance) Act 1997** received Royal Assent on **19 March 1997**.\n\nHowever, the **'Non-Domestic Rating (Multipliers and Private Schools) Act 2025' has not been ena",
+    "gemini_answer_with_dates_snippet": "To calculate the duration:\n\n*   **First Act enacted:** 1997-07-15\n*   **Second Act enacted:** 2025-04-03\n\nLet's break it down:\n\n1.  **Years:** From 1997-07-15 to 2024-07-15 is exactly **27 years**.\n\n2"
+  },
+  {
+    "task_id": "DB015",
+    "expected_duration": "47 years 3 months 1 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The 'Rating and Valuation (Air-Raid Works) (Scotland) Act 1938' received Royal Assent on **17th May 1938**.\n\nThe 'Administration of Justice Act 1985' received Royal Assent on **25th July 1985**.\n\nTher",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1938-07-29.\nThe second act was enacted on 1985-10-30.\n\nTo calculate the duration:\n* **Years:** 1985 - 1938 = 47 years\n* **Months:** October (10) - July (7) = 3 months\n* **"
+  },
+  {
+    "task_id": "DB016",
+    "expected_duration": "37 years 0 months 11 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The Medicines Act 1971 was enacted **37 years** after the Law Reform (Miscellaneous Provisions) Act 1934.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1934-07-25.\nThe second act was enacted on 1971-08-05.\n\nTo calculate the duration:\n* From 1934-07-25 to 1971-07-25 is exactly 37 years.\n* From 1971-07-25 to 1971-08-05:\n   "
+  },
+  {
+    "task_id": "DB017",
+    "expected_duration": "7 years 10 months 3 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Co-operative and Community Benefit Societies Act 2014' was enacted **8 years** after the 'Liverpool City Council Act 2006'.",
+    "gemini_answer_with_dates_snippet": "To find the duration between the two enactment dates, we subtract the first date from the second date:\n\nFirst enactment date: 2006-07-11\nSecond enactment date: 2014-05-14\n\n1.  **Years:** 2014 - 2006 ="
+  },
+  {
+    "task_id": "DB018",
+    "expected_duration": "32 years 1 months 25 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The 'Public Authorities (Reform) Act (Northern Ireland) 2009' was enacted **33 years** after the 'Fishery Limits Act 1976'.",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between the two enactment dates:\n\n1.  **First Act:** 1976-12-22\n2.  **Second Act:** 2009-02-16\n\n*   **Years:** From 1976-12-22 to 2008-12-22 is 32 years (2008 - 1976 = 32).\n*"
+  },
+  {
+    "task_id": "DB019",
+    "expected_duration": "41 years 7 months 19 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Ancient Monuments and Archaeological Areas Act 1979' was enacted on **4 April 1979**.\nThe 'Social Security (Up-rating of Benefits) Act 2020' was enacted on **20 July 2020**.\n\nTo calculate the tim",
+    "gemini_answer_with_dates_snippet": "The 'Social Security (Up-rating of Benefits) Act 2020' was enacted **41 years, 7 months, and 19 days** after the 'Ancient Monuments and Archaeological Areas Act 1979'."
+  },
+  {
+    "task_id": "DB020",
+    "expected_duration": "86 years 11 months 27 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Small Charitable Donations Act 2012' was enacted **87 years** after the 'Coastguard Act 1925'.",
+    "gemini_answer_with_dates_snippet": "To calculate the time difference:\n\n*   **First Act:** 1925-12-22\n*   **Second Act:** 2012-12-19\n\n1.  **Years:** 2012 - 1925 = 87 years.\n2.  **Months and Days:** The second date (Dec 19) is earlier in "
+  },
+  {
+    "task_id": "DB021",
+    "expected_duration": "1 years 11 months 28 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The enactment dates for the two pieces of legislation are:\n\n1.  **Land Acquisition and Compensation (Amendment) Act (Northern Ireland) 2016:** Received Royal Assent on **22nd April 2016**.\n2.  **Missi",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on **2016-05-12**.\nThe second act was enacted on **2018-05-10**.\n\nTo calculate the duration:\n*   From 2016-05-12 to 2017-05-12 is exactly 1 year.\n*   From 2017-05-12 to 2018-"
+  },
+  {
+    "task_id": "DB022",
+    "expected_duration": "106 years 5 months 29 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The enactment dates for these Acts are:\n\n*   **Irish Land Act 1903:** 14 August 1903\n*   **Department of Justice Act (Northern Ireland) 2010:** 12 January 2010\n\nTherefore, the Department of Justice Ac",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between the two dates:\n\n*   **First Date:** August 14, 1903\n*   **Second Date:** February 12, 2010\n\n1.  **Calculate the full years:**\n    From August 14, 1903, to August 14, "
+  },
+  {
+    "task_id": "DB023",
+    "expected_duration": "5 years 11 months 22 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Export and Investment Guarantees Act 1991 was enacted **6 years** after the Administration of Justice Act 1985.",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between October 30, 1985, and October 22, 1991:\n\n1.  **Years:** From October 30, 1985, to October 30, 1990, is exactly 5 years.\n2.  **Months & Days:** Now we need to get from"
+  },
+  {
+    "task_id": "DB024",
+    "expected_duration": "22 years 11 months 24 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The Trade Marks Act 1994 was enacted **23 years** after the Friendly Societies Act 1971.",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between the two enactment dates:\n\n1.  **Friendly Societies Act 1971:** 1971-07-27\n2.  **Trade Marks Act 1994:** 1994-07-21\n\nLet's calculate the difference:\n\n*   **Years:** Fr"
+  },
+  {
+    "task_id": "DB025",
+    "expected_duration": "15 years 1 months 18 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The 'Western Isles Council (Berneray Causeway) Order Confirmation Act 1996' was enacted **15 years** after the 'Wildlife and Countryside Act 1981'.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1981-10-30.\nThe second act was enacted on 1996-12-18.\n\nLet's calculate the difference:\n\n*   **Years:** From 1981-10-30 to 1996-10-30 is exactly 15 years.\n*   **Months:** F"
+  },
+  {
+    "task_id": "DB026",
+    "expected_duration": "27 years 4 months 5 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Disqualifications Act 2000 was enacted **27 years** after the Badgers Act 1973.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1973-07-25.\nThe second act was enacted on 2000-11-30.\n\nTo calculate the time difference:\n\n1.  **Years:** From 1973-07-25 to 2000-07-25 is 27 years.\n2.  **Months:** From 20"
+  },
+  {
+    "task_id": "DB027",
+    "expected_duration": "3 years 3 months 22 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The enactment dates for the two Acts are:\n\n*   **Bournemouth Borough Council Act 2010:** 16 December 2010 (Royal Assent)\n*   **Local Government (Democracy) (Wales) Act 2013:** 29 October 2013 (Royal A",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 2010-04-08.\nThe second act was enacted on 2013-07-30.\n\nTo calculate the duration:\n*   From 2010-04-08 to 2013-04-08 is exactly 3 years.\n*   From 2013-04-08 to 2013-07-08 i"
+  },
+  {
+    "task_id": "DB028",
+    "expected_duration": "18 years 4 months 15 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Budget Act (Northern Ireland) 2012' was enacted **19 years** after the 'Pension Schemes Act 1993'.",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between the two dates:\n\n1.  **From 1993-11-05 to 2011-11-05:** This is exactly **18 years**.\n\n2.  **From 2011-11-05 to 2012-03-20:**\n    *   November 5, 2011 to December 5, 2"
+  },
+  {
+    "task_id": "DB029",
+    "expected_duration": "0 years 11 months 24 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The enactment dates for the two acts are:\n\n1.  **Consumer Insurance (Disclosure and Representations) Act 2012:** Royal Assent given on **8 March 2012**.\n2.  **School Standards and Organisation (Wales)",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 2012-03-08.\nThe second act was enacted on 2013-03-04.\n\nFrom March 8, 2012, to March 8, 2013, would be exactly 1 year.\nHowever, the second act was enacted on March 4, 2013,"
+  },
+  {
+    "task_id": "DB030",
+    "expected_duration": "69 years 8 months 23 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The enactment dates are:\n\n*   **Rating and Valuation (Air-Raid Works) (Scotland) Act 1938:** 29th July 1938\n*   **Taxis Act (Northern Ireland) 2008:** 2nd June 2008\n\nTo calculate the time between them",
+    "gemini_answer_with_dates_snippet": "To calculate the time difference, we can count the full years, then months, then days.\n\n*   **First date:** 1938-07-29\n*   **Second date:** 2008-04-21\n\n1.  **Years:** From July 29, 1938, to July 29, 2"
+  },
+  {
+    "task_id": "DB031",
+    "expected_duration": "18 years 3 months 10 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The Disability Discrimination Act 1995 was enacted **18 years** after the Finance Act 1977.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1977-07-29.\nThe second act was enacted on 1995-11-08.\n\nLet's calculate the difference:\n\n*   **Years:** From 1977-07-29 to 1995-07-29 is exactly 18 years.\n*   **Remaining d"
+  },
+  {
+    "task_id": "DB032",
+    "expected_duration": "48 years 9 months 3 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The British Sign Language Act 2022 was enacted **49 years** after the Nature Conservancy Council Act 1973.",
+    "gemini_answer_with_dates_snippet": "To calculate the time difference, we'll break it down into years, months, and days.\n\nFirst Act: 1973-07-25\nSecond Act: 2022-04-28\n\n1.  **Years:**\n    From 1973-07-25 to 2021-07-25 is exactly 48 years."
+  },
+  {
+    "task_id": "DB033",
+    "expected_duration": "19 years 10 months 21 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The enactment dates are:\n\n1.  **Shrewsbury and Atcham Borough Council Act 1998**: **9th November 1998**\n2.  **Law Derived from the European Union (Wales) Act 2018**: **16th January 2018**\n\nThe time el",
+    "gemini_answer_with_dates_snippet": "To find the duration between the two enactment dates, we subtract the first date from the second date:\n\n*   **Second Act:** 2018-06-06\n*   **First Act:** 1998-07-16\n\nLet's calculate the difference:\n\n1"
+  },
+  {
+    "task_id": "DB034",
+    "expected_duration": "0 years 1 months 26 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The enactment dates for the two pieces of legislation are:\n\n1.  **Safeguarding and Clergy Discipline Measure 2016:** Enacted on **17 March 2016**.\n2.  **Houses in Multiple Occupation Act (Northern Ire",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 2016-03-16.\nThe second act was enacted on 2016-05-12.\n\nLet's calculate the duration:\n* Days remaining in March (after March 16th): March has 31 days. So, 31 - 16 = 15 days"
+  },
+  {
+    "task_id": "DB035",
+    "expected_duration": "10 years 9 months 22 days",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "To determine the length of time between the enactment of the two Acts, we need their Royal Assent dates:\n\n1.  **Finance (No. 2) Act 2005** received Royal Assent on **20 July 2005**.\n2.  **Housing and ",
+    "gemini_answer_with_dates_snippet": "The 'Finance (No. 2) Act 2005' was enacted on 2005-07-20.\nThe 'Housing and Planning Act 2016' was enacted on 2016-05-12.\n\nTo calculate the duration:\nFrom 2005-07-20 to 2015-07-20 is exactly **10 years"
+  },
+  {
+    "task_id": "DB036",
+    "expected_duration": "11 years 5 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Open-Ended Investment Companies Act (Northern Ireland) 2002' received Royal Assent on **10th May 2002**.\n\nThe 'Local Government Act (Northern Ireland) 2014' received Royal Assent on **12th May 20",
+    "gemini_answer_with_dates_snippet": "To calculate the duration, we'll break it down into years, months, and days:\n\n1.  **Years:** From November 22, 2002, to November 22, 2013, is **11 years**.\n\n2.  **Months (from Nov 22, 2013, to May 12,"
+  },
+  {
+    "task_id": "DB037",
+    "expected_duration": "56 years 1 months 9 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The European Union (Withdrawal) (No. 2) Act 2019 was enacted **56 years** after the Offices, Shops and Railway Premises Act 1963.",
+    "gemini_answer_with_dates_snippet": "The second Act was enacted **56 years, 1 month, and 9 days** after the first."
+  },
+  {
+    "task_id": "DB038",
+    "expected_duration": "14 years 8 months 14 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Pension Schemes Act 2017 was enacted 15 years after the Railway Safety Act (Northern Ireland) 2002.",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between the two enactment dates, we can break it down into years, months, and days:\n\n1.  **First enactment:** 2002-08-13\n2.  **Second enactment:** 2017-04-27\n\n*   **Years:** "
+  },
+  {
+    "task_id": "DB039",
+    "expected_duration": "34 years 4 months 13 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Deregulation Act 2015 was enacted **35 years** after the Criminal Justice (Scotland) Act 1980.",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between the two enactment dates:\n\n*   **First Act:** Criminal Justice (Scotland) Act 1980 on **1980-11-13**\n*   **Second Act:** Deregulation Act 2015 on **2015-03-26**\n\nLet's"
+  },
+  {
+    "task_id": "DB040",
+    "expected_duration": "33 years 4 months 4 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Education Act 1976 received Royal Assent on **6 August 1976**.\nThe Budget (No. 2) Act (Northern Ireland) 2010 received Royal Assent on **12 October 2010**.\n\nTo calculate the duration:\n\n*   From 6 ",
+    "gemini_answer_with_dates_snippet": "To calculate the time difference between the two enactment dates:\n\n1.  **First Act:** 1976-11-22\n2.  **Second Act:** 2010-03-26\n\n*   **Years:** From 1976-11-22 to 2009-11-22 is exactly 33 years.\n*   *"
+  },
+  {
+    "task_id": "DB041",
+    "expected_duration": "117 years 6 months 22 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Inquiries Act 2005 was enacted **118 years** after the Secretary for Scotland Act 1887.",
+    "gemini_answer_with_dates_snippet": "The 'Inquiries Act 2005' was enacted **117 years, 6 months, and 22 days** after the 'Secretary for Scotland Act 1887'."
+  },
+  {
+    "task_id": "DB042",
+    "expected_duration": "36 years 7 months 0 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The enactment dates for the two Acts are:\n\n1.  **Value Added Tax Act 1983:** Received Royal Assent on **21st December 1983**.\n2.  **National Health Service (Indemnities) (Wales) Act 2020:** Received R",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1983-07-26.\nThe second act was enacted on 2020-02-26.\n\nTo calculate the duration:\nFrom 1983-07-26 to 2019-07-26 is exactly 36 years.\nFrom 2019-07-26 to 2020-02-26:\n* July "
+  },
+  {
+    "task_id": "DB043",
+    "expected_duration": "3 years 11 months 17 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'River Humber (Upper Pyewipe Outfall) Act 1992' was enacted **4 years** after the 'Solicitors (Scotland) Act 1988'.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1988-07-29.\nThe second act was enacted on 1992-07-16.\n\nLet's calculate the difference:\n\n*   From 1988-07-29 to 1991-07-29 is exactly 3 years.\n*   Now we need to go from 19"
+  },
+  {
+    "task_id": "DB044",
+    "expected_duration": "29 years 11 months 23 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The 'National Health Service (Amendment) Act 1949' was enacted **30 years** after the 'Regimental Debts (Deposit of Wills) (Scotland) Act 1919'.",
+    "gemini_answer_with_dates_snippet": "The first Act was enacted on 1919-12-23.\nThe second Act was enacted on 1949-12-16.\n\nTo calculate the time difference:\n\n1.  **Years:** From 1919-12-23 to 1948-12-23 is exactly **29 years**.\n2.  **Remai"
+  },
+  {
+    "task_id": "DB045",
+    "expected_duration": "6 years 9 months 21 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'European Union Act 2011' received Royal Assent on **19 July 2011**.\n\nThe 'Statute Law (Repeals) Measure 2018' received Royal Assent on **19 July 2018**.\n\nTherefore, the 'Statute Law (Repeals) Mea",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between the two dates:\n\n*   **First date:** July 19, 2011\n*   **Second date:** May 10, 2018\n\n1.  **Years:** From July 19, 2011 to July 19, 2017 is exactly 6 years.\n\n2.  **Mon"
+  },
+  {
+    "task_id": "DB046",
+    "expected_duration": "17 years 9 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Church of England (Miscellaneous Provisions) Measure 2014' was enacted **18 years** after the 'Allied Irish Banks Act 1996'.",
+    "gemini_answer_with_dates_snippet": "To calculate the time difference, we'll subtract the first date from the second date:\n\nFirst enactment: 1996-07-24\nSecond enactment: 2014-05-14\n\n1.  **Days:** We can't subtract 24 from 14 directly, so"
+  },
+  {
+    "task_id": "DB047",
+    "expected_duration": "36 years 11 months 12 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Education and Adoption Act 2016' was enacted **37 years** after the 'Pneumoconiosis etc. (Workers' Compensation) Act 1979'.",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between the two dates:\n\n*   **First enactment:** 1979-04-04\n*   **Second enactment:** 2016-03-16\n\nWe can subtract the dates:\n\n1.  **Days:** 16 - 4 = 12 days\n2.  **Months:** 3"
+  },
+  {
+    "task_id": "DB048",
+    "expected_duration": "23 years 4 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Avon Weir Act 1992 was enacted **24 years** after the Town and Country Planning Act 1968.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1968-10-25.\nThe second act was enacted on 1992-03-16.\n\nLet's calculate the duration:\n\n1.  **Years:** From 1968-10-25 to 1991-10-25 is exactly 23 years.\n\n2.  **Months:** Fr"
+  },
+  {
+    "task_id": "DB049",
+    "expected_duration": "33 years 7 months 16 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Local Government Finance Act (Northern Ireland) 2011' was enacted **34 years** after the 'Insurance Brokers (Registration) Act 1977'.",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between the two dates, we'll count the full years, then full months, and finally the remaining days.\n\n1.  **First date:** 1977-07-29\n2.  **Second date:** 2011-03-16\n\n*   **Ye"
+  },
+  {
+    "task_id": "DB050",
+    "expected_duration": "49 years 4 months 9 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Finance Act 1971 was enacted in 1971.\nThe Private International Law (Implementation of Agreements) Act 2020 was enacted in 2020.\n\n2020 - 1971 = **49 years**\n\nSo, the Private International Law (Imp",
+    "gemini_answer_with_dates_snippet": "The 'Private International Law (Implementation of Agreements) Act 2020' was enacted **49 years, 4 months, and 9 days** after the 'Finance Act 1971'."
+  },
+  {
+    "task_id": "DB051",
+    "expected_duration": "7 years 2 months 19 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Companies Act 2006 received Royal Assent on **8 November 2006**.\nThe Control of Horses (Wales) Act 2014 received Royal Assent on **17 June 2014**.\n\nTherefore, the 'Control of Horses (Wales) Act 20",
+    "gemini_answer_with_dates_snippet": "The second Act was enacted **7 years, 2 months, and 19 days** after the first.\n\nHere's the breakdown:\n*   From 2006-11-08 to 2013-11-08 is exactly 7 years.\n*   From 2013-11-08 to 2014-01-08 is exactly"
+  },
+  {
+    "task_id": "DB052",
+    "expected_duration": "31 years 9 months 12 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The enactment dates for the two Acts are:\n\n*   **Parliamentary Pensions etc. Act 1984:** Received Royal Assent on **26 March 1984**.\n*   **House of Commons Members' Fund Act 2016:** Received Royal Ass",
+    "gemini_answer_with_dates_snippet": "The second Act was enacted **31 years, 9 months, and 12 days** after the first Act."
+  },
+  {
+    "task_id": "DB053",
+    "expected_duration": "0 years 11 months 14 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The Sex Discrimination Act 1975 was enacted **1 year** after the National Theatre Act 1974.",
+    "gemini_answer_with_dates_snippet": "To calculate the duration:\n\n1.  **From 1974-11-29 to 1975-11-29:** This is exactly 1 year.\n2.  **From 1975-11-29 to 1975-11-12:** The second date is *earlier* in November.\n    The difference is 29 - 1"
+  },
+  {
+    "task_id": "DB054",
+    "expected_duration": "18 years 6 months 13 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The **House of Commons (Removal of Clergy Disqualification) Act 2001** was enacted **19 years** after the **Mental Health (Amendment) Act 1982**.",
+    "gemini_answer_with_dates_snippet": "The second act was enacted **18 years, 6 months, and 13 days** after the first.\n\nHere's the breakdown:\n\n*   **From Oct 28, 1982, to Oct 28, 2000:** 18 years\n*   **From Oct 28, 2000, to April 28, 2001:"
+  },
+  {
+    "task_id": "DB055",
+    "expected_duration": "24 years 5 months 4 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'British Railways Act 1993' was enacted **25 years** after the 'Justices of the Peace Act 1968'.",
+    "gemini_answer_with_dates_snippet": "To calculate the duration, we'll find the difference between 1968-10-25 and 1993-03-29.\n\n1.  **Years:** From 1968-10-25 to 1992-10-25 is 24 years.\n2.  **Months (from 1992-10-25):**\n    *   October 25,"
+  },
+  {
+    "task_id": "DB056",
+    "expected_duration": "7 years 1 months 1 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The enactment dates for the two acts are:\n\n*   **Health (Miscellaneous Provisions) Act (Northern Ireland) 2008:** 11th January 2008\n*   **Deregulation Act 2015:** 26th March 2015\n\nThe Deregulation Act",
+    "gemini_answer_with_dates_snippet": "The 'Deregulation Act 2015' was enacted **7 years, 1 month, and 1 day** after the 'Health (Miscellaneous Provisions) Act (Northern Ireland) 2008'."
+  },
+  {
+    "task_id": "DB057",
+    "expected_duration": "20 years 3 months 8 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "To determine the time difference, we first need the exact enactment dates (Royal Assent dates) for both Acts:\n\n1.  **HFC Bank Act 1999:**\n    *   Royal Assent: **27th May 1999**\n\n2.  **Census (Return ",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1999-06-30.\nThe second act was enacted on 2019-10-08.\n\nTo calculate the difference:\n* From 1999-06-30 to 2019-06-30 is exactly 20 years.\n* From 2019-06-30 to 2019-07-30 is"
+  },
+  {
+    "task_id": "DB058",
+    "expected_duration": "11 years 0 months 0 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The Housing Act 1974 was enacted **11 years** after the Wills Act 1963.",
+    "gemini_answer_with_dates_snippet": "The Wills Act 1963 was enacted on 1963-07-31.\nThe Housing Act 1974 was enacted on 1974-07-31.\n\nThe second act was enacted **11 years** after the first."
+  },
+  {
+    "task_id": "DB059",
+    "expected_duration": "81 years 7 months 7 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Crossrail Act 2008 was enacted **82 years** after the Small Holdings and Allotments Act 1926.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1926-12-15.\nThe second act was enacted on 2008-07-22.\n\nTo calculate the difference:\n\n*   **Years:** 2008 - 1926 = 82 years.\n*   **Months:** July (7) - December (12) = -5 m"
+  },
+  {
+    "task_id": "DB060",
+    "expected_duration": "14 years 11 months 16 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The Police Act 1997 was enacted in 1997.\nThe Welfare Reform Act 2012 was enacted in 2012.\n\nThe difference is 2012 - 1997 = **15 years**.",
+    "gemini_answer_with_dates_snippet": "To find the duration between the two enactment dates, we'll subtract the first date from the second.\n\n*   **First Enactment Date:** 1997-03-21\n*   **Second Enactment Date:** 2012-03-08\n\nLet's calculat"
+  },
+  {
+    "task_id": "DB061",
+    "expected_duration": "21 years 7 months 11 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Consumer Insurance (Disclosure and Representations) Act 2012' was enacted **22 years** after the 'Representation of the People Act 1990'.",
+    "gemini_answer_with_dates_snippet": "The second Act was enacted **21 years, 7 months, and 11 days** after the first."
+  },
+  {
+    "task_id": "DB062",
+    "expected_duration": "19 years 11 months 29 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The Rate Support Grants Act 1988 was enacted in 1988.\nThe Planning and Energy Act 2008 was enacted in 2008.\n\nTherefore, the Planning and Energy Act 2008 was enacted **20 years** after the Rate Support",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between 1988-11-15 and 2008-11-13:\n\n1.  **Years:** From November 15, 1988, to November 15, 2007, is exactly 19 years.\n2.  **Remaining time to 2008-11-13:**\n    *   From Novem"
+  },
+  {
+    "task_id": "DB063",
+    "expected_duration": "15 years 3 months 16 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The enactment dates for the two pieces of legislation are:\n\n*   **Political Parties, Elections and Referendums Act 2000:** Received Royal Assent on **9th November 2000**.\n*   **Safeguarding and Clergy",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 2000-11-30.\nThe second act was enacted on 2016-03-16.\n\nTo calculate the time difference:\n\n*   **Years:** From November 30, 2000, to November 30, 2015, is exactly 15 years."
+  },
+  {
+    "task_id": "DB064",
+    "expected_duration": "21 years 0 months 29 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The 'Postal Services Act 2000' was enacted in **2000**.\nThe 'Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021' was enacted in **2021**.\n\nTherefore, the latter act was enacte",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between the two enactment dates:\n\n1.  **First Act:** 2000-07-28\n2.  **Second Act:** 2021-08-26\n\nLet's break it down:\n\n*   From 2000-07-28 to 2021-07-28 is exactly **21 years*"
+  },
+  {
+    "task_id": "DB065",
+    "expected_duration": "48 years 0 months 2 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The 'Prisons (Interference with Wireless Telegraphy) Act 2012' was enacted **48 years** after the 'Travel Concessions Act 1964'.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1964-12-17.\nThe second act was enacted on 2012-12-19.\n\nFrom 1964-12-17 to 2012-12-17, there are exactly 48 years.\nFrom 2012-12-17 to 2012-12-19, there are 2 days.\n\nSo, the"
+  },
+  {
+    "task_id": "DB066",
+    "expected_duration": "107 years 2 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The 'Education (Provision of Meals) Act 1906' was enacted in **1906**.\nThe 'Northern Ireland (Miscellaneous Provisions) Act 2014' was enacted in **2014**.\n\nThe difference between these two dates is:\n2",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1906-12-21.\nThe second act was enacted on 2014-03-13.\n\nTo calculate the time difference:\n\n1.  **Years:** From 1906-12-21 to 2013-12-21 is exactly 107 years.\n2.  **Remainin"
+  },
+  {
+    "task_id": "DB067",
+    "expected_duration": "10 years 3 months 13 days",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Finance Act 1998 was enacted on **31st July 1998**.\nThe Human Fertilisation and Embryology Act 2008 was enacted on **13th November 2008**.\n\nTherefore, the Human Fertilisation and Embryology Act 20",
+    "gemini_answer_with_dates_snippet": "The Finance Act 1998 was enacted on 1998-07-31.\nThe Human Fertilisation and Embryology Act 2008 was enacted on 2008-11-13.\n\nTo calculate the time difference:\n*   From 1998-07-31 to 2008-07-31 is exact"
+  },
+  {
+    "task_id": "DB068",
+    "expected_duration": "11 years 0 months 3 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The Autism Act 2009 was enacted **11 years** after the Competition Act 1998.",
+    "gemini_answer_with_dates_snippet": "The Competition Act 1998 was enacted on 1998-11-09.\nThe Autism Act 2009 was enacted on 2009-11-12.\n\nTo calculate the duration:\nFrom 1998-11-09 to 2009-11-09 is exactly 11 years.\nFrom 2009-11-09 to 200"
+  },
+  {
+    "task_id": "DB069",
+    "expected_duration": "0 years 10 months 12 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "There appears to be a misunderstanding regarding the first Act you mentioned.\n\nThe **House of Lords Reform Act 2014** does **not exist**. While there was a House of Lords Reform Bill 2012, it did not ",
+    "gemini_answer_with_dates_snippet": "The first Act, the 'House of Lords Reform Act 2014', was enacted on 2014-05-14.\nThe second Act, the 'Health Service Commissioner for England (Complaint Handling) Act 2015', was enacted on 2015-03-26.\n"
+  },
+  {
+    "task_id": "DB070",
+    "expected_duration": "17 years 9 months 6 days",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The **Energy Act 2004** received Royal Assent on **22 July 2004**.\nThe **Elections Act 2022** received Royal Assent on **28 April 2022**.\n\nTherefore, the Elections Act 2022 was enacted **17 years, 9 m",
+    "gemini_answer_with_dates_snippet": "Let's break down the time difference:\n\n*   **First Enactment:** 2004-07-22\n*   **Second Enactment:** 2022-04-28\n\n1.  **Years:** From 2004-07-22 to 2021-07-22 is 17 years.\n\n2.  **Months (from 2021-07-2"
+  },
+  {
+    "task_id": "DB071",
+    "expected_duration": "63 years 8 months 27 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Marshall Aid Commemoration Act 1953' received Royal Assent on **28 May 1953**.\n\nThe 'Children and Social Work Act 2017' received Royal Assent on **27 April 2017**.\n\nTherefore, the 'Children and S",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between the two enactment dates:\n\n*   **First Act:** 1953-07-31\n*   **Second Act:** 2017-04-27\n\n1.  **Calculate the difference in years:**\n    From 1953-07-31 to 2016-07-31 i"
+  },
+  {
+    "task_id": "DB072",
+    "expected_duration": "0 years 9 months 26 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The Taxis Act (Northern Ireland) 2008 was enacted on **19th May 2008**.\nThe Public Authorities (Reform) Act (Northern Ireland) 2009 was enacted on **16th February 2009**.\n\nThe difference between these",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 2008-04-21.\nThe second act was enacted on 2009-02-16.\n\nLet's calculate the number of days:\n*   Days remaining in April 2008: 30 - 21 = 9 days\n*   May 2008: 31 days\n*   Jun"
+  },
+  {
+    "task_id": "DB073",
+    "expected_duration": "16 years 0 months 7 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The 'Queen Mary and Westfield College Act 1995' was enacted in 1995.\nThe 'Education Act 2011' was enacted in 2011.\n\nThe difference is **16 years**.",
+    "gemini_answer_with_dates_snippet": "The 'Queen Mary and Westfield College Act 1995' was enacted on 1995-11-08.\nThe 'Education Act 2011' was enacted on 2011-11-15.\n\nTo find the duration between them:\nFrom 1995-11-08 to 2011-11-08 is exac"
+  },
+  {
+    "task_id": "DB074",
+    "expected_duration": "119 years 11 months 6 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Citation Amendment (Scotland) Act 1882 was enacted in 1882.\nThe Export Control Act 2002 was enacted in 2002.\n\n2002 - 1882 = 120 years.\n\nThe Export Control Act 2002 was enacted **120 years** after ",
+    "gemini_answer_with_dates_snippet": "To calculate the time between the two enactment dates:\n\n*   **First Act:** 1882-08-18\n*   **Second Act:** 2002-07-24\n\n1.  **Calculate the full years:**\n    From 1882-08-18 to 2001-08-18 is exactly 119"
+  },
+  {
+    "task_id": "DB075",
+    "expected_duration": "10 years 11 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Administration of Justice Act 1977 was enacted **11 years** after the Building Control Act 1966.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1966-08-09.\nThe second act was enacted on 1977-07-29.\n\nTo calculate the difference:\n*   **Years:** 1977 - 1966 = 11 years.\n*   **Months and Days:** Since July 29 is before"
+  },
+  {
+    "task_id": "DB076",
+    "expected_duration": "22 years 8 months 17 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Rate Support Grants Act 1986' was enacted on **8 July 1986**.\n\nThe 'Budget (No. 2) Act (Northern Ireland) 2009' was enacted on **15 December 2009**.\n\nTo calculate the duration:\n*   From 8 July 19",
+    "gemini_answer_with_dates_snippet": "The second act was enacted **22 years, 8 months, and 17 days** after the first."
+  },
+  {
+    "task_id": "DB077",
+    "expected_duration": "37 years 7 months 21 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The enactment dates for the two Acts are:\n\n1.  **Employment Protection (Consolidation) Act 1978:** Enacted on **20 July 1978** (date of Royal Assent).\n2.  **Nurse Staffing Levels (Wales) Act 2016:** E",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between the two enactment dates:\n\n1.  **First Act Enacted:** July 31, 1978\n2.  **Second Act Enacted:** March 21, 2016\n\n**Step-by-step calculation:**\n\n*   **Years:** From July"
+  },
+  {
+    "task_id": "DB078",
+    "expected_duration": "4 years 3 months 15 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'National Health Service Act 2006' was enacted **4 years** after the 'Police Reform Act 2002' (2006 - 2002 = 4 years).",
+    "gemini_answer_with_dates_snippet": "To calculate the duration, we'll break it down into years, months, and days:\n\n1.  **Years:**\n    From 2002-07-24 to 2006-07-24 is exactly 4 years.\n\n2.  **Months:**\n    From 2006-07-24 to 2006-11-08:\n "
+  },
+  {
+    "task_id": "DB079",
+    "expected_duration": "32 years 9 months 29 days",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The enactment dates (Royal Assent) for the Acts are:\n\n*   **Agricultural Holdings (Scotland) Act 1991:** 25th July 1991\n*   **Digital Markets, Competition and Consumers Act 2024:** 24th May 2024\n\nTher",
+    "gemini_answer_with_dates_snippet": "The second act, 'Digital Markets, Competition and Consumers Act 2024', was enacted **32 years, 9 months, and 29 days** after the first act, 'Agricultural Holdings (Scotland) Act 1991'.\n\nHere's the bre"
+  },
+  {
+    "task_id": "DB080",
+    "expected_duration": "103 years 11 months 24 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Protection from Eviction Act 1977' was enacted **104 years** after the 'Slave Trade Act 1873'.",
+    "gemini_answer_with_dates_snippet": "To calculate the time difference, we'll subtract the first date from the second date:\n\n*   **Second Date:** July 29, 1977\n*   **First Date:** August 5, 1873\n\n1.  **Years:**\n    From August 5, 1873 to "
+  },
+  {
+    "task_id": "DB081",
+    "expected_duration": "108 years 0 months 26 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The 'Police and Magistrates' Courts Act 1994' was enacted **108 years** after the 'Removal Terms (Scotland) Act 1886'.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1886-06-25.\nThe second act was enacted on 1994-07-21.\n\nTo calculate the difference:\n* From 1886-06-25 to 1994-06-25 is exactly 108 years.\n* From 1994-06-25 to 1994-07-21:\n"
+  },
+  {
+    "task_id": "DB082",
+    "expected_duration": "7 years 7 months 16 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Competition and Service (Utilities) Act 1992' was enacted **8 years** after the 'Housing Defects Act 1984'.",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between the two enactment dates:\n\n*   **First Act:** Housing Defects Act 1984 - 1984-07-31\n*   **Second Act:** Competition and Service (Utilities) Act 1992 - 1992-03-16\n\nLet'"
+  },
+  {
+    "task_id": "DB083",
+    "expected_duration": "1 years 9 months 9 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The 'Dogs (Amendment) Act (Northern Ireland)' was enacted on **19th March 2001**.\nThe 'Animal Health Act 2002' was enacted on **8th October 2002**.\n\nTherefore, the 'Animal Health Act 2002' was enacted",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 2001-01-29.\nThe second act was enacted on 2002-11-07.\n\nTo calculate the time difference:\n* From 2001-01-29 to 2002-01-29 is 1 year.\n* From 2002-01-29 to 2002-10-29 is 9 mo"
+  },
+  {
+    "task_id": "DB084",
+    "expected_duration": "50 years 7 months 6 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The **Consumer Credit Act 1974** received Royal Assent on **31 July 1974**.\n\nThe **Budget Act (Northern Ireland) 2025** has not been enacted yet, as it is currently 2024. Acts are named for the year t",
+    "gemini_answer_with_dates_snippet": "To calculate the duration, we'll count the full years, then the full months, and finally the remaining days.\n\n1.  **Years:**\n    *   From July 31, 1974, to July 31, 2024, is exactly 50 years.\n\n2.  **M"
+  },
+  {
+    "task_id": "DB085",
+    "expected_duration": "22 years 7 months 14 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Public Service Pensions Act (Northern Ireland) 2014 was enacted **23 years** after the Water Industry Act 1991.",
+    "gemini_answer_with_dates_snippet": "Let's calculate the duration:\n\n*   **First Act:** July 25, 1991\n*   **Second Act:** March 11, 2014\n\n1.  **Years:** From July 25, 1991 to July 25, 2013, there are exactly 22 years.\n2.  **Months:** From"
+  },
+  {
+    "task_id": "DB086",
+    "expected_duration": "197 years 7 months 17 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The Nottingham City Council Act 2013 was enacted **198 years** after the Stamp Act 1815.",
+    "gemini_answer_with_dates_snippet": "The 'Stamp Act 1815' was enacted on 1815-07-11.\nThe 'Nottingham City Council Act 2013' was enacted on 2013-02-28.\n\nTo calculate the duration:\n\n1.  **Years:** From 1815-07-11 to 2012-07-11 is exactly 1"
+  },
+  {
+    "task_id": "DB087",
+    "expected_duration": "18 years 5 months 0 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The 'Finance Act 2005' was enacted **19 years** after the 'Public Trustee and Administration of Funds Act 1986'.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1986-11-07.\nThe second act was enacted on 2005-04-07.\n\nTo calculate the duration:\nFrom 1986-11-07 to 2004-11-07 is exactly 18 years.\nFrom 2004-11-07 to 2005-04-07 is:\n* No"
+  },
+  {
+    "task_id": "DB088",
+    "expected_duration": "28 years 5 months 12 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Northern Ireland (Remission of Sentences) Act 1995 was enacted **28 years** after the Water (Scotland) Act 1967.",
+    "gemini_answer_with_dates_snippet": "The 'Water (Scotland) Act 1967' was enacted on May 27, 1967.\nThe 'Northern Ireland (Remission of Sentences) Act 1995' was enacted on November 8, 1995.\n\nTo calculate the duration:\nFrom May 27, 1967, to"
+  },
+  {
+    "task_id": "DB089",
+    "expected_duration": "117 years 11 months 20 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The Ports Act 1991 was enacted **118 years** after the Defence Acts Amendment Act 1873.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1873-08-05.\nThe second act was enacted on 1991-07-25.\n\nTo calculate the duration:\n\n*   **Years:** From 1873 to 1990 is 117 full years (1990 - 1873 = 117).\n*   **Months:** "
+  },
+  {
+    "task_id": "DB090",
+    "expected_duration": "30 years 8 months 23 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Administration of Justice Act 1977' was enacted **31 years** after the 'Cable and Wireless Act 1946'.",
+    "gemini_answer_with_dates_snippet": "The second Act was enacted **30 years, 8 months, and 23 days** after the first."
+  },
+  {
+    "task_id": "DB091",
+    "expected_duration": "40 years 9 months 19 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Nature Conservancy Council Act 1973' was enacted in 1973.\nThe 'Pensions Act 2014' was enacted in 2014.\n\nThe time difference is 2014 - 1973 = **41 years**.",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between the two dates, we can break it down into years, months, and days.\n\n*   **First Enactment:** 1973-07-25 (July 25, 1973)\n*   **Second Enactment:** 2014-05-14 (May 14, 2"
+  },
+  {
+    "task_id": "DB092",
+    "expected_duration": "25 years 11 months 2 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Forestry Act (Northern Ireland) 2010' was enacted **26 years** after the 'Trade Union Act 1984'.",
+    "gemini_answer_with_dates_snippet": "To calculate the duration, we need to find the time difference between 1984-07-26 and 2010-06-28.\n\n1.  **Years:** From July 26, 1984 to July 26, 2009 is exactly 25 years.\n\n2.  **Months and Days (from "
+  },
+  {
+    "task_id": "DB093",
+    "expected_duration": "17 years 10 months 9 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Care of Cathedrals (Amendment) Measure 2005' was enacted **18 years** after the 'Consumer Protection Act 1987'.",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between the two dates, we can count the full years, then the full months, and finally the remaining days.\n\n1.  **First Date:** 1987-05-15 (May 15, 1987)\n2.  **Second Date:** "
+  },
+  {
+    "task_id": "DB094",
+    "expected_duration": "7 years 3 months 15 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Southern Rhodesia Act 1965' was enacted **7 years** after the 'Interest on Damages (Scotland) Act 1958'.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1958-08-01.\nThe second act was enacted on 1965-11-16.\n\nTo calculate the duration:\n\n1.  **Years:** From 1958-08-01 to 1965-08-01 is exactly 7 years.\n2.  **Months:** From 19"
+  },
+  {
+    "task_id": "DB095",
+    "expected_duration": "16 years 4 months 21 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The 'Terrorism (Protection of Premises) Act 2025' was enacted **17 years** after the 'Planning and Energy Act 2008'.",
+    "gemini_answer_with_dates_snippet": "To calculate the duration between 2008-11-13 and 2025-04-03:\n\n1.  **Years:** From 2008-11-13 to 2024-11-13 is exactly 16 years.\n\n2.  **Remaining Days:** We need to calculate the days from 2024-11-13 t"
+  },
+  {
+    "task_id": "DB096",
+    "expected_duration": "74 years 5 months 8 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Pet Abduction Act 2024' was enacted 75 years after the 'Justices of the Peace Act 1949'.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1949-12-16.\nThe second act was enacted on 2024-05-24.\n\nLet's calculate the difference:\n\n*   **Years:** From 1949-12-16 to 2023-12-16 is exactly 74 years.\n*   **Remaining f"
+  },
+  {
+    "task_id": "DB097",
+    "expected_duration": "20 years 3 months 8 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The 'Industrial Development Act (Northern Ireland) 2002' was enacted **21 years** after the 'Wildlife and Countryside Act 1981'.",
+    "gemini_answer_with_dates_snippet": "The first act was enacted on 1981-10-30.\nThe second act was enacted on 2002-02-07.\n\nTo calculate the duration:\n\n*   **From 1981-10-30 to 2001-10-30 is exactly 20 years.**\n\n*   Now, we need to calculat"
+  },
+  {
+    "task_id": "DB098",
+    "expected_duration": "87 years 1 months 0 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The Nature Conservancy Council Act 1973 was enacted **87 years** after the Removal Terms (Scotland) Act 1886.",
+    "gemini_answer_with_dates_snippet": "The 'Removal Terms (Scotland) Act 1886' was enacted on 1886-06-25.\nThe 'Nature Conservancy Council Act 1973' was enacted on 1973-07-25.\n\nTo calculate the duration:\nFrom 1886-06-25 to 1973-06-25 is exa"
+  },
+  {
+    "task_id": "DB099",
+    "expected_duration": "38 years 11 months 19 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "gemini_answer_snippet": "The enactment dates for the two Acts are:\n\n*   **Employment Protection (Consolidation) Act 1978:** 20 July 1978\n*   **Supply and Appropriation (Main Estimates) Act 2017:** 20 July 2017\n\nTherefore, the",
+    "gemini_answer_with_dates_snippet": "To calculate the duration, we need to find the difference between the two dates:\n\n*   First enactment: 1978-07-31\n*   Second enactment: 2017-07-19\n\nLet's break it down:\n\n1.  **Years:** From 1978-07-31"
+  },
+  {
+    "task_id": "DB100",
+    "expected_duration": "47 years 4 months 23 days",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "gemini_answer_snippet": "The Armed Forces Act 1966 was enacted 48 years before the Pensions Act 2014.",
+    "gemini_answer_with_dates_snippet": "To calculate the duration, we subtract the first date from the second date:\n\nFirst Act: 1966-12-21\nSecond Act: 2014-05-14\n\nWe'll subtract in reverse order (Day, Month, Year), borrowing when necessary:"
+  }
+]

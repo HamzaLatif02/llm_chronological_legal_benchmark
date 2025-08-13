@@ -1,0 +1,2940 @@
+[
+  {
+    "task_id": "OR001",
+    "expected_order": [
+      "Chequers Estate Act 1917",
+      "Fertilisers and Feeding Stuffs Act 1926",
+      "Stipends (Cessation of Special Payments) Measure 2005",
+      "Domestic Abuse Act 2021"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Chequers Estate Act 1917",
+        "Fertilisers and Feeding Stuffs Act 1926",
+        "Stipends (Cessation of Special Payments) Measure 2005",
+        "Domestic Abuse Act 2021"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Chequers Estate Act 1917\n2. Fertilisers and Feeding Stuffs Act 1926\n3. Stipends (Cessation of Special Payments) Measure 2005\n4. Domestic Abuse Act 2021\n\nThis order reflects the chronological order in which the acts were enacted, from earliest to"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Chequers Estate Act 1917",
+        "Fertilisers and Feeding Stuffs Act 1926",
+        "Stipends (Cessation of Special Payments) Measure 2005",
+        "Domestic Abuse Act 2021"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their dates. Here are the acts in the correct order:\n\n1. Chequers Estate Act 1917 (1917-12-20)\n2. Fertilisers and Feeding Stuffs Act 1926 (1926-12-15)\n3. Stipends (Cessation of Special Payments) Measure 2005 (2004-03-24) - No"
+    }
+  },
+  {
+    "task_id": "OR002",
+    "expected_order": [
+      "Bills of Sale Act 1890",
+      "Adoption (Intercountry Aspects) Act (Northern Ireland) 2001",
+      "Church of England (Miscellaneous Provisions) Measure 2005",
+      "Control of Horses Act 2015"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Bills of Sale Act 1890",
+        "Adoption (Intercountry Aspects) Act (Northern Ireland) 2001",
+        "Church of England (Miscellaneous Provisions) Measure 2005",
+        "Control of Horses Act 2015"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Bills of Sale Act 1890\n2. Adoption (Intercountry Aspects) Act (Northern Ireland) 2001\n3. Church of England (Miscellaneous Provisions) Measure 2005\n4. Control of Horses Act 2015\n\nLet me know if you have any further questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Bills of Sale Act 1890",
+        "Adoption (Intercountry Aspects) Act (Northern Ireland) 2001",
+        "Church of England (Miscellaneous Provisions) Measure 2005",
+        "Control of Horses Act 2015"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment dates. Here are the acts in the correct order:\n\n1. Bills of Sale Act 1890 (1890-08-18)\n2. Adoption (Intercountry Aspects) Act (Northern Ireland) 2001 (2001-07-02)\n3. Church of England (Miscellaneous Provis"
+    }
+  },
+  {
+    "task_id": "OR003",
+    "expected_order": [
+      "Companies Act 1976",
+      "Birds (Registration Charges) Act 1997",
+      "Pensions (No. 2) Act (Northern Ireland) 2008",
+      "Borders, Citizenship and Immigration Act 2009",
+      "Local Government and Elections (Wales) Act 2021"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Companies Act 1976",
+        "Birds (Registration Charges) Act 1997",
+        "Pensions (No. 2) Act (Northern Ireland) 2008",
+        "Borders, Citizenship and Immigration Act 2009",
+        "Local Government and Elections (Wales) Act 2021"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Companies Act 1976\n2. Birds (Registration Charges) Act 1997\n3. Pensions (No. 2) Act (Northern Ireland) 2008\n4. Borders, Citizenship and Immigration Act 2009\n5. Local Government and Elections (Wales) Act 2021"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Companies Act 1976",
+        "Birds (Registration Charges) Act 1997",
+        "Pensions (No. 2) Act (Northern Ireland) 2008",
+        "Borders, Citizenship and Immigration Act 2009",
+        "Local Government and Elections (Wales) Act 2021"
+      ],
+      "llama_text_snippet": "Here are the acts arranged in order of enactment:\n\n1. Companies Act 1976 (1976-11-15)\n2. Birds (Registration Charges) Act 1997 (1997-03-21)\n3. Pensions (No. 2) Act (Northern Ireland) 2008 (2008-12-15)\n4. Borders, Citizenship and Immigration Act 2009 (2009-07-21)\n5. Local Government and Elections (Wa"
+    }
+  },
+  {
+    "task_id": "OR004",
+    "expected_order": [
+      "Animal Boarding Establishments Act 1963",
+      "Local Government Finance Act 1988",
+      "Dangerous Dogs (Amendment) Act 1997",
+      "Finance Act 2011",
+      "Housing (Amendment) Act (Northern Ireland) 2020"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Animal Boarding Establishments Act 1963",
+        "Local Government Finance Act 1988",
+        "Dangerous Dogs (Amendment) Act 1997",
+        "Finance Act 2011",
+        "Housing (Amendment) Act (Northern Ireland) 2020"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Animal Boarding Establishments Act 1963\n2. Local Government Finance Act 1988\n3. Dangerous Dogs (Amendment) Act 1997\n4. Finance Act 2011\n5. Housing (Amendment) Act (Northern Ireland) 2020"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Animal Boarding Establishments Act 1963",
+        "Local Government Finance Act 1988",
+        "Dangerous Dogs (Amendment) Act 1997",
+        "Finance Act 2011",
+        "Housing (Amendment) Act (Northern Ireland) 2020"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Animal Boarding Establishments Act 1963 (1963-07-31)\n2. Local Government Finance Act 1988 (1988-07-29)\n3. Dangerous Dogs (Amendment) Act 1997 (1997-03-21)\n4. Finance Act 2011 (2011-07-19)\n5. Housing (Amendment) Act (Northern Ireland) 2020 (2020-08-2"
+    }
+  },
+  {
+    "task_id": "OR005",
+    "expected_order": [
+      "Matrimonial Causes Act 1965",
+      "British Railways Act 1994",
+      "Immigration and Asylum Act 1999",
+      "Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010",
+      "Public Health (Wales) Act 2017"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Matrimonial Causes Act 1965",
+        "British Railways Act 1994",
+        "Immigration and Asylum Act 1999",
+        "Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010",
+        "Public Health (Wales) Act 2017"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Matrimonial Causes Act 1965\n2. British Railways Act 1994\n3. Immigration and Asylum Act 1999\n4. Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010\n5. Public Health (Wales) Act 2017\n\nLet me know if you have any other questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Matrimonial Causes Act 1965",
+        "British Railways Act 1994",
+        "Immigration and Asylum Act 1999",
+        "Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010",
+        "Public Health (Wales) Act 2017"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Matrimonial Causes Act 1965 (1965-11-08)\n2. British Railways Act 1994 (1994-03-31)\n3. Immigration and Asylum Act 1999 (1999-11-11)\n4. Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (2010-01-22)\n5. Public Health (Wales) Act 2017 "
+    }
+  },
+  {
+    "task_id": "OR006",
+    "expected_order": [
+      "Small Holdings and Allotments Act 1926",
+      "Sea Fisheries Act 1968",
+      "Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015",
+      "Highgate Cemetery Act 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Small Holdings and Allotments Act 1926",
+        "Sea Fisheries Act 1968",
+        "Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015",
+        "Highgate Cemetery Act 2022"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Small Holdings and Allotments Act 1926\n2. Sea Fisheries Act 1968\n3. Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015\n4. Highgate Cemetery Act 2022\n\nThis order reflects the chronological sequence in which the acts were enacte"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Small Holdings and Allotments Act 1926",
+        "Sea Fisheries Act 1968",
+        "Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015",
+        "Highgate Cemetery Act 2022"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment dates. Here are the acts in the correct order:\n\n1. Small Holdings and Allotments Act 1926 (1926-12-15)\n2. Sea Fisheries Act 1968 (1968-12-18)\n3. Violence against Women, Domestic Abuse and Sexual Violence ("
+    }
+  },
+  {
+    "task_id": "OR007",
+    "expected_order": [
+      "Hotel Proprietors Act 1956",
+      "Greater Nottingham Light Rapid Transit Act 1994",
+      "HFC Bank Act 1999",
+      "Welfare Reform Act (Northern Ireland) 2007"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Hotel Proprietors Act 1956",
+        "Greater Nottingham Light Rapid Transit Act 1994",
+        "HFC Bank Act 1999",
+        "Welfare Reform Act (Northern Ireland) 2007"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Hotel Proprietors Act 1956\n2. Greater Nottingham Light Rapid Transit Act 1994\n3. HFC Bank Act 1999\n4. Welfare Reform Act (Northern Ireland) 2007\n\nLet me know if you have any other questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Hotel Proprietors Act 1956",
+        "Greater Nottingham Light Rapid Transit Act 1994",
+        "HFC Bank Act 1999",
+        "Welfare Reform Act (Northern Ireland) 2007"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Hotel Proprietors Act 1956 (1956-08-02)\n2. Greater Nottingham Light Rapid Transit Act 1994 (1994-07-21)\n3. HFC Bank Act 1999 (1999-06-30)\n4. Welfare Reform Act (Northern Ireland) 2007 (2007-06-29)"
+    }
+  },
+  {
+    "task_id": "OR008",
+    "expected_order": [
+      "Sea Fisheries Regulation Act 1966",
+      "Industrial Common Ownership Act 1976",
+      "Public Trustee (Liability and Fees) Act 2002",
+      "National Insurance Contributions (Reduction in Rates) Act 2023"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Sea Fisheries Regulation Act 1966",
+        "Industrial Common Ownership Act 1976",
+        "Public Trustee (Liability and Fees) Act 2002",
+        "National Insurance Contributions (Reduction in Rates) Act 2023"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Sea Fisheries Regulation Act 1966\n2. Industrial Common Ownership Act 1976\n3. Public Trustee (Liability and Fees) Act 2002\n4. National Insurance Contributions (Reduction in Rates) Act 2023\n\nLet me know if you have any other questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Sea Fisheries Regulation Act 1966",
+        "Industrial Common Ownership Act 1976",
+        "Public Trustee (Liability and Fees) Act 2002",
+        "National Insurance Contributions (Reduction in Rates) Act 2023"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Sea Fisheries Regulation Act 1966 (1966-11-17)\n2. Industrial Common Ownership Act 1976 (1976-11-22)\n3. Public Trustee (Liability and Fees) Act 2002 (2002-11-07)\n4. National Insurance Contributions (Reduction in Rates) Act 2023 (2023-12-18)"
+    }
+  },
+  {
+    "task_id": "OR009",
+    "expected_order": [
+      "Aviation and Maritime Security Act 1990",
+      "Children, Schools and Families Act 2010",
+      "Health and Social Care (Safety and Quality) Act 2015",
+      "Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016",
+      "Finance Act 2016"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Aviation and Maritime Security Act 1990",
+        "Children, Schools and Families Act 2010",
+        "Health and Social Care (Safety and Quality) Act 2015",
+        "Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016",
+        "Finance Act 2016"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Aviation and Maritime Security Act 1990\n2. Children, Schools and Families Act 2010\n3. Health and Social Care (Safety and Quality) Act 2015\n4. Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016\n5. Finance Act 2016\n\nLet me know if yo"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Aviation and Maritime Security Act 1990",
+        "Children, Schools and Families Act 2010",
+        "Health and Social Care (Safety and Quality) Act 2015",
+        "Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016",
+        "Finance Act 2016"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Aviation and Maritime Security Act 1990 (1990-07-26)\n2. Health and Social Care (Safety and Quality) Act 2015 (2015-03-26)\n3. Children, Schools and Families Act 2010 (2010-04-08)\n4. Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016"
+    }
+  },
+  {
+    "task_id": "OR010",
+    "expected_order": [
+      "Suez Canal (Shares) Act 1876",
+      "Welfare Reform Act (Northern Ireland) 2007",
+      "Public Services Ombudsman (Wales) Act 2019"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Suez Canal (Shares) Act 1876",
+        "Welfare Reform Act (Northern Ireland) 2007",
+        "Public Services Ombudsman (Wales) Act 2019"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Suez Canal (Shares) Act 1876\n2. Welfare Reform Act (Northern Ireland) 2007\n3. Public Services Ombudsman (Wales) Act 2019\n\nThis order reflects the chronological order in which the acts were enacted, with the oldest act first and the most recent act las"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Suez Canal (Shares) Act 1876",
+        "Welfare Reform Act (Northern Ireland) 2007",
+        "Public Services Ombudsman (Wales) Act 2019"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment dates. Here are the acts in chronological order:\n\n1. Suez Canal (Shares) Act 1876 (1876-08-15)\n2. Welfare Reform Act (Northern Ireland) 2007 (2007-06-29)\n3. Public Services Ombudsman (Wales) Act 2019 (2019"
+    }
+  },
+  {
+    "task_id": "OR011",
+    "expected_order": [
+      "Rehabilitation of Offenders Act 1974",
+      "Nottingham City Council Act 2013",
+      "Energy Act 2023"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Rehabilitation of Offenders Act 1974",
+        "Nottingham City Council Act 2013",
+        "Energy Act 2023"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider the year each act was enacted. Here's the correct order:\n\n1. Rehabilitation of Offenders Act 1974\n2. Nottingham City Council Act 2013\n3. Energy Act 2023\n\nThis order reflects the chronological sequence of enactment, from the e"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Rehabilitation of Offenders Act 1974",
+        "Nottingham City Council Act 2013",
+        "Energy Act 2023"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their enactment dates. Here are the acts in the correct order:\n\n1. Rehabilitation of Offenders Act 1974 (enacted on 1974-07-31)\n2. Nottingham City Council Act 2013 (enacted on 2013-02-28)\n3. Energy Act 2023 (enacted on 2023-1"
+    }
+  },
+  {
+    "task_id": "OR012",
+    "expected_order": [
+      "Isle of Man Act 1979",
+      "Queen Mary and Westfield College Act 1995",
+      "Local Government (Boundaries) Act (Northern Ireland) 2008"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Isle of Man Act 1979",
+        "Queen Mary and Westfield College Act 1995",
+        "Local Government (Boundaries) Act (Northern Ireland) 2008"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Isle of Man Act 1979\n2. Queen Mary and Westfield College Act 1995\n3. Local Government (Boundaries) Act (Northern Ireland) 2008\n\nThey are arranged in chronological order by year of enactment."
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Isle of Man Act 1979",
+        "Queen Mary and Westfield College Act 1995",
+        "Local Government (Boundaries) Act (Northern Ireland) 2008"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Isle of Man Act 1979 (1979-12-20)\n2. Queen Mary and Westfield College Act 1995 (1995-11-08)\n3. Local Government (Boundaries) Act (Northern Ireland) 2008 (2008-05-23)"
+    }
+  },
+  {
+    "task_id": "OR013",
+    "expected_order": [
+      "Sea Fisheries Regulation Act 1966",
+      "Transport Act 1968",
+      "London Underground (Jubilee) Act 1993",
+      "Land Drainage Act 1994",
+      "Driving Instructors (Registration) Act 2016"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Sea Fisheries Regulation Act 1966",
+        "Transport Act 1968",
+        "London Underground (Jubilee) Act 1993",
+        "Land Drainage Act 1994",
+        "Driving Instructors (Registration) Act 2016"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Sea Fisheries Regulation Act 1966\n2. Transport Act 1968\n3. London Underground (Jubilee) Act 1993\n4. Land Drainage Act 1994\n5. Driving Instructors (Registration) Act is not found, however, the Driving Instructors (Registration) Act 2016 is not a real a"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Sea Fisheries Regulation Act 1966",
+        "Transport Act 1968",
+        "London Underground (Jubilee) Act 1993",
+        "Land Drainage Act 1994",
+        "Driving Instructors (Registration) Act 2016"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Sea Fisheries Regulation Act 1966 (1966-11-17)\n2. Transport Act 1968 (1968-10-25)\n3. London Underground (Jubilee) Act 1993 (1993-07-01)\n4. Land Drainage Act 1994 (1994-07-21)\n5. Driving Instructors (Registration) Act 2016 (2016-05-12)"
+    }
+  },
+  {
+    "task_id": "OR014",
+    "expected_order": [
+      "Countryside (Scotland) Act 1967",
+      "Landmines Act 1998",
+      "Financial Services (Banking Reform) Act 2013",
+      "Nationality and Borders Act 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Countryside (Scotland) Act 1967",
+        "Landmines Act 1998",
+        "Financial Services (Banking Reform) Act 2013",
+        "Nationality and Borders Act 2022"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Countryside (Scotland) Act 1967\n2. Landmines Act 1998\n3. Financial Services (Banking Reform) Act 2013\n4. Nationality and Borders Act 2022\n\nThis order reflects the chronological sequence in which the acts were enacted, from earliest to most recen"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Countryside (Scotland) Act 1967",
+        "Landmines Act 1998",
+        "Financial Services (Banking Reform) Act 2013",
+        "Nationality and Borders Act 2022"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Countryside (Scotland) Act 1967 (1967-10-27)\n2. Landmines Act 1998 (1998-07-28)\n3. Financial Services (Banking Reform) Act 2013 (2013-12-18)\n4. Nationality and Borders Act 2022 (2022-04-28)"
+    }
+  },
+  {
+    "task_id": "OR015",
+    "expected_order": [
+      "Finance (No. 2) Act 1915",
+      "Harbours Development (Scotland) Act 1972",
+      "Administration of Justice Act 1982",
+      "Nuclear Safeguards Act 2018"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Finance (No. 2) Act 1915",
+        "Harbours Development (Scotland) Act 1972",
+        "Administration of Justice Act 1982",
+        "Nuclear Safeguards Act 2018"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Finance (No. 2) Act 1915\n2. Harbours Development (Scotland) Act 1972\n3. Administration of Justice Act 1982\n4. Nuclear Safeguards Act 2018\n\nThis order reflects the chronological order in which the acts were enacted, from earliest to most recent."
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Finance (No. 2) Act 1915",
+        "Harbours Development (Scotland) Act 1972",
+        "Administration of Justice Act 1982",
+        "Nuclear Safeguards Act 2018"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment dates. Here are the acts in the correct order:\n\n1. Finance (No. 2) Act 1915 (1915-12-23)\n2. Harbours Development (Scotland) Act 1972 (1972-08-09)\n3. Administration of Justice Act 1982 (1982-10-28)\n4. Nucle"
+    }
+  },
+  {
+    "task_id": "OR016",
+    "expected_order": [
+      "Public Registers and Records (Scotland) Act 1948",
+      "Insurance Companies Amendment Act 1973",
+      "Alliance & Leicester plc (Group Reorganisation) Act 2000",
+      "Non-Domestic Rating (Multipliers and Private Schools) Act 2025"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Public Registers and Records (Scotland) Act 1948",
+        "Insurance Companies Amendment Act 1973",
+        "Alliance & Leicester plc (Group Reorganisation) Act 2000",
+        "Non-Domestic Rating (Multipliers and Private Schools) Act 2025"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Public Registers and Records (Scotland) Act 1948\n2. Insurance Companies Amendment Act 1973\n3. Alliance & Leicester plc (Group Reorganisation) Act 2000\n4. Non-Domestic Rating (Multipliers and Private Schools) Act 2025\n\nNote: Since the Non-Domestic Rati"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Public Registers and Records (Scotland) Act 1948",
+        "Insurance Companies Amendment Act 1973",
+        "Alliance & Leicester plc (Group Reorganisation) Act 2000",
+        "Non-Domestic Rating (Multipliers and Private Schools) Act 2025"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Public Registers and Records (Scotland) Act 1948 (1948-07-30)\n2. Insurance Companies Amendment Act 1973 (1973-07-25)\n3. Alliance & Leicester plc (Group Reorganisation) Act 2000 (2000-02-10)\n4. Non-Domestic Rating (Multipliers and Private Schools) Act "
+    }
+  },
+  {
+    "task_id": "OR017",
+    "expected_order": [
+      "Consumer Credit Act 1974",
+      "Cathedrals Measure 1999",
+      "Animal Welfare Act 2006"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Consumer Credit Act 1974",
+        "Cathedrals Measure 1999",
+        "Animal Welfare Act 2006"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Consumer Credit Act 1974\n2. Cathedrals Measure 1999\n3. Animal Welfare Act 2006\n\nThis order reflects the chronological order in which the acts were enacted, with the earliest being the Consumer Credit Act 1974 and the most recent being the Animal"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Consumer Credit Act 1974",
+        "Cathedrals Measure 1999",
+        "Animal Welfare Act 2006"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their dates. Here are the acts in chronological order:\n\n1. Consumer Credit Act 1974 (enacted on 1974-07-31)\n2. Cathedrals Measure 1999 (enacted on 1999-06-30)\n3. Animal Welfare Act 2006 (enacted on 2006-11-08)\n\nSo, the order "
+    }
+  },
+  {
+    "task_id": "OR018",
+    "expected_order": [
+      "Chequers Estate Act 1958",
+      "Llanelli Borough Council (Dafen Estuary) Act 1991",
+      "Pensions Act 2008",
+      "National Health Service Finance (Wales) Act 2014"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Chequers Estate Act 1958",
+        "Llanelli Borough Council (Dafen Estuary) Act 1991",
+        "Pensions Act 2008",
+        "National Health Service Finance (Wales) Act 2014"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Chequers Estate Act 1958\n2. Llanelli Borough Council (Dafen Estuary) Act 1991\n3. Pensions Act 2008\n4. National Health Service Finance (Wales) Act 2014\n\nThis order reflects the chronological order in which the acts were enacted, from earliest to most r"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Chequers Estate Act 1958",
+        "Llanelli Borough Council (Dafen Estuary) Act 1991",
+        "Pensions Act 2008",
+        "National Health Service Finance (Wales) Act 2014"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Chequers Estate Act 1958 (1958-08-01)\n2. Llanelli Borough Council (Dafen Estuary) Act 1991 (1991-06-27)\n3. Pensions Act 2008 (2008-11-26)\n4. National Health Service Finance (Wales) Act 2014 (2014-01-27)"
+    }
+  },
+  {
+    "task_id": "OR019",
+    "expected_order": [
+      "Penal Servitude Act 1891",
+      "Official Secrets Act 1939",
+      "Automated Vehicles Act 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Penal Servitude Act 1891",
+        "Official Secrets Act 1939",
+        "Automated Vehicles Act 2024"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their respective years of enactment. Here's the correct order:\n\n1. Penal Servitude Act 1891\n2. Official Secrets Act 1939\n3. Automated Vehicles Act 2024\n\nThis order reflects the chronological sequence in which these acts were "
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Penal Servitude Act 1891",
+        "Official Secrets Act 1939",
+        "Automated Vehicles Act 2024"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment dates. Here are the acts in the correct order:\n\n1. Penal Servitude Act 1891 (1891-08-05)\n2. Official Secrets Act 1939 (1939-11-23)\n3. Automated Vehicles Act 2024 (2024-05-20)\n\nThis order makes sense becaus"
+    }
+  },
+  {
+    "task_id": "OR020",
+    "expected_order": [
+      "Fur Farming (Prohibition) Act 2000",
+      "Children Act 2004",
+      "Apprenticeships, Skills, Children and Learning Act 2009",
+      "Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015",
+      "Higher Education and Research Act 2017"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Fur Farming (Prohibition) Act 2000",
+        "Children Act 2004",
+        "Apprenticeships, Skills, Children and Learning Act 2009",
+        "Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015",
+        "Higher Education and Research Act 2017"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Fur Farming (Prohibition) Act 2000\n2. Children Act 2004\n3. Apprenticeships, Skills, Children and Learning Act 2009\n4. Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015\n5. Higher Education and Research Act 2017\n\nLet me k"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Fur Farming (Prohibition) Act 2000",
+        "Children Act 2004",
+        "Apprenticeships, Skills, Children and Learning Act 2009",
+        "Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015",
+        "Higher Education and Research Act 2017"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Fur Farming (Prohibition) Act 2000 (2000-11-23)\n2. Children Act 2004 (2004-11-15)\n3. Apprenticeships, Skills, Children and Learning Act 2009 (2009-11-12)\n4. Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015 (2015-04-29)\n5. Hi"
+    }
+  },
+  {
+    "task_id": "OR021",
+    "expected_order": [
+      "Church Commissioners (Assistance for Priority Areas) Measure 1988 (",
+      "Finance Act 1999",
+      "Housing and Regeneration Act 2008",
+      "Building Societies Act 1986 (Amendment) Act 2024",
+      "Leasehold and Freehold Reform Act 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Church Commissioners (Assistance for Priority Areas) Measure 1988 (",
+        "Finance Act 1999",
+        "Housing and Regeneration Act 2008",
+        "Building Societies Act 1986 (Amendment) Act 2024",
+        "Leasehold and Freehold Reform Act 2024"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their respective years of enactment. Here's the list in chronological order:\n\n1. Building Societies Act 1986 (Amendment) Act - Although this is an amendment, the original act was in 1986, but since it's an amendment act itsel"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Church Commissioners (Assistance for Priority Areas) Measure 1988 (",
+        "Finance Act 1999",
+        "Housing and Regeneration Act 2008",
+        "Building Societies Act 1986 (Amendment) Act 2024",
+        "Leasehold and Freehold Reform Act 2024"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their respective dates of enactment. Here's the list in chronological order:\n\n1. Church Commissioners (Assistance for Priority Areas) Measure 1988 (1988-05-03)\n2. Building Societies Act 1986 (Amendment) Act 2024 (2024-05-24)\n"
+    }
+  },
+  {
+    "task_id": "OR022",
+    "expected_order": [
+      "Law Reform (Miscellaneous Provisions) (Scotland) Act 1980",
+      "Priests (Ordination of Women) Measure 1993 (",
+      "Anti-social Behaviour Act 2003"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Law Reform (Miscellaneous Provisions) (Scotland) Act 1980",
+        "Priests (Ordination of Women) Measure 1993 (",
+        "Anti-social Behaviour Act 2003"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Law Reform (Miscellaneous Provisions) (Scotland) Act 1980\n2. Priests (Ordination of Women) Measure 1993\n3. Anti-social Behaviour Act 2003\n\nThese are arranged in chronological order by year of enactment."
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Law Reform (Miscellaneous Provisions) (Scotland) Act 1980",
+        "Priests (Ordination of Women) Measure 1993 (",
+        "Anti-social Behaviour Act 2003"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their respective dates. Here are the acts in the correct order:\n\n1. Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (enacted on 1980-10-29)\n2. Priests (Ordination of Women) Measure 1993 (enacted on 1993-11-05)\n3. An"
+    }
+  },
+  {
+    "task_id": "OR023",
+    "expected_order": [
+      "Fertilisers and Feeding Stuffs Act 1926",
+      "Health Services Act 1976",
+      "Inner Urban Areas Act 1978",
+      "Consumer Protection Act 1987",
+      "National Health Service (Consequential Provisions) Act 2006"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Fertilisers and Feeding Stuffs Act 1926",
+        "Health Services Act 1976",
+        "Inner Urban Areas Act 1978",
+        "Consumer Protection Act 1987",
+        "National Health Service (Consequential Provisions) Act 2006"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Fertilisers and Feeding Stuffs Act 1926\n2. Health Services Act 1976\n3. Inner Urban Areas Act 1978\n4. Consumer Protection Act 1987\n5. National Health Service (Consequential Provisions) Act 2006\n\nLet me know if you have any other questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Fertilisers and Feeding Stuffs Act 1926",
+        "Health Services Act 1976",
+        "Inner Urban Areas Act 1978",
+        "Consumer Protection Act 1987",
+        "National Health Service (Consequential Provisions) Act 2006"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Fertilisers and Feeding Stuffs Act 1926 (1926-12-15)\n2. Health Services Act 1976 (1976-11-22)\n3. Inner Urban Areas Act 1978 (1978-07-31)\n4. Consumer Protection Act 1987 (1987-05-15)\n5. National Health Service (Consequential Provisions) Act 2006 (2006-"
+    }
+  },
+  {
+    "task_id": "OR024",
+    "expected_order": [
+      "Building Societies Act 1986",
+      "British Shipbuilders (Borrowing Powers) Act 1987",
+      "Finance Act 1999",
+      "Kent County Council Act 2001",
+      "Charities Act 2006"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Building Societies Act 1986",
+        "British Shipbuilders (Borrowing Powers) Act 1987",
+        "Finance Act 1999",
+        "Kent County Council Act 2001",
+        "Charities Act 2006"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Building Societies Act 1986\n2. British Shipbuilders (Borrowing Powers) Act 1987\n3. Finance Act 1999\n4. Kent County Council Act 2001\n5. Charities Act 2006\n\nLet me know if you have any other questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Building Societies Act 1986",
+        "British Shipbuilders (Borrowing Powers) Act 1987",
+        "Finance Act 1999",
+        "Kent County Council Act 2001",
+        "Charities Act 2006"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Building Societies Act 1986 (1986-07-25)\n2. British Shipbuilders (Borrowing Powers) Act 1987 (1987-07-23)\n3. Finance Act 1999 (1999-07-27)\n4. Kent County Council Act 2001 (2001-04-10)\n5. Charities Act 2006 (2006-11-08)"
+    }
+  },
+  {
+    "task_id": "OR025",
+    "expected_order": [
+      "Congested Districts (Scotland) Act 1897",
+      "Housing Act 1980",
+      "Strathclyde Regional Council Order Confirmation Act 1991",
+      "Shared Education Act (Northern Ireland) 2016",
+      "Civil Liability Act 2018"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Congested Districts (Scotland) Act 1897",
+        "Housing Act 1980",
+        "Strathclyde Regional Council Order Confirmation Act 1991",
+        "Shared Education Act (Northern Ireland) 2016",
+        "Civil Liability Act 2018"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Congested Districts (Scotland) Act 1897\n2. Housing Act 1980\n3. Strathclyde Regional Council Order Confirmation Act 1991\n4. Shared Education Act (Northern Ireland) 2016\n5. Civil Liability Act 2018\n\nLet me know if you have any further questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Congested Districts (Scotland) Act 1897",
+        "Housing Act 1980",
+        "Strathclyde Regional Council Order Confirmation Act 1991",
+        "Shared Education Act (Northern Ireland) 2016",
+        "Civil Liability Act 2018"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Congested Districts (Scotland) Act 1897 (1897-08-06)\n2. Housing Act 1980 (1980-08-08)\n3. Strathclyde Regional Council Order Confirmation Act 1991 (1991-12-19)\n4. Shared Education Act (Northern Ireland) 2016 (2016-05-09)\n5. Civil Liability Act 20"
+    }
+  },
+  {
+    "task_id": "OR026",
+    "expected_order": [
+      "Coal Industry Act 1967",
+      "Local Authority Social Services Act 1970",
+      "National Health Service Finance (Wales) Act 2014"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Coal Industry Act 1967",
+        "Local Authority Social Services Act 1970",
+        "National Health Service Finance (Wales) Act 2014"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Coal Industry Act 1967\n2. Local Authority Social Services Act 1970\n3. National Health Service Finance (Wales) Act 2014\n\nLet me know if you have any other questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Coal Industry Act 1967",
+        "Local Authority Social Services Act 1970",
+        "National Health Service Finance (Wales) Act 2014"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their enactment dates. Here are the acts in the correct order:\n\n1. Coal Industry Act 1967 (1967-12-20)\n2. Local Authority Social Services Act 1970 (1970-05-29)\n3. National Health Service Finance (Wales) Act 2014 (2014-01-27)\n"
+    }
+  },
+  {
+    "task_id": "OR027",
+    "expected_order": [
+      "Unsolicited Services (Trade and Business Directories) Act (Northern Ireland) 2010",
+      "Rates (Amendment) Act (Northern Ireland) 2012",
+      "Holocaust (Return of Cultural Objects) (Amendment) Act 2019",
+      "Victims and Prisoners Act 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Unsolicited Services (Trade and Business Directories) Act (Northern Ireland) 2010",
+        "Rates (Amendment) Act (Northern Ireland) 2012",
+        "Holocaust (Return of Cultural Objects) (Amendment) Act 2019",
+        "Victims and Prisoners Act 2024"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their respective years of enactment. Here's the correct order:\n\n1. Unsolicited Services (Trade and Business Directories) Act (Northern Ireland) 2010\n2. Rates (Amendment) Act (Northern Ireland) 2012\n3. Holocaust (Return of Cul"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Unsolicited Services (Trade and Business Directories) Act (Northern Ireland) 2010",
+        "Rates (Amendment) Act (Northern Ireland) 2012",
+        "Holocaust (Return of Cultural Objects) (Amendment) Act 2019",
+        "Victims and Prisoners Act 2024"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Unsolicited Services (Trade and Business Directories) Act (Northern Ireland) 2010 (2010-12-15)\n2. Rates (Amendment) Act (Northern Ireland) 2012 (2012-02-28)\n3. Holocaust (Return of Cultural Objects) (Amendment) Act 2019 (2019-07-04)\n4. Victims and P"
+    }
+  },
+  {
+    "task_id": "OR028",
+    "expected_order": [
+      "Railway Companies Act 1867",
+      "Education (Scotland) Act 1981",
+      "Judicial Review and Courts Act 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Railway Companies Act 1867",
+        "Education (Scotland) Act 1981",
+        "Judicial Review and Courts Act 2022"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Railway Companies Act 1867\n2. Education (Scotland) Act 1981\n3. Judicial Review and Courts Act 2022\n\nThis order reflects the chronological sequence in which the acts were enacted, with the oldest act (1867) first and the most recent act (2022) la"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Railway Companies Act 1867",
+        "Education (Scotland) Act 1981",
+        "Judicial Review and Courts Act 2022"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Railway Companies Act 1867 (1867-08-20)\n2. Education (Scotland) Act 1981 (1981-10-30)\n3. Judicial Review and Courts Act 2022 (2022-04-28)\n\nThey are listed in chronological order, with the oldest act first and the most recent act last."
+    }
+  },
+  {
+    "task_id": "OR029",
+    "expected_order": [
+      "Trustee Savings Banks Act 1985",
+      "University College London Act 1996",
+      "Care of Cathedrals Measure 2011",
+      "Marine Act (Northern Ireland) 2013"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Trustee Savings Banks Act 1985",
+        "University College London Act 1996",
+        "Care of Cathedrals Measure 2011",
+        "Marine Act (Northern Ireland) 2013"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Trustee Savings Banks Act 1985\n2. University College London Act 1996\n3. Care of Cathedrals Measure 2011\n4. Marine Act (Northern Ireland) 2013\n\nThey are arranged in chronological order by year of enactment."
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Trustee Savings Banks Act 1985",
+        "University College London Act 1996",
+        "Care of Cathedrals Measure 2011",
+        "Marine Act (Northern Ireland) 2013"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment dates. Here are the acts in the correct order:\n\n1. Trustee Savings Banks Act 1985 (1985-07-25)\n2. University College London Act 1996 (1996-07-04)\n3. Care of Cathedrals Measure 2011 (2011-05-24)\n4. Marine A"
+    }
+  },
+  {
+    "task_id": "OR030",
+    "expected_order": [
+      "Finance Act 1971",
+      "Local Authorities (Expenditure Powers) Act 1983",
+      "Health and Social Care Act 2008",
+      "Finance (No. 3) Act 2010",
+      "Offender Rehabilitation Act 2014"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Finance Act 1971",
+        "Local Authorities (Expenditure Powers) Act 1983",
+        "Health and Social Care Act 2008",
+        "Finance (No. 3) Act 2010",
+        "Offender Rehabilitation Act 2014"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Finance Act 1971\n2. Local Authorities (Expenditure Powers) Act 1983\n3. Health and Social Care Act 2008\n4. Finance (No. 3) Act 2010\n5. Offender Rehabilitation Act 2014"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Finance Act 1971",
+        "Local Authorities (Expenditure Powers) Act 1983",
+        "Health and Social Care Act 2008",
+        "Finance (No. 3) Act 2010",
+        "Offender Rehabilitation Act 2014"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Finance Act 1971 (1971-08-05)\n2. Local Authorities (Expenditure Powers) Act 1983 (1983-07-26)\n3. Health and Social Care Act 2008 (2008-07-21)\n4. Finance (No. 3) Act 2010 (2010-12-16)\n5. Offender Rehabilitation Act 2014 (2014-03-13)"
+    }
+  },
+  {
+    "task_id": "OR031",
+    "expected_order": [
+      "Wellington Museum Act 1947",
+      "Registered Designs Act 1949",
+      "Diocesan Boards of Education Measure 1991",
+      "Energy (Oil and Gas) Profits Levy Act 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Wellington Museum Act 1947",
+        "Registered Designs Act 1949",
+        "Diocesan Boards of Education Measure 1991",
+        "Energy (Oil and Gas) Profits Levy Act 2022"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Wellington Museum Act 1947\n2. Registered Designs Act 1949\n3. Diocesan Boards of Education Measure 1991\n4. Energy (Oil and Gas) Profits Levy Act 2022\n\nLet me know if you have any other questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Wellington Museum Act 1947",
+        "Registered Designs Act 1949",
+        "Diocesan Boards of Education Measure 1991",
+        "Energy (Oil and Gas) Profits Levy Act 2022"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment dates. Here are the acts in the correct order:\n\n1. Wellington Museum Act 1947 (1947-07-31)\n2. Registered Designs Act 1949 (1949-12-16)\n3. Diocesan Boards of Education Measure 1991 (1991-07-12)\n4. Energy (O"
+    }
+  },
+  {
+    "task_id": "OR032",
+    "expected_order": [
+      "National Insurance Contributions (Reduction in Rates) Act 2023",
+      "Arbitration Act 2025",
+      "Water (Special Measures) Act 2025"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "National Insurance Contributions (Reduction in Rates) Act 2023",
+        "Arbitration Act 2025",
+        "Water (Special Measures) Act 2025"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their respective years of enactment. \n\n1. National Insurance Contributions (Reduction in Rates) Act 2023\n2. Arbitration Act 2025\n3. Water (Special Measures) Act 2025\n\nThe order is based on the year of enactment, with the earl"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "National Insurance Contributions (Reduction in Rates) Act 2023",
+        "Arbitration Act 2025",
+        "Water (Special Measures) Act 2025"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their enactment dates. Here's the correct order:\n\n1. National Insurance Contributions (Reduction in Rates) Act 2023 - Enacted on December 18, 2023\n2. Arbitration Act 2025 - Enacted on February 24, 2025\n3. Water (Special Measu"
+    }
+  },
+  {
+    "task_id": "OR033",
+    "expected_order": [
+      "Territorial Waters Jurisdiction Act 1878",
+      "Ecclesiastical Jurisdiction and Care of Churches Measure 2018",
+      "Renting Homes (Amendment) (Wales) Act 2021"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Territorial Waters Jurisdiction Act 1878",
+        "Ecclesiastical Jurisdiction and Care of Churches Measure 2018",
+        "Renting Homes (Amendment) (Wales) Act 2021"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Territorial Waters Jurisdiction Act 1878\n2. Ecclesiastical Jurisdiction and Care of Churches Measure 2018\n3. Renting Homes (Amendment) (Wales) Act 2021\n\nThis order reflects the chronological order in which the acts were enacted, with the oldest act "
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Territorial Waters Jurisdiction Act 1878",
+        "Ecclesiastical Jurisdiction and Care of Churches Measure 2018",
+        "Renting Homes (Amendment) (Wales) Act 2021"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their respective dates. Here are the acts in chronological order:\n\n1. Territorial Waters Jurisdiction Act 1878 (1878-08-16)\n2. Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (2018-05-10)\n3. Renting Homes (Amend"
+    }
+  },
+  {
+    "task_id": "OR034",
+    "expected_order": [
+      "Commonwealth Development Corporation Act 1982",
+      "Continental Shelf Act 1989",
+      "City of London (Various Powers) Act 2013"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Commonwealth Development Corporation Act 1982",
+        "Continental Shelf Act 1989",
+        "City of London (Various Powers) Act 2013"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their respective years of enactment. Here's the correct order:\n\n1. Commonwealth Development Corporation Act 1982\n2. Continental Shelf Act 1989\n3. City of London (Various Powers) Act 2013\n\nThis order reflects the chronological"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Commonwealth Development Corporation Act 1982",
+        "Continental Shelf Act 1989",
+        "City of London (Various Powers) Act 2013"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their dates of enactment. Here are the acts in the correct order:\n\n1. Commonwealth Development Corporation Act 1982 (1982-12-22)\n2. Continental Shelf Act 1989 (1989-07-27)\n3. City of London (Various Powers) Act 2013 (2013-12-"
+    }
+  },
+  {
+    "task_id": "OR035",
+    "expected_order": [
+      "Ground Rents Act (Northern Ireland) 2001",
+      "Wildlife and Natural Environment Act (Northern Ireland) 2011",
+      "European Union (Withdrawal) Act 2019",
+      "Economic Crime and Corporate Transparency Act 2023"
+    ],
+    "answer": {
+      "is_correct": false,
+      "llama_order": [
+        "Ground Rents Act (Northern Ireland) 2001",
+        "Wildlife and Natural Environment Act (Northern Ireland) 2011",
+        "Economic Crime and Corporate Transparency Act 2023"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Ground Rents Act (Northern Ireland) 2001\n2. Wildlife and Natural Environment Act (Northern Ireland) 2011\n3. European Union (Withdrawal) Act 2018 (not 2019, the act was actually enacted in 2018)\n4. Economic Crime and Corporate Transparency Act 2023\n\nCo"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Ground Rents Act (Northern Ireland) 2001",
+        "Wildlife and Natural Environment Act (Northern Ireland) 2011",
+        "European Union (Withdrawal) Act 2019",
+        "Economic Crime and Corporate Transparency Act 2023"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Ground Rents Act (Northern Ireland) 2001 (2001-03-20)\n2. Wildlife and Natural Environment Act (Northern Ireland) 2011 (2011-03-29)\n3. European Union (Withdrawal) Act 2018 is not in the list, instead European Union (Withdrawal) Act 2019 (2019-04-08) "
+    }
+  },
+  {
+    "task_id": "OR036",
+    "expected_order": [
+      "Bills of Sale Act 1890",
+      "New Towns Act 1946",
+      "House of Commons Members' Fund Act 1962",
+      "Health and Personal Social Services Act (Northern Ireland) 2002",
+      "Care of Cathedrals (Amendment) Measure 2005"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Bills of Sale Act 1890",
+        "New Towns Act 1946",
+        "House of Commons Members' Fund Act 1962",
+        "Health and Personal Social Services Act (Northern Ireland) 2002",
+        "Care of Cathedrals (Amendment) Measure 2005"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Bills of Sale Act 1890\n2. New Towns Act 1946\n3. House of Commons Members' Fund Act 1962\n4. Health and Personal Social Services Act (Northern Ireland) 2002\n5. Care of Cathedrals (Amendment) Measure 2005\n\nNote: The Care of Cathedrals (Amendment) Measure"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Bills of Sale Act 1890",
+        "New Towns Act 1946",
+        "House of Commons Members' Fund Act 1962",
+        "Health and Personal Social Services Act (Northern Ireland) 2002",
+        "Care of Cathedrals (Amendment) Measure 2005"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Bills of Sale Act 1890 (1890-08-18)\n2. New Towns Act 1946 (1946-08-01)\n3. House of Commons Members' Fund Act 1962 (1962-08-01)\n4. Health and Personal Social Services Act (Northern Ireland) 2002 (2002-10-04)\n5. Care of Cathedrals (Amendment) Meas"
+    }
+  },
+  {
+    "task_id": "OR037",
+    "expected_order": [
+      "Civil Aviation Act 1980",
+      "Housing Act 1985",
+      "Local Government Finance and Valuation Act 1991",
+      "Appropriation Act 2001"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Civil Aviation Act 1980",
+        "Housing Act 1985",
+        "Local Government Finance and Valuation Act 1991",
+        "Appropriation Act 2001"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Civil Aviation Act 1980\n2. Housing Act 1985\n3. Local Government Finance and Valuation Act 1991\n4. Appropriation Act 2001\n\nThis order reflects the chronological order in which the acts were enacted, with the earliest act (Civil Aviation Act 1980) first"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Civil Aviation Act 1980",
+        "Housing Act 1985",
+        "Local Government Finance and Valuation Act 1991",
+        "Appropriation Act 2001"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment dates. Here are the acts in the correct order:\n\n1. Civil Aviation Act 1980 (1980-11-13)\n2. Housing Act 1985 (1985-10-30)\n3. Local Government Finance and Valuation Act 1991 (1991-07-25)\n4. Appropriation Act"
+    }
+  },
+  {
+    "task_id": "OR038",
+    "expected_order": [
+      "Health and Social Services and Social Security Adjudications Act 1983",
+      "Community Care (Residential Accommodation) Act 1992",
+      "Church of England (Miscellaneous Provisions) Measure 2005",
+      "Dormant Bank and Building Society Accounts Act 2008",
+      "Agriculture Act 2020"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Health and Social Services and Social Security Adjudications Act 1983",
+        "Community Care (Residential Accommodation) Act 1992",
+        "Church of England (Miscellaneous Provisions) Measure 2005",
+        "Dormant Bank and Building Society Accounts Act 2008",
+        "Agriculture Act 2020"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Health and Social Services and Social Security Adjudications Act 1983\n2. Community Care (Residential Accommodation) Act 1992\n3. Church of England (Miscellaneous Provisions) Measure 2005\n4. Dormant Bank and Building Society Accounts Act 2008\n5. Agricul"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Health and Social Services and Social Security Adjudications Act 1983",
+        "Community Care (Residential Accommodation) Act 1992",
+        "Church of England (Miscellaneous Provisions) Measure 2005",
+        "Dormant Bank and Building Society Accounts Act 2008",
+        "Agriculture Act 2020"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Health and Social Services and Social Security Adjudications Act 1983 (1983-05-13)\n2. Community Care (Residential Accommodation) Act 1992 (1992-07-16)\n3. Church of England (Miscellaneous Provisions) Measure 2005 (2005-03-24)\n4. Dormant Bank and "
+    }
+  },
+  {
+    "task_id": "OR039",
+    "expected_order": [
+      "Finance Act 1988",
+      "Human Rights Act 1998",
+      "Energy (Oil and Gas) Profits Levy Act 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Finance Act 1988",
+        "Human Rights Act 1998",
+        "Energy (Oil and Gas) Profits Levy Act 2022"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Finance Act 1988\n2. Human Rights Act 1998\n3. Energy (Oil and Gas) Profits Levy Act 2022\n\nThis order makes sense because 1988 is before 1998, and 1998 is before 2022."
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Finance Act 1988",
+        "Human Rights Act 1998",
+        "Energy (Oil and Gas) Profits Levy Act 2022"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their enactment dates. Here are the acts in the correct order:\n\n1. Finance Act 1988 (enacted on 1988-07-29)\n2. Human Rights Act 1998 (enacted on 1998-11-09)\n3. Energy (Oil and Gas) Profits Levy Act 2022 (enacted on 2022-07-14"
+    }
+  },
+  {
+    "task_id": "OR040",
+    "expected_order": [
+      "Finance Act 1973",
+      "Debt Relief Act (Northern Ireland) 2010",
+      "Well-being of Future Generations (Wales) Act 2015"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Finance Act 1973",
+        "Debt Relief Act (Northern Ireland) 2010",
+        "Well-being of Future Generations (Wales) Act 2015"
+      ],
+      "llama_text_snippet": "Here are the acts in order of enactment:\n\n1. Finance Act 1973\n2. Debt Relief Act (Northern Ireland) 2010\n3. Well-being of Future Generations (Wales) Act 2015\n\nThis order reflects the chronological order in which the acts were enacted, with the earliest being the Finance Act 1973 and the most recent "
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Finance Act 1973",
+        "Debt Relief Act (Northern Ireland) 2010",
+        "Well-being of Future Generations (Wales) Act 2015"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Finance Act 1973 (1973-07-25)\n2. Debt Relief Act (Northern Ireland) 2010 (2010-12-15)\n3. Well-being of Future Generations (Wales) Act 2015 (2015-04-29)\n\nThey are already in chronological order by date of enactment."
+    }
+  },
+  {
+    "task_id": "OR041",
+    "expected_order": [
+      "Marriage with Foreigners Act 1906",
+      "Company and Business Names (Chamber of Commerce, Etc.) Act 1999",
+      "Automated Vehicles Act 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Marriage with Foreigners Act 1906",
+        "Company and Business Names (Chamber of Commerce, Etc.) Act 1999",
+        "Automated Vehicles Act 2024"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their respective years of enactment. Here's the correct order:\n\n1. Marriage with Foreigners Act 1906\n2. Company and Business Names (Chamber of Commerce, Etc.) Act 1999\n3. Automated Vehicles Act 2024\n\nThis order reflects the c"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Marriage with Foreigners Act 1906",
+        "Company and Business Names (Chamber of Commerce, Etc.) Act 1999",
+        "Automated Vehicles Act 2024"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their respective dates of enactment. Here's the correct order:\n\n1. Marriage with Foreigners Act 1906 (1906-11-29)\n2. Company and Business Names (Chamber of Commerce, Etc.) Act 1999 (1999-07-27)\n3. Automated Vehicles Act 2024 "
+    }
+  },
+  {
+    "task_id": "OR042",
+    "expected_order": [
+      "Employers' Liability (Compulsory Insurance) Act 1969",
+      "Synodical Government (Amendment) Measure 2003",
+      "Immigration Act 2014"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Employers' Liability (Compulsory Insurance) Act 1969",
+        "Synodical Government (Amendment) Measure 2003",
+        "Immigration Act 2014"
+      ],
+      "llama_text_snippet": "The order of enactment for the given legal acts is:\n\n1. Employers' Liability (Compulsory Insurance) Act 1969\n2. Synodical Government (Amendment) Measure 2003\n3. Immigration Act 2014\n\nThis order reflects the chronological sequence in which the acts were enacted, with the earliest being the 1969 act a"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Employers' Liability (Compulsory Insurance) Act 1969",
+        "Synodical Government (Amendment) Measure 2003",
+        "Immigration Act 2014"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment dates. Here are the acts in the correct order:\n\n1. Employers' Liability (Compulsory Insurance) Act 1969 (1969-10-22)\n2. Synodical Government (Amendment) Measure 2003 (2003-03-06)\n3. Immigration Act 2014 (2"
+    }
+  },
+  {
+    "task_id": "OR043",
+    "expected_order": [
+      "Rent (Agriculture) Act 1976",
+      "Limitation Act 1980",
+      "Electricity (Financial Provisions) (Scotland) Act 1988",
+      "Budget (No. 2) Act (Northern Ireland) 2008",
+      "Social Security (Up-rating of Benefits) Act 2020"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Rent (Agriculture) Act 1976",
+        "Limitation Act 1980",
+        "Electricity (Financial Provisions) (Scotland) Act 1988",
+        "Budget (No. 2) Act (Northern Ireland) 2008",
+        "Social Security (Up-rating of Benefits) Act 2020"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Rent (Agriculture) Act 1976\n2. Limitation Act 1980\n3. Electricity (Financial Provisions) (Scotland) Act 1988\n4. Budget (No. 2) Act (Northern Ireland) 2008\n5. Social Security (Up-rating of Benefits) Act 2020\n\nThis order reflects the chronological seque"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Rent (Agriculture) Act 1976",
+        "Limitation Act 1980",
+        "Electricity (Financial Provisions) (Scotland) Act 1988",
+        "Budget (No. 2) Act (Northern Ireland) 2008",
+        "Social Security (Up-rating of Benefits) Act 2020"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Rent (Agriculture) Act 1976 (1976-11-22)\n2. Limitation Act 1980 (1980-11-13)\n3. Electricity (Financial Provisions) (Scotland) Act 1988 (1988-07-29)\n4. Budget (No. 2) Act (Northern Ireland) 2008 (2008-07-02)\n5. Social Security (Up-rating of Benefits)"
+    }
+  },
+  {
+    "task_id": "OR044",
+    "expected_order": [
+      "Medway Ports Authority Act 1973",
+      "Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015",
+      "Sentencing Act 2020"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Medway Ports Authority Act 1973",
+        "Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015",
+        "Sentencing Act 2020"
+      ],
+      "llama_text_snippet": "Here are the acts in order of enactment:\n\n1. Medway Ports Authority Act 1973\n2. Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015\n3. Sentencing Act 2020\n\nThese are arranged in chronological order, with the earliest enactment first and the most recent last."
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Medway Ports Authority Act 1973",
+        "Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015",
+        "Sentencing Act 2020"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Medway Ports Authority Act 1973 (1973-05-23)\n2. Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (2015-03-12)\n3. Sentencing Act 2020 (2020-10-22)\n\nThey are arranged in chronological order by date of enactment."
+    }
+  },
+  {
+    "task_id": "OR045",
+    "expected_order": [
+      "Ministry of Pensions Act 1916",
+      "Building Control Act 1966",
+      "Administration of Justice Act 1985",
+      "Curriculum and Assessment (Wales) Act 2021",
+      "Private Tenancies Act (Northern Ireland) 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Ministry of Pensions Act 1916",
+        "Building Control Act 1966",
+        "Administration of Justice Act 1985",
+        "Curriculum and Assessment (Wales) Act 2021",
+        "Private Tenancies Act (Northern Ireland) 2022"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Ministry of Pensions Act 1916\n2. Building Control Act 1966\n3. Administration of Justice Act 1985\n4. Curriculum and Assessment (Wales) Act 2021\n5. Private Tenancies Act (Northern Ireland) 2022\n\nThis order reflects the chronological sequence in which th"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Ministry of Pensions Act 1916",
+        "Building Control Act 1966",
+        "Administration of Justice Act 1985",
+        "Curriculum and Assessment (Wales) Act 2021",
+        "Private Tenancies Act (Northern Ireland) 2022"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Ministry of Pensions Act 1916 (1916-12-22)\n2. Building Control Act 1966 (1966-08-09)\n3. Administration of Justice Act 1985 (1985-10-30)\n4. Curriculum and Assessment (Wales) Act 2021 (2021-04-29)\n5. Private Tenancies Act (Northern Ireland) 2022 ("
+    }
+  },
+  {
+    "task_id": "OR046",
+    "expected_order": [
+      "Railways Act 1974",
+      "Environmental Protection Act 1990",
+      "Criminal Justice and Police Act 2001",
+      "Stamp Duty Land Tax (Temporary Relief) Act 2020",
+      "National Security and Investment Act 2021"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Railways Act 1974",
+        "Environmental Protection Act 1990",
+        "Criminal Justice and Police Act 2001",
+        "Stamp Duty Land Tax (Temporary Relief) Act 2020",
+        "National Security and Investment Act 2021"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Railways Act 1974\n2. Environmental Protection Act 1990\n3. Criminal Justice and Police Act 2001\n4. Stamp Duty Land Tax (Temporary Relief) Act 2020\n5. National Security and Investment Act 2021\n\nLet me know if you have any further questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Railways Act 1974",
+        "Environmental Protection Act 1990",
+        "Criminal Justice and Police Act 2001",
+        "Stamp Duty Land Tax (Temporary Relief) Act 2020",
+        "National Security and Investment Act 2021"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Railways Act 1974 (1974-07-31)\n2. Environmental Protection Act 1990 (1990-11-01)\n3. Criminal Justice and Police Act 2001 (2001-05-11)\n4. Stamp Duty Land Tax (Temporary Relief) Act 2020 (2020-07-22)\n5. National Security and Investment Act 2021 (2"
+    }
+  },
+  {
+    "task_id": "OR047",
+    "expected_order": [
+      "National Galleries of Scotland Act 1959",
+      "Trade Marks Act 1994",
+      "Special Educational Needs and Disability Act 2001",
+      "Domestic Violence, Crime and Victims Act 2004",
+      "Local Government Act (Northern Ireland) 2014"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "National Galleries of Scotland Act 1959",
+        "Trade Marks Act 1994",
+        "Special Educational Needs and Disability Act 2001",
+        "Domestic Violence, Crime and Victims Act 2004",
+        "Local Government Act (Northern Ireland) 2014"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. National Galleries of Scotland Act 1959\n2. Trade Marks Act 1994\n3. Special Educational Needs and Disability Act 2001\n4. Domestic Violence, Crime and Victims Act 2004\n5. Local Government Act (Northern Ireland) 2014\n\nThis order reflects the chrono"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "National Galleries of Scotland Act 1959",
+        "Trade Marks Act 1994",
+        "Special Educational Needs and Disability Act 2001",
+        "Domestic Violence, Crime and Victims Act 2004",
+        "Local Government Act (Northern Ireland) 2014"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. National Galleries of Scotland Act 1959 (1959-07-29)\n2. Trade Marks Act 1994 (1994-07-21)\n3. Special Educational Needs and Disability Act 2001 (2001-05-11)\n4. Domestic Violence, Crime and Victims Act 2004 (2004-11-15)\n5. Local Government Act (No"
+    }
+  },
+  {
+    "task_id": "OR048",
+    "expected_order": [
+      "London Local Authorities Act 1995",
+      "Insolvency Act 2000",
+      "Dealing in Cultural Objects (Offences) Act 2003",
+      "Hereford Markets Act 2003"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "London Local Authorities Act 1995",
+        "Insolvency Act 2000",
+        "Dealing in Cultural Objects (Offences) Act 2003",
+        "Hereford Markets Act 2003"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. London Local Authorities Act 1995\n2. Insolvency Act 2000\n3. Dealing in Cultural Objects (Offences) Act 2003\n4. Hereford Markets Act 2003\n\nSo, the order is based on the year each act was enacted, with the earliest first."
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "London Local Authorities Act 1995",
+        "Insolvency Act 2000",
+        "Dealing in Cultural Objects (Offences) Act 2003",
+        "Hereford Markets Act 2003"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their dates. Here are the acts in the order they were enacted:\n\n1. London Local Authorities Act 1995 (1995-11-08)\n2. Insolvency Act 2000 (2000-11-30)\n3. Dealing in Cultural Objects (Offences) Act 2003 (2003-10-30)\n4. Hereford"
+    }
+  },
+  {
+    "task_id": "OR049",
+    "expected_order": [
+      "Military Lands Act 1900",
+      "Southern Rhodesia Act 1979",
+      "Higher Education and Research Act 2017",
+      "Defamation Act (Northern Ireland) 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Military Lands Act 1900",
+        "Southern Rhodesia Act 1979",
+        "Higher Education and Research Act 2017",
+        "Defamation Act (Northern Ireland) 2022"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Military Lands Act 1900\n2. Southern Rhodesia Act 1979\n3. Higher Education and Research Act 2017\n4. Defamation Act (Northern Ireland) 2022\n\nThis order reflects the chronological sequence in which the acts were enacted, from earliest to most recen"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Military Lands Act 1900",
+        "Southern Rhodesia Act 1979",
+        "Higher Education and Research Act 2017",
+        "Defamation Act (Northern Ireland) 2022"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Military Lands Act 1900 (1900-08-08)\n2. Southern Rhodesia Act 1979 (1979-11-14)\n3. Higher Education and Research Act 2017 (2017-04-27)\n4. Defamation Act (Northern Ireland) 2022 (2022-06-06)\n\nThey are arranged in chronological order by date of enactm"
+    }
+  },
+  {
+    "task_id": "OR050",
+    "expected_order": [
+      "Ordination of Women (Financial Provisions) Measure 1993 (",
+      "Deer (Amendment) (Scotland) Act 1996",
+      "Financial Services Act 2010",
+      "Employment Act (Northern Ireland) 2016",
+      "Church of England Pensions (Application of Capital Funds) Measure 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Ordination of Women (Financial Provisions) Measure 1993 (",
+        "Deer (Amendment) (Scotland) Act 1996",
+        "Financial Services Act 2010",
+        "Employment Act (Northern Ireland) 2016",
+        "Church of England Pensions (Application of Capital Funds) Measure 2024"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Ordination of Women (Financial Provisions) Measure 1993\n2. Deer (Amendment) (Scotland) Act 1996\n3. Financial Services Act 2010\n4. Employment Act (Northern Ireland) 2016\n5. Church of England Pensions (Application of Capital Funds) Measure 2024\n\nL"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Ordination of Women (Financial Provisions) Measure 1993 (",
+        "Deer (Amendment) (Scotland) Act 1996",
+        "Financial Services Act 2010",
+        "Employment Act (Northern Ireland) 2016",
+        "Church of England Pensions (Application of Capital Funds) Measure 2024"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Ordination of Women (Financial Provisions) Measure 1993 (1993-11-05)\n2. Deer (Amendment) (Scotland) Act 1996 (1996-07-18)\n3. Financial Services Act 2010 (2010-04-08)\n4. Employment Act (Northern Ireland) 2016 (2016-04-22)\n5. Church of England Pension"
+    }
+  },
+  {
+    "task_id": "OR051",
+    "expected_order": [
+      "Coal Industry Act 1967",
+      "Statute Law Revision (Isle of Man) Act 1991",
+      "Transport for London Act 2008"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Coal Industry Act 1967",
+        "Statute Law Revision (Isle of Man) Act 1991",
+        "Transport for London Act 2008"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Coal Industry Act 1967\n2. Statute Law Revision (Isle of Man) Act 1991\n3. Transport for London Act 2008\n\nThese acts were enacted in this chronological order."
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Coal Industry Act 1967",
+        "Statute Law Revision (Isle of Man) Act 1991",
+        "Transport for London Act 2008"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their enactment dates. Here are the acts in the correct order:\n\n1. Coal Industry Act 1967 (1967-12-20)\n2. Statute Law Revision (Isle of Man) Act 1991 (1991-07-25)\n3. Transport for London Act 2008 (2008-05-22)\n\nThe order is ba"
+    }
+  },
+  {
+    "task_id": "OR052",
+    "expected_order": [
+      "Law Reform (Miscellaneous Provisions) (Scotland) Act 1980",
+      "Tribunals and Inquiries Act 1992",
+      "Civil Partnership Act 2004",
+      "Welsh Elections (Coronavirus) Act 2021"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Law Reform (Miscellaneous Provisions) (Scotland) Act 1980",
+        "Tribunals and Inquiries Act 1992",
+        "Civil Partnership Act 2004",
+        "Welsh Elections (Coronavirus) Act 2021"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Law Reform (Miscellaneous Provisions) (Scotland) Act 1980\n2. Tribunals and Inquiries Act 1992\n3. Civil Partnership Act 2004\n4. Welsh Elections (Coronavirus) Act 2021\n\nThis order reflects the chronological order in which the acts were enacted, from e"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Law Reform (Miscellaneous Provisions) (Scotland) Act 1980",
+        "Tribunals and Inquiries Act 1992",
+        "Civil Partnership Act 2004",
+        "Welsh Elections (Coronavirus) Act 2021"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (1980-10-29)\n2. Tribunals and Inquiries Act 1992 (1992-07-16)\n3. Civil Partnership Act 2004 (2004-11-18)\n4. Welsh Elections (Coronavirus) Act 2021 (2021-03-16)"
+    }
+  },
+  {
+    "task_id": "OR053",
+    "expected_order": [
+      "Government Annuities Act 1929",
+      "Veterinary Surgeons Act 1966",
+      "Oil and Pipelines Act 1985",
+      "Police (Detention and Bail) Act 2011"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Government Annuities Act 1929",
+        "Veterinary Surgeons Act 1966",
+        "Oil and Pipelines Act 1985",
+        "Police (Detention and Bail) Act 2011"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Government Annuities Act 1929\n2. Veterinary Surgeons Act 1966\n3. Oil and Pipelines Act 1985\n4. Police (Detention and Bail) Act 2011\n\nLet me know if you have any other questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Government Annuities Act 1929",
+        "Veterinary Surgeons Act 1966",
+        "Oil and Pipelines Act 1985",
+        "Police (Detention and Bail) Act 2011"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment year. Here are the acts in the correct order:\n\n1. Government Annuities Act 1929 (1929-05-10)\n2. Veterinary Surgeons Act 1966 (1966-11-17)\n3. Oil and Pipelines Act 1985 (1985-10-30)\n4. Police (Detention and"
+    }
+  },
+  {
+    "task_id": "OR054",
+    "expected_order": [
+      "Criminal Justice Act 1967",
+      "London Local Authorities Act 1991",
+      "Environment (Wales) Act 2016",
+      "Curriculum and Assessment (Wales) Act 2021",
+      "Diocesan Stipends Funds (Amendment) Measure 2023"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Criminal Justice Act 1967",
+        "London Local Authorities Act 1991",
+        "Environment (Wales) Act 2016",
+        "Curriculum and Assessment (Wales) Act 2021",
+        "Diocesan Stipends Funds (Amendment) Measure 2023"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Criminal Justice Act 1967\n2. London Local Authorities Act 1991\n3. Environment (Wales) Act 2016\n4. Curriculum and Assessment (Wales) Act 2021\n5. Diocesan Stipends Funds (Amendment) Measure 2023\n\nThis order reflects the chronological sequence in w"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Criminal Justice Act 1967",
+        "London Local Authorities Act 1991",
+        "Environment (Wales) Act 2016",
+        "Curriculum and Assessment (Wales) Act 2021",
+        "Diocesan Stipends Funds (Amendment) Measure 2023"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Criminal Justice Act 1967 (1967-07-27)\n2. London Local Authorities Act 1991 (1991-07-25)\n3. Environment (Wales) Act 2016 (2016-03-21)\n4. Curriculum and Assessment (Wales) Act 2021 (2021-04-29)\n5. Diocesan Stipends Funds (Amendment) Measure 2023 (202"
+    }
+  },
+  {
+    "task_id": "OR055",
+    "expected_order": [
+      "National Health Service Act 1977",
+      "Preventing and Combating Violence Against Women and Domestic Violence (Ratification of Convention) Act 2017",
+      "Childcare Funding (Wales) Act 2019"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "National Health Service Act 1977",
+        "Preventing and Combating Violence Against Women and Domestic Violence (Ratification of Convention) Act 2017",
+        "Childcare Funding (Wales) Act 2019"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. National Health Service Act 1977\n2. Preventing and Combating Violence Against Women and Domestic Violence (Ratification of Convention) Act 2017\n3. Childcare Funding (Wales) Act 2019\n\nThis order reflects the chronological order in which the acts were e"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "National Health Service Act 1977",
+        "Preventing and Combating Violence Against Women and Domestic Violence (Ratification of Convention) Act 2017",
+        "Childcare Funding (Wales) Act 2019"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their enactment dates. Here are the acts in the correct order:\n\n1. National Health Service Act 1977 (enacted on 1977-07-29)\n2. Preventing and Combating Violence Against Women and Domestic Violence (Ratification of Convention)"
+    }
+  },
+  {
+    "task_id": "OR056",
+    "expected_order": [
+      "Rent (Scotland) Act 1984",
+      "Care of Churches and Ecclesiastical Jurisdiction Measure 1991 (",
+      "Single Use Carrier Bags Act (Northern Ireland) 2011",
+      "Pension Schemes Act 2017",
+      "Bank Resolution (Recapitalisation) Act 2025"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Rent (Scotland) Act 1984",
+        "Care of Churches and Ecclesiastical Jurisdiction Measure 1991 (",
+        "Single Use Carrier Bags Act (Northern Ireland) 2011",
+        "Pension Schemes Act 2017",
+        "Bank Resolution (Recapitalisation) Act 2025"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their respective years of enactment. Here's the list in chronological order:\n\n1. Rent (Scotland) Act 1984\n2. Care of Churches and Ecclesiastical Jurisdiction Measure 1991\n3. Single Use Carrier Bags Act (Northern Ireland) 2011"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Rent (Scotland) Act 1984",
+        "Care of Churches and Ecclesiastical Jurisdiction Measure 1991 (",
+        "Single Use Carrier Bags Act (Northern Ireland) 2011",
+        "Pension Schemes Act 2017",
+        "Bank Resolution (Recapitalisation) Act 2025"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Rent (Scotland) Act 1984 (1984-10-31)\n2. Care of Churches and Ecclesiastical Jurisdiction Measure 1991 (1991-07-25)\n3. Single Use Carrier Bags Act (Northern Ireland) 2011 (2011-05-04)\n4. Pension Schemes Act 2017 (2017-04-27)\n5. Bank Resolution (Reca"
+    }
+  },
+  {
+    "task_id": "OR057",
+    "expected_order": [
+      "Congested Districts (Scotland) Act 1897",
+      "Clergy Discipline Measure 2003",
+      "Antarctic Act 2013",
+      "Bishop's Stortford Cemetery Act 2024",
+      "Church of Scotland (Lord High Commissioner) Act 2025"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Congested Districts (Scotland) Act 1897",
+        "Clergy Discipline Measure 2003",
+        "Antarctic Act 2013",
+        "Bishop's Stortford Cemetery Act 2024",
+        "Church of Scotland (Lord High Commissioner) Act 2025"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their respective years. Here's the correct order:\n\n1. Congested Districts (Scotland) Act 1897\n2. Clergy Discipline Measure 2003\n3. Antarctic Act 2013\n4. Bishop's Stortford Cemetery Act 2024\n5. Church of Scotland (Lord High Co"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Congested Districts (Scotland) Act 1897",
+        "Clergy Discipline Measure 2003",
+        "Antarctic Act 2013",
+        "Bishop's Stortford Cemetery Act 2024",
+        "Church of Scotland (Lord High Commissioner) Act 2025"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment dates. Here are the acts in the correct order:\n\n1. Congested Districts (Scotland) Act 1897 (1897-08-06)\n2. Clergy Discipline Measure 2003 (2003-07-10)\n3. Antarctic Act 2013 (2013-03-26)\n4. Bishop's Stortfo"
+    }
+  },
+  {
+    "task_id": "OR058",
+    "expected_order": [
+      "Marriage Act 1994",
+      "Tyne Tunnels Act 1998",
+      "Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013",
+      "Northern Ireland Budget Act 2019",
+      "Procurement Act 2023"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Marriage Act 1994",
+        "Tyne Tunnels Act 1998",
+        "Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013",
+        "Northern Ireland Budget Act 2019",
+        "Procurement Act 2023"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Marriage Act 1994\n2. Tyne Tunnels Act 1998\n3. Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013\n4. Northern Ireland Budget Act 2019\n5. Procurement Act 2023"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Marriage Act 1994",
+        "Tyne Tunnels Act 1998",
+        "Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013",
+        "Northern Ireland Budget Act 2019",
+        "Procurement Act 2023"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Marriage Act 1994 (1994-11-03)\n2. Tyne Tunnels Act 1998 (1998-04-08)\n3. Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013 (2013-04-25)\n4. Northern Ireland Budget Act 2019 (2019-10-31)\n5. Procurement Act 2023 (2023-10-26)"
+    }
+  },
+  {
+    "task_id": "OR059",
+    "expected_order": [
+      "Commercial and Private Bank Act 1991",
+      "Budget Act (Northern Ireland) 2021",
+      "General Teaching Council (Directions) Act (Northern Ireland) 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Commercial and Private Bank Act 1991",
+        "Budget Act (Northern Ireland) 2021",
+        "General Teaching Council (Directions) Act (Northern Ireland) 2022"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their respective years of enactment. Here's the correct order:\n\n1. Commercial and Private Bank Act 1991\n2. Budget Act (Northern Ireland) 2021\n3. General Teaching Council (Directions) Act (Northern Ireland) 2022\n\nThis order re"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Commercial and Private Bank Act 1991",
+        "Budget Act (Northern Ireland) 2021",
+        "General Teaching Council (Directions) Act (Northern Ireland) 2022"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their dates. Here are the acts in the correct order:\n\n1. Commercial and Private Bank Act 1991 (1991-12-19)\n2. Budget Act (Northern Ireland) 2021 (2021-03-23)\n3. General Teaching Council (Directions) Act (Northern Ireland) 202"
+    }
+  },
+  {
+    "task_id": "OR060",
+    "expected_order": [
+      "Seal Fisheries (North Pacific) Act 1912",
+      "Local Government Finance Act 2012",
+      "Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Seal Fisheries (North Pacific) Act 1912",
+        "Local Government Finance Act 2012",
+        "Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Seal Fisheries (North Pacific) Act 1912\n2. Local Government Finance Act 2012\n3. Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015\n\nThis order reflects the chronological order in which the acts we"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Seal Fisheries (North Pacific) Act 1912",
+        "Local Government Finance Act 2012",
+        "Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment dates. Here are the acts in the correct order:\n\n1. Seal Fisheries (North Pacific) Act 1912 (1912-08-07)\n2. Local Government Finance Act 2012 (2012-10-31)\n3. Human Trafficking and Exploitation (Criminal Jus"
+    }
+  },
+  {
+    "task_id": "OR061",
+    "expected_order": [
+      "Housing Act 1985",
+      "Social Security Fraud Act 2001",
+      "Waste and Emissions Trading Act 2003",
+      "Horserace Betting and Olympic Lottery Act 2004",
+      "European Union (Future Relationship) Act 2020"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Housing Act 1985",
+        "Social Security Fraud Act 2001",
+        "Waste and Emissions Trading Act 2003",
+        "Horserace Betting and Olympic Lottery Act 2004",
+        "European Union (Future Relationship) Act 2020"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Housing Act 1985\n2. Social Security Fraud Act 2001\n3. Waste and Emissions Trading Act 2003\n4. Horserace Betting and Olympic Lottery Act 2004\n5. European Union (Future Relationship) Act 2020"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Housing Act 1985",
+        "Social Security Fraud Act 2001",
+        "Waste and Emissions Trading Act 2003",
+        "Horserace Betting and Olympic Lottery Act 2004",
+        "European Union (Future Relationship) Act 2020"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Housing Act 1985 (1985-10-30)\n2. Social Security Fraud Act 2001 (2001-05-11)\n3. Waste and Emissions Trading Act 2003 (2003-11-13)\n4. Horserace Betting and Olympic Lottery Act 2004 (2004-10-28)\n5. European Union (Future Relationship) Act 2020 (20"
+    }
+  },
+  {
+    "task_id": "OR062",
+    "expected_order": [
+      "Friendly Societies Act 1974",
+      "Social Security Act 1990",
+      "Street Trading Act (Northern Ireland) 2001",
+      "Criminal Justice Act 2003"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Friendly Societies Act 1974",
+        "Social Security Act 1990",
+        "Street Trading Act (Northern Ireland) 2001",
+        "Criminal Justice Act 2003"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Friendly Societies Act 1974\n2. Social Security Act 1990\n3. Street Trading Act (Northern Ireland) 2001\n4. Criminal Justice Act 2003\n\nLet me know if you have any other questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Friendly Societies Act 1974",
+        "Social Security Act 1990",
+        "Street Trading Act (Northern Ireland) 2001",
+        "Criminal Justice Act 2003"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Friendly Societies Act 1974 (1974-07-31)\n2. Social Security Act 1990 (1990-07-13)\n3. Street Trading Act (Northern Ireland) 2001 (2001-04-05)\n4. Criminal Justice Act 2003 (2003-11-20)\n\nThis order reflects the chronological order in which the acts"
+    }
+  },
+  {
+    "task_id": "OR063",
+    "expected_order": [
+      "Development of Rural Wales Act 1976",
+      "Energy Act 1976",
+      "British Railways Board (Finance) Act 1991",
+      "Employment Act 2008",
+      "Apprenticeships, Skills, Children and Learning Act 2009"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Development of Rural Wales Act 1976",
+        "Energy Act 1976",
+        "British Railways Board (Finance) Act 1991",
+        "Employment Act 2008",
+        "Apprenticeships, Skills, Children and Learning Act 2009"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Energy Act 1976\n2. Development of Rural Wales Act 1976\n3. British Railways Board (Finance) Act 1991\n4. Employment Act 2008\n5. Apprenticeships, Skills, Children and Learning Act 2009\n\nLet me know if you have any other questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Development of Rural Wales Act 1976",
+        "Energy Act 1976",
+        "British Railways Board (Finance) Act 1991",
+        "Employment Act 2008",
+        "Apprenticeships, Skills, Children and Learning Act 2009"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Development of Rural Wales Act 1976 (1976-11-22)\n2. Energy Act 1976 (1976-11-22)\n3. British Railways Board (Finance) Act 1991 (1991-07-25)\n4. Employment Act 2008 (2008-11-13)\n5. Apprenticeships, Skills, Children and Learning Act 2009 (2009-11-12)\n\nNot"
+    }
+  },
+  {
+    "task_id": "OR064",
+    "expected_order": [
+      "Criminal Justice Act 1972",
+      "Church of England (Pensions) Measure 1988 (",
+      "Charities Act (Northern Ireland) 2013",
+      "Diocesan Boards of Education Measure 2021",
+      "British Nationality (Irish Citizens) Act 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Criminal Justice Act 1972",
+        "Church of England (Pensions) Measure 1988 (",
+        "Charities Act (Northern Ireland) 2013",
+        "Diocesan Boards of Education Measure 2021",
+        "British Nationality (Irish Citizens) Act 2024"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Criminal Justice Act 1972\n2. Church of England (Pensions) Measure 1988\n3. Charities Act (Northern Ireland) 2013\n4. Diocesan Boards of Education Measure 2021\n5. British Nationality (Irish Citizens) Act 2024\n\nLet me know if you have any further qu"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Criminal Justice Act 1972",
+        "Church of England (Pensions) Measure 1988 (",
+        "Charities Act (Northern Ireland) 2013",
+        "Diocesan Boards of Education Measure 2021",
+        "British Nationality (Irish Citizens) Act 2024"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Criminal Justice Act 1972 (1972-10-26)\n2. Church of England (Pensions) Measure 1988 (1988-10-27)\n3. Charities Act (Northern Ireland) 2013 (2013-01-18)\n4. Diocesan Boards of Education Measure 2021 (2021-04-29)\n5. British Nationality (Irish Citize"
+    }
+  },
+  {
+    "task_id": "OR065",
+    "expected_order": [
+      "Newspaper Libel and Registration Act 1881",
+      "Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010",
+      "Finance Act 2011",
+      "Guardianship (Missing Persons) Act 2017",
+      "Arbitration Act 2025"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Newspaper Libel and Registration Act 1881",
+        "Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010",
+        "Finance Act 2011",
+        "Guardianship (Missing Persons) Act 2017",
+        "Arbitration Act 2025"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their respective years. Here's the correct order:\n\n1. Newspaper Libel and Registration Act 1881\n2. Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010\n3. Finance Act 2011\n4. Guardianship (Missing Persons"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Newspaper Libel and Registration Act 1881",
+        "Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010",
+        "Finance Act 2011",
+        "Guardianship (Missing Persons) Act 2017",
+        "Arbitration Act 2025"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Newspaper Libel and Registration Act 1881 (1881-08-27)\n2. Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010 (2010-03-18)\n3. Finance Act 2011 (2011-07-19)\n4. Guardianship (Missing Persons) Act 2017 (2017-04-27)\n5. Arbitration "
+    }
+  },
+  {
+    "task_id": "OR066",
+    "expected_order": [
+      "Agricultural Produce (Grading and Marking) Amendment Act 1931",
+      "Diplomatic and Consular Premises Act 1987",
+      "Court of Session Act 1988",
+      "Cattewater Reclamation Act 1992"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Agricultural Produce (Grading and Marking) Amendment Act 1931",
+        "Diplomatic and Consular Premises Act 1987",
+        "Court of Session Act 1988",
+        "Cattewater Reclamation Act 1992"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Agricultural Produce (Grading and Marking) Amendment Act 1931\n2. Diplomatic and Consular Premises Act 1987\n3. Court of Session Act 1988\n4. Cattewater Reclamation Act 1992\n\nThese acts are arranged in chronological order based on their enactment years."
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Agricultural Produce (Grading and Marking) Amendment Act 1931",
+        "Diplomatic and Consular Premises Act 1987",
+        "Court of Session Act 1988",
+        "Cattewater Reclamation Act 1992"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment year. Here are the acts in the correct order:\n\n1. Agricultural Produce (Grading and Marking) Amendment Act 1931 (1931-07-31)\n2. Diplomatic and Consular Premises Act 1987 (1987-05-15)\n3. Court of Session Ac"
+    }
+  },
+  {
+    "task_id": "OR067",
+    "expected_order": [
+      "Race Relations Act 1968",
+      "London Underground (Victoria) Act 1991",
+      "Health Service Commissioners (Amendment) Act 2000",
+      "Domestic Violence, Crime and Victims Act 2004",
+      "Budget Act (Northern Ireland) 2010"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Race Relations Act 1968",
+        "London Underground (Victoria) Act 1991",
+        "Health Service Commissioners (Amendment) Act 2000",
+        "Domestic Violence, Crime and Victims Act 2004",
+        "Budget Act (Northern Ireland) 2010"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Race Relations Act 1968\n2. London Underground (Victoria) Act 1991\n3. Health Service Commissioners (Amendment) Act 2000\n4. Domestic Violence, Crime and Victims Act 2004\n5. Budget Act (Northern Ireland) 2010"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Race Relations Act 1968",
+        "London Underground (Victoria) Act 1991",
+        "Health Service Commissioners (Amendment) Act 2000",
+        "Domestic Violence, Crime and Victims Act 2004",
+        "Budget Act (Northern Ireland) 2010"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Race Relations Act 1968 (1968-10-25)\n2. London Underground (Victoria) Act 1991 (1991-06-27)\n3. Health Service Commissioners (Amendment) Act 2000 (2000-11-23)\n4. Domestic Violence, Crime and Victims Act 2004 (2004-11-15)\n5. Budget Act (Northern I"
+    }
+  },
+  {
+    "task_id": "OR068",
+    "expected_order": [
+      "Local Government (Financial Provisions) Act 1963",
+      "Local Government (Scotland) Act 1966",
+      "Ragwort Control Act 2003",
+      "Wild Animals in Circuses Act 2019",
+      "Safeguarding (Code of Practice) Measure 2021"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Local Government (Financial Provisions) Act 1963",
+        "Local Government (Scotland) Act 1966",
+        "Ragwort Control Act 2003",
+        "Wild Animals in Circuses Act 2019",
+        "Safeguarding (Code of Practice) Measure 2021"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Local Government (Financial Provisions) Act 1963\n2. Local Government (Scotland) Act 1966\n3. Ragwort Control Act 2003\n4. Wild Animals in Circuses Act 2019\n5. Safeguarding (Code of Practice) Measure 2021\n\nLet me know if you have any further questi"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Local Government (Financial Provisions) Act 1963",
+        "Local Government (Scotland) Act 1966",
+        "Ragwort Control Act 2003",
+        "Wild Animals in Circuses Act 2019",
+        "Safeguarding (Code of Practice) Measure 2021"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Local Government (Financial Provisions) Act 1963 (1963-07-31)\n2. Local Government (Scotland) Act 1966 (1966-12-21)\n3. Ragwort Control Act 2003 (2003-11-20)\n4. Wild Animals in Circuses Act 2019 (2019-07-24)\n5. Safeguarding (Code of Practice) Measure "
+    }
+  },
+  {
+    "task_id": "OR069",
+    "expected_order": [
+      "Aire and Calder Navigation Act 1992",
+      "Consolidated Fund (No.2) Act 1999",
+      "Gambling (Licensing and Advertising) Act 2014",
+      "Integrated Education Act (Northern Ireland) 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Aire and Calder Navigation Act 1992",
+        "Consolidated Fund (No.2) Act 1999",
+        "Gambling (Licensing and Advertising) Act 2014",
+        "Integrated Education Act (Northern Ireland) 2022"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Aire and Calder Navigation Act 1992\n2. Consolidated Fund (No.2) Act 1999\n3. Gambling (Licensing and Advertising) Act 2014\n4. Integrated Education Act (Northern Ireland) 2022\n\nLet me know if you have any further questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Aire and Calder Navigation Act 1992",
+        "Consolidated Fund (No.2) Act 1999",
+        "Gambling (Licensing and Advertising) Act 2014",
+        "Integrated Education Act (Northern Ireland) 2022"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Aire and Calder Navigation Act 1992 (1992-03-16)\n2. Consolidated Fund (No.2) Act 1999 (1999-12-16)\n3. Gambling (Licensing and Advertising) Act 2014 (2014-05-14)\n4. Integrated Education Act (Northern Ireland) 2022 (2022-04-26)"
+    }
+  },
+  {
+    "task_id": "OR070",
+    "expected_order": [
+      "Adoption of Children Act 1949",
+      "Housing Defects Act 1984",
+      "Oil and Pipelines Act 1985",
+      "Law Reform (Miscellaneous Provisions) (Scotland) Act 1990",
+      "Shard Bridge Act 1991"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Adoption of Children Act 1949",
+        "Housing Defects Act 1984",
+        "Oil and Pipelines Act 1985",
+        "Law Reform (Miscellaneous Provisions) (Scotland) Act 1990",
+        "Shard Bridge Act 1991"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Adoption of Children Act 1949\n2. Housing Defects Act 1984\n3. Oil and Pipelines Act 1985\n4. Law Reform (Miscellaneous Provisions) (Scotland) Act 1990\n5. Shard Bridge Act 1991"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Adoption of Children Act 1949",
+        "Housing Defects Act 1984",
+        "Oil and Pipelines Act 1985",
+        "Law Reform (Miscellaneous Provisions) (Scotland) Act 1990",
+        "Shard Bridge Act 1991"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Adoption of Children Act 1949 (1949-12-16)\n2. Housing Defects Act 1984 (1984-07-31)\n3. Oil and Pipelines Act 1985 (1985-10-30)\n4. Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (1990-11-01)\n5. Shard Bridge Act 1991 (1991-05-09)"
+    }
+  },
+  {
+    "task_id": "OR071",
+    "expected_order": [
+      "Rating and Valuation (Air-Raid Works) (Scotland) Act 1938",
+      "Education (Scotland) Act 1981",
+      "Local Authorities (Expenditure Powers) Act 1983",
+      "Trade Union and Labour Relations (Consolidation) Act 1992",
+      "Alliance & Leicester (Girobank) Act 1993"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Rating and Valuation (Air-Raid Works) (Scotland) Act 1938",
+        "Education (Scotland) Act 1981",
+        "Local Authorities (Expenditure Powers) Act 1983",
+        "Trade Union and Labour Relations (Consolidation) Act 1992",
+        "Alliance & Leicester (Girobank) Act 1993"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Rating and Valuation (Air-Raid Works) (Scotland) Act 1938\n2. Education (Scotland) Act 1981\n3. Local Authorities (Expenditure Powers) Act 1983\n4. Trade Union and Labour Relations (Consolidation) Act 1992\n5. Alliance & Leicester (Girobank) Act 1993"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Rating and Valuation (Air-Raid Works) (Scotland) Act 1938",
+        "Education (Scotland) Act 1981",
+        "Local Authorities (Expenditure Powers) Act 1983",
+        "Trade Union and Labour Relations (Consolidation) Act 1992",
+        "Alliance & Leicester (Girobank) Act 1993"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Rating and Valuation (Air-Raid Works) (Scotland) Act 1938 (1938-07-29)\n2. Education (Scotland) Act 1981 (1981-10-30)\n3. Local Authorities (Expenditure Powers) Act 1983 (1983-07-26)\n4. Trade Union and Labour Relations (Consolidation) Act 1992 (1992-07-"
+    }
+  },
+  {
+    "task_id": "OR072",
+    "expected_order": [
+      "International Monetary Arrangements Act 1983",
+      "Criminal Justice and Public Order Act 1994",
+      "Groceries Code Adjudicator Act 2013"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "International Monetary Arrangements Act 1983",
+        "Criminal Justice and Public Order Act 1994",
+        "Groceries Code Adjudicator Act 2013"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. International Monetary Arrangements Act 1983\n2. Criminal Justice and Public Order Act 1994\n3. Groceries Code Adjudicator Act 2013\n\nThis order reflects the chronological order in which the acts were enacted, with the earliest being the International Mo"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "International Monetary Arrangements Act 1983",
+        "Criminal Justice and Public Order Act 1994",
+        "Groceries Code Adjudicator Act 2013"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their enactment dates. Here are the acts in the correct order:\n\n1. International Monetary Arrangements Act 1983 (1983-07-26)\n2. Criminal Justice and Public Order Act 1994 (1994-11-03)\n3. Groceries Code Adjudicator Act 2013 (2"
+    }
+  },
+  {
+    "task_id": "OR073",
+    "expected_order": [
+      "Inebriates Act 1898",
+      "Intellectual Property Act 2014",
+      "Budget (No. 2) Act (Northern Ireland) 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Inebriates Act 1898",
+        "Intellectual Property Act 2014",
+        "Budget (No. 2) Act (Northern Ireland) 2024"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Inebriates Act 1898\n2. Intellectual Property Act 2014\n3. Budget (No. 2) Act (Northern Ireland) 2024\n\nThis order reflects the chronological order in which the acts were enacted, from oldest to most recent."
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Inebriates Act 1898",
+        "Intellectual Property Act 2014",
+        "Budget (No. 2) Act (Northern Ireland) 2024"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their dates. Here are the acts in chronological order:\n\n1. Inebriates Act 1898 (1898-08-12)\n2. Intellectual Property Act 2014 (2014-05-14)\n3. Budget (No. 2) Act (Northern Ireland) 2024 (2024-10-18)\n\nThis order reflects the en"
+    }
+  },
+  {
+    "task_id": "OR074",
+    "expected_order": [
+      "Light Railways Act 1912",
+      "Official Secrets Act 1939",
+      "Consumer Credit Act 1974",
+      "European Union Act 2011"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Light Railways Act 1912",
+        "Official Secrets Act 1939",
+        "Consumer Credit Act 1974",
+        "European Union Act 2011"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Light Railways Act 1912\n2. Official Secrets Act 1939\n3. Consumer Credit Act 1974\n4. European Union Act 2011\n\nLet me know if you have any other questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Light Railways Act 1912",
+        "Official Secrets Act 1939",
+        "Consumer Credit Act 1974",
+        "European Union Act 2011"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Light Railways Act 1912 (1912-12-13)\n2. Official Secrets Act 1939 (1939-11-23)\n3. Consumer Credit Act 1974 (1974-07-31)\n4. European Union Act 2011 (2011-07-19)\n\nThis order reflects the chronological order in which the acts were enacted, from ear"
+    }
+  },
+  {
+    "task_id": "OR075",
+    "expected_order": [
+      "National Audit Act 1983",
+      "Welsh Development Agency Act 1991",
+      "Bank of England and Financial Services Act 2016"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "National Audit Act 1983",
+        "Welsh Development Agency Act 1991",
+        "Bank of England and Financial Services Act 2016"
+      ],
+      "llama_text_snippet": "The correct order of enactment for the given legal acts is:\n\n1. National Audit Act 1983\n2. Welsh Development Agency Act 1991\n3. Bank of England and Financial Services Act 2016\n\nThis order reflects the chronological sequence in which the acts were enacted, with the earliest being the National Audit A"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "National Audit Act 1983",
+        "Welsh Development Agency Act 1991",
+        "Bank of England and Financial Services Act 2016"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. National Audit Act 1983 (1983-05-13)\n2. Welsh Development Agency Act 1991 (1991-12-19)\n3. Bank of England and Financial Services Act 2016 (2016-05-04)\n\nThey are arranged in chronological order by year and then by date."
+    }
+  },
+  {
+    "task_id": "OR076",
+    "expected_order": [
+      "Agriculture (Miscellaneous Provisions) Act 1972",
+      "Church of England (Miscellaneous Provisions) Measure 2010",
+      "Deregulation Act 2015",
+      "Northern Ireland Budget Act 2018"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Agriculture (Miscellaneous Provisions) Act 1972",
+        "Church of England (Miscellaneous Provisions) Measure 2010",
+        "Deregulation Act 2015",
+        "Northern Ireland Budget Act 2018"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Agriculture (Miscellaneous Provisions) Act 1972\n2. Church of England (Miscellaneous Provisions) Measure 2010\n3. Deregulation Act 2015\n4. Northern Ireland Budget Act 2018\n\nThis order reflects the chronological order in which the acts were enacted"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Agriculture (Miscellaneous Provisions) Act 1972",
+        "Church of England (Miscellaneous Provisions) Measure 2010",
+        "Deregulation Act 2015",
+        "Northern Ireland Budget Act 2018"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment dates. Here are the acts in the correct order:\n\n1. Agriculture (Miscellaneous Provisions) Act 1972 (1972-08-09)\n2. Church of England (Miscellaneous Provisions) Measure 2010 (2010-03-18)\n3. Deregulation Act"
+    }
+  },
+  {
+    "task_id": "OR077",
+    "expected_order": [
+      "Architects Registration Act 1938",
+      "Veterinary Surgeons Act 1966",
+      "Income Tax (Trading and Other Income) Act 2005",
+      "Corporation Tax (Northern Ireland) Act 2015",
+      "Extradition (Provisional Arrest) Act 2020"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Architects Registration Act 1938",
+        "Veterinary Surgeons Act 1966",
+        "Income Tax (Trading and Other Income) Act 2005",
+        "Corporation Tax (Northern Ireland) Act 2015",
+        "Extradition (Provisional Arrest) Act 2020"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Architects Registration Act 1938\n2. Veterinary Surgeons Act 1966\n3. Income Tax (Trading and Other Income) Act 2005\n4. Corporation Tax (Northern Ireland) Act 2015\n5. Extradition (Provisional Arrest) Act 2020\n\nLet me know if you have any other questions"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Architects Registration Act 1938",
+        "Veterinary Surgeons Act 1966",
+        "Income Tax (Trading and Other Income) Act 2005",
+        "Corporation Tax (Northern Ireland) Act 2015",
+        "Extradition (Provisional Arrest) Act 2020"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Architects Registration Act 1938 (1938-07-29)\n2. Veterinary Surgeons Act 1966 (1966-11-17)\n3. Income Tax (Trading and Other Income) Act 2005 (2005-03-24)\n4. Corporation Tax (Northern Ireland) Act 2015 (2015-03-26)\n5. Extradition (Provisional Arrest) A"
+    }
+  },
+  {
+    "task_id": "OR078",
+    "expected_order": [
+      "Sunday Entertainments Act 1932",
+      "Appropriation (No. 3) Act 2010",
+      "Non-Domestic Rating (Preparation for Digital Services) Act 2019"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Sunday Entertainments Act 1932",
+        "Appropriation (No. 3) Act 2010",
+        "Non-Domestic Rating (Preparation for Digital Services) Act 2019"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Sunday Entertainments Act 1932\n2. Appropriation (No. 3) Act 2010\n3. Non-Domestic Rating (Preparation for Digital Services) Act 2019\n\nThis order reflects the chronological order in which the acts were enacted, from earliest to most recent."
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Sunday Entertainments Act 1932",
+        "Appropriation (No. 3) Act 2010",
+        "Non-Domestic Rating (Preparation for Digital Services) Act 2019"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their dates of enactment. Here are the acts in chronological order:\n\n1. Sunday Entertainments Act 1932 (enacted on 1932-07-13)\n2. Appropriation (No. 3) Act 2010 (enacted on 2010-07-29)\n3. Non-Domestic Rating (Preparation for "
+    }
+  },
+  {
+    "task_id": "OR079",
+    "expected_order": [
+      "Education Act 1996",
+      "Freedom of Information Act 2000",
+      "National Australia Group Europe Act 2001",
+      "Charities Act 2006",
+      "Welsh Tax Acts etc. (Power to Modify) Act 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Education Act 1996",
+        "Freedom of Information Act 2000",
+        "National Australia Group Europe Act 2001",
+        "Charities Act 2006",
+        "Welsh Tax Acts etc. (Power to Modify) Act 2022"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Education Act 1996\n2. Freedom of Information Act 2000\n3. National Australia Group Europe Act 2001\n4. Charities Act 2006\n5. Welsh Tax Acts etc. (Power to Modify) Act 2022\n\nLet me know if you have any other questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Education Act 1996",
+        "Freedom of Information Act 2000",
+        "National Australia Group Europe Act 2001",
+        "Charities Act 2006",
+        "Welsh Tax Acts etc. (Power to Modify) Act 2022"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Education Act 1996 (1996-07-24)\n2. Freedom of Information Act 2000 (2000-11-30)\n3. National Australia Group Europe Act 2001 (2001-12-04)\n4. Charities Act 2006 (2006-11-08)\n5. Welsh Tax Acts etc. (Power to Modify) Act 2022 (2022-09-08)"
+    }
+  },
+  {
+    "task_id": "OR080",
+    "expected_order": [
+      "Law Reform (Married Women and Tortfeasors) Act 1935",
+      "Education Act 1964",
+      "Church of England (Ecumenical Relations) Measure 1988 (",
+      "Broads Authority Act 2009",
+      "Care Act 2014"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Law Reform (Married Women and Tortfeasors) Act 1935",
+        "Education Act 1964",
+        "Church of England (Ecumenical Relations) Measure 1988 (",
+        "Broads Authority Act 2009",
+        "Care Act 2014"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Law Reform (Married Women and Tortfeasors) Act 1935\n2. Education Act 1964\n3. Church of England (Ecumenical Relations) Measure 1988\n4. Broads Authority Act 2009\n5. Care Act 2014\n\nLet me know if you have any further questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Law Reform (Married Women and Tortfeasors) Act 1935",
+        "Education Act 1964",
+        "Church of England (Ecumenical Relations) Measure 1988 (",
+        "Broads Authority Act 2009",
+        "Care Act 2014"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Law Reform (Married Women and Tortfeasors) Act 1935 (1935-08-02)\n2. Education Act 1964 (1964-07-31)\n3. Church of England (Ecumenical Relations) Measure 1988 (1988-07-29)\n4. Broads Authority Act 2009 (2009-07-02)\n5. Care Act 2014 (2014-05-14)"
+    }
+  },
+  {
+    "task_id": "OR081",
+    "expected_order": [
+      "Local Government Finance Act 1988",
+      "Local Government and Housing Act 1989",
+      "Food Hygiene Rating (Wales) Act 2013",
+      "Protection from Sex-based Harassment in Public Act 2023"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Local Government Finance Act 1988",
+        "Local Government and Housing Act 1989",
+        "Food Hygiene Rating (Wales) Act 2013",
+        "Protection from Sex-based Harassment in Public Act 2023"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Local Government Finance Act 1988\n2. Local Government and Housing Act 1989\n3. Food Hygiene Rating (Wales) Act 2013\n4. Protection from Sex-based Harassment in Public Act 2023\n\nThis order reflects the chronological order in which the acts were ena"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Local Government Finance Act 1988",
+        "Local Government and Housing Act 1989",
+        "Food Hygiene Rating (Wales) Act 2013",
+        "Protection from Sex-based Harassment in Public Act 2023"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment dates. Here are the acts in the correct order:\n\n1. Local Government Finance Act 1988 (1988-07-29)\n2. Local Government and Housing Act 1989 (1989-11-16)\n3. Food Hygiene Rating (Wales) Act 2013 (2013-03-04)\n"
+    }
+  },
+  {
+    "task_id": "OR082",
+    "expected_order": [
+      "Slave Trade Act 1873",
+      "Exchequer and Audit Departments Act 1957",
+      "Appropriation Act 1993",
+      "Identity Documents Act 2010",
+      "Historic Environment (Wales) Act 2023"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Slave Trade Act 1873",
+        "Exchequer and Audit Departments Act 1957",
+        "Appropriation Act 1993",
+        "Identity Documents Act 2010",
+        "Historic Environment (Wales) Act 2023"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Slave Trade Act 1873\n2. Exchequer and Audit Departments Act 1957\n3. Appropriation Act 1993\n4. Identity Documents Act 2010\n5. Historic Environment (Wales) Act 2023"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Slave Trade Act 1873",
+        "Exchequer and Audit Departments Act 1957",
+        "Appropriation Act 1993",
+        "Identity Documents Act 2010",
+        "Historic Environment (Wales) Act 2023"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Exchequer and Audit Departments Act 1957 (1957-07-17)\n2. Appropriation Act 1993 (1993-07-27)\n3. Identity Documents Act 2010 (2010-12-21)\n4. Slave Trade Act 1873 (1873-08-05)\n5. Historic Environment (Wales) Act 2023 (2023-06-14)\n\nCorrected order with"
+    }
+  },
+  {
+    "task_id": "OR083",
+    "expected_order": [
+      "Public Order Act 1963",
+      "Hill Samuel Bank and United Dominions Trust Act 1994",
+      "Crime (International Co-operation) Act 2003",
+      "Autism Act (Northern Ireland) 2011"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Public Order Act 1963",
+        "Hill Samuel Bank and United Dominions Trust Act 1994",
+        "Crime (International Co-operation) Act 2003",
+        "Autism Act (Northern Ireland) 2011"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Public Order Act 1963\n2. Hill Samuel Bank and United Dominions Trust Act 1994\n3. Crime (International Co-operation) Act 2003\n4. Autism Act (Northern Ireland) 2011\n\nLet me know if you have any further questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Public Order Act 1963",
+        "Hill Samuel Bank and United Dominions Trust Act 1994",
+        "Crime (International Co-operation) Act 2003",
+        "Autism Act (Northern Ireland) 2011"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment dates. Here are the acts in the correct order:\n\n1. Public Order Act 1963 (1963-07-31)\n2. Hill Samuel Bank and United Dominions Trust Act 1994 (1994-07-21)\n3. Crime (International Co-operation) Act 2003 (20"
+    }
+  },
+  {
+    "task_id": "OR084",
+    "expected_order": [
+      "European Economic Area Act 1993",
+      "Assembly Members (Reduction of Numbers) Act (Northern Ireland) 2016",
+      "Automated and Electric Vehicles Act 2018"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "European Economic Area Act 1993",
+        "Assembly Members (Reduction of Numbers) Act (Northern Ireland) 2016",
+        "Automated and Electric Vehicles Act 2018"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. European Economic Area Act 1993\n2. Assembly Members (Reduction of Numbers) Act (Northern Ireland) 2016\n3. Automated and Electric Vehicles Act 2018"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "European Economic Area Act 1993",
+        "Assembly Members (Reduction of Numbers) Act (Northern Ireland) 2016",
+        "Automated and Electric Vehicles Act 2018"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. European Economic Area Act 1993 (1993-11-05)\n2. Assembly Members (Reduction of Numbers) Act (Northern Ireland) 2016 (2016-07-22)\n3. Automated and Electric Vehicles Act 2018 (2018-07-19)"
+    }
+  },
+  {
+    "task_id": "OR085",
+    "expected_order": [
+      "Regency Act 1943",
+      "Cardiff Bay Barrage Act 1993",
+      "Waste and Emissions Trading Act 2003",
+      "Reservoirs Act (Northern Ireland) 2015",
+      "Shared Education Act (Northern Ireland) 2016"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Regency Act 1943",
+        "Cardiff Bay Barrage Act 1993",
+        "Waste and Emissions Trading Act 2003",
+        "Reservoirs Act (Northern Ireland) 2015",
+        "Shared Education Act (Northern Ireland) 2016"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Regency Act 1943\n2. Cardiff Bay Barrage Act 1993\n3. Waste and Emissions Trading Act 2003\n4. Reservoirs Act (Northern Ireland) 2015\n5. Shared Education Act (Northern Ireland) 2016"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Regency Act 1943",
+        "Cardiff Bay Barrage Act 1993",
+        "Waste and Emissions Trading Act 2003",
+        "Reservoirs Act (Northern Ireland) 2015",
+        "Shared Education Act (Northern Ireland) 2016"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Regency Act 1943 (1943-11-11)\n2. Cardiff Bay Barrage Act 1993 (1993-11-05)\n3. Waste and Emissions Trading Act 2003 (2003-11-13)\n4. Reservoirs Act (Northern Ireland) 2015 (2015-07-24)\n5. Shared Education Act (Northern Ireland) 2016 (2016-05-09)"
+    }
+  },
+  {
+    "task_id": "OR086",
+    "expected_order": [
+      "Police and Criminal Evidence Act 1984",
+      "Lloyds TSB Act 1998",
+      "City of London (Various Powers) Act 2013"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Police and Criminal Evidence Act 1984",
+        "Lloyds TSB Act 1998",
+        "City of London (Various Powers) Act 2013"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Police and Criminal Evidence Act 1984\n2. Lloyds TSB Act 1998\n3. City of London (Various Powers) Act 2013\n\nLet me know if you have any other questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Police and Criminal Evidence Act 1984",
+        "Lloyds TSB Act 1998",
+        "City of London (Various Powers) Act 2013"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Police and Criminal Evidence Act 1984 (1984-10-31)\n2. Lloyds TSB Act 1998 (1998-07-31)\n3. City of London (Various Powers) Act 2013 (2013-12-18)\n\nThey are already in chronological order by date of enactment."
+    }
+  },
+  {
+    "task_id": "OR087",
+    "expected_order": [
+      "Town and Country Planning (Scotland) Act 1947",
+      "Pensions (No. 2) Act (Northern Ireland) 2008",
+      "Flood and Water Management Act 2010",
+      "Northern Ireland (Executive Formation and Exercise of Functions) Act 2018"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Town and Country Planning (Scotland) Act 1947",
+        "Pensions (No. 2) Act (Northern Ireland) 2008",
+        "Flood and Water Management Act 2010",
+        "Northern Ireland (Executive Formation and Exercise of Functions) Act 2018"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Town and Country Planning (Scotland) Act 1947\n2. Pensions (No. 2) Act (Northern Ireland) 2008\n3. Flood and Water Management Act 2010\n4. Northern Ireland (Executive Formation and Exercise of Functions) Act 2018\n\nThis order reflects the chronological or"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Town and Country Planning (Scotland) Act 1947",
+        "Pensions (No. 2) Act (Northern Ireland) 2008",
+        "Flood and Water Management Act 2010",
+        "Northern Ireland (Executive Formation and Exercise of Functions) Act 2018"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Town and Country Planning (Scotland) Act 1947 (1947-08-13)\n2. Pensions (No. 2) Act (Northern Ireland) 2008 (2008-12-15)\n3. Flood and Water Management Act 2010 (2010-04-08)\n4. Northern Ireland (Executive Formation and Exercise of Functions) Act 2018 (2"
+    }
+  },
+  {
+    "task_id": "OR088",
+    "expected_order": [
+      "Local Government (Scotland) Act 1929",
+      "Export and Investment Guarantees Act 1991",
+      "Midland Metro Act 1993",
+      "University of Wales, Cardiff Act 2004",
+      "Animal Welfare Act 2006"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Local Government (Scotland) Act 1929",
+        "Export and Investment Guarantees Act 1991",
+        "Midland Metro Act 1993",
+        "University of Wales, Cardiff Act 2004",
+        "Animal Welfare Act 2006"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Local Government (Scotland) Act 1929\n2. Export and Investment Guarantees Act 1991\n3. Midland Metro Act 1993\n4. University of Wales, Cardiff Act 2004\n5. Animal Welfare Act 2006\n\nLet me know if you have any other questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Local Government (Scotland) Act 1929",
+        "Export and Investment Guarantees Act 1991",
+        "Midland Metro Act 1993",
+        "University of Wales, Cardiff Act 2004",
+        "Animal Welfare Act 2006"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Local Government (Scotland) Act 1929 (1929-05-10)\n2. Export and Investment Guarantees Act 1991 (1991-10-22)\n3. Midland Metro Act 1993 (1993-05-27)\n4. University of Wales, Cardiff Act 2004 (2004-10-28)\n5. Animal Welfare Act 2006 (2006-11-08)"
+    }
+  },
+  {
+    "task_id": "OR089",
+    "expected_order": [
+      "Development of Rural Wales Act 1976",
+      "Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022",
+      "Monken Hadley Common Act 2022",
+      "Economic Crime and Corporate Transparency Act 2023",
+      "Environment (Air Quality and Soundscapes) (Wales) Act 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Development of Rural Wales Act 1976",
+        "Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022",
+        "Monken Hadley Common Act 2022",
+        "Economic Crime and Corporate Transparency Act 2023",
+        "Environment (Air Quality and Soundscapes) (Wales) Act 2024"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Development of Rural Wales Act 1976\n2. Monken Hadley Common Act 2022\n3. Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022\n4. Economic Crime and Corporate Transparency Act 2023\n5. Environment (Air Quality and Soundscapes) (Wales) A"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Development of Rural Wales Act 1976",
+        "Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022",
+        "Monken Hadley Common Act 2022",
+        "Economic Crime and Corporate Transparency Act 2023",
+        "Environment (Air Quality and Soundscapes) (Wales) Act 2024"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Development of Rural Wales Act 1976 (1976-11-22)\n2. Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022 (2022-04-27)\n3. Monken Hadley Common Act 2022 (2022-04-28)\n4. Economic Crime and Corporate Transparency Act 2023 (2023-10-26)\n"
+    }
+  },
+  {
+    "task_id": "OR090",
+    "expected_order": [
+      "Imperial Telegraphs Act 1938",
+      "Church of England (Miscellaneous Provisions) Measure 1992 (",
+      "Transport Salaried Staffs' Association (Amendment of Rules) Act 2000"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Imperial Telegraphs Act 1938",
+        "Church of England (Miscellaneous Provisions) Measure 1992 (",
+        "Transport Salaried Staffs' Association (Amendment of Rules) Act 2000"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Imperial Telegraphs Act 1938\n2. Church of England (Miscellaneous Provisions) Measure 1992\n3. Transport Salaried Staffs' Association (Amendment of Rules) Act 2000\n\nLet me know if you have any further questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Imperial Telegraphs Act 1938",
+        "Church of England (Miscellaneous Provisions) Measure 1992 (",
+        "Transport Salaried Staffs' Association (Amendment of Rules) Act 2000"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their dates. Here are the acts in chronological order:\n\n1. Imperial Telegraphs Act 1938 (enacted on 1938-07-29)\n2. Church of England (Miscellaneous Provisions) Measure 1992 (enacted on 1992-03-06)\n3. Transport Salaried Staffs"
+    }
+  },
+  {
+    "task_id": "OR091",
+    "expected_order": [
+      "Town and Country Planning (Scotland) Act 1947",
+      "Energy Act 1976",
+      "Further Education and Training Act 2007",
+      "Northern Ireland Budget Act 2018",
+      "Judicial Review and Courts Act 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Town and Country Planning (Scotland) Act 1947",
+        "Energy Act 1976",
+        "Further Education and Training Act 2007",
+        "Northern Ireland Budget Act 2018",
+        "Judicial Review and Courts Act 2022"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Town and Country Planning (Scotland) Act 1947\n2. Energy Act 1976\n3. Further Education and Training Act 2007\n4. Northern Ireland Budget Act 2018\n5. Judicial Review and Courts Act 2022"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Town and Country Planning (Scotland) Act 1947",
+        "Energy Act 1976",
+        "Further Education and Training Act 2007",
+        "Northern Ireland Budget Act 2018",
+        "Judicial Review and Courts Act 2022"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Town and Country Planning (Scotland) Act 1947 (1947-08-13)\n2. Energy Act 1976 (1976-11-22)\n3. Further Education and Training Act 2007 (2007-10-23)\n4. Northern Ireland Budget Act 2018 (2018-07-19)\n5. Judicial Review and Courts Act 2022 (2022-04-2"
+    }
+  },
+  {
+    "task_id": "OR092",
+    "expected_order": [
+      "Coinage (Measurement) Act 2011",
+      "Wales Act 2014",
+      "Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016",
+      "Steel Industry (Special Measures) Act 2025"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Coinage (Measurement) Act 2011",
+        "Wales Act 2014",
+        "Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016",
+        "Steel Industry (Special Measures) Act 2025"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their respective years. Here's the correct order:\n\n1. Coinage (Measurement) Act 2011\n2. Wales Act 2014\n3. Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016\n4. Steel Industry (Special Measures) Act 20"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Coinage (Measurement) Act 2011",
+        "Wales Act 2014",
+        "Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016",
+        "Steel Industry (Special Measures) Act 2025"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Coinage (Measurement) Act 2011 (2011-11-03)\n2. Wales Act 2014 (2014-12-17)\n3. Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016 (2016-05-12)\n4. Steel Industry (Special Measures) Act 2025 (2025-04-12)"
+    }
+  },
+  {
+    "task_id": "OR093",
+    "expected_order": [
+      "National Assistance (Amendment) Act 1951",
+      "Oil Taxation Act 1983",
+      "Local Democracy, Economic Development and Construction Act 2009",
+      "Church of England (Miscellaneous Provisions) Measure 2018"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "National Assistance (Amendment) Act 1951",
+        "Oil Taxation Act 1983",
+        "Local Democracy, Economic Development and Construction Act 2009",
+        "Church of England (Miscellaneous Provisions) Measure 2018"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. National Assistance (Amendment) Act 1951\n2. Oil Taxation Act 1983\n3. Local Democracy, Economic Development and Construction Act 2009\n4. Church of England (Miscellaneous Provisions) Measure 2018\n\nNote that the Church of England (Miscellaneous Pro"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "National Assistance (Amendment) Act 1951",
+        "Oil Taxation Act 1983",
+        "Local Democracy, Economic Development and Construction Act 2009",
+        "Church of England (Miscellaneous Provisions) Measure 2018"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment dates. Here are the acts in the correct order:\n\n1. National Assistance (Amendment) Act 1951 (1951-08-01)\n2. Oil Taxation Act 1983 (1983-12-01)\n3. Local Democracy, Economic Development and Construction Act "
+    }
+  },
+  {
+    "task_id": "OR094",
+    "expected_order": [
+      "Hong Kong Economic and Trade Office Act 1996",
+      "Lords Spiritual (Women) Act 2015",
+      "General Teaching Council (Directions) Act (Northern Ireland) 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Hong Kong Economic and Trade Office Act 1996",
+        "Lords Spiritual (Women) Act 2015",
+        "General Teaching Council (Directions) Act (Northern Ireland) 2022"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Hong Kong Economic and Trade Office Act 1996\n2. Lords Spiritual (Women) Act 2015\n3. General Teaching Council (Directions) Act (Northern Ireland) 2022\n\nThese acts were enacted in the given order, with the earliest being in 1996 and the most recent in 2"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Hong Kong Economic and Trade Office Act 1996",
+        "Lords Spiritual (Women) Act 2015",
+        "General Teaching Council (Directions) Act (Northern Ireland) 2022"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to consider their enactment dates. Here are the acts in the correct order:\n\n1. Hong Kong Economic and Trade Office Act 1996 (enacted on 1996-12-18)\n2. Lords Spiritual (Women) Act 2015 (enacted on 2015-03-26)\n3. General Teaching Council ("
+    }
+  },
+  {
+    "task_id": "OR095",
+    "expected_order": [
+      "Export and Investment Guarantees Act 1991",
+      "Child Support, Pensions and Social Security Act (Northern Ireland)",
+      "Industrial Development Act (Northern Ireland) 2002",
+      "Fixed-term Parliaments Act 2011"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Export and Investment Guarantees Act 1991",
+        "Child Support, Pensions and Social Security Act (Northern Ireland)",
+        "Industrial Development Act (Northern Ireland) 2002",
+        "Fixed-term Parliaments Act 2011"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Export and Investment Guarantees Act 1991\n2. Child Support, Pensions and Social Security Act (Northern Ireland) - This act was enacted in 2000 (as the Child Support, Pensions and Social Security Act 2000), but there is also a Child Support, Pensions a"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Export and Investment Guarantees Act 1991",
+        "Child Support, Pensions and Social Security Act (Northern Ireland)",
+        "Industrial Development Act (Northern Ireland) 2002",
+        "Fixed-term Parliaments Act 2011"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. Export and Investment Guarantees Act 1991 (1991-10-22)\n2. Child Support, Pensions and Social Security Act (Northern Ireland) (2000-11-20)\n3. Industrial Development Act (Northern Ireland) 2002 (2002-02-07)\n4. Fixed-term Parliaments Act 2011 (2011"
+    }
+  },
+  {
+    "task_id": "OR096",
+    "expected_order": [
+      "Development of Tourism Act 1969",
+      "Ancient Monuments and Archaeological Areas Act 1979",
+      "Alliance & Leicester Group Treasury plc (Transfer) Act 2001",
+      "City of London (Ward Elections) Act 2002",
+      "Offender Rehabilitation Act 2014"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Development of Tourism Act 1969",
+        "Ancient Monuments and Archaeological Areas Act 1979",
+        "Alliance & Leicester Group Treasury plc (Transfer) Act 2001",
+        "City of London (Ward Elections) Act 2002",
+        "Offender Rehabilitation Act 2014"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Development of Tourism Act 1969\n2. Ancient Monuments and Archaeological Areas Act 1979\n3. Alliance & Leicester Group Treasury plc (Transfer) Act 2001\n4. City of London (Ward Elections) Act 2002\n5. Offender Rehabilitation Act 2014"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Development of Tourism Act 1969",
+        "Ancient Monuments and Archaeological Areas Act 1979",
+        "Alliance & Leicester Group Treasury plc (Transfer) Act 2001",
+        "City of London (Ward Elections) Act 2002",
+        "Offender Rehabilitation Act 2014"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Development of Tourism Act 1969 (1969-07-25)\n2. Ancient Monuments and Archaeological Areas Act 1979 (1979-04-04)\n3. Alliance & Leicester Group Treasury plc (Transfer) Act 2001 (2001-03-22)\n4. City of London (Ward Elections) Act 2002 (2002-11-07)\n5. Of"
+    }
+  },
+  {
+    "task_id": "OR097",
+    "expected_order": [
+      "Company and Business Names (Chamber of Commerce, Etc.) Act 1999",
+      "Consolidated Fund Act 2006",
+      "Civil Aviation Act 2012",
+      "Well-being of Future Generations (Wales) Act 2015"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Company and Business Names (Chamber of Commerce, Etc.) Act 1999",
+        "Consolidated Fund Act 2006",
+        "Civil Aviation Act 2012",
+        "Well-being of Future Generations (Wales) Act 2015"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Company and Business Names (Chamber of Commerce, Etc.) Act 1999\n2. Consolidated Fund Act 2006\n3. Civil Aviation Act 2012\n4. Well-being of Future Generations (Wales) Act 2015\n\nThis order reflects the chronological order in which the acts were enacted, "
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Company and Business Names (Chamber of Commerce, Etc.) Act 1999",
+        "Consolidated Fund Act 2006",
+        "Civil Aviation Act 2012",
+        "Well-being of Future Generations (Wales) Act 2015"
+      ],
+      "llama_text_snippet": "To arrange the given legal acts in order of enactment, we need to sort them by their enactment dates. Here are the acts in the correct order:\n\n1. Company and Business Names (Chamber of Commerce, Etc.) Act 1999 (1999-07-27)\n2. Consolidated Fund Act 2006 (2006-12-19)\n3. Civil Aviation Act 2012 (2012-1"
+    }
+  },
+  {
+    "task_id": "OR098",
+    "expected_order": [
+      "British Railways Order Confirmation Act 1994",
+      "Maidstone Borough Council Act 2006",
+      "Charities Act 2011",
+      "Product Security and Telecommunications Infrastructure Act 2022"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "British Railways Order Confirmation Act 1994",
+        "Maidstone Borough Council Act 2006",
+        "Charities Act 2011",
+        "Product Security and Telecommunications Infrastructure Act 2022"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. British Railways Order Confirmation Act 1994\n2. Maidstone Borough Council Act 2006\n3. Charities Act 2011\n4. Product Security and Telecommunications Infrastructure Act 2022"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "British Railways Order Confirmation Act 1994",
+        "Maidstone Borough Council Act 2006",
+        "Charities Act 2011",
+        "Product Security and Telecommunications Infrastructure Act 2022"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. British Railways Order Confirmation Act 1994 (1994-03-24)\n2. Maidstone Borough Council Act 2006 (2006-07-11)\n3. Charities Act 2011 (2011-12-14)\n4. Product Security and Telecommunications Infrastructure Act 2022 (2022-12-06)"
+    }
+  },
+  {
+    "task_id": "OR099",
+    "expected_order": [
+      "Statute Law (Repeals) Act 1969",
+      "Agriculture Act 1970",
+      "Ministerial and other Salaries Act 1997",
+      "Northern Ireland (St Andrews Agreement) Act 2006",
+      "Bishop's Stortford Cemetery Act 2024"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "Statute Law (Repeals) Act 1969",
+        "Agriculture Act 1970",
+        "Ministerial and other Salaries Act 1997",
+        "Northern Ireland (St Andrews Agreement) Act 2006",
+        "Bishop's Stortford Cemetery Act 2024"
+      ],
+      "llama_text_snippet": "Here are the acts in the order of enactment:\n\n1. Statute Law (Repeals) Act 1969\n2. Agriculture Act 1970\n3. Ministerial and other Salaries Act 1997\n4. Northern Ireland (St Andrews Agreement) Act 2006\n5. Bishop's Stortford Cemetery Act 2024\n\nLet me know if you have any other questions!"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "Statute Law (Repeals) Act 1969",
+        "Agriculture Act 1970",
+        "Ministerial and other Salaries Act 1997",
+        "Northern Ireland (St Andrews Agreement) Act 2006",
+        "Bishop's Stortford Cemetery Act 2024"
+      ],
+      "llama_text_snippet": "Here are the legal acts in order of enactment:\n\n1. Statute Law (Repeals) Act 1969 (1969-10-22)\n2. Agriculture Act 1970 (1970-05-29)\n3. Ministerial and other Salaries Act 1997 (1997-11-06)\n4. Northern Ireland (St Andrews Agreement) Act 2006 (2006-11-22)\n5. Bishop's Stortford Cemetery Act 2024 (2024-0"
+    }
+  },
+  {
+    "task_id": "OR100",
+    "expected_order": [
+      "British Nationality Act 1981",
+      "Pensions Measure 1997",
+      "Public Audit (Wales) Act 2013",
+      "Justice Act (Northern Ireland) 2015",
+      "Domestic Abuse Act 2021"
+    ],
+    "answer": {
+      "is_correct": true,
+      "llama_order": [
+        "British Nationality Act 1981",
+        "Pensions Measure 1997",
+        "Public Audit (Wales) Act 2013",
+        "Justice Act (Northern Ireland) 2015",
+        "Domestic Abuse Act 2021"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. British Nationality Act 1981\n2. Pensions Measure 1997\n3. Public Audit (Wales) Act 2013\n4. Justice Act (Northern Ireland) 2015\n5. Domestic Abuse Act 2021"
+    },
+    "answer_with_dates": {
+      "is_correct": true,
+      "llama_order": [
+        "British Nationality Act 1981",
+        "Pensions Measure 1997",
+        "Public Audit (Wales) Act 2013",
+        "Justice Act (Northern Ireland) 2015",
+        "Domestic Abuse Act 2021"
+      ],
+      "llama_text_snippet": "Here are the legal acts in the order of enactment:\n\n1. British Nationality Act 1981 (1981-10-30)\n2. Pensions Measure 1997 (1997-03-21)\n3. Public Audit (Wales) Act 2013 (2013-04-29)\n4. Justice Act (Northern Ireland) 2015 (2015-07-24)\n5. Domestic Abuse Act 2021 (2021-04-29)"
+    }
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "task_id": "OB001",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Budget Act (Northern Ireland) 2010' is not overlapped by the 'National Debt Act 1972' in terms of their primary legal scope or function. They serve distinct purposes and operate at different levels of public finance:\n\n1.  **Budget Act (Northern Ireland) 2010:**\n    *   **Purpose:** This is ",
+    "gemini_with_dates_snippet": "Yes, the two acts do overlap.\n\n*   **'Budget Act (Northern Ireland) 2010'** was in force from 2010-03-12 to 2016-02-05.\n*   **'National Debt Act 1972'** was in force from 1972-08-09 to 2015-06-18.\n\nThey both were in force simultaneously during the period **2010-03-12 to 2015-06-18**."
+  },
+  {
+    "task_id": "OB002",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Bell’s Bridge Order Confirmation Act 1995' is **not overlapped** by the 'Pests Act 1954' in terms of their primary subject matter or legislative intent. They deal with completely different areas of law.\n\nHere's why:\n\n1.  **Pests Act 1954:** This is a general public health and environmental ",
+    "gemini_with_dates_snippet": "Yes, the 'Bell’s Bridge Order Confirmation Act 1995' and the 'Pests Act 1954' **do overlap**.\n\nHere's why:\n\n*   **Bell's Bridge Order Confirmation Act 1995:** 1995-07-19 to 2025-07-01\n*   **Pests Act 1954:** 1954-11-25 to 2025-07-01\n\nThe period from **1995-07-19 to 2025-07-01** is covered by both ac"
+  },
+  {
+    "task_id": "OB003",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Statutory Instruments (Production and Sale) Act 1996' is not \"overlapped\" by the 'Budget Act (Northern Ireland) 2009' in the sense of one superseding, conflicting with, or directly amending the other, or dealing with the same substantive subject matter.\n\nThey operate in very different domai",
+    "gemini_with_dates_snippet": "Yes, the two acts *do* overlap.\n\nHere's why:\n\n*   **Statutory Instruments (Production and Sale) Act 1996** was in effect from **1996-07-24 to 2025-07-01**.\n*   **Budget Act (Northern Ireland) 2009** was in effect from **2009-03-06 to 2016-02-10**.\n\nThe entire period of the 'Budget Act (Northern Irel"
+  },
+  {
+    "task_id": "OB004",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Public Trustee (Liability and Fees) Act 2002' is **not overlapped** by the 'Road Races (Amendment) Act (Northern Ireland) 2014'.\n\nThey deal with entirely different subjects:\n\n1.  **Public Trustee (Liability and Fees) Act 2002 (UK Parliament Act):** This Act governs the Public Trustee, a sta",
+    "gemini_with_dates_snippet": "Yes, the two acts do overlap.\n\n*   **'Public Trustee (Liability and Fees) Act 2002'** is in effect from 2002-11-07 to 2025-07-01.\n*   **'Road Races (Amendment) Act (Northern Ireland) 2014'** is in effect from 2014-01-17 to 2025-07-01.\n\nBoth acts are in effect concurrently during the period **2014-01"
+  },
+  {
+    "task_id": "OB005",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Armed Forces Act 2006' and the 'Deer Act 1991' do **not** significantly overlap. They operate in entirely different legal domains.\n\nHere's why:\n\n1.  **Armed Forces Act 2006:** This is a comprehensive piece of legislation in the UK that governs the discipline, administration, and powers of t",
+    "gemini_with_dates_snippet": "Yes, the 'Armed Forces Act 2006' and the 'Deer Act 1991' do overlap.\n\n*   **Armed Forces Act 2006:** 2006-11-08 to 2024-10-17\n*   **Deer Act 1991:** 1991-07-25 to 2018-08-19\n\nThe period of overlap is from **2006-11-08** (the later of the two start dates) to **2018-08-19** (the earlier of the two end"
+  },
+  {
+    "task_id": "OB006",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, there is **no direct or substantial overlap** between the 'Veterans Advisory and Pensions Committees Act 2023' and the 'Regulation of Registered Social Landlords (Wales) Act 2018'. They address completely different areas of law and policy.\n\nHere's why:\n\n1.  **Veterans Advisory and Pensions Commi",
+    "gemini_with_dates_snippet": "No, the 'Veterans Advisory and Pensions Committees Act 2023' and the 'Regulation of Registered Social Landlords (Wales) Act 2018' do **not overlap in their subject matter or purpose**.\n\nHere's why:\n\n*   **Veterans Advisory and Pensions Committees Act 2023:** This Act is concerned with the establishm"
+  },
+  {
+    "task_id": "OB007",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012' and the 'National Health Service (Amendment) Act 1949' **do not overlap**.\n\nThey deal with completely different areas of law and public policy:\n\n1.  **Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012:**\n    * ",
+    "gemini_with_dates_snippet": "Yes, the two acts do overlap.\n\nHere's why:\n\n*   **'Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012'** was active from **2012-12-11 to 2017-12-15**.\n*   **'National Health Service (Amendment) Act 1949'** was active from **1949-12-16 to 2016-07-22**.\n\nBoth acts were simultaneously act"
+  },
+  {
+    "task_id": "OB008",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021** and the **Mental Health (Approval Functions) Act 2012** do *not* overlap. They serve entirely different purposes and operate in different legal jurisdictions.\n\nHere's why:\n\n1.  **Functioning of Government (M",
+    "gemini_with_dates_snippet": "Yes, they do overlap.\n\nHere are the periods of validity:\n\n*   **'Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021'**: 2021-03-22 to 2025-07-01\n*   **'Mental Health (Approval Functions) Act 2012'**: 2012-10-31 to 2025-07-01\n\nBoth Acts are valid concurrently from **2021"
+  },
+  {
+    "task_id": "OB009",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Post Office Act 1953' is **not** overlapped by the 'Succession to the Crown Act 2013' in any substantive or direct way.\n\nHere's why:\n\n1.  **Post Office Act 1953:** This Act was primarily a consolidating piece of legislation dealing with the powers and duties of the Postmaster General, the p",
+    "gemini_with_dates_snippet": "Yes, these two Acts *do* overlap in their effective dates.\n\nHere's why:\n\n*   **Post Office Act 1953:** 1953-07-31 to **2015-10-21**\n*   **Succession to the Crown Act 2013:** **2013-04-25** to 2025-07-01\n\nBoth Acts were in force concurrently from **2013-04-25** until **2015-10-21**."
+  },
+  {
+    "task_id": "OB010",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Harris Tweed Act 1993** is not \"overlapped\" by the **Civil Evidence Act 1995** in the sense of one superseding or directly amending the other's core subject matter. They operate on entirely different legislative levels and serve distinct purposes:\n\n1.  **Harris Tweed Act 1993:**\n    *   **",
+    "gemini_with_dates_snippet": "Yes, the 'Harris Tweed Act 1993' and the 'Civil Evidence Act 1995' do overlap.\n\n*   **Harris Tweed Act 1993:** 1993-07-20 to 2025-07-01\n*   **Civil Evidence Act 1995:** 1995-11-08 to 2024-05-23\n\nThe overlap period is from **1995-11-08** (the later of the two start dates) to **2024-05-23** (the earli"
+  },
+  {
+    "task_id": "OB011",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the **British Railways Order Confirmation Act 1994** and the **Friendly Societies Act 1974** do not generally overlap. They serve completely different purposes and cover distinct areas of law.\n\nHere's why:\n\n1.  **British Railways Order Confirmation Act 1994:** This type of Act is typically a ver",
+    "gemini_with_dates_snippet": "Yes, the two Acts do overlap.\n\n*   **British Railways Order Confirmation Act 1994** was in effect from 1994-03-24 to 2025-07-01.\n*   **Friendly Societies Act 1974** was in effect from 1974-07-31 to 2019-01-16.\n\nThe period of overlap is from **1994-03-24** (the later of the two start dates) to **2019"
+  },
+  {
+    "task_id": "OB012",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016' and the 'London Local Authorities Act 1995' do **not** overlap.\n\nHere's why:\n\n1.  **Geographic Jurisdiction:**\n    *   **Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016:** This A",
+    "gemini_with_dates_snippet": "Yes, the two acts do overlap.\n\nHere are the periods:\n\n1.  **'Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016'**: From **2016-04-11** to **2025-07-01**\n2.  **'London Local Authorities Act 1995'**: From **1995-11-08** to **2024-11-05**\n\nThey overlap during the period fr"
+  },
+  {
+    "task_id": "OB013",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the **Building Societies (Funding) and Mutual Societies (Transfers) Act 2007** and the **Supreme Court (Offices) Act 1997** do **not** overlap in their subject matter or purpose.\n\nHere's why:\n\n1.  **Building Societies (Funding) and Mutual Societies (Transfers) Act 2007:**\n    *   **Purpose:** Th",
+    "gemini_with_dates_snippet": "Yes, the two periods **do overlap**.\n\n*   **Building Societies (Funding) and Mutual Societies (Transfers) Act 2007** was in effect from 2007-10-23 to 2021-10-25.\n*   **Supreme Court (Offices) Act 1997** was in effect from 1997-12-17 to 2013-08-23.\n\nThey overlapped during the period **from 2007-10-23"
+  },
+  {
+    "task_id": "OB014",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Consolidated Fund (No. 2) Act 2004' is **not overlapped** by the 'Railways (Electrical Power) Act 1903'. They serve entirely different purposes and operate in completely separate legislative spheres.\n\nHere's why:\n\n1.  **Consolidated Fund (No. 2) Act 2004:**\n    *   This is a **financial act",
+    "gemini_with_dates_snippet": "Yes, the two Acts do overlap.\n\nHere are their respective timeframes:\n\n*   **Consolidated Fund (No. 2) Act 2004:** From 2004-12-16 to 2015-01-28\n*   **Railways (Electrical Power) Act 1903:** From 1903-08-14 to 2025-07-01\n\nThe entire active period of the 'Consolidated Fund (No. 2) Act 2004' (2004-12-1"
+  },
+  {
+    "task_id": "OB015",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Paymaster General Act 1848** and the **Companies (Consolidation) Act 1908** do not overlap in their subject matter or scope.\n\nHere's why:\n\n1.  **Paymaster General Act 1848:** This Act is concerned with **public finance and the administration of government funds**. It established and regula",
+    "gemini_with_dates_snippet": "Let's clarify the periods for each Act:\n\n*   **Paymaster General Act 1848:** From **2025-07-01** to **2025-07-14** (assuming the earlier date is the start and the later is the end).\n*   **Companies (Consolidation) Act 1908:** From **1908-12-21** to **2025-07-01**.\n\nNow, let's check for overlap:\n\n*  "
+  },
+  {
+    "task_id": "OB016",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Hill Samuel Bank and United Dominions Trust Act 1994' and the 'Nurseries and Child-Minders Regulation Act 1948' **do not overlap** in their subject matter or purpose.\n\nHere's why:\n\n1.  **Hill Samuel Bank and United Dominions Trust Act 1994:**\n    *   This is a **private Act of Parliament**.",
+    "gemini_with_dates_snippet": "Yes, the two Acts do overlap.\n\n*   **Hill Samuel Bank and United Dominions Trust Act 1994:** 1994-07-21 to 2025-07-01\n*   **Nurseries and Child-Minders Regulation Act 1948:** 1948-07-30 to 2025-07-01\n\nThe period from **1994-07-21 to 2025-07-01** is common to both Acts, meaning the entire duration of"
+  },
+  {
+    "task_id": "OB017",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Pensions Act 2011' and the 'Supply and Appropriation (Main Estimates) Act 2019' do not overlap in their legal function or subject matter in the way you might expect. They serve fundamentally different purposes in the UK's legal and governmental framework:\n\n1.  **Pensions Act 2011:**\n    *  ",
+    "gemini_with_dates_snippet": "Yes, the 'Pensions Act 2011' and the 'Supply and Appropriation (Main Estimates) Act 2019' do overlap.\n\nHere's why:\n\n*   **Pensions Act 2011:** 2011-11-03 to 2024-02-01\n*   **Supply and Appropriation (Main Estimates) Act 2019:** 2019-07-17 to 2025-07-01\n\nThe overlap period is from **2019-07-17** (the"
+  },
+  {
+    "task_id": "OB018",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **National Gallery and Tate Gallery Act 1954** and the **Accession Declaration Act 1910** do not overlap.\n\nThey deal with entirely separate and unrelated matters:\n\n1.  **Accession Declaration Act 1910:** This Act deals *solely* with the wording of the declaration that a new monarch must make",
+    "gemini_with_dates_snippet": "Yes, the 'National Gallery and Tate Gallery Act 1954' is overlapped by the 'Accession Declaration Act 1910'.\n\nHere's why:\n\n*   **Accession Declaration Act 1910:** 1910-08-03 to 2025-07-01\n*   **National Gallery and Tate Gallery Act 1954:** 1954-11-25 to 2025-07-01\n\nThe 'National Gallery and Tate Gal"
+  },
+  {
+    "task_id": "OB019",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Corporate Manslaughter and Corporate Homicide Act 2007** and the **Trade Union Act 1984** do **not overlap** in their core subject matter or purpose. They are entirely distinct pieces of legislation addressing different areas of law.\n\nHere's why:\n\n1.  **Corporate Manslaughter and Corporate",
+    "gemini_with_dates_snippet": "Yes, the 'Corporate Manslaughter and Corporate Homicide Act 2007' and the 'Trade Union Act 1984' do overlap.\n\nHere's why:\n\n*   **Corporate Manslaughter and Corporate Homicide Act 2007:** 2007-07-26 to 2024-04-18\n*   **Trade Union Act 1984:** 1984-07-26 to 2025-07-01\n\nThe period of overlap is from **"
+  },
+  {
+    "task_id": "OB020",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Agricultural Land (Utilisation) Act 1931' and the 'Safeguarding and Clergy Discipline Measure 2016' do **not** overlap.\n\nThey are entirely distinct pieces of legislation with different purposes, scopes, and target areas:\n\n1.  **Agricultural Land (Utilisation) Act 1931:** This Act (largely s",
+    "gemini_with_dates_snippet": "Yes, the 'Agricultural Land (Utilisation) Act 1931' and the 'Safeguarding and Clergy Discipline Measure 2016' do overlap.\n\nHere's why:\n\n*   **Agricultural Land (Utilisation) Act 1931:** 1931-07-31 to 2025-06-10\n*   **Safeguarding and Clergy Discipline Measure 2016:** 2016-03-16 to 2022-07-19\n\nThe pe"
+  },
+  {
+    "task_id": "OB021",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Criminal Injuries Compensation Act 1995 (CICA 1995)** and the **Land Charges Act 1972 (LCA 1972)** do **not** overlap. They deal with entirely different areas of law.\n\nHere's why:\n\n1.  **Criminal Injuries Compensation Act 1995 (CICA 1995):**\n    *   **Purpose:** Establishes a scheme for th",
+    "gemini_with_dates_snippet": "Yes, the two Acts **do overlap** in their effective dates.\n\nHere's why:\n\n*   **Criminal Injuries Compensation Act 1995:** Was in effect from **1995-11-08** to **2016-08-31**.\n*   **Land Charges Act 1972:** Was in effect from **1972-08-09** to **2018-08-24**.\n\nThe period of overlap is from **1995-11-"
+  },
+  {
+    "task_id": "OB022",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Broads Authority Act 2009' and the 'Education Act 1976' do **not** overlap in any significant or direct way. They deal with entirely different areas of law and public policy.\n\nHere's why:\n\n1.  **Broads Authority Act 2009:** This is an Act specific to the Norfolk and Suffolk Broads, a unique",
+    "gemini_with_dates_snippet": "Yes, the 'Broads Authority Act 2009' and the 'Education Act 1976' do overlap.\n\n*   **Broads Authority Act 2009:** 2009-07-02 to 2025-07-01\n*   **Education Act 1976:** 1976-11-22 to 2025-07-01\n\nThey both are in effect during the period **2009-07-02 to 2025-07-01**."
+  },
+  {
+    "task_id": "OB023",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Northern Ireland (Executive Formation etc) Act 2019' and the 'Enterprise and New Towns (Scotland) Act 1990' do **not** overlap.\n\nHere's why:\n\n1.  **Geographic Scope:**\n    *   **Northern Ireland (Executive Formation etc) Act 2019:** Applies exclusively to **Northern Ireland**. Its primary p",
+    "gemini_with_dates_snippet": "Yes, the two acts do overlap.\n\n*   **'Northern Ireland (Executive Formation etc) Act 2019'** was in effect from **2019-07-24 to 2022-11-24**.\n*   **'Enterprise and New Towns (Scotland) Act 1990'** was in effect from **1990-07-26 to 2024-04-29**.\n\nThey overlap during the period from **2019-07-24** (t"
+  },
+  {
+    "task_id": "OB024",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Visiting Forces Act 1952** and the **Curriculum and Assessment (Wales) Act 2021** do not overlap. They address completely different areas of law and policy.\n\nHere's why:\n\n1.  **Visiting Forces Act 1952:**\n    *   **Purpose:** This Act deals with the legal status, jurisdiction, privileges, ",
+    "gemini_with_dates_snippet": "Yes, they do overlap.\n\nThe overlap period is from **2021-04-29** (the start date of the 'Curriculum and Assessment (Wales) Act 2021') to **2024-04-18** (the end date of the 'Visiting Forces Act 1952')."
+  },
+  {
+    "task_id": "OB025",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Derelict Land Act 1982' and the 'India (Consequential Provision) Act 1949' **do not overlap** in their subject matter or purpose. They are entirely separate pieces of legislation dealing with vastly different areas of law.\n\nHere's why:\n\n1.  **Derelict Land Act 1982:**\n    *   **Jurisdiction",
+    "gemini_with_dates_snippet": "Yes, the 'Derelict Land Act 1982' and the 'India (Consequential Provision) Act 1949' do overlap.\n\nHere's why:\n\n*   **Derelict Land Act 1982:** Active from **1982-07-30** to **2018-08-24**\n*   **India (Consequential Provision) Act 1949:** Active from **1949-12-16** to **2025-07-01**\n\nThe entire activ"
+  },
+  {
+    "task_id": "OB026",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Consolidated Fund (No. 2) Act 1995** and the **Children Act 2004** do not overlap in their legal scope or function. They serve entirely different purposes:\n\n1.  **Consolidated Fund (No. 2) Act 1995:**\n    *   This is a **finance Act**. Its primary purpose is to authorize the government to ",
+    "gemini_with_dates_snippet": "Yes, the two Acts do overlap.\n\n*   **Consolidated Fund (No. 2) Act 1995:** 1995-12-19 to **2013-10-12**\n*   **Children Act 2004:** **2004-11-15** to 2025-04-09\n\nThe overlap period is from **2004-11-15** (the later start date) to **2013-10-12** (the earlier end date)."
+  },
+  {
+    "task_id": "OB027",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Business and Planning Act 2020' is **not** overlapped by the 'Woodgrange Park Cemetery Act 1993'. They are entirely different in scope, purpose, and application.\n\nHere's why:\n\n1.  **Business and Planning Act 2020:**\n    *   This is a **public, general Act** of the UK Parliament.\n    *   It ",
+    "gemini_with_dates_snippet": "Yes, the 'Business and Planning Act 2020' is overlapped by the 'Woodgrange Park Cemetery Act 1993'.\n\nHere's why:\n\n*   **Business and Planning Act 2020:** 2020-07-22 to 2025-04-08\n*   **Woodgrange Park Cemetery Act 1993:** 1993-11-05 to 2025-07-01\n\nBoth acts are in effect simultaneously during the pe"
+  },
+  {
+    "task_id": "OB028",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, there is **no overlap** between the Human Fertilisation and Embryology Act 2008 and the London Olympic Games and Paralympic Games (Amendment) Act 2011.\n\nThese two Acts address entirely different subject matters and legislative purposes:\n\n1.  **Human Fertilisation and Embryology Act 2008 (HFEA 20",
+    "gemini_with_dates_snippet": "Yes, there is an overlap.\n\n*   **Human Fertilisation and Embryology Act 2008:** 2008-11-13 to 2024-11-05\n*   **London Olympic Games and Paralympic Games (Amendment) Act 2011:** 2011-12-14 to 2017-12-01\n\nThe entire lifespan of the 'London Olympic Games and Paralympic Games (Amendment) Act 2011' falls"
+  },
+  {
+    "task_id": "OB029",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'National Audit Act 1983' and the 'Civil Aviation Act 2012' do not *overlap* in terms of their core subject matter or legislative purpose. They serve very different functions:\n\n1.  **National Audit Act 1983:** This Act established the National Audit Office (NAO) and set out the powers and du",
+    "gemini_with_dates_snippet": "Yes, the 'National Audit Act 1983' and the 'Civil Aviation Act 2012' **do overlap**.\n\nHere's why:\n\n*   **National Audit Act 1983:** Effective from 1983-05-13 to 2018-06-08\n*   **Civil Aviation Act 2012:** Effective from 2012-12-19 to 2025-05-29\n\nBoth acts were in effect simultaneously during the per"
+  },
+  {
+    "task_id": "OB030",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Superannuation Act (Northern Ireland) 2013' and the 'Civil List Act 1975' **do not overlap** in their primary functions or subject matter.\n\nHere's why:\n\n1.  **Superannuation Act (Northern Ireland) 2013:**\n    *   **Purpose:** This Act primarily deals with the **pensions and retirement benef",
+    "gemini_with_dates_snippet": "Yes, 'Superannuation Act (Northern Ireland) 2013' and 'Civil List Act 1975' **do overlap**.\n\nHere's why:\n\n*   **Superannuation Act (Northern Ireland) 2013:** Active from 2013-01-09 to 2025-07-01\n*   **Civil List Act 1975:** Active from 1975-12-19 to 2015-11-12\n\nBoth acts were in force simultaneously"
+  },
+  {
+    "task_id": "OB031",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016' and the 'Parliamentary Buildings (Restoration and Renewal) Act 2019' do **not** overlap.\n\nThey are completely separate pieces of legislation dealing with entirely different subject matters:\n\n1.  **Cr",
+    "gemini_with_dates_snippet": "Yes, the two acts do overlap in their stated timeframes.\n\nHere are the periods:\n\n1.  **Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016**:\n    *   From: 2016-04-22\n    *   To: 2025-07-01\n\n2.  **Parliamentary Buildings (Restoration and Renewal) Act 2019**:\n  "
+  },
+  {
+    "task_id": "OB032",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Administration of Justice Act 1969** and the **Local Government (Contracts) Act 1997** do not overlap in their primary functions or subject matter. They operate in distinctly different legal spheres.\n\nHere's why:\n\n1.  **Administration of Justice Act 1969:**\n    *   **Purpose:** This Act pr",
+    "gemini_with_dates_snippet": "Yes, the 'Administration of Justice Act 1969' and the 'Local Government (Contracts) Act 1997' **do overlap**.\n\nHere's why:\n\n*   **Administration of Justice Act 1969:** 1969-10-22 to **2024-11-20**\n*   **Local Government (Contracts) Act 1997:** **1997-11-27** to 2017-10-17\n\nThe period of overlap is f"
+  },
+  {
+    "task_id": "OB033",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Work and Families Act (Northern Ireland) 2015** and the **Highway Act 1835** do **not** overlap. They deal with entirely different areas of law and have distinct geographical and subject matter scopes.\n\nHere's why:\n\n1.  **Work and Families Act (Northern Ireland) 2015:**\n    *   **Jurisdict",
+    "gemini_with_dates_snippet": "Let's examine the periods provided for each Act:\n\n1.  **Work and Families Act (Northern Ireland) 2015:**\n    *   Starts: 2015-01-08\n    *   Ends: 2025-07-01\n\n2.  **Highway Act 1835:**\n    *   Starts: 2025-07-31\n    *   Ends: 2025-07-01\n\nThere appears to be an error in the dates provided for the **Hi"
+  },
+  {
+    "task_id": "OB034",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Rent (Agriculture) Act 1976' and the 'Coal-Mining (Subsidence) Act 1957' do **not** significantly overlap in their legal scope or purpose. They address entirely different aspects of property and land law.\n\nHere's why:\n\n1.  **Rent (Agriculture) Act 1976:**\n    *   **Purpose:** This Act prima",
+    "gemini_with_dates_snippet": "Yes, the two Acts do overlap.\n\nHere's why:\n\n*   **Rent (Agriculture) Act 1976:** In force from 1976-11-22 to 2024-11-20\n*   **Coal-Mining (Subsidence) Act 1957:** In force from 1957-07-31 to 2025-07-01\n\nBoth Acts were in force simultaneously during the period from **1976-11-22** (when the Rent Act s"
+  },
+  {
+    "task_id": "OB035",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "Generally, **no, the 'Armed Forces Act 1981' is not overlapped by the 'Income Tax (Trading and Other Income) Act 2005' in a direct or substantive way.** They operate in fundamentally different legislative spheres.\n\nHere's why:\n\n1.  **Armed Forces Act 1981 (AFA 1981):**\n    *   **Purpose:** This Act ",
+    "gemini_with_dates_snippet": "Yes, there is an overlap.\n\n*   **Armed Forces Act 1981:** In force from **1981-07-28** to **2020-09-04**\n*   **Income Tax (Trading and Other Income) Act 2005:** In force from **2005-03-24** to **2025-05-14**\n\nThe period where both Acts were in force simultaneously is from **2005-03-24** (the later o"
+  },
+  {
+    "task_id": "OB036",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the Human Rights Act 1998 (HRA 1998) is not \"overlapped by\" the Post Office Act 1969 (POA 1969) in the sense of the latter containing or superseding the former. Their purposes and scope are entirely different.\n\nHere's the relationship:\n\n1.  **Post Office Act 1969 (POA 1969):** This Act was prima",
+    "gemini_with_dates_snippet": "Yes, the 'Human Rights Act 1998' and the 'Post Office Act 1969' did overlap.\n\nHere's why:\n*   **Human Rights Act 1998:** In force from **1998-11-09** to 2024-04-29\n*   **Post Office Act 1969:** In force from 1969-07-25 to **2018-06-26**\n\nBoth acts were simultaneously in force during the period from "
+  },
+  {
+    "task_id": "OB037",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Killingholme Generating Stations (Ancillary Powers) Act 1991' and the 'Landlord and Tenant Act 1985' do not generally overlap in their subject matter or purpose. They serve entirely different legal functions:\n\n1.  **Killingholme Generating Stations (Ancillary Powers) Act 1991:**\n    *   Thi",
+    "gemini_with_dates_snippet": "Yes, the two acts do overlap.\n\nHere's why:\n\n*   **'Killingholme Generating Stations (Ancillary Powers) Act 1991'** is effective from **1991-06-27** to **2025-07-01**.\n*   **'Landlord and Tenant Act 1985'** is effective from **1985-10-30** to **2025-02-11**.\n\nThe overlapping period is from **1991-06-"
+  },
+  {
+    "task_id": "OB038",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **War Pensions Act 1921** is **not overlapped by** the **Sexual Offences (Amendment) Act 2000**.\n\nThey deal with entirely different areas of law:\n\n*   **War Pensions Act 1921:** This Act is concerned with the provision of pensions and grants for members of His Majesty's forces disabled in co",
+    "gemini_with_dates_snippet": "Yes, the 'War Pensions Act 1921' and the 'Sexual Offences (Amendment) Act 2000' overlapped.\n\nThe 'War Pensions Act 1921' was active from 1921-08-19 to 2025-07-01.\nThe 'Sexual Offences (Amendment) Act 2000' was active from 2000-11-30 to 2017-12-05.\n\nBoth acts were active during the period from **2000"
+  },
+  {
+    "task_id": "OB039",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the **Concealment of Birth (Scotland) Act 1809** and the **Patents Act 1949** do not overlap at all. They deal with completely different areas of law:\n\n1.  **Concealment of Birth (Scotland) Act 1809:** This is a piece of **criminal law** specific to **Scotland**. It deals with the crime of a mot",
+    "gemini_with_dates_snippet": "Let's look at the time periods for each Act:\n\n1.  **Concealment of Birth (Scotland) Act 1809:**\n    *   Start: 2025-07-20\n    *   End: 2025-07-01\n\n    **Note:** The start date (July 20) is *after* the end date (July 1). This indicates an invalid time range as written. Assuming this is a typo and the"
+  },
+  {
+    "task_id": "OB040",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Electronic Communications Act (Northern Ireland) 2001' and the 'Sale of Farming Stock Act 1814' do not overlap. They deal with entirely different subjects, technologies, and time periods.\n\nHere's why:\n\n1.  **Electronic Communications Act (Northern Ireland) 2001:**\n    *   **Purpose:** This ",
+    "gemini_with_dates_snippet": "The second period provided for the 'Sale of Farming Stock Act 1814' is invalid as its \"from\" date (2025-07-20) is after its \"to\" date (2025-07-01).\n\nA time period cannot start after it ends. Therefore, it cannot meaningfully overlap with any other period."
+  },
+  {
+    "task_id": "OB041",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "This is an interesting question, but it's based on a slight misunderstanding of UK legislation.\n\n1.  **\"Trees Act 1970\" (UK):** There is no standalone UK Act specifically called the \"Trees Act 1970.\"\n    *   The primary legislation regarding tree preservation orders (TPOs) and general planning contr",
+    "gemini_with_dates_snippet": "Let's break down the timeframes for each act:\n\n1.  **Trees Act 1970:**\n    *   Starts: 1970-05-29\n    *   Ends: 2025-07-01\n\n2.  **Duchy of Lancaster Act 1808:**\n    *   Starts: 2025-07-18\n    *   Ends: 2025-07-01\n\nThere's a critical issue with the dates for the **Duchy of Lancaster Act 1808**: its s"
+  },
+  {
+    "task_id": "OB042",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988' is **not overlapped** by the 'Local Government (Boundaries) Act (Northern Ireland) 2008'.\n\nHere's why:\n\n1.  **Geographical Scope:**\n    *   The **Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988*",
+    "gemini_with_dates_snippet": "Yes, they do overlap.\n\nHere's why:\n\n*   **'Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988'** was active from **1988-02-09** to **2019-06-13**.\n*   **'Local Government (Boundaries) Act (Northern Ireland) 2008'** has been active from **2008-05-23** to **2025-07-01**.\n\nThe peri"
+  },
+  {
+    "task_id": "OB043",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Generally, no, there is no significant or general overlap between the 'Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992' and the 'Merchant Shipping Act 1894'. They operate in vastly different legal domains.\n\nHere's why:\n\n1.  **Sporting Events (Control of Alcohol etc.) (Amendment) Act 1",
+    "gemini_with_dates_snippet": "Yes, the two Acts do overlap.\n\n*   **'Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992'** was in force from 1992-12-03 to 2017-10-16.\n*   **'Merchant Shipping Act 1894'** was in force from 1894-08-25 to 2013-10-11.\n\nThey both were in force during the period **from 1992-12-03 to 2013-10"
+  },
+  {
+    "task_id": "OB044",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Sexual Offences (Scotland) Act 1976' and the 'National Insurance Contributions (Reduction in Rates) Act 2023' do **not** overlap.\n\nThey deal with entirely different areas of law:\n\n1.  **Sexual Offences (Scotland) Act 1976**: This is a piece of criminal law that defines and deals with variou",
+    "gemini_with_dates_snippet": "Yes, the two Acts **do overlap** in terms of their period of operation.\n\n*   The **Sexual Offences (Scotland) Act 1976** is in force from 1976-11-15 to 2025-07-01.\n*   The **National Insurance Contributions (Reduction in Rates) Act 2023** is in force from 2023-12-18 to 2025-07-01.\n\nBoth Acts are in "
+  },
+  {
+    "task_id": "OB045",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the **Small Charitable Donations Act 2012** is **not overlapped** by the **Consolidated Fund (No. 2) Act 2004**. They serve entirely different purposes in UK law and public finance.\n\nHere's why:\n\n1.  **Small Charitable Donations Act 2012:**\n    *   **Purpose:** This Act introduced the \"Gift Aid ",
+    "gemini_with_dates_snippet": "Yes, the 'Small Charitable Donations Act 2012' and the 'Consolidated Fund (No. 2) Act 2004' **did overlap**.\n\nHere's why:\n\n*   **Small Charitable Donations Act 2012:** 2012-12-19 to 2017-04-04\n*   **Consolidated Fund (No. 2) Act 2004:** 2004-12-16 to 2015-01-28\n\nThe period of overlap is from **2012-"
+  },
+  {
+    "task_id": "OB046",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Crown Benefices (Parish Representatives) Measure 2010' is **not overlapped** by the 'Local Authority Social Services Act 1970'. They operate in entirely distinct legal and administrative spheres:\n\n1.  **Crown Benefices (Parish Representatives) Measure 2010:** This is a Church of England Mea",
+    "gemini_with_dates_snippet": "Yes, there is an overlap.\n\nHere's why:\n\n*   **Crown Benefices (Parish Representatives) Measure 2010:** 2010-03-18 to 2025-07-01\n*   **Local Authority Social Services Act 1970:** 1970-05-29 to 2022-03-15\n\nBoth were in force simultaneously during the period from **2010-03-18** (the later start date) t"
+  },
+  {
+    "task_id": "OB047",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Senedd Cymru (Members and Elections) Act 2024' is **not** overlapped by the 'Bills of Exchange (Ireland) Act 1828'. They deal with completely different legal domains, subject matters, and geographical/historical contexts.\n\nHere's why:\n\n1.  **Senedd Cymru (Members and Elections) Act 2024:**\n",
+    "gemini_with_dates_snippet": "Let's break down the periods provided:\n\n1.  **'Senedd Cymru (Members and Elections) Act 2024'**:\n    *   Starts: 2024-06-24\n    *   Ends: 2025-02-27\n\n2.  **'Bills of Exchange (Ireland) Act 1828'**:\n    *   Starts: 2025-07-19\n    *   Ends: 2025-07-01\n\nThere's an issue with the second period for the '"
+  },
+  {
+    "task_id": "OB048",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Finance (No. 2) Act 2005' and the 'Midland Metro (No. 2) Act 1992' do not overlap in their subject matter or purpose.\n\nHere's why:\n\n1.  **Finance (No. 2) Act 2005:** This is a national piece of legislation dealing with taxation, public expenditure, and other financial matters for the United",
+    "gemini_with_dates_snippet": "Yes, the two acts overlap.\n\nHere's why:\n\n*   **Finance (No. 2) Act 2005** is active from 2005-07-20 to 2023-01-31.\n*   **Midland Metro (No. 2) Act 1992** is active from 1992-03-16 to 2025-07-01.\n\nBoth acts were in effect during the period **2005-07-20** (the later start date) to **2023-01-31** (the "
+  },
+  {
+    "task_id": "OB049",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Scottish Land Court Act 1993' is generally **not overlapped by** the 'Railway Companies Act 1867'. They deal with entirely different aspects of law.\n\nHere's why:\n\n1.  **Scottish Land Court Act 1993:**\n    *   **Purpose:** This Act consolidates and amends legislation relating to the Scottish",
+    "gemini_with_dates_snippet": "Yes, the 'Scottish Land Court Act 1993' is overlapped by the 'Railway Companies Act 1867'.\n\nHere's why:\n\n*   **Scottish Land Court Act 1993:** 1993-11-05 to 2016-11-14\n*   **Railway Companies Act 1867:** 1867-08-20 to 2025-07-01\n\nThe entire lifespan of the 'Scottish Land Court Act 1993' (1993-11-05 "
+  },
+  {
+    "task_id": "OB050",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Hospital Parking Charges Act (Northern Ireland) 2024' and the 'Church of England (Miscellaneous Provisions) Measure 2005' do **not** overlap.\n\nThey are entirely distinct pieces of legislation for the following reasons:\n\n1.  **Geographical Scope:**\n    *   **Hospital Parking Charges Act (Nor",
+    "gemini_with_dates_snippet": "Let's look at the dates for each:\n\n1.  **'Hospital Parking Charges Act (Northern Ireland) 2024'**:\n    *   Starts: 2024-05-16\n    *   Ends: 2025-07-01\n\n2.  **'Church of England (Miscellaneous Provisions) Measure 2005'**:\n    *   Starts: 2005-03-24\n    *   Ends: 2019-06-12\n\nThe 'Church of England (Mi"
+  },
+  {
+    "task_id": "OB051",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Hunting Act 2004** and the **Borders, Citizenship and Immigration Act 2009** do not overlap in their subject matter or legal scope.\n\nHere's why:\n\n1.  **Hunting Act 2004:** This Act deals exclusively with the hunting of wild mammals with dogs in England and Wales, primarily banning it with ",
+    "gemini_with_dates_snippet": "Yes, the 'Hunting Act 2004' and the 'Borders, Citizenship and Immigration Act 2009' **do overlap**.\n\n*   **Hunting Act 2004:** 2004-11-18 to 2020-04-16\n*   **Borders, Citizenship and Immigration Act 2009:** 2009-07-21 to 2023-11-21\n\nThe overlap period is from **2009-07-21** (when the second act bega"
+  },
+  {
+    "task_id": "OB052",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013' is **not overlapped** by the 'Appellate Jurisdiction Act 1887'. They deal with entirely different subject matters and operate on different levels of law.\n\nHere's why:\n\n1.  **Water and Sewerage Services (Amendment) Act (Nor",
+    "gemini_with_dates_snippet": "Yes, the two acts *do* overlap.\n\n*   **'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013'** is in effect from 2013-04-25 to 2025-07-01.\n*   **'Appellate Jurisdiction Act 1887'** is in effect from 1887-09-16 to 2025-07-01.\n\nThe period where both acts were simultaneously in effect i"
+  },
+  {
+    "task_id": "OB053",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Employers' Liability (Compulsory Insurance) Act 1969' and the 'Parliamentary Constituencies Act 2020' do **not** overlap. They are entirely separate pieces of legislation dealing with completely different areas of law.\n\nHere's why:\n\n1.  **Employers' Liability (Compulsory Insurance) Act 1969",
+    "gemini_with_dates_snippet": "No, 'Employers' Liability (Compulsory Insurance) Act 1969' is **not** overlapped by 'Parliamentary Constituencies Act 2020'.\n\nHere's why:\n\n*   The first Act's timeframe ends on **2019-11-18**.\n*   The second Act's timeframe begins on **2020-12-14**.\n\nThere is a gap of over a year between the end of "
+  },
+  {
+    "task_id": "OB054",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Consolidated Fund (No. 2) Act 1995' and the 'Easter Act 1928' do **not** overlap. They deal with entirely different subject matters:\n\n1.  **Consolidated Fund (No. 2) Act 1995:** This is a **financial Act**. Its purpose, like all Consolidated Fund Acts, was to authorize the government to dra",
+    "gemini_with_dates_snippet": "Yes, there is an overlap.\n\nHere's why:\n\n*   **Consolidated Fund (No. 2) Act 1995** was in effect from 1995-12-19 to 2013-10-12.\n*   **Easter Act 1928** has been in effect from 1928-08-03 and continues until at least 2025-07-01.\n\nThe entire period of the 'Consolidated Fund (No. 2) Act 1995' (1995-12-"
+  },
+  {
+    "task_id": "OB055",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Sheriff Courts and Legal Officers (Scotland) Act 1927** and the **Family Allowances and National Insurance Act 1967** do **not** overlap in their primary subject matter or legislative scope.\n\nThey deal with entirely different areas of law:\n\n1.  **Sheriff Courts and Legal Officers (Scotland",
+    "gemini_with_dates_snippet": "Yes, the 'Sheriff Courts and Legal Officers (Scotland) Act 1927' and the 'Family Allowances and National Insurance Act 1967' do overlap.\n\n*   **Sheriff Courts and Legal Officers (Scotland) Act 1927:** 1927-12-22 to 2013-10-11\n*   **Family Allowances and National Insurance Act 1967:** 1967-12-20 to 2"
+  },
+  {
+    "task_id": "OB056",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, these two Acts do not directly overlap in their subject matter. They deal with entirely different areas of law:\n\n1.  **Sex Discrimination Act 1975:** This Act (now largely superseded by the Equality Act 2010) was designed to prevent discrimination on the grounds of sex or marital status in areas",
+    "gemini_with_dates_snippet": "Yes, the 'Sex Discrimination Act 1975' is overlapped by the 'Executors (Scotland) Act 1900'.\n\nHere's why:\n*   'Sex Discrimination Act 1975' existed from 1975-11-12 to 2021-12-08.\n*   'Executors (Scotland) Act 1900' existed from 1900-08-08 to 2025-07-01.\n\nSince the entire period of the 'Sex Discrimin"
+  },
+  {
+    "task_id": "OB057",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Courts and Tribunals (Judiciary and Functions of Staff) Act 2018' and the 'Political Parties and Elections Act 2009' do not directly overlap in their primary subject matter or purpose.\n\nHere's why:\n\n1.  **Courts and Tribunals (Judiciary and Functions of Staff) Act 2018:**\n    *   **Primary ",
+    "gemini_with_dates_snippet": "Yes, the two Acts did overlap.\n\nHere are their effective periods:\n\n*   **Courts and Tribunals (Judiciary and Functions of Staff) Act 2018:** 2018-12-20 to 2025-07-01\n*   **Political Parties and Elections Act 2009:** 2009-07-21 to 2022-03-02\n\nThe period of overlap is from **2018-12-20** (when the 201"
+  },
+  {
+    "task_id": "OB058",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Breeding of Dogs Act 1973' is **not overlapped, superseded, or amended by** the 'Nottingham City Council Act 2013'. They are entirely different types of legislation with distinct purposes:\n\n1.  **Breeding of Dogs Act 1973 (and its successors):**\n    *   This was a **national Act** (applying",
+    "gemini_with_dates_snippet": "Yes, the 'Breeding of Dogs Act 1973' and the 'Nottingham City Council Act 2013' did overlap.\n\nHere's why:\n\n*   **Breeding of Dogs Act 1973:** Effective from 1973-10-25 to **2021-11-12**\n*   **Nottingham City Council Act 2013:** Effective from **2013-02-28** to 2025-07-01\n\nThe period of overlap is fr"
+  },
+  {
+    "task_id": "OB059",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Local Authorities (Restoration of Works Powers) Act 1977' and the 'Church of England (Miscellaneous Provisions) Measure 2018' do **not** overlap in terms of their scope or subject matter. They address entirely different areas of law and governance.\n\nHere's why:\n\n1.  **Local Authorities (Res",
+    "gemini_with_dates_snippet": "Yes, the two acts do overlap in their effective dates.\n\nHere's why:\n\n*   **Local Authorities (Restoration of Works Powers) Act 1977** is effective from **1977-07-29** to **2025-07-01**.\n*   **Church of England (Miscellaneous Provisions) Measure 2018** is effective from **2018-12-20** to **2021-06-30"
+  },
+  {
+    "task_id": "OB060",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Green Energy (Definition and Promotion) Act 2009' and the 'Children Act 2004' do **not** primarily overlap in their scope or purpose.\n\nHere's why:\n\n1.  **Green Energy (Definition and Promotion) Act 2009 (UK):**\n    *   **Purpose:** This Act is focused on environmental policy, specifically d",
+    "gemini_with_dates_snippet": "Yes, the 'Green Energy (Definition and Promotion) Act 2009' and the 'Children Act 2004' **do overlap** in their periods of validity.\n\n*   **Green Energy (Definition and Promotion) Act 2009:** In force from 2009-11-12 to 2025-07-01\n*   **Children Act 2004:** In force from 2004-11-15 to 2025-04-09\n\nBo"
+  },
+  {
+    "task_id": "OB061",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Police (Northern Ireland) Act 1998** and the **Concessionary Bus Travel Act 2007** do not overlap.\n\nHere's why:\n\n1.  **Police (Northern Ireland) Act 1998:** This Act deals exclusively with policing in Northern Ireland. Its provisions cover the structure, functions, accountability, and admi",
+    "gemini_with_dates_snippet": "Yes, they do overlap.\n\nHere's why:\n\n*   **Police (Northern Ireland) Act 1998:** Active from 1998-07-24 to 2025-04-22\n*   **Concessionary Bus Travel Act 2007:** Active from 2007-07-19 to 2025-07-01\n\nThe period where both acts are active is from **2007-07-19** (the later start date) to **2025-04-22** "
+  },
+  {
+    "task_id": "OB062",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Pastoral (Amendment) Measure 2006' and the 'House of Commons (Disqualifications) Act 1801' do **not** overlap in their scope or subject matter.\n\nHere's why:\n\n1.  **House of Commons (Disqualifications) Act 1801:**\n    *   **Purpose:** This historic Act (sometimes referred to as the Clergy Di",
+    "gemini_with_dates_snippet": "No, they do not overlap.\n\nHere's why:\n\n1.  **'Pastoral (Amendment) Measure 2006'**: This period runs from 2006-07-11 to 2015-10-23.\n2.  **'House of Commons (Disqualifications) Act 1801'**: The dates provided for this are 2025-07-20 to 2025-07-01.\n    *   There's a clear error in the second set of da"
+  },
+  {
+    "task_id": "OB063",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Bus Services Act 2017' and the 'Removal Terms (Scotland) Act 1886' do **not** overlap. They deal with entirely different areas of law and have completely separate purposes.\n\nHere's why:\n\n1.  **Bus Services Act 2017:**\n    *   **Purpose:** This is a modern piece of legislation primarily conc",
+    "gemini_with_dates_snippet": "Yes, the 'Bus Services Act 2017' and the 'Removal Terms (Scotland) Act 1886' *do* overlap in their given timeframes.\n\n*   **Bus Services Act 2017:** 2017-04-27 to 2025-07-01\n*   **Removal Terms (Scotland) Act 1886:** 1886-06-25 to 2025-07-01\n\nThe overlap period is from **2017-04-27** (the later star"
+  },
+  {
+    "task_id": "OB064",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Consolidated Fund Act 1816' and the 'British Technology Group Act 1991' do not overlap. They deal with entirely different subjects:\n\n1.  **Consolidated Fund Act 1816:** This was a finance act, typical of its time. Its purpose would have been to authorize the issue of money from the Consolid",
+    "gemini_with_dates_snippet": "Let's look at the time ranges for each Act:\n\n*   **'Consolidated Fund Act 1816'**: From 2025-07-01 to 2025-07-01\n*   **'British Technology Group Act 1991'**: From 1991-10-22 to 2015-09-11\n\nThe first Act's period (2025) occurs entirely after the second Act's period (1991-2015) has concluded.\n\nTherefo"
+  },
+  {
+    "task_id": "OB065",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Tobacco Advertising and Promotion Act 2002' and the 'Light Railways Act 1912' **do not overlap** in their subject matter or legal scope.\n\nHere's why:\n\n1.  **Tobacco Advertising and Promotion Act 2002:** This Act's sole purpose is to ban or restrict the advertising and promotion of tobacco p",
+    "gemini_with_dates_snippet": "Yes, the two periods overlap.\n\n*   **Tobacco Advertising and Promotion Act 2002** was in effect from 2002-11-07 to 2023-09-26.\n*   **Light Railways Act 1912** was in effect from 1912-12-13 to 2025-07-01.\n\nBoth acts were in effect concurrently from **2002-11-07** (when the Tobacco Act began) until **"
+  },
+  {
+    "task_id": "OB066",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Ivory Act 2018' and the 'Energy Act 2013' do not overlap.\n\nThey are completely separate pieces of legislation dealing with entirely different subject matters:\n\n*   **Ivory Act 2018:** Primarily concerns **wildlife conservation** and bans the dealing of ivory (with very limited exceptions) t",
+    "gemini_with_dates_snippet": "Yes, the 'Ivory Act 2018' and the 'Energy Act 2013' periods **do overlap**.\n\nHere's why:\n\n*   **Ivory Act 2018:** Starts 2018-12-20, Ends 2025-07-01\n*   **Energy Act 2013:** Starts 2013-12-18, Ends 2024-10-30\n\nBoth acts are active during the period from **2018-12-20** (the later start date) to **202"
+  },
+  {
+    "task_id": "OB067",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Chequers Estate Act 1917' and the 'Industrial Common Ownership Act 1976' do **not** overlap. They deal with entirely different subject matters:\n\n1.  **Chequers Estate Act 1917:** This specific Act established the Chequers Estate as the official country residence for the Prime Minister of th",
+    "gemini_with_dates_snippet": "Yes, the 'Chequers Estate Act 1917' and the 'Industrial Common Ownership Act 1976' do overlap.\n\n*   **Chequers Estate Act 1917:** 1917-12-20 to 2025-07-01\n*   **Industrial Common Ownership Act 1976:** 1976-11-22 to 2015-05-22\n\nThe overlap period is from **1976-11-22** (the later start date) to **201"
+  },
+  {
+    "task_id": "OB068",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, there is **no direct or significant overlap** between the Local Authorities (Goods and Services) Act 1970 and the Trustee Savings Banks Act 1981.\n\nThey deal with completely different areas of law:\n\n1.  **Local Authorities (Goods and Services) Act 1970:**\n    *   **Purpose:** This Act enables loc",
+    "gemini_with_dates_snippet": "Yes, the two Acts overlapped.\n\n*   **Local Authorities (Goods and Services) Act 1970** was in force from 1970-05-29 to 2021-06-01.\n*   **Trustee Savings Banks Act 1981** was in force from 1981-10-30 to 2025-07-01.\n\nThey both were in force concurrently during the period from **1981-10-30** (the later"
+  },
+  {
+    "task_id": "OB069",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, there is **no direct overlap** between the 'Law Officers Act 1997' and the 'Incumbents (Vacation of Benefices) (Amendment) Measure 1993'.\n\nThey deal with completely different areas of law and governance:\n\n1.  **Law Officers Act 1997:**\n    *   **Purpose:** This Act relates to the functions, powe",
+    "gemini_with_dates_snippet": "Yes, the 'Law Officers Act 1997' (from 1997-07-31 to 2025-07-01) is overlapped by 'Incumbents (Vacation of Benefices) (Amendment) Measure 1993' (from 1993-07-27 to 2025-07-01).\n\nThe period of overlap is **1997-07-31 to 2025-07-01**."
+  },
+  {
+    "task_id": "OB070",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Pensions Act 2007' and the 'Antarctic Act 2013' do not overlap in their subject matter or legal scope.\n\nHere's why:\n\n*   **Pensions Act 2007:** This is UK legislation primarily concerned with **pensions**, specifically the regulatory framework for occupational and personal pensions, the cre",
+    "gemini_with_dates_snippet": "To determine if the two acts overlap, we need to see if there's a period when both were active.\n\n*   **Pensions Act 2007:** Active from 2007-07-26 to 2022-01-19\n*   **Antarctic Act 2013:** Active from 2013-03-26 to 2025-07-01\n\nLet's compare the timelines:\n\n1.  The Antarctic Act 2013 started on **201"
+  },
+  {
+    "task_id": "OB071",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Agriculture Act 1986' is **not** overlapped by the 'Hairdressers (Registration) Act 1964'.\n\nThey deal with completely different subject matters:\n\n*   **Agriculture Act 1986:** Relates to farming, land use, agricultural practices, food production, animal health, and the rural economy.\n*   **",
+    "gemini_with_dates_snippet": "Yes, the 'Agriculture Act 1986' and the 'Hairdressers (Registration) Act 1964' *do* overlap.\n\n*   **Agriculture Act 1986:** 1986-07-25 to 2025-06-10\n*   **Hairdressers (Registration) Act 1964:** 1964-07-31 to 2015-06-10\n\nThey both existed concurrently during the period from **1986-07-25** (when the "
+  },
+  {
+    "task_id": "OB072",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, there is **no direct overlap** between the 'Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015' and the 'Improvement of Land Act 1864'.\n\nThey deal with entirely separate and distinct areas of law and policy:\n\n1.  **Violence against Women, Domestic Abuse and Sexual Violen",
+    "gemini_with_dates_snippet": "Let's analyze the provided date ranges for each Act:\n\n1.  **'Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015'**:\n    *   Start Date: 2015-04-29\n    *   End Date: 2025-04-09\n\n2.  **'Improvement of Land Act 1864'**:\n    *   Start Date: 2025-07-29\n    *   End Date: 2017-10-1"
+  },
+  {
+    "task_id": "OB073",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "Yes, 'Education Act 2005' is certainly **overlapped by** (or more accurately, subject to) the 'Police and Criminal Evidence Act 1984' (PACE) in specific circumstances.\n\nHere's why:\n\n1.  **Education Act 2005:** This Act primarily governs the provision of education in England. It deals with things lik",
+    "gemini_with_dates_snippet": "Yes, 'Education Act 2005' and 'Police and Criminal Evidence Act 1984' do overlap.\n\n*   **Education Act 2005:** 2005-04-07 to 2025-04-09\n*   **Police and Criminal Evidence Act 1984:** 1984-10-31 to 2024-05-01\n\nThe common period where both acts are active is from **2005-04-07 to 2024-05-01**."
+  },
+  {
+    "task_id": "OB074",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Dawat-e-Hadiyah Act 1993' and the 'Mines and Quarries Act 1954' do not overlap. They are entirely separate pieces of legislation, dealing with completely different subject matters and operating in different jurisdictions:\n\n1.  **Mines and Quarries Act 1954:** This is an Act of the Parliamen",
+    "gemini_with_dates_snippet": "Yes, the two time periods overlap.\n\n*   **'Dawat-e-Hadiyah Act 1993'**: 1993-07-01 to 2025-07-01\n*   **'Mines and Quarries Act 1954'**: 1954-11-25 to 2025-04-14\n\nThey overlap from **1993-07-01** (the later of the two start dates) until **2025-04-14** (the earlier of the two end dates)."
+  },
+  {
+    "task_id": "OB075",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the **Finance Act 1988** and the **Sailors and Soldiers (Gifts for Land Settlement) Act 1916** do not overlap in their subject matter or purpose.\n\nHere's why:\n\n1.  **Finance Act 1988:** This is an annual UK parliamentary act. Finance Acts primarily deal with:\n    *   **Taxation:** Setting rates ",
+    "gemini_with_dates_snippet": "Yes, 'Finance Act 1988' and 'Sailors and Soldiers (Gifts for Land Settlement) Act 1916' do overlap.\n\n*   **Finance Act 1988:** 1988-07-29 to 2025-03-03\n*   **Sailors and Soldiers (Gifts for Land Settlement) Act 1916:** 1916-12-22 to 2013-12-04\n\nThe overlap period is from **1988-07-29** (when the Fin"
+  },
+  {
+    "task_id": "OB076",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Penalties for Drunkenness Act 1962' is **not** overlapped by the 'Sports Grounds Safety Authority Act 2011'.\n\nHere's why:\n\n1.  **Jurisdiction:**\n    *   The **Penalties for Drunkenness Act 1962** is an Act of the **Republic of Ireland**. It deals with public order offenses related to being ",
+    "gemini_with_dates_snippet": "Yes, the two acts do overlap.\n\n*   **Penalties for Drunkenness Act 1962:** In effect from 1962-08-01 to 2025-07-01\n*   **Sports Grounds Safety Authority Act 2011:** In effect from 2011-07-12 to 2025-07-01\n\nThe period of overlap is from **2011-07-12** (the later start date) to **2025-07-01** (the com"
+  },
+  {
+    "task_id": "OB077",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Supreme Court (Offices) Act 1997' and the 'Drugs Act 2005' do **not** overlap in their subject matter or purpose.\n\nHere's why:\n\n1.  **Supreme Court (Offices) Act 1997:** This Act deals with the administrative and organizational aspects of the Supreme Court. It covers things like:\n    *   Th",
+    "gemini_with_dates_snippet": "Yes, the 'Supreme Court (Offices) Act 1997' and the 'Drugs Act 2005' **did overlap**.\n\nHere's why:\n\n*   **Supreme Court (Offices) Act 1997:** In effect from 1997-12-17 to 2013-08-23.\n*   **Drugs Act 2005:** In effect from 2005-04-07 to 2023-07-25.\n\nBoth Acts were in effect concurrently from **2005-0"
+  },
+  {
+    "task_id": "OB078",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Diocesan Stipends Funds (Amendment) Measure 2016' is not \"overlapped\" by the 'Pensions Act 2007' in the sense that one negates or renders the other redundant. Instead, they operate at different levels of law and have distinct, though related, purposes:\n\n1.  **Pensions Act 2007 (and subseque",
+    "gemini_with_dates_snippet": "Yes, they do overlap.\n\nHere are the periods:\n\n*   **Diocesan Stipends Funds (Amendment) Measure 2016:** 2016-03-16 to 2025-07-01\n*   **Pensions Act 2007:** 2007-07-26 to 2022-01-19\n\nThe overlap period is from **2016-03-16** (when the Diocesan Measure starts) to **2022-01-19** (when the Pensions Act "
+  },
+  {
+    "task_id": "OB079",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the **Parliamentary Standards Act 2009** and the **Strikes (Minimum Service Levels) Act 2023** do not overlap. They deal with entirely distinct and separate areas of law and public policy.\n\nHere's why:\n\n1.  **Parliamentary Standards Act 2009:** This Act was primarily a response to the MP expense",
+    "gemini_with_dates_snippet": "No, the two acts do not overlap.\n\nHere's why:\n\n*   **Parliamentary Standards Act 2009** was active until **2023-03-08** (March 8, 2023).\n*   **Strikes (Minimum Service Levels) Act 2023** became active from **2023-07-20** (July 20, 2023).\n\nThere is a gap of several months (March 9, 2023, to July 19, "
+  },
+  {
+    "task_id": "OB080",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Solicitors (Scotland) Act 1988' and the 'Public Registers and Records (Scotland) Act 1948' do **not** overlap in the sense of one superseding, containing, or dealing with the same primary subject matter as the other. They have distinctly different purposes, although solicitors (regulated by",
+    "gemini_with_dates_snippet": "Yes, the 'Solicitors (Scotland) Act 1988' and the 'Public Registers and Records (Scotland) Act 1948' overlap.\n\n*   **Solicitors (Scotland) Act 1988:** 1988-07-29 to 2025-07-01\n*   **Public Registers and Records (Scotland) Act 1948:** 1948-07-30 to 2022-01-05\n\nThe overlapping period is from **1988-07"
+  },
+  {
+    "task_id": "OB081",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Consolidated Fund Act 2008' and the 'Administration of Justice Act 1960' do not overlap. They deal with entirely different areas of law.\n\n1.  **Consolidated Fund Act 2008:** This is a financial Act. Its primary purpose is to authorize the issue of money from the Consolidated Fund (the gover",
+    "gemini_with_dates_snippet": "Yes, the 'Consolidated Fund Act 2008' and the 'Administration of Justice Act 1960' do overlap.\n\nHere's why:\n\n*   **Consolidated Fund Act 2008:** 2008-12-18 to 2015-02-17\n*   **Administration of Justice Act 1960:** 1960-10-27 to 2022-07-19\n\nThe period of overlap is from **2008-12-18** (the start of t"
+  },
+  {
+    "task_id": "OB082",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'School Grants Act 1855' and the 'Housing Act 1974' **do not overlap** in their subject matter or purpose.\n\n*   The **School Grants Act 1855** (a UK Act) was concerned with the **funding and administration of schools**, particularly in the context of the early development of public education",
+    "gemini_with_dates_snippet": "Yes, the periods overlap.\n\nLet's clarify the dates for each Act:\n\n*   **'School Grants Act 1855'**: From **2025-07-01** to **2025-07-14** (assuming the earlier date is the start and the later date is the end).\n*   **'Housing Act 1974'**: From **1974-07-31** to **2025-07-01**\n\nThe overlap occurs on *"
+  },
+  {
+    "task_id": "OB083",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Refreshment Houses Act 1964' is **not** overlapped by the 'Criminal Law (Consolidation) (Scotland) Act 1995'.\n\nHere's why:\n\n1.  **Refreshment Houses Act 1964:** This Act specifically applied to **England and Wales only**. Its purpose was to regulate the licensing of refreshment houses that ",
+    "gemini_with_dates_snippet": "Yes, the 'Refreshment Houses Act 1964' and the 'Criminal Law (Consolidation) (Scotland) Act 1995' **do overlap** in their active periods.\n\nHere's why:\n\n*   **Refreshment Houses Act 1964:** Active from 1964-07-31 to **2015-03-18**\n*   **Criminal Law (Consolidation) (Scotland) Act 1995:** Active from "
+  },
+  {
+    "task_id": "OB084",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Railways Act 1921** is **not significantly overlapped** by the **Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010**.\n\nHere's why:\n\n1.  **Subject Matter:**\n    *   **Railways Act 1921:** This was a foundational piece of legislation for the British railway system (primaril",
+    "gemini_with_dates_snippet": "Yes, the 'Railways Act 1921' and the 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010' **do overlap**.\n\n*   **Railways Act 1921:** Active from 1921-08-19 to 2025-07-01\n*   **Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010:** Active from 2010-03-12 to 2025-07-0"
+  },
+  {
+    "task_id": "OB085",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Product Security and Telecommunications Infrastructure Act 2022 (PSTIA 2022)** is **not overlapped** by the **Powers of Attorney Act 2023 (PoAA 2023)**.\n\nThey deal with entirely different subject matters:\n\n1.  **Product Security and Telecommunications Infrastructure Act 2022 (PSTIA 2022):*",
+    "gemini_with_dates_snippet": "Yes, the 'Product Security and Telecommunications Infrastructure Act 2022' is overlapped by the 'Powers of Attorney Act 2023' in terms of their effective dates.\n\nHere's why:\n\n*   **Product Security and Telecommunications Infrastructure Act 2022:** Effective from 2022-12-06 to 2025-07-01.\n*   **Power"
+  },
+  {
+    "task_id": "OB086",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, there is **no significant or meaningful overlap** between the Criminal Justice (Terrorism and Conspiracy) Act 1998 and the Mission and Pastoral Measure 2011.\n\nThey operate in entirely different legal spheres:\n\n1.  **Criminal Justice (Terrorism and Conspiracy) Act 1998:** This is a piece of **cri",
+    "gemini_with_dates_snippet": "Yes, they do overlap.\n\nThe overlap period is from **2011-05-24** (the start date of the Mission and Pastoral Measure 2011) to **2020-02-24** (the end date of the Mission and Pastoral Measure 2011).\n\nThis means the entire operational period of the 'Mission and Pastoral Measure 2011' falls within the "
+  },
+  {
+    "task_id": "OB087",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Veterans Advisory and Pensions Committees Act 2023' and the 'European Communities (Finance) Act 2001' do **not** overlap. They are entirely separate pieces of legislation with distinct purposes and subject matters.\n\nHere's why:\n\n1.  **Veterans Advisory and Pensions Committees Act 2023:**\n  ",
+    "gemini_with_dates_snippet": "No, the 'Veterans Advisory and Pensions Committees Act 2023' and the 'European Communities (Finance) Act 2001' do not overlap.\n\nHere's why:\n\n*   **European Communities (Finance) Act 2001:** Was in force from 2001-12-04 to **2013-01-24**.\n*   **Veterans Advisory and Pensions Committees Act 2023:** Is"
+  },
+  {
+    "task_id": "OB088",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Export Control Act 2002' and the 'Belfast Charitable Society Act 1996' do **not** overlap. They are completely separate pieces of legislation dealing with entirely different matters.\n\nHere's why:\n\n1.  **Export Control Act 2002:**\n    *   **Purpose:** This is a UK-wide act designed to contro",
+    "gemini_with_dates_snippet": "Yes, the two Acts do overlap.\n\nHere's why:\n\n*   **Export Control Act 2002:** In force from **2002-07-24** to **2021-10-05**\n*   **Belfast Charitable Society Act 1996:** In force from **1996-07-18** to **2025-07-01**\n\nBoth Acts were in force concurrently during the period **2002-07-24** to **2021-10-"
+  },
+  {
+    "task_id": "OB089",
+    "expected_overlapped_by": "yes",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Consolidated Fund (No. 2) Act 1998' and the 'Solicitors Act 1974' do **not** overlap in their subject matter or purpose. They address entirely different areas of law.\n\nHere's why:\n\n1.  **Consolidated Fund (No. 2) Act 1998:** This is a **finance act** (specifically, an appropriation act). It",
+    "gemini_with_dates_snippet": "Yes, the two acts do overlap.\n\nHere's why:\n\n*   **Consolidated Fund (No. 2) Act 1998:** In force from **1998-12-17** to **2025-07-01**\n*   **Solicitors Act 1974:** In force from **1974-07-31** to **2025-01-13**\n\nBoth acts are simultaneously in force during the period from **1998-12-17** (the later o"
+  },
+  {
+    "task_id": "OB090",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Justices of the Peace Act 1949' and the 'Aberdeen Harbour Order Confirmation Act 1992' do not overlap in a significant or direct way. They deal with entirely different subject matters.\n\nHere's why:\n\n1.  **Justices of the Peace Act 1949:** This was a foundational piece of legislation primari",
+    "gemini_with_dates_snippet": "Yes, these two acts do overlap.\n\n*   **Justices of the Peace Act 1949:** 1949-12-16 to 2015-05-07\n*   **Aberdeen Harbour Order Confirmation Act 1992:** 1992-03-06 to 2025-07-01\n\nThe period of overlap is from **1992-03-06** (the later of the two start dates) to **2015-05-07** (the earlier of the two "
+  },
+  {
+    "task_id": "OB091",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Offices, Shops and Railway Premises Act 1963** (OSRP Act 1963) is **not overlapped** by the **Sustainable Communities Act 2007**. They address fundamentally different areas of law and policy.\n\nHere's why:\n\n1.  **Offices, Shops and Railway Premises Act 1963:**\n    *   **Purpose:** This was ",
+    "gemini_with_dates_snippet": "Yes, there is an overlap.\n\n*   **Offices, Shops and Railway Premises Act 1963** was in force from 1963-07-31 to 2021-09-29.\n*   **Sustainable Communities Act 2007** was in force from 2007-10-23 to 2018-08-24.\n\nBoth Acts were in force simultaneously during the period from **2007-10-23** to **2018-08-"
+  },
+  {
+    "task_id": "OB092",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Northern Ireland (Loans) Act 1975' and the 'Housing Act 1974' do **not directly overlap** in terms of their subject matter or legislative scope. They serve very different purposes:\n\n1.  **Northern Ireland (Loans) Act 1975:**\n    *   **Purpose:** This Act was primarily a financial measure. I",
+    "gemini_with_dates_snippet": "Yes, the 'Northern Ireland (Loans) Act 1975' is indeed overlapped by the 'Housing Act 1974'.\n\nHere's why:\n\n*   **Housing Act 1974:** Active from 1974-07-31 to 2025-07-01\n*   **Northern Ireland (Loans) Act 1975:** Active from 1975-12-19 to 2025-07-01\n\nThe entire active period of the 'Northern Ireland"
+  },
+  {
+    "task_id": "OB093",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Sustainable Communities Act 2007' is **not overlapped** by the 'Autism Act (Northern Ireland) 2011'. They are distinct pieces of legislation with different jurisdictions and subject matters.\n\nHere's why:\n\n1.  **Jurisdiction:**\n    *   The **Sustainable Communities Act 2007** is an Act of th",
+    "gemini_with_dates_snippet": "Yes, the two acts do overlap.\n\n*   **Sustainable Communities Act 2007** was active from **2007-10-23 to 2018-08-24**.\n*   **Autism Act (Northern Ireland) 2011** was active from **2011-05-09 to 2025-07-01**.\n\nThey both were active during the period from **2011-05-09** (the later start date) to **2018"
+  },
+  {
+    "task_id": "OB094",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, the 'Non-Domestic Rating Act 2023' and the 'Modern Slavery Act 2015' **do not overlap** in their subject matter or legal purpose. They address entirely different areas of law:\n\n1.  **Non-Domestic Rating Act 2023:** This Act primarily concerns the system of **business rates** (non-domestic rates)",
+    "gemini_with_dates_snippet": "No, the two periods do not overlap.\n\nHere's why:\n\n*   **'Modern Slavery Act 2015'** ends on **2022-07-29**.\n*   **'Non-Domestic Rating Act 2023'** begins on **2023-10-26**.\n\nThe first period finishes well before the second period even starts."
+  },
+  {
+    "task_id": "OB095",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "While they address related aspects of the natural environment, the **Geological Survey Act 1845** is not \"overlapped\" by the **Water Act 2014** in the sense of being superseded or made redundant. Instead, they operate at different levels and are, in fact, **complementary and interdependent**.\n\nHere'",
+    "gemini_with_dates_snippet": "Let's break down the time periods:\n\n1.  **Geological Survey Act 1845:**\n    *   Starts: 2025-07-01\n    *   Ends: 2025-07-31\n\n2.  **Water Act 2014:**\n    *   Starts: 2014-05-14\n    *   Ends: 2025-04-22\n\nThe \"Water Act 2014\" ends on April 22, 2025.\nThe \"Geological Survey Act 1845\" period begins on Jul"
+  },
+  {
+    "task_id": "OB096",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **Prevention of Crimes Act 1871** is **not overlapped by** the **Public Audit (Wales) Act 2013**. They are two completely separate pieces of legislation dealing with entirely different areas of law.\n\nHere's why:\n\n1.  **Prevention of Crimes Act 1871:**\n    *   **Purpose:** This was a signific",
+    "gemini_with_dates_snippet": "Yes, the two time periods overlap.\n\n*   **Prevention of Crimes Act 1871:** 1871-08-21 to 2025-07-01\n*   **Public Audit (Wales) Act 2013:** 2013-04-29 to 2023-02-17\n\nThe overlap period is from **2013-04-29** (the later of the two start dates) to **2023-02-17** (the earlier of the two end dates)."
+  },
+  {
+    "task_id": "OB097",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, these two Acts do **not** overlap. They are distinct in both their geographical scope and their subject matter:\n\n1.  **Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016:**\n    *   **Geographical Scope:** Applies *only* to Northern Ireland.\n    *   **Subject Matter:** De",
+    "gemini_with_dates_snippet": "Yes, the periods during which these two Acts were in force *do overlap temporally*.\n\n*   'Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016' was in force from **2016-05-12 to 2022-09-26**.\n*   'City of London (Approved Premises for Marriage) Act 1996' has been in force from"
+  },
+  {
+    "task_id": "OB098",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "yes",
+    "gemini_with_dates_inferred": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "gemini_main_snippet": "No, there is **no direct overlap** between \"The Environmental Protection (Single-use Plastic Products) (Wales) Act 2023\" and the \"Medway Ports Authority Act 1973\".\n\nHere's why:\n\n1.  **Geographical Jurisdiction:**\n    *   **The Environmental Protection (Single-use Plastic Products) (Wales) Act 2023:*",
+    "gemini_with_dates_snippet": "No, these two Acts do not overlap in a meaningful way beyond being concurrently in force.\n\nHere's why:\n\n1.  **Geographical Scope:**\n    *   **The Environmental Protection (Single-use Plastic Products) (Wales) Act 2023** applies specifically and exclusively to **Wales**.\n    *   **The Medway Ports Au"
+  },
+  {
+    "task_id": "OB099",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the 'Employment Act (Northern Ireland) 2010' and the 'Commons Registration (East Sussex) Act 1994' **do not overlap**.\n\nHere's why:\n\n1.  **Subject Matter:**\n    *   **Employment Act (Northern Ireland) 2010:** Deals with laws related to employment, workers' rights, employer duties, industrial rel",
+    "gemini_with_dates_snippet": "Yes, the two Acts overlap.\n\n*   'Employment Act (Northern Ireland) 2010' is valid from **2010-08-02** to 2025-07-01.\n*   'Commons Registration (East Sussex) Act 1994' is valid from 1994-07-05 to **2025-07-01**.\n\nBoth Acts are concurrently valid during the period from **2010-08-02** to **2025-07-01**"
+  },
+  {
+    "task_id": "OB100",
+    "expected_overlapped_by": "no",
+    "gemini_answer_inferred": "no",
+    "gemini_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "gemini_main_snippet": "No, the **United Kingdom Internal Market Act 2020** and the **Matrimonial Homes (Family Protection) (Scotland) Act 1981** do not overlap in their subject matter or purpose.\n\nHere's why:\n\n1.  **United Kingdom Internal Market Act 2020 (UKIMA 2020):**\n    *   **Purpose:** This Act was introduced after ",
+    "gemini_with_dates_snippet": "Yes, the 'United Kingdom Internal Market Act 2020' and the 'Matrimonial Homes (Family Protection) (Scotland) Act 1981' do overlap.\n\nHere's why:\n\n*   **United Kingdom Internal Market Act 2020:** 2020-12-17 to 2024-02-21\n*   **Matrimonial Homes (Family Protection) (Scotland) Act 1981:** 1981-10-30 to "
+  }
+]

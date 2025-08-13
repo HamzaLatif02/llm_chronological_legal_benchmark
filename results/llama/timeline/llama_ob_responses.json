@@ -1,0 +1,1002 @@
+[
+  {
+    "task_id": "OB001",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Budget Act (Northern Ireland) 2010' and the 'National Debt Act 1972' are two separate pieces of legislation. \n\nThe 'National Debt Act 1972' is a UK Act that deals with the national debt, and it received royal assent on 22 May 1972.\n\nThe 'Budget Act (Northern Ireland) 2010' is an Act of the Nort",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Budget Act (Northern Ireland) 2010' is in effect from 2010-03-12 to 2016-02-05.\nThe 'National Debt Act 1972' is in effect from 1972-08-09 to 2015-06-18.\n\nSince 2010-03-12 (start of 'Budget Act') is after 1972-08-"
+  },
+  {
+    "task_id": "OB002",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Bell’s Bridge Order Confirmation Act 1995' and the 'Pests Act 1954' are two separate pieces of legislation in the United Kingdom. \n\nThe 'Bell’s Bridge Order Confirmation Act 1995' is a local Act that confirms an order related to the construction of Bell's Bridge in Glasgow, Scotland. It deals w",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Bell’s Bridge Order Confirmation Act 1995':\n   - Start date: 1995-07-19\n   - End date: 2025-07-01\n\n2. 'Pests Act 1954':\n   - Start date: 1954-11-25\n   - End date: 2025-07-01\n\nSince the start date of 'Bell’s Bridge Orde"
+  },
+  {
+    "task_id": "OB003",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Statutory Instruments (Production and Sale) Act 1996' and the 'Budget Act (Northern Ireland) 2009' are two separate pieces of legislation. \n\nThe 'Statutory Instruments (Production and Sale) Act 1996' is a UK Act that deals with the production and sale of statutory instruments.\n\nThe 'Budget Act ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Statutory Instruments (Production and Sale) Act 1996' is in effect from 1996-07-24 to 2025-07-01.\n\nThe 'Budget Act (Northern Ireland) 2009' is in effect from 2009-03-06 to 2016-02-10.\n\nSince 2009-03-06 (sta"
+  },
+  {
+    "task_id": "OB004",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "No, the 'Public Trustee (Liability and Fees) Act 2002' and the 'Road Races (Amendment) Act (Northern Ireland) 2014' are two separate laws that deal with different subjects and jurisdictions.\n\nThe 'Public Trustee (Liability and Fees) Act 2002' is a law related to the Public Trustee in England and Wal",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Public Trustee (Liability and Fees) Act 2002' is in effect from 2002-11-07 to 2025-07-01.\n\nThe 'Road Races (Amendment) Act (Northern Ireland) 2014' is in effect from 2014-01-17 to 2025-07-01.\n\nSince 2014-01"
+  },
+  {
+    "task_id": "OB005",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The Armed Forces Act 2006 and the Deer Act 1991 are two separate pieces of legislation in the United Kingdom. \n\nThe Armed Forces Act 2006 is a law that governs the armed forces of the United Kingdom, including their structure, discipline, and operations.\n\nThe Deer Act 1991, on the other hand, is a l",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Armed Forces Act 2006' is in effect from 2006-11-08 to 2024-10-17.\nThe 'Deer Act 1991' is in effect from 1991-07-25 to 2018-08-19.\n\nSince the start date of 'Armed Forces Act 2006' (2006-11-08) is after the start "
+  },
+  {
+    "task_id": "OB006",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Veterans Advisory and Pensions Committees Act 2023' and the 'Regulation of Registered Social Landlords (Wales) Act 2018' are two separate pieces of legislation that deal with different subjects.\n\nThe 'Veterans Advisory and Pensions Committees Act 2023' is related to the administration of vetera",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Veterans Advisory and Pensions Committees Act 2023' is in effect from 2023-09-18 to 2025-07-01.\n\nThe 'Regulation of Registered Social Landlords (Wales) Act 2018' is in effect from 2018-06-13 to 2025-07-01.\n"
+  },
+  {
+    "task_id": "OB007",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "No, 'Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012' and 'National Health Service (Amendment) Act 1949' do not overlap. \n\nThe 'Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012' is related to air travel taxation, specifically setting the rate of air passenger duty in",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Air Passenger Duty (Setting of Rate) Act (Northern Ireland) 2012' is in effect from 2012-12-11 to 2017-12-15.\n\nThe 'National Health Service (Amendment) Act 1949' is in effect from 1949-12-16 to 2016-07-22.\n\nSince"
+  },
+  {
+    "task_id": "OB008",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021' and the 'Mental Health (Approval Functions) Act 2012' are two separate pieces of legislation.\n\nThe 'Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021' is a Northern Ireland Act that ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021':\n   - Start date: 2021-03-22\n   - End date: 2025-07-01\n\n2. 'Mental Health (Approval Functions) Act 2012':\n   - Start date: 2012-10-31\n  "
+  },
+  {
+    "task_id": "OB009",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The Succession to the Crown Act 2013 is a UK law that made changes to the rules of succession to the British throne. One of the changes it made was to amend the definition of \"marriage\" in the Bill of Rights 1689 and the Act of Settlement 1701, to allow individuals who marry a Roman Catholic to rema",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Post Office Act 1953' was in effect from 1953-07-31 to 2015-10-21.\n\nThe 'Succession to the Crown Act 2013' was in effect from 2013-04-25 to 2025-07-01.\n\nSince the 'Post Office Act 1953' ended on 2015-10-21 and th"
+  },
+  {
+    "task_id": "OB010",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The Harris Tweed Act 1993 and the Civil Evidence Act 1995 are two separate pieces of legislation in the United Kingdom. \n\nThe Harris Tweed Act 1993 is an Act of Parliament that protects the Harris Tweed trade mark and ensures that only tweed made in the Outer Hebrides, Scotland, can be labeled as \"H",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Harris Tweed Act 1993': from 1993-07-20 to 2025-07-01\n2. 'Civil Evidence Act 1995': from 1995-11-08 to 2024-05-23\n\nThe 'Harris Tweed Act 1993' starts before the 'Civil Evidence Act 1995' and ends after it. Since the st"
+  },
+  {
+    "task_id": "OB011",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'British Railways Order Confirmation Act 1994' and the 'Friendly Societies Act 1974' are two separate pieces of legislation in the United Kingdom. \n\nThe 'British Railways Order Confirmation Act 1994' is related to the confirmation of orders concerning British Railways, focusing on railway operat",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'British Railways Order Confirmation Act 1994' is in effect from 1994-03-24 to 2025-07-01.\n\nThe 'Friendly Societies Act 1974' is in effect from 1974-07-31 to 2019-01-16.\n\nSince the start date of 'British Rai"
+  },
+  {
+    "task_id": "OB012",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016' and the 'London Local Authorities Act 1995' are two separate pieces of legislation that apply to different jurisdictions.\n\nThe 'Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016' appli",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Health and Social Care (Control of Data Processing) Act (Northern Ireland) 2016' is in effect from 2016-04-11 to 2025-07-01.\n\nThe 'London Local Authorities Act 1995' is in effect from 1995-11-08 to 2024-11-"
+  },
+  {
+    "task_id": "OB013",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "No, the 'Building Societies (Funding) and Mutual Societies (Transfers) Act 2007' and the 'Supreme Court (Offices) Act 1997' are two separate and distinct pieces of legislation in the United Kingdom. \n\nThe 'Building Societies (Funding) and Mutual Societies (Transfers) Act 2007' deals with the funding",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Building Societies (Funding) and Mutual Societies (Transfers) Act 2007' is in effect from 2007-10-23 to 2021-10-25.\n\nThe 'Supreme Court (Offices) Act 1997' is in effect from 1997-12-17 to 2013-08-23.\n\nSince the s"
+  },
+  {
+    "task_id": "OB014",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Consolidated Fund (No. 2) Act 2004' and the 'Railways (Electrical Power) Act 1903' are two separate pieces of legislation in the United Kingdom.\n\nThe 'Consolidated Fund (No. 2) Act 2004' is an appropriation act that authorizes the use of funds from the Consolidated Fund for various government e",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Consolidated Fund (No. 2) Act 2004': 2004-12-16 to 2015-01-28\n2. 'Railways (Electrical Power) Act 1903': 1903-08-14 to 2025-07-01\n\nThe 'Consolidated Fund (No. 2) Act 2004' starts in 2004 and ends in 2015, while the 'Ra"
+  },
+  {
+    "task_id": "OB015",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The Paymaster General Act 1848 and the Companies (Consolidation) Act 1908 are two separate pieces of legislation in the United Kingdom.\n\nThe Paymaster General Act 1848 is an act that deals with the office of the Paymaster General, which is a government position responsible for managing public financ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Paymaster General Act 1848' has a date range from 2025-07-14 to 2025-07-01. However, this range seems incorrect because the start date (2025-07-14) is after the end date (2025-07-01). Typically, the start d"
+  },
+  {
+    "task_id": "OB016",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "No, 'Hill Samuel Bank and United Dominions Trust Act 1994' and 'Nurseries and Child-Minders Regulation Act 1948' are two separate and distinct laws that do not overlap. \n\nThe 'Hill Samuel Bank and United Dominions Trust Act 1994' is related to banking, specifically the merger of Hill Samuel Bank and",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Hill Samuel Bank and United Dominions Trust Act 1994': from 1994-07-21 to 2025-07-01\n2. 'Nurseries and Child-Minders Regulation Act 1948': from 1948-07-30 to 2025-07-01\n\nSince the start date of 'Hill Samuel Bank and Un"
+  },
+  {
+    "task_id": "OB017",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "To determine if the 'Pensions Act 2011' is overlapped by the 'Supply and Appropriation (Main Estimates) Act 2019', we need to consider the nature and content of both acts.\n\nThe 'Pensions Act 2011' is a comprehensive piece of legislation that deals with pension reforms, including changes to the state",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Pensions Act 2011' is in effect from 2011-11-03 to 2024-02-01.\nThe 'Supply and Appropriation (Main Estimates) Act 2019' is in effect from 2019-07-17 to 2025-07-01.\n\nSince the start date of the 'Supply and A"
+  },
+  {
+    "task_id": "OB018",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'National Gallery and Tate Gallery Act 1954' and the 'Accession Declaration Act 1910' are two separate pieces of legislation in the United Kingdom.\n\nThe 'Accession Declaration Act 1910' requires the monarch to make a declaration upon accession, renouncing any Roman Catholic beliefs and affirming",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'National Gallery and Tate Gallery Act 1954' is in effect from 1954-11-25 to 2025-07-01.\n\nThe 'Accession Declaration Act 1910' is in effect from 1910-08-03 to 2025-07-01.\n\nSince 1954-11-25 (the start date of"
+  },
+  {
+    "task_id": "OB019",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The Corporate Manslaughter and Corporate Homicide Act 2007 and the Trade Union Act 1984 are two separate pieces of legislation in the United Kingdom that deal with different areas of law.\n\nThe Corporate Manslaughter and Corporate Homicide Act 2007 is focused on holding organizations accountable for ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Corporate Manslaughter and Corporate Homicide Act 2007':\n   - Start date: 2007-07-26\n   - End date: 2024-04-18\n\n2. 'Trade Union Act 1984':\n   - Start date: 1984-07-26\n   - End date: 2025-07-01\n\nSince the start date of "
+  },
+  {
+    "task_id": "OB020",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Agricultural Land (Utilisation) Act 1931' and the 'Safeguarding and Clergy Discipline Measure 2016' are two separate pieces of legislation that deal with different subjects.\n\nThe 'Agricultural Land (Utilisation) Act 1931' is related to the use of agricultural land, whereas the 'Safeguarding and",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Agricultural Land (Utilisation) Act 1931' is active from 1931-07-31 to 2025-06-10.\n\nThe 'Safeguarding and Clergy Discipline Measure 2016' is active from 2016-03-16 to 2022-07-19.\n\nSince 2016-03-16 (start date of "
+  },
+  {
+    "task_id": "OB021",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Criminal Injuries Compensation Act 1995' and the 'Land Charges Act 1972' are two separate pieces of legislation in the United Kingdom that serve distinct purposes.\n\nThe 'Criminal Injuries Compensation Act 1995' is primarily concerned with providing compensation to victims of violent crime. It e",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Criminal Injuries Compensation Act 1995': 1995-11-08 to 2016-08-31\n2. 'Land Charges Act 1972': 1972-08-09 to 2018-08-24\n\nThe 'Criminal Injuries Compensation Act 1995' started on 1995-11-08 and ended on 2016-08-31. The "
+  },
+  {
+    "task_id": "OB022",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Broads Authority Act 2009' and the 'Education Act 1976' are two separate pieces of legislation in the United Kingdom. \n\nThe 'Broads Authority Act 2009' is related to the Broads Authority, which is a special statutory authority responsible for the conservation, protection, and enhancement of the",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Broads Authority Act 2009' is in effect from 2009-07-02 to 2025-07-01.\nThe 'Education Act 1976' is in effect from 1976-11-22 to 2025-07-01.\n\nSince the 'Broads Authority Act 2009' starts after the 'Education Act 1"
+  },
+  {
+    "task_id": "OB023",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Northern Ireland (Executive Formation etc) Act 2019' and the 'Enterprise and New Towns (Scotland) Act 1990' are two separate pieces of legislation that deal with different subjects and jurisdictions.\n\nThe 'Northern Ireland (Executive Formation etc) Act 2019' is primarily concerned with the form",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Northern Ireland (Executive Formation etc) Act 2019':\n   - Start date: 2019-07-24\n   - End date: 2022-11-24\n\n2. 'Enterprise and New Towns (Scotland) Act 1990':\n   - Start date: 1990-07-26\n   - End date: 2024-04-29\n\nSin"
+  },
+  {
+    "task_id": "OB024",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Visiting Forces Act 1952' and the 'Curriculum and Assessment (Wales) Act 2021' are two separate laws that deal with different subjects and do not overlap in their purposes or applications.\n\nThe 'Visiting Forces Act 1952' is a UK law that deals with the jurisdiction and privileges of visiting fo",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Visiting Forces Act 1952' is in effect from 1952-10-30 to 2024-04-18.\nThe 'Curriculum and Assessment (Wales) Act 2021' is in effect from 2021-04-29 to 2025-07-01.\n\nSince the start date of the 'Curriculum an"
+  },
+  {
+    "task_id": "OB025",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The Derelict Land Act 1982 is a UK law, while the India (Consequential Provision) Act 1949 is related to the independence of India from British colonial rule.\n\nGiven the context and purpose of these two acts, it's unlikely that they overlap in terms of their subject matter or geographical scope. The",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Derelict Land Act 1982' was in effect from 1982-07-30 to 2018-08-24.\n\nThe 'India (Consequential Provision) Act 1949' was in effect from 1949-12-16 to 2025-07-01.\n\nSince the 'Derelict Land Act 1982' started in 198"
+  },
+  {
+    "task_id": "OB026",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Consolidated Fund (No. 2) Act 1995' is an appropriation act that authorizes government spending. It does not contain provisions related to children's welfare or rights.\n\nOn the other hand, the 'Children Act 2004' is a comprehensive piece of legislation focused on children's welfare, protection,",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Consolidated Fund (No. 2) Act 1995' was in effect from 1995-12-19 to 2013-10-12.\n\nThe 'Children Act 2004' was in effect from 2004-11-15 to 2025-04-09.\n\nSince 2004-11-15 (the start date of 'Children Act 2004') is "
+  },
+  {
+    "task_id": "OB027",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Business and Planning Act 2020' and the 'Woodgrange Park Cemetery Act 1993' are two separate pieces of legislation in the United Kingdom. \n\nThe 'Business and Planning Act 2020' is a broad act that covers various aspects of business and planning, including measures related to the COVID-19 pandem",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Business and Planning Act 2020': from 2020-07-22 to 2025-04-08\n2. 'Woodgrange Park Cemetery Act 1993': from 1993-11-05 to 2025-07-01\n\nThe 'Business and Planning Act 2020' starts after the 'Woodgrange Park Cemetery Act "
+  },
+  {
+    "task_id": "OB028",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "No, the 'Human Fertilisation and Embryology Act 2008' and the 'London Olympic Games and Paralympic Games (Amendment) Act 2011' are two separate and distinct pieces of legislation in the United Kingdom. They deal with different subjects and do not overlap in terms of their content or purpose.\n\nThe 'H",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Human Fertilisation and Embryology Act 2008' is in effect from 2008-11-13 to 2024-11-05.\n\nThe 'London Olympic Games and Paralympic Games (Amendment) Act 2011' is in effect from 2011-12-14 to 2017-12-01.\n\nSince 20"
+  },
+  {
+    "task_id": "OB029",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The National Audit Act 1983 and the Civil Aviation Act 2012 are two separate pieces of legislation in the United Kingdom. \n\nThe National Audit Act 1983 primarily deals with the audit of central government departments, the National Health Service, and other public bodies. It established the National ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'National Audit Act 1983' was in effect from 1983-05-13 to 2018-06-08.\n\nThe 'Civil Aviation Act 2012' was in effect from 2012-12-19 to 2025-05-29.\n\nSince 2012-12-19 (start date of 'Civil Aviation Act 2012') "
+  },
+  {
+    "task_id": "OB030",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The Superannuation Act (Northern Ireland) 2013 and the Civil List Act 1975 are two separate pieces of legislation that deal with different aspects of public service pensions and financing of the British monarch, respectively.\n\nThe Superannuation Act (Northern Ireland) 2013 is a Northern Ireland Act ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Superannuation Act (Northern Ireland) 2013' is active from 2013-01-09 to 2025-07-01.\n\nThe 'Civil List Act 1975' is active from 1975-12-19 to 2015-11-12.\n\nSince 2013-01-09 (start of 'Superannuation Act') is after "
+  },
+  {
+    "task_id": "OB031",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "No, the 'Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016' and the 'Parliamentary Buildings (Restoration and Renewal) Act 2019' are two separate and distinct pieces of legislation that deal with different subjects.\n\nThe 'Credit Unions and Co-operative and Co",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016' is in effect from 2016-04-22 to 2025-07-01.\n\nThe 'Parliamentary Buildings (Restoration and Renewal) Act 2019' is in effe"
+  },
+  {
+    "task_id": "OB032",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The Administration of Justice Act 1969 and the Local Government (Contracts) Act 1997 are two separate pieces of legislation in the United Kingdom. \n\nThe Administration of Justice Act 1969 primarily deals with the administration of justice, including the establishment of the Court of Appeal and the r",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Administration of Justice Act 1969' is in effect from 1969-10-22 to 2024-11-20.\n\nThe 'Local Government (Contracts) Act 1997' is in effect from 1997-11-27 to 2017-10-17.\n\nSince 1997-11-27 (the start date of 'Local"
+  },
+  {
+    "task_id": "OB033",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Work and Families Act (Northern Ireland) 2015' and the 'Highway Act 1835' are two separate laws that deal with different subjects.\n\nThe 'Work and Families Act (Northern Ireland) 2015' is a law related to employment rights, family leave, and flexible working arrangements in Northern Ireland.\n\nTh",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Work and Families Act (Northern Ireland) 2015' is active from 2015-01-08 to 2025-07-01.\n\nThe 'Highway Act 1835' is active from 2025-07-31 to 2025-07-01.\n\nSince the 'Highway Act 1835' period (2025-07-31 to 2025-07"
+  },
+  {
+    "task_id": "OB034",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Rent (Agriculture) Act 1976' and the 'Coal-Mining (Subsidence) Act 1957' are two separate pieces of legislation in the United Kingdom that deal with different areas of law.\n\nThe 'Rent (Agriculture) Act 1976' is primarily concerned with the regulation of rents for agricultural holdings, providin",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Rent (Agriculture) Act 1976':\n   - Start date: 1976-11-22\n   - End date: 2024-11-20\n\n2. 'Coal-Mining (Subsidence) Act 1957':\n   - Start date: 1957-07-31\n   - End date: 2025-07-01\n\nSince the 'Rent (Agriculture) Act 1976"
+  },
+  {
+    "task_id": "OB035",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Armed Forces Act 1981' and the 'Income Tax (Trading and Other Income) Act 2005' are two separate pieces of legislation in the United Kingdom. \n\nThe 'Armed Forces Act 1981' is primarily concerned with the governance and discipline of the armed forces, including provisions related to military law",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Armed Forces Act 1981' is in effect from 1981-07-28 to 2020-09-04.\nThe 'Income Tax (Trading and Other Income) Act 2005' is in effect from 2005-03-24 to 2025-05-14.\n\nSince 2005-03-24 (the start date of the '"
+  },
+  {
+    "task_id": "OB036",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The Human Rights Act 1998 and the Post Office Act 1969 are two separate pieces of legislation in the United Kingdom. They serve different purposes and do not directly overlap in terms of their primary objectives.\n\nThe Human Rights Act 1998 is designed to incorporate the European Convention on Human ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Human Rights Act 1998' is in effect from 1998-11-09 to 2024-04-29.\nThe 'Post Office Act 1969' is in effect from 1969-07-25 to 2018-06-26.\n\nSince the start date of 'Human Rights Act 1998' (1998-11-09) is after the"
+  },
+  {
+    "task_id": "OB037",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Killingholme Generating Stations (Ancillary Powers) Act 1991' and the 'Landlord and Tenant Act 1985' are two separate pieces of legislation in the United Kingdom.\n\nThe 'Killingholme Generating Stations (Ancillary Powers) Act 1991' is a local Act that grants specific powers to the operators of t",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Killingholme Generating Stations (Ancillary Powers) Act 1991' is in effect from 1991-06-27 to 2025-07-01.\n\nThe 'Landlord and Tenant Act 1985' is in effect from 1985-10-30 to 2025-02-11.\n\nSince the start date of '"
+  },
+  {
+    "task_id": "OB038",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'War Pensions Act 1921' and the 'Sexual Offences (Amendment) Act 2000' are two separate pieces of legislation in the United Kingdom. \n\nThe 'War Pensions Act 1921' deals with war pensions, which are payments made to veterans who were injured or disabled during their military service.\n\nThe 'Sexual",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'War Pensions Act 1921' is in effect from 1921-08-19 to 2025-07-01, and the 'Sexual Offences (Amendment) Act 2000' is in effect from 2000-11-30 to 2017-12-05.\n\nSince 2000-11-30 (the start date of the 'Sexual"
+  },
+  {
+    "task_id": "OB039",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Concealment of Birth (Scotland) Act 1809' and the 'Patents Act 1949' are two separate laws that deal with different subjects. \n\nThe 'Concealment of Birth (Scotland) Act 1809' is related to the crime of concealing the birth of a child in Scotland. \n\nOn the other hand, the 'Patents Act 1949' is r",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Concealment of Birth (Scotland) Act 1809' is stated to be from 2025-07-20 to 2025-07-01. However, this seems to be an error because the end date (2025-07-01) is before the start date (2025-07-20). Given the natur"
+  },
+  {
+    "task_id": "OB040",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "No, the 'Electronic Communications Act (Northern Ireland) 2001' and the 'Sale of Farming Stock Act 1814' do not overlap. \n\nThe 'Electronic Communications Act (Northern Ireland) 2001' deals with electronic communications, such as telecommunications and the internet, in Northern Ireland. It is a moder",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Electronic Communications Act (Northern Ireland) 2001' is in effect from 2001-04-05 to 2025-07-01.\n\nThe 'Sale of Farming Stock Act 1814' is in effect from 2025-07-20 to 2025-07-01.\n\nSince the end date of the 'Sal"
+  },
+  {
+    "task_id": "OB041",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "I'm not aware of any information about a 'Trees Act 1970' or its relationship with the 'Duchy of Lancaster Act 1808'. It's possible that the 'Trees Act 1970' does not exist or is not a real piece of legislation.\n\nThe 'Duchy of Lancaster Act 1808' and the 'Duchy of Lancaster Act 1812' are both real p",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Trees Act 1970' is active from 1970-05-29 to 2025-07-01.\nThe 'Duchy of Lancaster Act 1808' is active from 2025-07-18 to 2025-07-01.\n\nSince the end date of the 'Duchy of Lancaster Act 1808' (2025-07-01) is before "
+  },
+  {
+    "task_id": "OB042",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988' is a UK law that applies to England, specifically related to the Church of England. \n\nThe 'Local Government (Boundaries) Act (Northern Ireland) 2008' is a law that applies to Northern Ireland, related to local government b",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two measures.\n\nThe 'Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988' was in effect from 1988-02-09 to 2019-06-13.\n\nThe 'Local Government (Boundaries) Act (Northern Ireland) 2008' was in effect from 2008-0"
+  },
+  {
+    "task_id": "OB043",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992' and the 'Merchant Shipping Act 1894' are two separate pieces of legislation that deal with different areas of law.\n\nThe 'Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992' is focused on controlling alcohol and other su",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992' was in effect from 1992-12-03 to 2017-10-16.\n\nThe 'Merchant Shipping Act 1894' was in effect from 1894-08-25 to 2013-10-11.\n\nSince the 'Sporting Eve"
+  },
+  {
+    "task_id": "OB044",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Sexual Offences (Scotland) Act 1976' and the 'National Insurance Contributions (Reduction in Rates) Act 2023' are two separate laws that deal with different subjects.\n\nThe 'Sexual Offences (Scotland) Act 1976' is a law related to sexual offenses in Scotland, while the 'National Insurance Contri",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Sexual Offences (Scotland) Act 1976' is in effect from 1976-11-15 to 2025-07-01, and the 'National Insurance Contributions (Reduction in Rates) Act 2023' is in effect from 2023-12-18 to 2025-07-01.\n\nSince the 'Se"
+  },
+  {
+    "task_id": "OB045",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Small Charitable Donations Act 2012' and the 'Consolidated Fund (No. 2) Act 2004' are two separate pieces of legislation in the United Kingdom.\n\nThe 'Small Charitable Donations Act 2012' is a specific act that allows eligible charities to claim a top-up payment on small donations, such as those",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Small Charitable Donations Act 2012' is in effect from 2012-12-19 to 2017-04-04.\n\nThe 'Consolidated Fund (No. 2) Act 2004' is in effect from 2004-12-16 to 2015-01-28.\n\nSince the start date of 'Small Charitable Do"
+  },
+  {
+    "task_id": "OB046",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Crown Benefices (Parish Representatives) Measure 2010' and the 'Local Authority Social Services Act 1970' are two separate pieces of legislation that deal with different areas of law.\n\nThe 'Crown Benefices (Parish Representatives) Measure 2010' is a measure of the Church of England that deals w",
+    "llama_with_dates_snippet": "To determine if there is an overlap, we need to compare the date ranges of the two measures.\n\nThe 'Crown Benefices (Parish Representatives) Measure 2010' is in effect from 2010-03-18 to 2025-07-01.\n\nThe 'Local Authority Social Services Act 1970' is in effect from 1970-05-29 to 2022-03-15.\n\nSince the"
+  },
+  {
+    "task_id": "OB047",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "No, 'Senedd Cymru (Members and Elections) Act 2024' and 'Bills of Exchange (Ireland) Act 1828' do not overlap. \n\nThe 'Senedd Cymru (Members and Elections) Act 2024' is a recent law related to the Welsh Parliament (Senedd Cymru), specifically dealing with its members and elections. \n\nOn the other han",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Senedd Cymru (Members and Elections) Act 2024' is active from 2024-06-24 to 2025-02-27.\n\nThe 'Bills of Exchange (Ireland) Act 1828' is active from 2025-07-19 to 2025-07-01.\n\nHowever, there's an issue with the dat"
+  },
+  {
+    "task_id": "OB048",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "No, 'Finance (No. 2) Act 2005' and 'Midland Metro (No. 2) Act 1992' do not overlap. \n\nThey are two separate acts passed in different years, dealing with different subjects. The 'Finance (No. 2) Act 2005' is related to finance, while the 'Midland Metro (No. 2) Act 1992' is related to the Midland Metr",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Finance (No. 2) Act 2005' is in effect from 2005-07-20 to 2023-01-31.\n\nThe 'Midland Metro (No. 2) Act 1992' is in effect from 1992-03-16 to 2025-07-01.\n\nSince the start date of 'Finance (No. 2) Act 2005' (2"
+  },
+  {
+    "task_id": "OB049",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Scottish Land Court Act 1993' and the 'Railway Companies Act 1867' are two separate pieces of legislation that deal with different areas of law.\n\nThe 'Scottish Land Court Act 1993' is a Scottish Act that establishes the Scottish Land Court and sets out its jurisdiction and powers, particularly ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Scottish Land Court Act 1993': from 1993-11-05 to 2016-11-14\n2. 'Railway Companies Act 1867': from 1867-08-20 to 2025-07-01\n\nSince the start date of 'Scottish Land Court Act 1993' (1993-11-05) is after the start date o"
+  },
+  {
+    "task_id": "OB050",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "No, the 'Hospital Parking Charges Act (Northern Ireland) 2024' and the 'Church of England (Miscellaneous Provisions) Measure 2005' do not overlap. \n\nThe 'Hospital Parking Charges Act (Northern Ireland) 2024' is related to hospital parking charges in Northern Ireland, while the 'Church of England (Mi",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Hospital Parking Charges Act (Northern Ireland) 2024': 2024-05-16 to 2025-07-01\n2. 'Church of England (Miscellaneous Provisions) Measure 2005': 2005-03-24 to 2019-06-12\n\nSince the dates of the 'Hospital Parking Charges"
+  },
+  {
+    "task_id": "OB051",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The Hunting Act 2004 and the Borders, Citizenship and Immigration Act 2009 are two separate pieces of legislation in the United Kingdom. \n\nThe Hunting Act 2004 bans hunting wild mammals with dogs in England and Wales. It received Royal Assent on November 18, 2004.\n\nThe Borders, Citizenship and Immig",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Hunting Act 2004': 2004-11-18 to 2020-04-16\n2. 'Borders, Citizenship and Immigration Act 2009': 2009-07-21 to 2023-11-21\n\nThe 'Hunting Act 2004' started on 2004-11-18 and ended on 2020-04-16. The 'Borders, Citizenship "
+  },
+  {
+    "task_id": "OB052",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013' and the 'Appellate Jurisdiction Act 1887' are two separate laws that deal with different subjects.\n\nThe 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013' is a law related to water and sewerage services in N",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2013' is in effect from 2013-04-25 to 2025-07-01.\n\nThe 'Appellate Jurisdiction Act 1887' is in effect from 1887-09-16 to 2025-07-01.\n\nSince 2013-04-2"
+  },
+  {
+    "task_id": "OB053",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Employers' Liability (Compulsory Insurance) Act 1969' and the 'Parliamentary Constituencies Act 2020' are two separate pieces of legislation in the United Kingdom that serve distinct purposes.\n\nThe 'Employers' Liability (Compulsory Insurance) Act 1969' requires employers to have insurance that ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Employers' Liability (Compulsory Insurance) Act 1969' was in effect from 1969-10-22 to 2019-11-18.\n\nThe 'Parliamentary Constituencies Act 2020' was in effect from 2020-12-14 to 2025-07-01.\n\nSince the 'Employers' "
+  },
+  {
+    "task_id": "OB054",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Consolidated Fund (No. 2) Act 1995' and the 'Easter Act 1928' are two separate UK Acts of Parliament. \n\nThe 'Easter Act 1928' is an Act that aimed to fix the date of Easter, but it has not been implemented.\n\nThe 'Consolidated Fund (No. 2) Act 1995' is an Act related to the UK's Consolidated Fun",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Consolidated Fund (No. 2) Act 1995': 1995-12-19 to 2013-10-12\n2. 'Easter Act 1928': 1928-08-03 to 2025-07-01\n\nThe 'Consolidated Fund (No. 2) Act 1995' starts in 1995 and ends in 2013, while the 'Easter Act 1928' starts"
+  },
+  {
+    "task_id": "OB055",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Sheriff Courts and Legal Officers (Scotland) Act 1927' and the 'Family Allowances and National Insurance Act 1967' are two separate pieces of legislation that deal with different areas of law.\n\nThe 'Sheriff Courts and Legal Officers (Scotland) Act 1927' is primarily concerned with the administr",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Sheriff Courts and Legal Officers (Scotland) Act 1927' was in effect from 1927-12-22 to 2013-10-11.\n\nThe 'Family Allowances and National Insurance Act 1967' was in effect from 1967-12-20 to 2025-07-01.\n\nSin"
+  },
+  {
+    "task_id": "OB056",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "No, the 'Sex Discrimination Act 1975' and the 'Executors (Scotland) Act 1900' do not overlap. \n\nThe 'Sex Discrimination Act 1975' is a UK law that protects individuals from discrimination based on their sex in various areas, including employment, education, and provision of goods and services.\n\nThe ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Sex Discrimination Act 1975' was in effect from 1975-11-12 to 2021-12-08.\n\nThe 'Executors (Scotland) Act 1900' was in effect from 1900-08-08 to 2025-07-01.\n\nSince the 'Sex Discrimination Act 1975' started in 1975"
+  },
+  {
+    "task_id": "OB057",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Courts and Tribunals (Judiciary and Functions of Staff) Act 2018' and the 'Political Parties and Elections Act 2009' are two separate pieces of legislation in the United Kingdom that deal with different areas of law.\n\nThe 'Courts and Tribunals (Judiciary and Functions of Staff) Act 2018' primar",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Courts and Tribunals (Judiciary and Functions of Staff) Act 2018' is in effect from 2018-12-20 to 2025-07-01.\n\nThe 'Political Parties and Elections Act 2009' is in effect from 2009-07-21 to 2022-03-02.\n\nSin"
+  },
+  {
+    "task_id": "OB058",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The Breeding of Dogs Act 1973 is a UK Act of Parliament that regulates the breeding of dogs for sale. \n\nThe Nottingham City Council Act 2013, on the other hand, is a local Act of Parliament that applies specifically to Nottingham City Council and deals with various local matters, including some rela",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Breeding of Dogs Act 1973' was in effect from 1973-10-25 to 2021-11-12.\n\nThe 'Nottingham City Council Act 2013' was in effect from 2013-02-28 to 2025-07-01.\n\nSince 2013-02-28 (the start date of the 'Nottingham Ci"
+  },
+  {
+    "task_id": "OB059",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Local Authorities (Restoration of Works Powers) Act 1977' and the 'Church of England (Miscellaneous Provisions) Measure 2018' are two separate pieces of legislation that deal with different areas of law.\n\nThe 'Local Authorities (Restoration of Works Powers) Act 1977' is related to the powers of",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Local Authorities (Restoration of Works Powers) Act 1977': 1977-07-29 to 2025-07-01\n2. 'Church of England (Miscellaneous Provisions) Measure 2018': 2018-12-20 to 2021-06-30\n\nThe 'Local Authorities (Restoration of Works"
+  },
+  {
+    "task_id": "OB060",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "No, the 'Green Energy (Definition and Promotion) Act 2009' and the 'Children Act 2004' are two separate and distinct pieces of legislation in the United Kingdom. They deal with different subjects and have different objectives.\n\nThe 'Green Energy (Definition and Promotion) Act 2009' is focused on pro",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Green Energy (Definition and Promotion) Act 2009' is in effect from 2009-11-12 to 2025-07-01.\n\nThe 'Children Act 2004' is in effect from 2004-11-15 to 2025-04-09.\n\nSince the start date of 'Green Energy (Definitio"
+  },
+  {
+    "task_id": "OB061",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "No, the 'Police (Northern Ireland) Act 1998' and the 'Concessionary Bus Travel Act 2007' are two separate pieces of legislation that deal with different subjects. \n\nThe 'Police (Northern Ireland) Act 1998' is related to the police force in Northern Ireland, while the 'Concessionary Bus Travel Act 20",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Police (Northern Ireland) Act 1998': from 1998-07-24 to 2025-04-22\n2. 'Concessionary Bus Travel Act 2007': from 2007-07-19 to 2025-07-01\n\nThe start date of the 'Concessionary Bus Travel Act 2007' (2007-07-19) is after "
+  },
+  {
+    "task_id": "OB062",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Pastoral (Amendment) Measure 2006' and the 'House of Commons (Disqualifications) Act 1801' are two separate pieces of legislation.\n\nThe 'House of Commons (Disqualifications) Act 1801' is an Act of the Parliament of the United Kingdom that was passed in 1801. It deals with the disqualification o",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two measures.\n\nThe 'Pastoral (Amendment) Measure 2006' is active from 2006-07-11 to 2015-10-23.\n\nThe 'House of Commons (Disqualifications) Act 1801' is active from 2025-07-20 to 2025-07-01.\n\nSince the 'House of Commons (Disquali"
+  },
+  {
+    "task_id": "OB063",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Bus Services Act 2017' and the 'Removal Terms (Scotland) Act 1886' are two separate pieces of legislation that deal with different subjects.\n\nThe 'Bus Services Act 2017' is a UK Act that aims to improve bus services in England, outside of London. It provides powers for local transport authoriti",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Bus Services Act 2017' is in effect from 2017-04-27 to 2025-07-01.\nThe 'Removal Terms (Scotland) Act 1886' is in effect from 1886-06-25 to 2025-07-01.\n\nSince 2017-04-27 (the start date of the 'Bus Services "
+  },
+  {
+    "task_id": "OB064",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Consolidated Fund Act 1816' and the 'British Technology Group Act 1991' are two separate pieces of legislation in the United Kingdom.\n\nThe 'Consolidated Fund Act 1816' is an act that deals with the management and appropriation of the Consolidated Fund, which is the main fund used by the UK gove",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts.\n\nThe 'Consolidated Fund Act 1816' is considered to be active from 2025-07-01 to 2025-07-01, and the 'British Technology Group Act 1991' is active from 1991-10-22 to 2015-09-11.\n\nSince the 'Consolidated Fund Act 1816' period"
+  },
+  {
+    "task_id": "OB065",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "No, the 'Tobacco Advertising and Promotion Act 2002' and the 'Light Railways Act 1912' are two separate and distinct pieces of legislation in the United Kingdom. \n\nThe 'Tobacco Advertising and Promotion Act 2002' regulates the advertising and promotion of tobacco products, while the 'Light Railways ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Tobacco Advertising and Promotion Act 2002' is in effect from 2002-11-07 to 2023-09-26.\n\nThe 'Light Railways Act 1912' is in effect from 1912-12-13 to 2025-07-01.\n\nSince the 'Tobacco Advertising and Promotion Act"
+  },
+  {
+    "task_id": "OB066",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The Ivory Act 2018 and the Energy Act 2013 are two separate pieces of legislation in the United Kingdom that deal with different subjects.\n\nThe Ivory Act 2018 is primarily concerned with banning the sale of ivory products, with some exceptions, in order to help protect endangered elephants.\n\nThe Ene",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. Ivory Act 2018: 2018-12-20 to 2025-07-01\n2. Energy Act 2013: 2013-12-18 to 2024-10-30\n\nThe start date of the Ivory Act 2018 (2018-12-20) is after the start date of the Energy Act 2013 (2013-12-18), and the end date of t"
+  },
+  {
+    "task_id": "OB067",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The Chequers Estate Act 1917 and the Industrial Common Ownership Act 1976 are two separate pieces of legislation in the United Kingdom. \n\nThe Chequers Estate Act 1917 is related to the Chequers Estate, which is the country residence of the Prime Minister of the United Kingdom. This act is about the ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Chequers Estate Act 1917' is active from 1917-12-20 to 2025-07-01.\nThe 'Industrial Common Ownership Act 1976' is active from 1976-11-22 to 2015-05-22.\n\nSince 1976-11-22 (start date of 'Industrial Common Ownership"
+  },
+  {
+    "task_id": "OB068",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The Local Authorities (Goods and Services) Act 1970 and the Trustee Savings Banks Act 1981 are two separate pieces of legislation in the United Kingdom. \n\nThe Local Authorities (Goods and Services) Act 1970 allows local authorities to supply goods and services to other public bodies, and to other lo",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Local Authorities (Goods and Services) Act 1970': 1970-05-29 to 2021-06-01\n2. 'Trustee Savings Banks Act 1981': 1981-10-30 to 2025-07-01\n\nThe 'Local Authorities (Goods and Services) Act 1970' was in effect from May 29,"
+  },
+  {
+    "task_id": "OB069",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Law Officers Act 1997' and the 'Incumbents (Vacation of Benefices) (Amendment) Measure 1993' are two separate pieces of legislation in the United Kingdom.\n\nThe 'Law Officers Act 1997' is related to the law officers (such as the Attorney General) in England and Wales.\n\nThe 'Incumbents (Vacation ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Law Officers Act 1997' is in effect from 1997-07-31 to 2025-07-01.\nThe 'Incumbents (Vacation of Benefices) (Amendment) Measure 1993' is in effect from 1993-07-27 to 2025-07-01.\n\nSince the 'Law Officers Act 1997' "
+  },
+  {
+    "task_id": "OB070",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The Pensions Act 2007 and the Antarctic Act 2013 are two separate pieces of legislation in the United Kingdom. \n\nThe Pensions Act 2007 is primarily concerned with pension reforms, including changes to the state pension age, pension credits, and the establishment of the Personal Accounts scheme (now ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Pensions Act 2007': from 2007-07-26 to 2022-01-19\n2. 'Antarctic Act 2013': from 2013-03-26 to 2025-07-01\n\nThe 'Pensions Act 2007' started before the 'Antarctic Act 2013' and ended after the 'Antarctic Act 2013' started"
+  },
+  {
+    "task_id": "OB071",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "No, the 'Agriculture Act 1986' and the 'Hairdressers (Registration) Act 1964' are two separate and distinct pieces of legislation in the United Kingdom. They deal with different subjects and do not overlap. \n\nThe 'Agriculture Act 1986' is related to agriculture, while the 'Hairdressers (Registration",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Agriculture Act 1986' is in effect from 1986-07-25 to 2025-06-10.\nThe 'Hairdressers (Registration) Act 1964' is in effect from 1964-07-31 to 2015-06-10.\n\nSince the 'Agriculture Act 1986' starts in 1986 and the 'H"
+  },
+  {
+    "task_id": "OB072",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "No, the 'Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015' and the 'Improvement of Land Act 1864' do not overlap. \n\nThe 'Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015' is a law that aims to prevent and address violence against women, domestic ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015' is in effect from 2015-04-29 to 2025-04-09.\n\nThe 'Improvement of Land Act 1864' is in effect from 2025-07-29 to 2017-10-17. However, th"
+  },
+  {
+    "task_id": "OB073",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The Education Act 2005 and the Police and Criminal Evidence Act 1984 are two separate pieces of legislation in the United Kingdom that deal with different areas of law.\n\nThe Education Act 2005 primarily focuses on education-related matters, such as the regulation of schools, the curriculum, and the ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Education Act 2005' is in effect from 2005-04-07 to 2025-04-09.\nThe 'Police and Criminal Evidence Act 1984' is in effect from 1984-10-31 to 2024-05-01.\n\nSince the 'Education Act 2005' starts after the 'Police and"
+  },
+  {
+    "task_id": "OB074",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The Dawat-e-Hadiyah Act 1993 and the Mines and Quarries Act 1954 are two separate pieces of legislation in Pakistan that deal with different subjects.\n\nThe Dawat-e-Hadiyah Act 1993 is related to the regulation of Dawat-e-Hadiyah, a religious organization, and its activities.\n\nThe Mines and Quarries ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Dawat-e-Hadiyah Act 1993': 1993-07-01 to 2025-07-01\n2. 'Mines and Quarries Act 1954': 1954-11-25 to 2025-04-14\n\nThe start date of 'Dawat-e-Hadiyah Act 1993' (1993-07-01) is after the start date of 'Mines and Quarries A"
+  },
+  {
+    "task_id": "OB075",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "No, 'Finance Act 1988' and 'Sailors and Soldiers (Gifts for Land Settlement) Act 1916' do not overlap. They are two separate acts passed in different years, dealing with different subjects. \n\nThe 'Finance Act 1988' is related to financial matters, while the 'Sailors and Soldiers (Gifts for Land Sett",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Finance Act 1988' is in effect from 1988-07-29 to 2025-03-03.\nThe 'Sailors and Soldiers (Gifts for Land Settlement) Act 1916' is in effect from 1916-12-22 to 2013-12-04.\n\nSince the 'Finance Act 1988' starts in 19"
+  },
+  {
+    "task_id": "OB076",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Penalties for Drunkenness Act 1962' and the 'Sports Grounds Safety Authority Act 2011' are two separate pieces of legislation in the United Kingdom. \n\nThe 'Penalties for Drunkenness Act 1962' deals with the penalties for public drunkenness, while the 'Sports Grounds Safety Authority Act 2011' f",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Penalties for Drunkenness Act 1962' is in effect from 1962-08-01 to 2025-07-01, and the 'Sports Grounds Safety Authority Act 2011' is in effect from 2011-07-12 to 2025-07-01.\n\nSince 2011-07-12 (the start da"
+  },
+  {
+    "task_id": "OB077",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Supreme Court (Offices) Act 1997' and the 'Drugs Act 2005' are two separate pieces of legislation in the United Kingdom. \n\nThe 'Supreme Court (Offices) Act 1997' is related to the administration and offices of the Supreme Court, while the 'Drugs Act 2005' deals with the regulation and control o",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Supreme Court (Offices) Act 1997' was in effect from 1997-12-17 to 2013-08-23.\n\nThe 'Drugs Act 2005' was in effect from 2005-04-07 to 2023-07-25.\n\nSince 2005-04-07 (the start date of 'Drugs Act 2005') is between "
+  },
+  {
+    "task_id": "OB078",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "To determine if the 'Diocesan Stipends Funds (Amendment) Measure 2016' is overlapped by the 'Pensions Act 2007', let's break down what each of these pieces of legislation covers:\n\n1. **Diocesan Stipends Funds (Amendment) Measure 2016**: This measure is related to the Church of England and specifical",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two measures.\n\nThe 'Diocesan Stipends Funds (Amendment) Measure 2016' is in effect from 2016-03-16 to 2025-07-01.\n\nThe 'Pensions Act 2007' is in effect from 2007-07-26 to 2022-01-19.\n\nSince the start date of 'Diocesan Stip"
+  },
+  {
+    "task_id": "OB079",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Parliamentary Standards Act 2009' and the 'Strikes (Minimum Service Levels) Act 2023' are two separate pieces of legislation in the United Kingdom that deal with different subjects.\n\nThe 'Parliamentary Standards Act 2009' is focused on the standards of behavior and conduct for members of Parlia",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Parliamentary Standards Act 2009' is in effect from 2009-07-21 to 2023-03-08.\nThe 'Strikes (Minimum Service Levels) Act 2023' is in effect from 2023-07-20 to 2025-07-01.\n\nSince the 'Parliamentary Standards Act 20"
+  },
+  {
+    "task_id": "OB080",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Solicitors (Scotland) Act 1988' and the 'Public Registers and Records (Scotland) Act 1948' are two separate pieces of legislation in Scotland. \n\nThe 'Public Registers and Records (Scotland) Act 1948' primarily deals with the management and maintenance of public registers and records in Scotland",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Solicitors (Scotland) Act 1988' is in effect from 1988-07-29 to 2025-07-01.\n\nThe 'Public Registers and Records (Scotland) Act 1948' is in effect from 1948-07-30 to 2022-01-05.\n\nSince the start date of 'Solicitors"
+  },
+  {
+    "task_id": "OB081",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "To answer this, I'll need to provide some context and information about both acts.\n\nThe 'Consolidated Fund Act 2008' is not a real act in the UK. However, there are Consolidated Fund Acts that are annual acts passed by the UK Parliament to authorize the withdrawal of funds from the Consolidated Fund",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Consolidated Fund Act 2008': 2008-12-18 to 2015-02-17\n2. 'Administration of Justice Act 1960': 1960-10-27 to 2022-07-19\n\nSince the start date of 'Consolidated Fund Act 2008' (2008-12-18) is after the start date of 'Adm"
+  },
+  {
+    "task_id": "OB082",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The School Grants Act 1855 and the Housing Act 1974 are two separate pieces of legislation in the United Kingdom. \n\nThe School Grants Act 1855 was an act to provide funding for schools, while the Housing Act 1974 is related to housing law and regulations.\n\nGiven the difference in their subjects and ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'School Grants Act 1855' date range is from 2025-07-14 to 2025-07-01. However, this range seems incorrect because the start date (2025-07-14) is after the end date (2025-07-01). Typically, a start date shoul"
+  },
+  {
+    "task_id": "OB083",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The Refreshment Houses Act 1964 and the Criminal Law (Consolidation) (Scotland) Act 1995 are two separate pieces of legislation in the United Kingdom.\n\nThe Refreshment Houses Act 1964 is an Act of the Parliament of the United Kingdom that regulates refreshment houses in England and Wales. \n\nThe Crim",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Refreshment Houses Act 1964' was in effect from 1964-07-31 to 2015-03-18.\n\nThe 'Criminal Law (Consolidation) (Scotland) Act 1995' was in effect from 1995-11-08 to 2025-04-28.\n\nSince 1995-11-08 (the start date of "
+  },
+  {
+    "task_id": "OB084",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Railways Act 1921' and the 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010' are two separate pieces of legislation that deal with different subjects.\n\nThe 'Railways Act 1921' is related to the railways in the United Kingdom, while the 'Water and Sewerage Services (Amendment",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Railways Act 1921' is in effect from 1921-08-19 to 2025-07-01.\nThe 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010' is in effect from 2010-03-12 to 2025-07-01.\n\nSince 2010-03-12 (the st"
+  },
+  {
+    "task_id": "OB085",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Product Security and Telecommunications Infrastructure Act 2022' and the 'Powers of Attorney Act 2023' are two separate pieces of legislation in the United Kingdom. \n\nThe 'Product Security and Telecommunications Infrastructure Act 2022' primarily focuses on the security of telecommunications in",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Product Security and Telecommunications Infrastructure Act 2022':\n   - Start date: 2022-12-06\n   - End date: 2025-07-01\n\n2. 'Powers of Attorney Act 2023':\n   - Start date: 2023-09-18\n   - End date: 2025-07-01\n\nSince th"
+  },
+  {
+    "task_id": "OB086",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Criminal Justice (Terrorism and Conspiracy) Act 1998' and the 'Mission and Pastoral Measure 2011' are two separate pieces of legislation in the United Kingdom.\n\nThe 'Criminal Justice (Terrorism and Conspiracy) Act 1998' is primarily focused on criminal justice, specifically dealing with terrori",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Criminal Justice (Terrorism and Conspiracy) Act 1998' was in effect from 1998-09-04 to 2021-10-12.\n\nThe 'Mission and Pastoral Measure 2011' was in effect from 2011-05-24 to 2020-02-24.\n\nSince the start date of 'M"
+  },
+  {
+    "task_id": "OB087",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "no",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Veterans Advisory and Pensions Committees Act 2023' and the 'European Communities (Finance) Act 2001' are two separate pieces of legislation in the United Kingdom. \n\nThe 'Veterans Advisory and Pensions Committees Act 2023' is related to the administration of veterans' affairs, specifically the ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Veterans Advisory and Pensions Committees Act 2023' is in effect from 2023-09-18 to 2025-07-01.\n\nThe 'European Communities (Finance) Act 2001' is in effect from 2001-12-04 to 2013-01-24.\n\nSince the end date"
+  },
+  {
+    "task_id": "OB088",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The Export Control Act 2002 and the Belfast Charitable Society Act 1996 are two separate pieces of legislation in the United Kingdom. \n\nThe Export Control Act 2002 is a UK law that regulates the export and transfer of military and dual-use goods, services, and technology. It aims to control the flow",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Export Control Act 2002': from 2002-07-24 to 2021-10-05\n2. 'Belfast Charitable Society Act 1996': from 1996-07-18 to 2025-07-01\n\nThe 'Export Control Act 2002' starts after the 'Belfast Charitable Society Act 1996' begi"
+  },
+  {
+    "task_id": "OB089",
+    "expected_overlapped_by": "yes",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Consolidated Fund (No. 2) Act 1998' and the 'Solicitors Act 1974' are two separate pieces of legislation in the United Kingdom. \n\nThe 'Consolidated Fund (No. 2) Act 1998' is an appropriation act that authorizes the use of funds from the Consolidated Fund for various government expenditures. \n\nT",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Consolidated Fund (No. 2) Act 1998' is in effect from 1998-12-17 to 2025-07-01.\n\nThe 'Solicitors Act 1974' is in effect from 1974-07-31 to 2025-01-13.\n\nSince the start date of 'Consolidated Fund (No. 2) Act"
+  },
+  {
+    "task_id": "OB090",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Justices of the Peace Act 1949' and the 'Aberdeen Harbour Order Confirmation Act 1992' are two separate pieces of legislation in the United Kingdom. \n\nThe 'Justices of the Peace Act 1949' is a general law that deals with the appointment and jurisdiction of justices of the peace in England and W",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Justices of the Peace Act 1949' was in effect from 1949-12-16 to 2015-05-07.\n\nThe 'Aberdeen Harbour Order Confirmation Act 1992' was in effect from 1992-03-06 to 2025-07-01.\n\nSince 1992-03-06 (the start date of t"
+  },
+  {
+    "task_id": "OB091",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The Offices, Shops and Railway Premises Act 1963 is a UK law that deals with the health, safety, and welfare of employees in offices, shops, and railway premises. \n\nThe Sustainable Communities Act 2007, on the other hand, is a law that aims to promote sustainable communities by giving local authorit",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Offices, Shops and Railway Premises Act 1963' was in effect from 1963-07-31 to 2021-09-29.\n\nThe 'Sustainable Communities Act 2007' was in effect from 2007-10-23 to 2018-08-24.\n\nSince the 'Sustainable Communities "
+  },
+  {
+    "task_id": "OB092",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Northern Ireland (Loans) Act 1975' received Royal Assent on 8 May 1975. \n\nThe 'Housing Act 1974' received Royal Assent on 31 October 1974.\n\nSince 'Northern Ireland (Loans) Act 1975' was enacted after 'Housing Act 1974', it is not overlapped by 'Housing Act 1974'. Instead, 'Housing Act 1974' is ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Northern Ireland (Loans) Act 1975': from 1975-12-19 to 2025-07-01\n2. 'Housing Act 1974': from 1974-07-31 to 2025-07-01\n\nSince the start date of 'Northern Ireland (Loans) Act 1975' (1975-12-19) is after the start date o"
+  },
+  {
+    "task_id": "OB093",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The Sustainable Communities Act 2007 and the Autism Act (Northern Ireland) 2011 are two separate pieces of legislation that serve different purposes.\n\nThe Sustainable Communities Act 2007 is a UK law that aims to promote sustainable communities by giving local authorities more power to improve their",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'Sustainable Communities Act 2007': 2007-10-23 to 2018-08-24\n2. 'Autism Act (Northern Ireland) 2011': 2011-05-09 to 2025-07-01\n\nThe 'Sustainable Communities Act 2007' started on 2007-10-23 and ended on 2018-08-24. The '"
+  },
+  {
+    "task_id": "OB094",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The 'Non-Domestic Rating Act 2023' and the 'Modern Slavery Act 2015' are two separate pieces of legislation in the United Kingdom that deal with different areas of law.\n\nThe 'Non-Domestic Rating Act 2023' is related to business rates, which are taxes on non-domestic properties such as shops, offices",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Non-Domestic Rating Act 2023' is in effect from 2023-10-26 to 2025-06-08.\n\nThe 'Modern Slavery Act 2015' is in effect from 2015-03-26 to 2022-07-29.\n\nSince the 'Modern Slavery Act 2015' ends on 2022-07-29 and the"
+  },
+  {
+    "task_id": "OB095",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "no",
+    "correct_main": false,
+    "correct_with_dates": true,
+    "llama_main_snippet": "The Geological Survey Act 1845 and the Water Act 2014 are two separate pieces of legislation in the United Kingdom that deal with different aspects of the country's natural resources and infrastructure.\n\nThe Geological Survey Act 1845 established the Geological Survey of Great Britain, which is now ",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's analyze the dates:\n\n1. 'Geological Survey Act 1845': from 2025-07-31 to 2025-07-01\n2. 'Water Act 2014': from 2014-05-14 to 2025-04-22\n\nThe 'Geological Survey Act 1845' period is entirely in July 2025, while the 'Water Act 2014' period ends in April 2025. Sin"
+  },
+  {
+    "task_id": "OB096",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Prevention of Crimes Act 1871' and the 'Public Audit (Wales) Act 2013' are two separate laws that serve different purposes.\n\nThe 'Prevention of Crimes Act 1871' is an Act of the Parliament of the United Kingdom that deals with the prevention of crimes, particularly habitual offenders. It provid",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the dates of the two acts.\n\nThe 'Prevention of Crimes Act 1871' is in effect from 1871-08-21 to 2025-07-01.\nThe 'Public Audit (Wales) Act 2013' is in effect from 2013-04-29 to 2023-02-17.\n\nSince 2013-04-29 (start date of 'Public Audit (Wales) Ac"
+  },
+  {
+    "task_id": "OB097",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "No, the 'Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016' and the 'City of London (Approved Premises for Marriage) Act 1996' do not overlap. \n\nThe 'Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016' is related to health and social services in Nor",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016' is in effect from 2016-05-12 to 2022-09-26.\n\nThe 'City of London (Approved Premises for Marriage) Act 1996' is in effect from 199"
+  },
+  {
+    "task_id": "OB098",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "no",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": true,
+    "correct_with_dates": false,
+    "llama_main_snippet": "No, 'The Environmental Protection (Single-use Plastic Products) (Wales) Act 2023' and 'Medway Ports Authority Act 1973' do not overlap. \n\nThe Environmental Protection (Single-use Plastic Products) (Wales) Act 2023 is a Welsh law that aims to reduce the use of single-use plastic products in Wales. It",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'The Environmental Protection (Single-use Plastic Products) (Wales) Act 2023':\n   - Start date: 2023-06-06\n   - End date: 2025-07-01\n\n2. 'Medway Ports Authority Act 1973':\n   - Start date: 1973-05-23\n   - End date: 2025"
+  },
+  {
+    "task_id": "OB099",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'Employment Act (Northern Ireland) 2010' and the 'Commons Registration (East Sussex) Act 1994' are two separate pieces of legislation that deal with different subjects and geographic areas.\n\nThe 'Employment Act (Northern Ireland) 2010' is a Northern Ireland-specific act that deals with employmen",
+    "llama_with_dates_snippet": "To determine if there's an overlap, we need to compare the date ranges of the two acts.\n\nThe 'Employment Act (Northern Ireland) 2010' is in effect from 2010-08-02 to 2025-07-01.\nThe 'Commons Registration (East Sussex) Act 1994' is in effect from 1994-07-05 to 2025-07-01.\n\nSince the start date of the"
+  },
+  {
+    "task_id": "OB100",
+    "expected_overlapped_by": "no",
+    "llama_answer_inferred": "yes",
+    "llama_with_dates_inferred": "yes",
+    "correct_main": false,
+    "correct_with_dates": false,
+    "llama_main_snippet": "The 'United Kingdom Internal Market Act 2020' and the 'Matrimonial Homes (Family Protection) (Scotland) Act 1981' are two separate pieces of legislation that deal with different areas of law.\n\nThe 'United Kingdom Internal Market Act 2020' is a UK-wide act that aims to regulate the internal market of",
+    "llama_with_dates_snippet": "To determine if there's an overlap, let's compare the dates of the two acts:\n\n1. 'United Kingdom Internal Market Act 2020': 2020-12-17 to 2024-02-21\n2. 'Matrimonial Homes (Family Protection) (Scotland) Act 1981': 1981-10-30 to 2025-04-23\n\nThe 'United Kingdom Internal Market Act 2020' starts in 2020 "
+  }
+]

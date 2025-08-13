@@ -1,0 +1,562 @@
+[
+  {
+    "task_id": "OV001",
+    "expected_answer": "Yes",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "Yes",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Foster Children (Scotland) Act 1984' and the 'Co-operative Development Agency and Industrial Development Act 1984' were enacted on the same day in 1984. L",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so the user is asking if the Foster Children (Scotland) Act 1984 and the Co-operative Development Agency and Industrial Development Act 1984 were enacted on the same day. Both dates give"
+  },
+  {
+    "task_id": "OV002",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Health and Social Security Act 1984' and the 'Foster Children (Scotland) Act 1984' were enacted on the same day in 1984. Let me start by recalling what I ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Health and Social Security Act 1984 and the Foster Children (Scotland) Act 1984 were enacted on the same day. They provided the dates as 1984-07-26 a"
+  },
+  {
+    "task_id": "OV003",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Health and Social Security Act 1984' and the 'Co-operative Development Agency and Industrial Development Act 1984' were enacted on the same day in 1984. L",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two acts from 1984 were enacted on the same day. The first one is the Health and Social Security Act 1984, which was enacted on July 26, 1984. The second"
+  },
+  {
+    "task_id": "OV004",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Co-operative and Community Benefit Societies Act 2014' and the 'Road Races (Amendment) Act (Northern Ireland) 2014' were enacted on the same day in 2014. ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two different acts were enacted on the same day. The acts mentioned are the 'Co-operative and Community Benefit Societies Act 2014' and the 'Road Races ("
+  },
+  {
+    "task_id": "OV005",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Road Races (Amendment) Act (Northern Ireland) 2014' and the 'Immigration Act 2014' were enacted on the same day in 2014. Let me start by recalling what I ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the 'Road Races (Amendment) Act (Northern Ireland) 2014' and the 'Immigration Act 2014' were enacted on the same day. They provided the dates 2014-01-17 "
+  },
+  {
+    "task_id": "OV006",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the National Health Service Finance (Wales) Act 2014 and the Immigration Act 2014 were enacted on the same day in 2014. Let me start by recalling what I know a",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the National Health Service Finance (Wales) Act 2014 and the Immigration Act 2014 were enacted on the same day. They provided the dates: 2014-01-27 for t"
+  },
+  {
+    "task_id": "OV007",
+    "expected_answer": "Yes",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Co-operative and Community Benefit Societies Act 2014 and the Immigration Act 2014 were enacted on the same day in 2014. Let me start by recalling what I k",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the 'Co-operative and Community Benefit Societies Act 2014' and the 'Immigration Act 2014' were enacted on the same day. Both dates given are 2014-05-14."
+  },
+  {
+    "task_id": "OV008",
+    "expected_answer": "No",
+    "qwen_main_first_word": null,
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'National Health Service Finance (Wales) Act 2014' and the 'Co-operative and Community Benefit Societies Act 2014' were enacted on the same day in 2014. Le",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two specific acts were enacted on the same day. The acts mentioned are the National Health Service Finance (Wales) Act 2014 and the Co-operative and Comm"
+  },
+  {
+    "task_id": "OV009",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Land at Palace Avenue, Kensington (Acquisition of Freehold) Act 2002' and the 'Railway Safety Act (Northern Ireland) 2002' were enacted on the same day in",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two specific acts were enacted on the same day. The acts mentioned are the 'Land at Palace Avenue, Kensington (Acquisition of Freehold) Act 2002' and the"
+  },
+  {
+    "task_id": "OV010",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Companies Act 1967' and the 'Sea Fish (Conservation) Act 1967' were enacted on the same day in 1967. Let me start by recalling what I know about UK legisl",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Companies Act 1967 and the Sea Fish (Conservation) Act 1967 were enacted on the same day. They provided the dates as 1967-07-27 and 1967-10-27 respec"
+  },
+  {
+    "task_id": "OV011",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Counsellors of State Act 2022' and the 'Tertiary Education and Research (Wales) Act 2022' were enacted on the same day in 2022. Let me start by recalling ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the 'Counsellors of State Act 2022' and the 'Tertiary Education and Research (Wales) Act 2022' were enacted on the same day. They provided the dates 2022"
+  },
+  {
+    "task_id": "OV012",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Climate Change Act (Northern Ireland) 2022' and the 'Motor Vehicles (Compulsory Insurance) Act (Northern Ireland) 2022' were enacted on the same day in 20",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two acts from Northern Ireland were enacted on the same day. The acts mentioned are the Climate Change Act (Northern Ireland) 2022 and the Motor Vehicles"
+  },
+  {
+    "task_id": "OV013",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Counsellors of State Act 2022' and the 'Supply and Appropriation (Adjustments) Act 2022' were enacted on the same day in 2022. Let me start by recalling w",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out if the 'Counsellors of State Act 2022' and the 'Supply and Appropriation (Adjustments) Act 2022' were enacted on the same day. The user provided the dates 2022-12"
+  },
+  {
+    "task_id": "OV014",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Supply and Appropriation (Adjustments) Act 2022' and the 'Fair Employment (School Teachers) Act (Northern Ireland) 2022' were enacted on the same day in 2",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two specific acts were enacted on the same day. The acts mentioned are the 'Supply and Appropriation (Adjustments) Act 2022' and the 'Fair Employment (Sc"
+  },
+  {
+    "task_id": "OV015",
+    "expected_answer": "No",
+    "qwen_main_first_word": null,
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Supply and Appropriation (Adjustments) Act 2022' and the 'Climate Change Act (Northern Ireland) 2022' were enacted on the same day in 2022. Let me start b",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the 'Supply and Appropriation (Adjustments) Act 2022' and the 'Climate Change Act (Northern Ireland) 2022' were enacted on the same day. They provided th"
+  },
+  {
+    "task_id": "OV016",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Weights and Measures (Amendment) Act (Northern Ireland) 2000' and the 'Transport Salaried Staffs' Association (Amendment of Rules) Act 2000' were enacted ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two specific acts from Northern Ireland were enacted on the same day. The acts given are the 'Weights and Measures (Amendment) Act (Northern Ireland) 200"
+  },
+  {
+    "task_id": "OV017",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Weights and Measures (Amendment) Act (Northern Ireland) 2000' and the 'Comhairle Nan Eilean Siar (Eriskay Causeway) Order Confirmation Act 2000' were enac",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two specific acts were enacted on the same day. The acts mentioned are the 'Weights and Measures (Amendment) Act (Northern Ireland) 2000' and the 'Comhai"
+  },
+  {
+    "task_id": "OV018",
+    "expected_answer": "No",
+    "qwen_main_first_word": null,
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Comhairle Nan Eilean Siar (Eriskay Causeway) Order Confirmation Act 2000' and the 'Transport Salaried Staffs' Association (Amendment of Rules) Act 2000' w",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two specific acts were enacted on the same day. The acts mentioned are the 'Comhairle Nan Eilean Siar (Eriskay Causeway) Order Confirmation Act 2000' and"
+  },
+  {
+    "task_id": "OV019",
+    "expected_answer": "No",
+    "qwen_main_first_word": null,
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Child Maintenance Act (Northern Ireland) 2008 and the Pensions Act (Northern Ireland) 2008 were enacted on the same day in 2008. Let me start by recalling ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Child Maintenance Act (Northern Ireland) 2008 and the Pensions Act (Northern Ireland) 2008 were enacted on the same day. They provided the dates: 200"
+  },
+  {
+    "task_id": "OV020",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Stipends (Cessation of Special Payments) Measure 2005' and the 'Hunting Act 2004' were enacted on the same day in 2004. Let me start by recalling what I k",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two pieces of legislation, the 'Stipends (Cessation of Special Payments) Measure 2005' and the 'Hunting Act 2004', were enacted on the same day. They pro"
+  },
+  {
+    "task_id": "OV021",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Stipends (Cessation of Special Payments) Measure 2005' and the 'Domestic Violence, Crime and Victims Act 2004' were enacted on the same day in 2004. Let m",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether two pieces of legislation were enacted on the same day. The first one is the 'Stipends (Cessation of Special Payments) Measure 2005', which they say"
+  },
+  {
+    "task_id": "OV022",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Hunting Act 2004 and the Domestic Violence, Crime and Victims Act 2004 were enacted on the same day in 2004. Let me start by recalling what I know about th",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking whether the Hunting Act 2004 and the Domestic Violence, Crime and Victims Act 2004 were enacted on the same day. They provided the dates as 2004-11-18 and 2"
+  },
+  {
+    "task_id": "OV023",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Pneumoconiosis etc. (Workers' Compensation) Act 1979' and the 'Shipbuilding Act 1979' were enacted on the same day in 1979. Let me start by recalling what",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the 'Pneumoconiosis etc. (Workers' Compensation) Act 1979' and the 'Shipbuilding Act 1979' were enacted on the same day. They provided the dates as 1979-"
+  },
+  {
+    "task_id": "OV024",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Criminal Appeal Act 1995 and the Criminal Injuries Compensation Act 1995 were enacted on the same day in 1995. Let me start by recalling what I know about ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so I need to figure out if the Criminal Appeal Act 1995 and the Criminal Injuries Compensation Act 1995 were enacted on the same day. Let me start by recalling what I know about UK legis"
+  },
+  {
+    "task_id": "OV025",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Criminal Appeal Act 1995' and the 'Queen Mary and Westfield College Act 1995' were enacted on the same day in 1995. Let me start by recalling what I know ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the 'Criminal Appeal Act 1995' and the 'Queen Mary and Westfield College Act 1995' were enacted on the same day. They provided the dates: 1995-07-19 and "
+  },
+  {
+    "task_id": "OV026",
+    "expected_answer": "Yes",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Criminal Injuries Compensation Act 1995' and the 'Queen Mary and Westfield College Act 1995' were enacted on the same day in 1995. Let me start by recalli",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so the user is asking if the 'Criminal Injuries Compensation Act 1995' and the 'Queen Mary and Westfield College Act 1995' were enacted on the same day. Both dates given are 1995-11-08. "
+  },
+  {
+    "task_id": "OV027",
+    "expected_answer": "No",
+    "qwen_main_first_word": null,
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Local Government Finance (Wales) Act 2024' and the 'Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024' were enacted o",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two specific acts were enacted on the same day. The acts mentioned are the 'Local Government Finance (Wales) Act 2024' and the 'Trade (Comprehensive and "
+  },
+  {
+    "task_id": "OV028",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the UK Borders Act 2007 and the Greater London Authority Act 2007 were enacted on the same day in 2007. Let me start by recalling what I know about these two p",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the UK Borders Act 2007 and the Greater London Authority Act 2007 were enacted on the same day. They provided the dates: 2007-10-30 for the UK Borders Ac"
+  },
+  {
+    "task_id": "OV029",
+    "expected_answer": "Yes",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Further Education and Training Act 2007' and the 'Greater London Authority Act 2007' were enacted on the same day in 2007. Let me start by recalling what ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so the user is asking if the Further Education and Training Act 2007 and the Greater London Authority Act 2007 were enacted on the same day. Both dates given are October 23, 2007. Let me"
+  },
+  {
+    "task_id": "OV030",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Further Education and Training Act 2007 and the UK Borders Act 2007 were enacted on the same day in 2007. Let me start by recalling what I know about UK le",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Further Education and Training Act 2007 and the UK Borders Act 2007 were enacted on the same day. They provided the dates as 2007-10-23 and 2007-10-3"
+  },
+  {
+    "task_id": "OV031",
+    "expected_answer": "Yes",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "Yes",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Education and Training (Welfare of Children) Act 2021' and the 'National Security and Investment Act 2021' were enacted on the same day in 2021. Let me st",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so the user is asking if the Education and Training (Welfare of Children) Act 2021 and the National Security and Investment Act 2021 were enacted on the same day. They provided the dates"
+  },
+  {
+    "task_id": "OV032",
+    "expected_answer": "No",
+    "qwen_main_first_word": null,
+    "qwen_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Renting Homes (Amendment) (Wales) Act 2021' and the 'National Security and Investment Act 2021' were enacted on the same day in 2021. Let me start by reca",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Renting Homes (Amendment) (Wales) Act 2021 and the National Security and Investment Act 2021 were enacted on the same day. They provided the dates as"
+  },
+  {
+    "task_id": "OV033",
+    "expected_answer": "No",
+    "qwen_main_first_word": null,
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Renting Homes (Amendment) (Wales) Act 2021' and the 'Education and Training (Welfare of Children) Act 2021' were enacted on the same day in 2021. Let me s",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two Acts from Wales were enacted on the same day. The first one is the Renting Homes (Amendment) (Wales) Act 2021, which they say was enacted on April 7,"
+  },
+  {
+    "task_id": "OV034",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Budget (No. 2) Act (Northern Ireland) 2009' and the 'Public Authorities (Reform) Act (Northern Ireland) 2009' were enacted on the same day in 2009. Let me",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two acts from Northern Ireland in 2009 were enacted on the same day. The first one is the Budget (No. 2) Act (Northern Ireland) 2009, which was enacted o"
+  },
+  {
+    "task_id": "OV035",
+    "expected_answer": "Yes",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "Yes",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Road Traffic Act 1988 and the Copyright, Designs and Patents Act 1988 were enacted on the same day in 1988. Let me start by recalling what I know about UK ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so the user is asking whether the Road Traffic Act 1988 and the Copyright, Designs and Patents Act 1988 were enacted on the same day. They provided the dates as 1988-11-15 for both. Let "
+  },
+  {
+    "task_id": "OV036",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Road Traffic Act 1988 and the Electricity (Financial Provisions) (Scotland) Act 1988 were enacted on the same day in 1988. Let me start by recalling what I",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two specific acts were enacted on the same day. The acts mentioned are the Road Traffic Act 1988 and the Electricity (Financial Provisions) (Scotland) Ac"
+  },
+  {
+    "task_id": "OV037",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Copyright, Designs and Patents Act 1988 and the Electricity (Financial Provisions) (Scotland) Act 1988 were enacted on the same day in 1988. Let me start b",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two specific acts were enacted on the same day. The acts mentioned are the Copyright, Designs and Patents Act 1988 and the Electricity (Financial Provisi"
+  },
+  {
+    "task_id": "OV038",
+    "expected_answer": "No",
+    "qwen_main_first_word": null,
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Budget Act (Northern Ireland) 2012 and the Domestic Violence, Crime and Victims (Amendment) Act 2012 were enacted on the same day in 2012. Let me start by ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Budget Act (Northern Ireland) 2012 and the Domestic Violence, Crime and Victims (Amendment) Act 2012 were enacted on the same day. They provided the "
+  },
+  {
+    "task_id": "OV039",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Domestic Violence, Crime and Victims (Amendment) Act 2012 and the Health and Social Care Act 2012 were enacted on the same day in 2012. Let me start by rec",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Domestic Violence, Crime and Victims (Amendment) Act 2012 and the Health and Social Care Act 2012 were enacted on the same day. They provided the dat"
+  },
+  {
+    "task_id": "OV040",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Budget Act (Northern Ireland) 2012 and the Health and Social Care Act 2012 were enacted on the same day in 2012. Let me start by recalling what I know abou",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the 'Budget Act (Northern Ireland) 2012' and the 'Health and Social Care Act 2012' were enacted on the same day. They provided the dates of 2012-03-20 an"
+  },
+  {
+    "task_id": "OV041",
+    "expected_answer": "Yes",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Friendly Societies Act 1974 and the Rent Act 1974 were enacted on the same day in 1974. Let me start by recalling what I know about UK legislation. Acts of",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so the user is asking if the 'Friendly Societies Act 1974' and the 'Rent Act 1974' were enacted on the same day. Both have the enactment date of 1974-07-31. Let me start by confirming th"
+  },
+  {
+    "task_id": "OV042",
+    "expected_answer": "Yes",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Trade Union and Labour Relations Act 1974 and the Friendly Societies Act 1974 were enacted on the same day in 1974. Let me start by recalling what I know a",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so the user is asking whether the Trade Union and Labour Relations Act 1974 and the Friendly Societies Act 1974 were enacted on the same day. Both dates given are July 31, 1974. Let me s"
+  },
+  {
+    "task_id": "OV043",
+    "expected_answer": "Yes",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Trade Union and Labour Relations Act 1974 and the Rent Act 1974 were enacted on the same day in 1974. Let me start by recalling what I know about these two",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so the user is asking whether the Trade Union and Labour Relations Act 1974 and the Rent Act 1974 were both enacted on the same day, specifically July 31, 1974. Let me start by verifying"
+  },
+  {
+    "task_id": "OV044",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Energy Act 2013 and the Mobile Homes Act 2013 were enacted on the same day in 2013. Let me start by recalling what I know about UK legislation. Acts of Par",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Energy Act 2013 and the Mobile Homes Act 2013 were enacted on the same day. They provided the dates: Energy Act on 2013-12-18 and Mobile Homes Act on"
+  },
+  {
+    "task_id": "OV045",
+    "expected_answer": "Yes",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "Yes",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Humber Bridge Act 2013 and the Energy Act 2013 were enacted on the same day in 2013. Let me start by recalling what I know about UK legislation. Acts of Pa",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, so the user is asking if the Humber Bridge Act 2013 and the Energy Act 2013 were enacted on the same day. They provided both dates as 2013-12-18. Let me start by checking the dates given"
+  },
+  {
+    "task_id": "OV046",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Energy Act 2013 and the Public Service Pensions Act 2013 were enacted on the same day in 2013. Let me start by recalling what I know about UK legislation. ",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Energy Act 2013 and the Public Service Pensions Act 2013 were enacted on the same day. They provided the dates: Energy Act on 2013-12-18 and Public S"
+  },
+  {
+    "task_id": "OV047",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Humber Bridge Act 2013 and the Public Service Pensions Act 2013 were enacted on the same day in 2013. Let me start by recalling what I know about UK legisl",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Humber Bridge Act 2013 and the Public Service Pensions Act 2013 were enacted on the same day. They provided the dates: 2013-12-18 for the Humber Brid"
+  },
+  {
+    "task_id": "OV048",
+    "expected_answer": "No",
+    "qwen_main_first_word": null,
+    "qwen_with_dates_first_word": null,
+    "answer_correct": false,
+    "answer_with_dates_correct": false,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Humber Bridge Act 2013 and the Mobile Homes Act 2013 were enacted on the same day in 2013. Let me start by recalling what I know about UK legislation. Acts",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Humber Bridge Act 2013 and the Mobile Homes Act 2013 were enacted on the same day. They provided the dates: Humber Bridge on 2013-12-18 and Mobile Ho"
+  },
+  {
+    "task_id": "OV049",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Access to Medical Treatments (Innovation) Act 2016' and the 'Criminal Cases Review Commission (Information) Act 2016' were enacted on the same day in 2016",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the two acts mentioned were enacted on the same day. The first one is the Access to Medical Treatments (Innovation) Act 2016, which was enacted on March "
+  },
+  {
+    "task_id": "OV050",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010' and the 'Debt Relief Act (Northern Ireland) 2010' were enacted on the same day in 201",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two acts from Northern Ireland in 2010 were enacted on the same day. The acts mentioned are the Water and Sewerage Services (Amendment) Act 2010 and the "
+  },
+  {
+    "task_id": "OV051",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Senedd and Elections (Wales) Act 2020 and the Private Tenancies (Coronavirus Modifications) Act (Northern Ireland) 2020 were enacted on the same day in 202",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two specific acts were enacted on the same day. The acts mentioned are the Senedd and Elections (Wales) Act 2020 and the Private Tenancies (Coronavirus M"
+  },
+  {
+    "task_id": "OV052",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'Ecumenical Relations Measure 2018' and the 'Additional Learning Needs and Education Tribunal (Wales) Act 2018' were enacted on the same day in 2018. Let m",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if two pieces of legislation were enacted on the same day. The first one is the 'Ecumenical Relations Measure 2018' which was enacted on December 20, 2018. "
+  },
+  {
+    "task_id": "OV053",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the Water Industry Act 1991 and the Greater Manchester (Light Rapid Transit System) Act 1991 were enacted on the same day in 1991. Let me start by recalling wh",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the Water Industry Act 1991 and the Greater Manchester (Light Rapid Transit System) Act 1991 were enacted on the same day. They provided the dates 1991-0"
+  },
+  {
+    "task_id": "OV054",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'London Underground (Safety Measures) Act 1991' and the 'Greater Manchester (Light Rapid Transit System) Act 1991' were enacted on the same day in 1991. Le",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the London Underground (Safety Measures) Act 1991 and the Greater Manchester (Light Rapid Transit System) Act 1991 were enacted on the same day.\n\nFirst, "
+  },
+  {
+    "task_id": "OV055",
+    "expected_answer": "No",
+    "qwen_main_first_word": "No",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the London Underground (Safety Measures) Act 1991 and the Water Industry Act 1991 were enacted on the same day in 1991. Let me start by recalling what I know a",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the London Underground (Safety Measures) Act 1991 and the Water Industry Act 1991 were enacted on the same day. They provided the dates as 1991-11-28 and"
+  },
+  {
+    "task_id": "OV056",
+    "expected_answer": "No",
+    "qwen_main_first_word": "Yes",
+    "qwen_with_dates_first_word": "No",
+    "answer_correct": false,
+    "answer_with_dates_correct": true,
+    "qwen_answer_snippet": "<think>\nOkay, so I need to figure out if the 'River Humber (Upper Pyewipe Outfall) Act 1992' and the 'British Railways (No. 2) Act 1992' were enacted on the same day in 1992. Let me start by recalling",
+    "qwen_answer_with_dates_snippet": "<think>\nOkay, let's see. The user is asking if the two acts mentioned were enacted on the same day. The acts are the River Humber (Upper Pyewipe Outfall) Act 1992 and the British Railways (No. 2) Act "
+  }
+]

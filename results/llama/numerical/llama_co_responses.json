@@ -1,0 +1,902 @@
+[
+  {
+    "task_id": "CO001",
+    "expected_older": "Greater Manchester (Light Rapid Transit System) Act 1991",
+    "expected_newer": "Budget (No. 2) Act (Northern Ireland) 2014",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Greater Manchester (Light Rapid Transit System) Act 1991' is older, as it was enacted in 1991. \n\nThe 'Budget (No. 2) Act (Northern Ireland) 2014' is newer, as it was enacted in 2014, which is 23 years after the 'Greater Manchester (Light Rapid Transit System) Act 1991'.",
+    "llama_with_dates_snippet": "The 'Greater Manchester (Light Rapid Transit System) Act 1991' is older, as it was enacted on 22nd October 1991.\n\nThe 'Budget (No. 2) Act (Northern Ireland) 2014' is newer, as it was enacted on 16th July 2014, approximately 23 years after the 'Greater Manchester (Light Rapid Transit System) Act 1991"
+  },
+  {
+    "task_id": "CO002",
+    "expected_older": "Police and Criminal Evidence Act 1984",
+    "expected_newer": "General Teaching Council (Directions) Act (Northern Ireland) 2022",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Police and Criminal Evidence Act 1984' is older, as it was enacted in 1984. \n\nThe 'General Teaching Council (Directions) Act (Northern Ireland) 2022' is newer, as it was enacted in 2022.",
+    "llama_with_dates_snippet": "The 'Police and Criminal Evidence Act 1984' is older, as it was enacted on 31st October 1984. \n\nThe 'General Teaching Council (Directions) Act (Northern Ireland) 2022' is newer, as it was enacted on 6th June 2022, nearly 38 years after the 'Police and Criminal Evidence Act 1984'."
+  },
+  {
+    "task_id": "CO003",
+    "expected_older": "Defective Premises (Landlord’s Liability) Act (Northern Ireland) 2001",
+    "expected_newer": "University of London Act 2018",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Defective Premises (Landlord’s Liability) Act (Northern Ireland) 2001' is older, as it was enacted in 2001. \n\nThe 'University of London Act 2018' is newer, as it was enacted in 2018, 17 years after the 'Defective Premises (Landlord’s Liability) Act (Northern Ireland) 2001'.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Defective Premises (Landlord’s Liability) Act (Northern Ireland) 2001' was enacted on 2nd July 2001.\nThe 'University of London Act 2018' was enacted on 20th December 2018.\n\nSince 2001 is earlier tha"
+  },
+  {
+    "task_id": "CO004",
+    "expected_older": "Sunday Entertainments Act 1932",
+    "expected_newer": "Merchant Shipping (Salvage and Pollution) Act 1994",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Sunday Entertainments Act 1932' is older, as it was enacted in 1932. \n\nThe 'Merchant Shipping (Salvage and Pollution) Act 1994' is newer, as it was enacted in 1994, more than 60 years after the 'Sunday Entertainments Act 1932'.",
+    "llama_with_dates_snippet": "The 'Sunday Entertainments Act 1932' is the older act, as it was enacted in 1932. \n\nThe 'Merchant Shipping (Salvage and Pollution) Act 1994' is the newer act, as it was enacted in 1994, more than 60 years after the 'Sunday Entertainments Act 1932'."
+  },
+  {
+    "task_id": "CO005",
+    "expected_older": "Clergy (Ordination) Measure 1990 (",
+    "expected_newer": "Technical and Further Education Act 2017",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Clergy (Ordination) Measure 1990' is older, as it was enacted in 1990. \n\nThe 'Technical and Further Education Act 2017' is newer, as it was enacted in 2017, which is 27 years after the 'Clergy (Ordination) Measure 1990'.",
+    "llama_with_dates_snippet": "The 'Clergy (Ordination) Measure 1990' is older, as it was enacted on 22nd February 1990.\n\nThe 'Technical and Further Education Act 2017' is newer, as it was enacted on 27th April 2017, approximately 27 years after the 'Clergy (Ordination) Measure 1990'."
+  },
+  {
+    "task_id": "CO006",
+    "expected_older": "Civil List Act 1975",
+    "expected_newer": "Criminal Justice (Scotland) Act 1987",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Civil List Act 1975' is older, and the 'Criminal Justice (Scotland) Act 1987' is newer.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Civil List Act 1975' was enacted on 19th December 1975.\nThe 'Criminal Justice (Scotland) Act 1987' was enacted on 15th May 1987.\n\nSince 1975 is before 1987, the 'Civil List Act 1975' is older, and t"
+  },
+  {
+    "task_id": "CO007",
+    "expected_older": "Malawi Republic Act 1966",
+    "expected_newer": "Sporting Events (Control of Alcohol etc.) Act 1985",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Malawi Republic Act 1966' is older, as it was enacted in 1966. \n\nThe 'Sporting Events (Control of Alcohol etc.) Act 1985' is newer, as it was enacted in 1985, nearly 20 years after the 'Malawi Republic Act 1966'.",
+    "llama_with_dates_snippet": "The 'Malawi Republic Act 1966' is older, as it was enacted on 3rd August 1966.\n\nThe 'Sporting Events (Control of Alcohol etc.) Act 1985' is newer, as it was enacted on 25th July 1985, nearly 19 years after the 'Malawi Republic Act 1966'."
+  },
+  {
+    "task_id": "CO008",
+    "expected_older": "Married Women’s Property Act 1882",
+    "expected_newer": "Autism Act 2009",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Married Women's Property Act 1882' is the older legislation, as it was enacted in 1882. \n\nThe 'Autism Act 2009' is the newer legislation, as it was enacted in 2009, more than 125 years after the 'Married Women's Property Act 1882'.",
+    "llama_with_dates_snippet": "The 'Married Women's Property Act 1882' is older, as it was enacted in 1882. \n\nThe 'Autism Act 2009' is newer, as it was enacted in 2009, more than 127 years after the 'Married Women's Property Act 1882'."
+  },
+  {
+    "task_id": "CO009",
+    "expected_older": "Value Added Tax Act 1983",
+    "expected_newer": "Highways (Obstruction by Body Corporate) Act 2004",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Value Added Tax Act 1983' is older, as it was enacted in 1983. \n\nThe 'Highways (Obstruction by Body Corporate) Act 2004' is newer, as it was enacted in 2004, approximately 21 years after the 'Value Added Tax Act 1983'.",
+    "llama_with_dates_snippet": "The 'Value Added Tax Act 1983' is older, as it was enacted on 26th July 1983. \n\nThe 'Highways (Obstruction by Body Corporate) Act 2004' is newer, as it was enacted on 15th November 2004, approximately 21 years after the 'Value Added Tax Act 1983'."
+  },
+  {
+    "task_id": "CO010",
+    "expected_older": "Pneumoconiosis etc. (Workers' Compensation) Act 1979",
+    "expected_newer": "British Waterways Act 1995",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Pneumoconiosis etc. (Workers' Compensation) Act 1979' is older, as it was enacted in 1979. \n\nThe 'British Waterways Act 1995' is newer, as it was enacted in 1995, 16 years after the 'Pneumoconiosis etc. (Workers' Compensation) Act 1979'.",
+    "llama_with_dates_snippet": "The 'Pneumoconiosis etc. (Workers' Compensation) Act 1979' is older, as it was enacted on 4th April 1979.\n\nThe 'British Waterways Act 1995' is newer, as it was enacted on 16th January 1995, approximately 15 years after the 'Pneumoconiosis etc. (Workers' Compensation) Act 1979'."
+  },
+  {
+    "task_id": "CO011",
+    "expected_older": "Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010",
+    "expected_newer": "Coinage (Measurement) Act 2011",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010' is older, as it was enacted in 2010. \n\nThe 'Coinage (Measurement) Act 2011' is newer, as it was enacted in 2011.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010' was enacted on 13th August 2010.\nThe 'Coinage (Measurement) Act 2011' was enacted on 3rd November 2011.\n\nSince 2010 is before 2011, the "
+  },
+  {
+    "task_id": "CO012",
+    "expected_older": "Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010",
+    "expected_newer": "Budget (No. 2) Act (Northern Ireland) 2010",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010' received Royal Assent on 14 January 2010, while the 'Budget (No. 2) Act (Northern Ireland) 2010' received Royal Assent on 22 April 2010. \n\nTherefore, 'Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure ",
+    "llama_with_dates_snippet": "The 'Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010' is older, as it was enacted on 18th March 2010.\n\nThe 'Budget (No. 2) Act (Northern Ireland) 2010' is newer, as it was enacted on 26th March 2010, which is 8 days after the enactment of the 'Vacancies in Suffragan Sees an"
+  },
+  {
+    "task_id": "CO013",
+    "expected_older": "Trade Union and Labour Relations Act 1974",
+    "expected_newer": "Tyne Tunnels Act 1998",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Trade Union and Labour Relations Act 1974' is older, as it was enacted in 1974. \n\nThe 'Tyne Tunnels Act 1998' is newer, as it was enacted in 1998, 24 years after the 'Trade Union and Labour Relations Act 1974'.",
+    "llama_with_dates_snippet": "The 'Trade Union and Labour Relations Act 1974' is older, as it was enacted on 31st July 1974. \n\nThe 'Tyne Tunnels Act 1998' is newer, as it was enacted on 8th April 1998, approximately 24 years after the 'Trade Union and Labour Relations Act 1974'."
+  },
+  {
+    "task_id": "CO014",
+    "expected_older": "Representation of the People Act 1990",
+    "expected_newer": "Police Reform Act 2002",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Representation of the People Act 1990' is older, and the 'Police Reform Act 2002' is newer.",
+    "llama_with_dates_snippet": "The 'Representation of the People Act 1990' is older, as it was enacted on 26th July 1990. \n\nThe 'Police Reform Act 2002' is newer, as it was enacted on 24th July 2002, approximately 12 years after the 'Representation of the People Act 1990'."
+  },
+  {
+    "task_id": "CO015",
+    "expected_older": "Local Government (Religious",
+    "expected_newer": "Land Acquisition and Compensation (Amendment) Act (Northern Ireland) 2016",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Land Acquisition and Compensation (Amendment) Act (Northern Ireland) 2016' is from 2016. \n\nThe 'Local Government (Religious etc. Observances) Act' is not fully specified, but based on available information, there's a 'Local Government (Religious etc. Observances) Act' from 2011 in Northern Irel",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\n'Local Government (Religious' was enacted on 26th March 2015.\n'Land Acquisition and Compensation (Amendment) Act (Northern Ireland) 2016' was enacted on 12th May 2016.\n\nSince 2015 is before 2016, 'Local "
+  },
+  {
+    "task_id": "CO016",
+    "expected_older": "Southern Rhodesia Act 1979",
+    "expected_newer": "Budget (No. 2) Act (Northern Ireland) 2024",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Southern Rhodesia Act 1979' is older, as it was enacted in 1979. \n\nThe 'Budget (No. 2) Act (Northern Ireland) 2024' is newer, as it was enacted in 2024, which is 45 years after the 'Southern Rhodesia Act 1979'.",
+    "llama_with_dates_snippet": "The 'Southern Rhodesia Act 1979' was enacted on 14th November 1979, which makes it approximately 44 years old.\n\nThe 'Budget (No. 2) Act (Northern Ireland) 2024' was enacted on 18th October 2024, which makes it less than a year old.\n\nSo, the 'Southern Rhodesia Act 1979' is the older one, and the 'Bud"
+  },
+  {
+    "task_id": "CO017",
+    "expected_older": "Jobseekers (Back to Work Schemes) Act 2013",
+    "expected_newer": "Energy Act 2023",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Jobseekers (Back to Work Schemes) Act 2013' is older, as it was enacted in 2013. \n\nThe 'Energy Act 2023' is newer, as it was enacted in 2023, which is 10 years after the 'Jobseekers (Back to Work Schemes) Act 2013'.",
+    "llama_with_dates_snippet": "The 'Jobseekers (Back to Work Schemes) Act 2013' is older, as it was enacted on 26th March 2013.\n\nThe 'Energy Act 2023' is newer, as it was enacted on 26th October 2023, approximately 10 years after the 'Jobseekers (Back to Work Schemes) Act 2013'."
+  },
+  {
+    "task_id": "CO018",
+    "expected_older": "Bills of Exchange (Time of Noting) Act 1917",
+    "expected_newer": "Health and Social Care Levy Act 2021",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Bills of Exchange (Time of Noting) Act 1917' is older, as it was enacted in 1917. \n\nThe 'Health and Social Care Levy Act 2021' is newer, as it was enacted in 2021.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Bills of Exchange (Time of Noting) Act 1917' was enacted on 8th November 1917, while the 'Health and Social Care Levy Act 2021' was enacted on 20th October 2021.\n\nSince 1917 is earlier than 2021, th"
+  },
+  {
+    "task_id": "CO019",
+    "expected_older": "Government of Wales Act 1998",
+    "expected_newer": "Education Act 2005",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Government of Wales Act 1998' is older, and the 'Education Act 2005' is newer. There is a 7-year difference between the two acts.",
+    "llama_with_dates_snippet": "The 'Government of Wales Act 1998' is older, as it was enacted on 31st July 1998. \n\nThe 'Education Act 2005' is newer, as it was enacted on 7th April 2005, approximately 7 years after the 'Government of Wales Act 1998'."
+  },
+  {
+    "task_id": "CO020",
+    "expected_older": "Imperial College Act 1997",
+    "expected_newer": "Beverley Freemen Act 2010",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Imperial College Act 1997' is older, and the 'Beverley Freemen Act 2010' is newer. This is determined by comparing the years in which the legislation was enacted: 1997 is before 2010.",
+    "llama_with_dates_snippet": "The 'Imperial College Act 1997' is older, as it was enacted in 1997. \n\nThe 'Beverley Freemen Act 2010' is newer, as it was enacted in 2010, which is approximately 13 years after the 'Imperial College Act 1997'."
+  },
+  {
+    "task_id": "CO021",
+    "expected_older": "Chronically Sick and Disabled Persons Act 1970",
+    "expected_newer": "Football Spectators Act 1989",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Chronically Sick and Disabled Persons Act 1970' is older, as it was enacted in 1970. \n\nThe 'Football Spectators Act 1989' is newer, as it was enacted in 1989, nearly 20 years after the 'Chronically Sick and Disabled Persons Act 1970'.",
+    "llama_with_dates_snippet": "The 'Chronically Sick and Disabled Persons Act 1970' is older, as it was enacted on 29th May 1970. \n\nThe 'Football Spectators Act 1989' is newer, as it was enacted on 16th November 1989, nearly 20 years after the 'Chronically Sick and Disabled Persons Act 1970'."
+  },
+  {
+    "task_id": "CO022",
+    "expected_older": "Finance Act 1973",
+    "expected_newer": "Leeds Supertram Act 1993",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Finance Act 1973' is older, and the 'Leeds Supertram Act 1993' is newer. There is a 20-year difference between the two acts.",
+    "llama_with_dates_snippet": "The 'Finance Act 1973' is older, as it was enacted on 25th July 1973. \n\nThe 'Leeds Supertram Act 1993' is newer, as it was enacted on 27th July 1993, 20 years after the 'Finance Act 1973'."
+  },
+  {
+    "task_id": "CO023",
+    "expected_older": "Housing Act 1974",
+    "expected_newer": "St. Austell Market Act 2008",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Housing Act 1974' is older, and the 'St. Austell Market Act 2008' is newer.",
+    "llama_with_dates_snippet": "The 'Housing Act 1974' is older, as it was enacted on 31st July 1974. \n\nThe 'St. Austell Market Act 2008' is newer, as it was enacted on 19th June 2008, more than 33 years after the 'Housing Act 1974'."
+  },
+  {
+    "task_id": "CO024",
+    "expected_older": "Export Control Act 2002",
+    "expected_newer": "High Speed Rail (Preparation) Act 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Export Control Act 2002' is older, and the 'High Speed Rail (Preparation) Act 2013' is newer. The year in the title of each act indicates the year it was enacted, with 2002 being earlier than 2013.",
+    "llama_with_dates_snippet": "The 'Export Control Act 2002' is older, as it was enacted on 24th July 2002. \n\nThe 'High Speed Rail (Preparation) Act 2013' is newer, as it was enacted on 21st November 2013, approximately 11 years after the 'Export Control Act 2002'."
+  },
+  {
+    "task_id": "CO025",
+    "expected_older": "Employment Protection Act 1975",
+    "expected_newer": "Air Travel Organisers' Licensing Act 2017",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Employment Protection Act 1975' is older, as it was enacted in 1975. \n\nThe 'Air Travel Organisers' Licensing Act 2017' is newer, as it was enacted in 2017, approximately 42 years after the 'Employment Protection Act 1975'.",
+    "llama_with_dates_snippet": "The 'Employment Protection Act 1975' is older, as it was enacted on 12th November 1975. \n\nThe 'Air Travel Organisers' Licensing Act 2017' is newer, as it was enacted on 16th November 2017, approximately 42 years after the 'Employment Protection Act 1975'."
+  },
+  {
+    "task_id": "CO026",
+    "expected_older": "Supply and Appropriation (Main Estimates) Act 2012",
+    "expected_newer": "Access to Medical Treatments (Innovation) Act 2016",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Supply and Appropriation (Main Estimates) Act 2012' is older, as it was enacted in 2012. \n\nThe 'Access to Medical Treatments (Innovation) Act 2016' is newer, as it was enacted in 2016, four years after the 'Supply and Appropriation (Main Estimates) Act 2012'.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Supply and Appropriation (Main Estimates) Act 2012' was enacted on 17th July 2012.\nThe 'Access to Medical Treatments (Innovation) Act 2016' was enacted on 23rd March 2016.\n\nSince 2012 is earlier tha"
+  },
+  {
+    "task_id": "CO027",
+    "expected_older": "Coal Mines Regulation Act 1908",
+    "expected_newer": "Tyne Tunnels Act 1998",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Coal Mines Regulation Act 1908' is older, as it was enacted in 1908. \n\nThe 'Tyne Tunnels Act 1998' is newer, as it was enacted in 1998, nearly 90 years after the 'Coal Mines Regulation Act 1908'.",
+    "llama_with_dates_snippet": "The 'Coal Mines Regulation Act 1908' is older, as it was enacted in 1908. \n\nThe 'Tyne Tunnels Act 1998' is newer, as it was enacted in 1998, nearly 90 years after the 'Coal Mines Regulation Act 1908'."
+  },
+  {
+    "task_id": "CO028",
+    "expected_older": "House of Lords Act 1999",
+    "expected_newer": "Supply and Appropriation (Main Estimates) Act 2011",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'House of Lords Act 1999' is older, and the 'Supply and Appropriation (Main Estimates) Act 2011' is newer. There is a 12-year difference between the two acts.",
+    "llama_with_dates_snippet": "The 'House of Lords Act 1999' is older, as it was enacted on 11th November 1999. \n\nThe 'Supply and Appropriation (Main Estimates) Act 2011' is newer, as it was enacted on 19th July 2011, approximately 12 years after the 'House of Lords Act 1999'."
+  },
+  {
+    "task_id": "CO029",
+    "expected_older": "Local Government Act 1999",
+    "expected_newer": "Social Security Act (Northern Ireland) 2002",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Local Government Act 1999' is older, and the 'Social Security Act (Northern Ireland) 2002' is newer.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Local Government Act 1999' was enacted on 27th July 1999.\nThe 'Social Security Act (Northern Ireland) 2002' was enacted on 17th October 2002.\n\nSince 1999 is before 2002, the 'Local Government Act 19"
+  },
+  {
+    "task_id": "CO030",
+    "expected_older": "Singapore Act 1966",
+    "expected_newer": "Taxation of Pensions Act 2014",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Singapore Act 1966' is older, as it was enacted in 1966. \n\nThe 'Taxation of Pensions Act 2014' is newer, as it was enacted in 2014.",
+    "llama_with_dates_snippet": "The 'Singapore Act 1966' is older, as it was enacted on 9th August 1966. \n\nThe 'Taxation of Pensions Act 2014' is newer, as it was enacted on 17th December 2014, nearly 48 years after the 'Singapore Act 1966'."
+  },
+  {
+    "task_id": "CO031",
+    "expected_older": "Conveyancing (Scotland) Acts (1874 and 1879) Amendment Act 1887",
+    "expected_newer": "Kew Gardens (Leases) Act 2019",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Conveyancing (Scotland) Acts (1874 and 1879) Amendment Act 1887' is older, as it was enacted in 1887.\n\nThe 'Kew Gardens (Leases) Act 2019' is newer, as it was enacted in 2019.",
+    "llama_with_dates_snippet": "The 'Conveyancing (Scotland) Acts (1874 and 1879) Amendment Act 1887' is older, as it was enacted on 16th September 1887.\n\nThe 'Kew Gardens (Leases) Act 2019' is newer, as it was enacted on 9th September 2019, more than 131 years after the older act."
+  },
+  {
+    "task_id": "CO032",
+    "expected_older": "Naval and Military War Pensions, &c., Act 1915",
+    "expected_newer": "Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Naval and Military War Pensions, &c., Act 1915' is older, as it was enacted in 1915. \n\nThe 'Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011' is newer, as it was enacted in 2011, nearly a century after the 'Naval and Military War Pensions, &c., Act 1915'.",
+    "llama_with_dates_snippet": "The 'Naval and Military War Pensions, &c., Act 1915' is the older act, as it was enacted on 10th November 1915.\n\nThe 'Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011' is the newer act, as it was enacted on 12th July 2011, nearly 96 years after the older act."
+  },
+  {
+    "task_id": "CO033",
+    "expected_older": "Supplementary Benefits Act 1976",
+    "expected_newer": "University of London Act 1994",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Supplementary Benefits Act 1976' is older, and the 'University of London Act 1994' is newer.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Supplementary Benefits Act 1976' was enacted on 15th November 1976, while the 'University of London Act 1994' was enacted on 3rd November 1994.\n\nSince 1976 is earlier than 1994, the 'Supplementary B"
+  },
+  {
+    "task_id": "CO034",
+    "expected_older": "Rent (Scotland) Act 1984",
+    "expected_newer": "Clergy Discipline Measure 2003",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Rent (Scotland) Act 1984' is older, and the 'Clergy Discipline Measure 2003' is newer.",
+    "llama_with_dates_snippet": "The 'Rent (Scotland) Act 1984' is older, as it was enacted on 31st October 1984. \n\nThe 'Clergy Discipline Measure 2003' is newer, as it was enacted on 10th July 2003, nearly 19 years after the 'Rent (Scotland) Act 1984'."
+  },
+  {
+    "task_id": "CO035",
+    "expected_older": "Barclays Group Reorganisation Act 2002",
+    "expected_newer": "Sexual Offences Act 2003",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Barclays Group Reorganisation Act 2002' is older, as it was enacted in 2002. \n\nThe 'Sexual Offences Act 2003' is newer, as it was enacted in 2003.",
+    "llama_with_dates_snippet": "The 'Barclays Group Reorganisation Act 2002' is older, as it was enacted on 7th November 2002. \n\nThe 'Sexual Offences Act 2003' is newer, as it was enacted on 20th November 2003, approximately a year after the 'Barclays Group Reorganisation Act 2002'."
+  },
+  {
+    "task_id": "CO036",
+    "expected_older": "Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017",
+    "expected_newer": "National Insurance Contributions (Secondary Class 1 Contributions) Act 2025",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017' is older, as it was enacted in 2017. \n\nThe 'National Insurance Contributions (Secondary Class 1 Contributions) Act 2025' is newer, as it was enacted in 2025, which is 8 years after the 'Northern Ireland (Ministerial Appoin",
+    "llama_with_dates_snippet": "The 'Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017' is older, as it was enacted on 27th April 2017.\n\nThe 'National Insurance Contributions (Secondary Class 1 Contributions) Act 2025' is newer, as it was enacted on 3rd April 2025, approximately 8 years after the older act."
+  },
+  {
+    "task_id": "CO037",
+    "expected_older": "House of Commons (Removal of Clergy Disqualification) Act 2001",
+    "expected_newer": "Clergy Discipline (Amendment) Measure 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'House of Commons (Removal of Clergy Disqualification) Act 2001' is older, as it was enacted in 2001. \n\nThe 'Clergy Discipline (Amendment) Measure 2013' is newer, as it was enacted in 2013, 12 years after the 'House of Commons (Removal of Clergy Disqualification) Act 2001'.",
+    "llama_with_dates_snippet": "The 'House of Commons (Removal of Clergy Disqualification) Act 2001' is older, as it was enacted on 11th May 2001. \n\nThe 'Clergy Discipline (Amendment) Measure 2013' is newer, as it was enacted on 26th March 2013, approximately 12 years after the other act."
+  },
+  {
+    "task_id": "CO038",
+    "expected_older": "Commons Registration (East Sussex) Act 1994",
+    "expected_newer": "Fisheries (Amendment) Act (Northern Ireland) 2001",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Commons Registration (East Sussex) Act 1994' is older, as it was enacted in 1994. \n\nThe 'Fisheries (Amendment) Act (Northern Ireland) 2001' is newer, as it was enacted in 2001.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\n'Commons Registration (East Sussex) Act 1994' was enacted on 5th July 1994.\n'Fisheries (Amendment) Act (Northern Ireland) 2001' was enacted on 20th March 2001.\n\nSince 1994 is before 2001, 'Commons Regist"
+  },
+  {
+    "task_id": "CO039",
+    "expected_older": "Churchwardens Measure 2001",
+    "expected_newer": "Education Act (Northern Ireland) 2014",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Churchwardens Measure 2001' is older, and the 'Education Act (Northern Ireland) 2014' is newer.",
+    "llama_with_dates_snippet": "The 'Churchwardens Measure 2001' is older, as it was enacted on 10th April 2001. \n\nThe 'Education Act (Northern Ireland) 2014' is newer, as it was enacted on 11th December 2014, more than 13 years after the 'Churchwardens Measure 2001'."
+  },
+  {
+    "task_id": "CO040",
+    "expected_older": "Great Seal Offices Act 1874",
+    "expected_newer": "Interest on Damages (Scotland) Act 1958",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Great Seal Offices Act 1874' is older, and the 'Interest on Damages (Scotland) Act 1958' is newer. There is a difference of 84 years between the two.",
+    "llama_with_dates_snippet": "The 'Great Seal Offices Act 1874' is older, as it was enacted in 1874. \n\nThe 'Interest on Damages (Scotland) Act 1958' is newer, as it was enacted in 1958, which is approximately 84 years after the 'Great Seal Offices Act 1874'."
+  },
+  {
+    "task_id": "CO041",
+    "expected_older": "Hill Farming Act 1946",
+    "expected_newer": "Education Act 1981",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Hill Farming Act 1946' is older, and the 'Education Act 1981' is newer. There is a 35-year difference between the two acts.",
+    "llama_with_dates_snippet": "The 'Hill Farming Act 1946' is older, as it was enacted in 1946. \n\nThe 'Education Act 1981' is newer, as it was enacted in 1981, approximately 35 years after the 'Hill Farming Act 1946'."
+  },
+  {
+    "task_id": "CO042",
+    "expected_older": "Social Security (Overpayments) Act 1996",
+    "expected_newer": "Theft (Amendment) Act 1996",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "To determine which legislation is older and which is newer, we need to look at the dates they received Royal Assent or came into effect. \n\nThe 'Social Security (Overpayments) Act 1996' received Royal Assent on 22 May 1996.\nThe 'Theft (Amendment) Act 1996' received Royal Assent on 22 May 1996.\n\nSince",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Social Security (Overpayments) Act 1996' was enacted on 24th July 1996.\nThe 'Theft (Amendment) Act 1996' was enacted on 18th December 1996.\n\nSince 24th July 1996 is before 18th December 1996, the 'S"
+  },
+  {
+    "task_id": "CO043",
+    "expected_older": "London Docklands Railway (Lewisham) Act 1993",
+    "expected_newer": "Supply and Appropriation (Main Estimates) Act 2019",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'London Docklands Railway (Lewisham) Act 1993' is older, as it was enacted in 1993. \n\nThe 'Supply and Appropriation (Main Estimates) Act 2019' is newer, as it was enacted in 2019, 26 years after the 'London Docklands Railway (Lewisham) Act 1993'.",
+    "llama_with_dates_snippet": "The 'London Docklands Railway (Lewisham) Act 1993' is older, as it was enacted on 27th May 1993. \n\nThe 'Supply and Appropriation (Main Estimates) Act 2019' is newer, as it was enacted on 17th July 2019, approximately 26 years after the 'London Docklands Railway (Lewisham) Act 1993'."
+  },
+  {
+    "task_id": "CO044",
+    "expected_older": "Insurance Brokers (Registration) Act 1977",
+    "expected_newer": "Budget (No. 2) Act (Northern Ireland) 2001",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Insurance Brokers (Registration) Act 1977' is older, and the 'Budget (No. 2) Act (Northern Ireland) 2001' is newer. There is a 24-year difference between the two pieces of legislation.",
+    "llama_with_dates_snippet": "The 'Insurance Brokers (Registration) Act 1977' is older, as it was enacted on 29th July 1977.\n\nThe 'Budget (No. 2) Act (Northern Ireland) 2001' is newer, as it was enacted on 20th July 2001, approximately 24 years after the 'Insurance Brokers (Registration) Act 1977'."
+  },
+  {
+    "task_id": "CO045",
+    "expected_older": "Small Landholders (Scotland) Act 1911",
+    "expected_newer": "Health (Miscellaneous Provisions) Act (Northern Ireland) 2016",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Small Landholders (Scotland) Act 1911' is the older legislation, as it was enacted in 1911. \n\nThe 'Health (Miscellaneous Provisions) Act (Northern Ireland) 2016' is the newer legislation, as it was enacted in 2016.",
+    "llama_with_dates_snippet": "The 'Small Landholders (Scotland) Act 1911' is the older act, as it was enacted on 16th December 1911.\n\nThe 'Health (Miscellaneous Provisions) Act (Northern Ireland) 2016' is the newer act, as it was enacted on 12th May 2016, more than 100 years after the 'Small Landholders (Scotland) Act 1911'."
+  },
+  {
+    "task_id": "CO046",
+    "expected_older": "Equitable Life (Payments) Act 2010",
+    "expected_newer": "Compensation (London Capital & Finance plc and Fraud Compensation Fund) Act 2021",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Equitable Life (Payments) Act 2010' is older, as it was enacted in 2010. \n\nThe 'Compensation (London Capital & Finance plc and Fraud Compensation Fund) Act 2021' is newer, as it was enacted in 2021.",
+    "llama_with_dates_snippet": "The 'Equitable Life (Payments) Act 2010' is older, as it was enacted on 16th December 2010.\n\nThe 'Compensation (London Capital & Finance plc and Fraud Compensation Fund) Act 2021' is newer, as it was enacted on 20th October 2021, approximately 11 years after the 'Equitable Life (Payments) Act 2010'."
+  },
+  {
+    "task_id": "CO047",
+    "expected_older": "Limitation Act 1980",
+    "expected_newer": "Scotland Act 1998",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Limitation Act 1980' is older, and the 'Scotland Act 1998' is newer. There is a difference of 18 years between the two acts.",
+    "llama_with_dates_snippet": "The 'Limitation Act 1980' is older, as it was enacted on 13th November 1980. \n\nThe 'Scotland Act 1998' is newer, as it was enacted on 19th November 1998, approximately 18 years after the 'Limitation Act 1980'."
+  },
+  {
+    "task_id": "CO048",
+    "expected_older": "Coal Industry Act 1977",
+    "expected_newer": "Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Coal Industry Act 1977' is older, while the 'Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021' is newer. There is a 44-year difference between the two pieces of legislation.",
+    "llama_with_dates_snippet": "The 'Coal Industry Act 1977' is older, as it was enacted on 29th July 1977. \n\nThe 'Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021' is newer, as it was enacted on 22nd March 2021, which is approximately 44 years after the 'Coal Industry Act 1977'."
+  },
+  {
+    "task_id": "CO049",
+    "expected_older": "Notice of Accidents Act 1906",
+    "expected_newer": "Deer (Scotland) Act 1996",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Notice of Accidents Act 1906' is older, as it was enacted in 1906. \n\nThe 'Deer (Scotland) Act 1996' is newer, as it was enacted in 1996, approximately 90 years after the 'Notice of Accidents Act 1906'.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Notice of Accidents Act 1906' was enacted on 21st December 1906.\nThe 'Deer (Scotland) Act 1996' was enacted on 24th July 1996.\n\nSince 1906 is earlier than 1996, the 'Notice of Accidents Act 1906' is"
+  },
+  {
+    "task_id": "CO050",
+    "expected_older": "Sea Fisheries Regulation Act 1966",
+    "expected_newer": "Finance Act 1990",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Sea Fisheries Regulation Act 1966' is older, and the 'Finance Act 1990' is newer.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Sea Fisheries Regulation Act 1966' was enacted on 17th November 1966, while the 'Finance Act 1990' was enacted on 26th July 1990.\n\nSince 1966 is earlier than 1990, the 'Sea Fisheries Regulation Act "
+  },
+  {
+    "task_id": "CO051",
+    "expected_older": "United Reformed Church Act 2000",
+    "expected_newer": "Infrastructure (Financial Assistance) Act 2012",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'United Reformed Church Act 2000' is older, and the 'Infrastructure (Financial Assistance) Act 2012' is newer.",
+    "llama_with_dates_snippet": "The 'United Reformed Church Act 2000' is older, as it was enacted on 10th February 2000. \n\nThe 'Infrastructure (Financial Assistance) Act 2012' is newer, as it was enacted on 31st October 2012, which is approximately 12 years after the 'United Reformed Church Act 2000'."
+  },
+  {
+    "task_id": "CO052",
+    "expected_older": "Development of Rural Wales Act 1976",
+    "expected_newer": "Executive Committee (Functions) Act (Northern Ireland) 2020",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Development of Rural Wales Act 1976' is older, as it was enacted in 1976. \n\nThe 'Executive Committee (Functions) Act (Northern Ireland) 2020' is newer, as it was enacted in 2020.",
+    "llama_with_dates_snippet": "The 'Development of Rural Wales Act 1976' is older, as it was enacted on 22nd November 1976.\n\nThe 'Executive Committee (Functions) Act (Northern Ireland) 2020' is newer, as it was enacted on 25th August 2020, approximately 44 years after the 'Development of Rural Wales Act 1976'."
+  },
+  {
+    "task_id": "CO053",
+    "expected_older": "Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015",
+    "expected_newer": "Addressing Bullying in Schools Act (Northern Ireland) 2016",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015' is older, as it was enacted in 2015. \n\nThe 'Addressing Bullying in Schools Act (Northern Ireland) 2016' is newer, as it was enacted in 2016.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\n'Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015' was enacted on 12th March 2015.\n'Addressing Bullying in Schools Act (Northern Ireland) 2016' was enacted on 12th May 2016"
+  },
+  {
+    "task_id": "CO054",
+    "expected_older": "Matrimonial Causes Act 1965",
+    "expected_newer": "National Debt Act 1972",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Matrimonial Causes Act 1965' is older, and the 'National Debt Act 1972' is newer. The difference in age is 7 years.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Matrimonial Causes Act 1965' was enacted on 8th November 1965.\nThe 'National Debt Act 1972' was enacted on 9th August 1972.\n\nSince 1965 is before 1972, the 'Matrimonial Causes Act 1965' is older.\nTh"
+  },
+  {
+    "task_id": "CO055",
+    "expected_older": "Adoption and Children Act 2002",
+    "expected_newer": "Civil Contingencies Act 2004",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Adoption and Children Act 2002' is older, and the 'Civil Contingencies Act 2004' is newer.",
+    "llama_with_dates_snippet": "The 'Adoption and Children Act 2002' is older, as it was enacted on 7th November 2002. \n\nThe 'Civil Contingencies Act 2004' is newer, as it was enacted on 18th November 2004, approximately 2 years after the 'Adoption and Children Act 2002'."
+  },
+  {
+    "task_id": "CO056",
+    "expected_older": "Malawi Republic Act 1966",
+    "expected_newer": "Imperial College Act 1997",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Malawi Republic Act 1966' is older, and the 'Imperial College Act 1997' is newer. The difference in age is 31 years.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the dates of enactment.\n\nThe 'Malawi Republic Act 1966' was enacted on 3rd August 1966.\nThe 'Imperial College Act 1997' was enacted on 15th July 1997.\n\nSince 1966 is earlier than 1997, the 'Malawi Republic Act 1966' is older."
+  },
+  {
+    "task_id": "CO057",
+    "expected_older": "Sale and Supply of Goods Act 1994",
+    "expected_newer": "Church of England Pensions (Amendment) Measure 2009",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Sale and Supply of Goods Act 1994' is older, and the 'Church of England Pensions (Amendment) Measure 2009' is newer.",
+    "llama_with_dates_snippet": "The 'Sale and Supply of Goods Act 1994' is older, as it was enacted on 3rd November 1994. \n\nThe 'Church of England Pensions (Amendment) Measure 2009' is newer, as it was enacted on 2nd April 2009, approximately 15 years after the 'Sale and Supply of Goods Act 1994'."
+  },
+  {
+    "task_id": "CO058",
+    "expected_older": "Self-Governing Schools etc. (Scotland) Act 1989",
+    "expected_newer": "Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Self-Governing Schools etc. (Scotland) Act 1989' is older, as it was enacted in 1989. \n\nThe 'Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015' is newer, as it was enacted in 2015.",
+    "llama_with_dates_snippet": "The 'Self-Governing Schools etc. (Scotland) Act 1989' is older, as it was enacted on 16th November 1989.\n\nThe 'Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015' is newer, as it was enacted on 12th March 2015, approximately 25 years after the 'Self-Governing Schools etc"
+  },
+  {
+    "task_id": "CO059",
+    "expected_older": "Railways Act 1974",
+    "expected_newer": "Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Railways Act 1974' is older, and the 'Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021' is newer.",
+    "llama_with_dates_snippet": "The 'Railways Act 1974' is older, as it was enacted on 31st July 1974. \n\nThe 'Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021' is newer, as it was enacted on 26th August 2021, nearly 47 years after the 'Railways Act 1974'."
+  },
+  {
+    "task_id": "CO060",
+    "expected_older": "Civil Defence (Armed Forces) Act 1954",
+    "expected_newer": "Veterans Advisory and Pensions Committees Act 2023",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Civil Defence (Armed Forces) Act 1954' is the older legislation, as it was enacted in 1954. \n\nThe 'Veterans Advisory and Pensions Committees Act 2023' is the newer legislation, as it was enacted in 2023, nearly 70 years after the 'Civil Defence (Armed Forces) Act 1954'.",
+    "llama_with_dates_snippet": "The 'Civil Defence (Armed Forces) Act 1954' is older, as it was enacted on 25th November 1954.\n\nThe 'Veterans Advisory and Pensions Committees Act 2023' is newer, as it was enacted on 18th September 2023, nearly 69 years after the 'Civil Defence (Armed Forces) Act 1954'."
+  },
+  {
+    "task_id": "CO061",
+    "expected_older": "Variation of Trusts Act 1958",
+    "expected_newer": "Finance Act 1977",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Variation of Trusts Act 1958' is older, and the 'Finance Act 1977' is newer. There is a 19-year difference between the two acts.",
+    "llama_with_dates_snippet": "The 'Variation of Trusts Act 1958' is older, as it was enacted in 1958. \n\nThe 'Finance Act 1977' is newer, as it was enacted in 1977, nearly 19 years after the 'Variation of Trusts Act 1958'."
+  },
+  {
+    "task_id": "CO062",
+    "expected_older": "Cable and Wireless Act 1946",
+    "expected_newer": "Welfare Reform Act 2009",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Cable and Wireless Act 1946' is older, as it was enacted in 1946. \n\nThe 'Welfare Reform Act 2009' is newer, as it was enacted in 2009, more than 60 years after the 'Cable and Wireless Act 1946'.",
+    "llama_with_dates_snippet": "The 'Cable and Wireless Act 1946' is older, as it was enacted on 6th November 1946. \n\nThe 'Welfare Reform Act 2009' is newer, as it was enacted on 12th November 2009. \n\nThere is a 63-year difference between the two acts."
+  },
+  {
+    "task_id": "CO063",
+    "expected_older": "Rating and Valuation Act 1925",
+    "expected_newer": "Consolidated Fund Act 2006",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Rating and Valuation Act 1925' is older, as it was enacted in 1925. \n\nThe 'Consolidated Fund Act 2006' is newer, as it was enacted in 2006.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Rating and Valuation Act 1925' was enacted on 22nd December 1925, and the 'Consolidated Fund Act 2006' was enacted on 19th December 2006.\n\nSince 1925 is earlier than 2006, the 'Rating and Valuation "
+  },
+  {
+    "task_id": "CO064",
+    "expected_older": "Local Government (Financial Provisions) Act 1963",
+    "expected_newer": "Representation of the People Act 1990",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Local Government (Financial Provisions) Act 1963' is older, as it was enacted in 1963. \n\nThe 'Representation of the People Act 1990' is newer, as it was enacted in 1990, approximately 27 years after the 'Local Government (Financial Provisions) Act 1963'.",
+    "llama_with_dates_snippet": "The 'Local Government (Financial Provisions) Act 1963' is older, as it was enacted in 1963. \n\nThe 'Representation of the People Act 1990' is newer, as it was enacted in 1990, approximately 27 years after the 'Local Government (Financial Provisions) Act 1963'."
+  },
+  {
+    "task_id": "CO065",
+    "expected_older": "Public Meeting Act, 1908",
+    "expected_newer": "Guardianship (Missing Persons) Act 2017",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Public Meeting Act, 1908' is the older legislation, as it was enacted in 1908. \n\nThe 'Guardianship (Missing Persons) Act 2017' is the newer legislation, as it was enacted in 2017, more than 100 years after the Public Meeting Act.",
+    "llama_with_dates_snippet": "The 'Public Meeting Act, 1908' is older, as it was enacted on 21st December 1908.\n\nThe 'Guardianship (Missing Persons) Act 2017' is newer, as it was enacted on 27th April 2017, more than 108 years after the 'Public Meeting Act, 1908'."
+  },
+  {
+    "task_id": "CO066",
+    "expected_older": "Lands Valuation Amendment (Scotland) Act 1982",
+    "expected_newer": "Local Government (Wales) Act 2015",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Lands Valuation Amendment (Scotland) Act 1982' is older, as it was enacted in 1982. \n\nThe 'Local Government (Wales) Act 2015' is newer, as it was enacted in 2015.",
+    "llama_with_dates_snippet": "The 'Lands Valuation Amendment (Scotland) Act 1982' is older, as it was enacted on 22nd December 1982.\n\nThe 'Local Government (Wales) Act 2015' is newer, as it was enacted on 25 November 2015, more than 32 years after the Scottish act."
+  },
+  {
+    "task_id": "CO067",
+    "expected_older": "European Economic Area Act 1993",
+    "expected_newer": "Health and Social Care Act 2001",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'European Economic Area Act 1993' is older, and the 'Health and Social Care Act 2001' is newer. There is an 8-year difference between the two acts.",
+    "llama_with_dates_snippet": "The 'European Economic Area Act 1993' is older, as it was enacted in 1993. \n\nThe 'Health and Social Care Act 2001' is newer, as it was enacted in 2001, approximately 8 years after the 'European Economic Area Act 1993'."
+  },
+  {
+    "task_id": "CO068",
+    "expected_older": "Consolidated Fund (No. 2) Act 1990",
+    "expected_newer": "Medical (Professional Performance) Act 1995",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Consolidated Fund (No. 2) Act 1990' is older, and the 'Medical (Professional Performance) Act 1995' is newer.",
+    "llama_with_dates_snippet": "The 'Consolidated Fund (No. 2) Act 1990' is older, as it was enacted on 20th December 1990. \n\nThe 'Medical (Professional Performance) Act 1995' is newer, as it was enacted on 8th November 1995, approximately 5 years after the 'Consolidated Fund (No. 2) Act 1990'."
+  },
+  {
+    "task_id": "CO069",
+    "expected_older": "Justices of the Peace Act 1968",
+    "expected_newer": "Regulation of Registered Social Landlords (Wales) Act 2018",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Justices of the Peace Act 1968' is older, as it was enacted in 1968. \n\nThe 'Regulation of Registered Social Landlords (Wales) Act 2018' is newer, as it was enacted in 2018.",
+    "llama_with_dates_snippet": "The 'Justices of the Peace Act 1968' is older, as it was enacted on 25th October 1968. \n\nThe 'Regulation of Registered Social Landlords (Wales) Act 2018' is newer, as it was enacted on 13 June 2018, nearly 50 years after the 'Justices of the Peace Act 1968'."
+  },
+  {
+    "task_id": "CO070",
+    "expected_older": "Animal Welfare Act 2006",
+    "expected_newer": "Deregulation Act 2015",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Animal Welfare Act 2006' is older, and the 'Deregulation Act 2015' is newer. There is a 9-year difference between the two acts, with the Animal Welfare Act being enacted in 2006 and the Deregulation Act in 2015.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Animal Welfare Act 2006' was enacted on 8th November 2006.\nThe 'Deregulation Act 2015' was enacted on 26th March 2015.\n\nSince 2006 is before 2015, the 'Animal Welfare Act 2006' is older.\nThe 'Deregu"
+  },
+  {
+    "task_id": "CO071",
+    "expected_older": "Forced Marriage (Civil Protection) Act 2007",
+    "expected_newer": "Bournemouth Borough Council Act 2010",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Forced Marriage (Civil Protection) Act 2007' is older, as it was enacted in 2007. \n\nThe 'Bournemouth Borough Council Act 2010' is newer, as it was enacted in 2010, three years after the 'Forced Marriage (Civil Protection) Act 2007'.",
+    "llama_with_dates_snippet": "The 'Forced Marriage (Civil Protection) Act 2007' is older, as it was enacted on 26th July 2007.\n\nThe 'Bournemouth Borough Council Act 2010' is newer, as it was enacted on 8th April 2010, approximately 3 years after the 'Forced Marriage (Civil Protection) Act 2007'."
+  },
+  {
+    "task_id": "CO072",
+    "expected_older": "Lesotho Independence Act 1966",
+    "expected_newer": "Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Lesotho Independence Act 1966' is older, as it was enacted in 1966. \n\nThe 'Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017' is newer, as it was enacted in 2017, more than 50 years after the 'Lesotho Independence Act 1966'.",
+    "llama_with_dates_snippet": "The 'Lesotho Independence Act 1966' is older, as it was enacted on 3rd August 1966. \n\nThe 'Northern Ireland (Ministerial Appointments and Regional Rates) Act 2017' is newer, as it was enacted on 27th April 2017, more than 50 years after the 'Lesotho Independence Act 1966'."
+  },
+  {
+    "task_id": "CO073",
+    "expected_older": "Consolidated Fund (No. 2) Act 1990",
+    "expected_newer": "Great British Energy Act 2025",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Consolidated Fund (No. 2) Act 1990' is older, as it was enacted in 1990. \n\nThe 'Great British Energy Act 2025' is newer, as it is dated 2025, which is 35 years after the 'Consolidated Fund (No. 2) Act 1990'. However, please note that the 'Great British Energy Act 2025' may not be a real or exis",
+    "llama_with_dates_snippet": "The 'Consolidated Fund (No. 2) Act 1990' is older, as it was enacted on 20th December 1990.\n\nThe 'Great British Energy Act 2025' is newer, as it was enacted on 15th May 2025, more than 34 years after the 'Consolidated Fund (No. 2) Act 1990'."
+  },
+  {
+    "task_id": "CO074",
+    "expected_older": "Local Government (Contracts) Act 1997",
+    "expected_newer": "Environment Act 2021",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Local Government (Contracts) Act 1997' is older, as it was enacted in 1997. \n\nThe 'Environment Act 2021' is newer, as it was enacted in 2021, more than 24 years after the 'Local Government (Contracts) Act 1997'.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Local Government (Contracts) Act 1997' was enacted on 27th November 1997.\nThe 'Environment Act 2021' was enacted on 9th November 2021.\n\nSince 1997 is earlier than 2021, the 'Local Government (Contra"
+  },
+  {
+    "task_id": "CO075",
+    "expected_older": "Suez Canal (Shares) Act 1876",
+    "expected_newer": "Hill Samuel Bank and United Dominions Trust Act 1994",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Suez Canal (Shares) Act 1876' is older, as it was enacted in 1876. \n\nThe 'Hill Samuel Bank and United Dominions Trust Act 1994' is newer, as it was enacted in 1994.",
+    "llama_with_dates_snippet": "The 'Suez Canal (Shares) Act 1876' is older, as it was enacted on 15th August 1876. \n\nThe 'Hill Samuel Bank and United Dominions Trust Act 1994' is newer, as it was enacted on 21st July 1994, more than 117 years after the 'Suez Canal (Shares) Act 1876'."
+  },
+  {
+    "task_id": "CO076",
+    "expected_older": "Tithe Act 1925",
+    "expected_newer": "Non-Domestic Rating Act 1992",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Tithe Act 1925' is older, and the 'Non-Domestic Rating Act 1992' is newer. There is a 67-year difference between the two acts.",
+    "llama_with_dates_snippet": "The 'Tithe Act 1925' is older, as it was enacted in 1925. \n\nThe 'Non-Domestic Rating Act 1992' is newer, as it was enacted in 1992, approximately 67 years after the 'Tithe Act 1925'."
+  },
+  {
+    "task_id": "CO077",
+    "expected_older": "Licensing Act (Northern Ireland) 2016",
+    "expected_newer": "Digital Markets, Competition and Consumers Act 2024",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Licensing Act (Northern Ireland) 2016' is older, as it was enacted in 2016. \n\nThe 'Digital Markets, Competition and Consumers Act 2024' is newer, as it was enacted in 2024, which is 8 years after the 'Licensing Act (Northern Ireland) 2016'.",
+    "llama_with_dates_snippet": "The 'Licensing Act (Northern Ireland) 2016' is older, as it was enacted on 12th May 2016.\n\nThe 'Digital Markets, Competition and Consumers Act 2024' is newer, as it was enacted on 24th May 2024, approximately 8 years after the 'Licensing Act (Northern Ireland) 2016'."
+  },
+  {
+    "task_id": "CO078",
+    "expected_older": "Vehicle Registration Marks Act 2007",
+    "expected_newer": "Sunbeds Act (Northern Ireland) 2011",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Vehicle Registration Marks Act 2007' is older, and the 'Sunbeds Act (Northern Ireland) 2011' is newer. This is determined by the dates in their names, with 2007 being before 2011.",
+    "llama_with_dates_snippet": "The 'Vehicle Registration Marks Act 2007' is older, as it was enacted on 19th July 2007. \n\nThe 'Sunbeds Act (Northern Ireland) 2011' is newer, as it was enacted on 3rd May 2011, approximately 4 years after the 'Vehicle Registration Marks Act 2007'."
+  },
+  {
+    "task_id": "CO079",
+    "expected_older": "Metropolitan Commons Amendment Act 1869",
+    "expected_newer": "Firearms Act 2023",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Metropolitan Commons Amendment Act 1869' is the older legislation, as it was enacted in 1869. \n\nThe 'Firearms Act 2023' is the newer legislation, as it was enacted in 2023, more than 150 years after the 'Metropolitan Commons Amendment Act 1869'.",
+    "llama_with_dates_snippet": "The 'Metropolitan Commons Amendment Act 1869' is the older one, as it was enacted in 1869. \n\nThe 'Firearms Act 2023' is the newer one, as it was enacted in 2023, more than 150 years after the 'Metropolitan Commons Amendment Act 1869'."
+  },
+  {
+    "task_id": "CO080",
+    "expected_older": "London Local Authorities Act 1994",
+    "expected_newer": "Justice and Security Act 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'London Local Authorities Act 1994' is older, and the 'Justice and Security Act 2013' is newer.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\n'London Local Authorities Act 1994' was enacted on 21st July 1994.\n'Justice and Security Act 2013' was enacted on 25th April 2013.\n\nSince 1994 is before 2013, 'London Local Authorities Act 1994' is the o"
+  },
+  {
+    "task_id": "CO081",
+    "expected_older": "Police, Crime, Sentencing and Courts Act 2022",
+    "expected_newer": "Investigatory Powers (Amendment) Act 2024",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Police, Crime, Sentencing and Courts Act 2022' is older, as it was enacted in 2022. \n\nThe 'Investigatory Powers (Amendment) Act 2024' is newer, as it was enacted in 2024, two years after the 'Police, Crime, Sentencing and Courts Act 2022'.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Police, Crime, Sentencing and Courts Act 2022' was enacted on 28th April 2022.\nThe 'Investigatory Powers (Amendment) Act 2024' was enacted on 25th April 2024.\n\nSince 2022 is earlier than 2024, the '"
+  },
+  {
+    "task_id": "CO082",
+    "expected_older": "Auctions (Bidding Agreements) Act 1969",
+    "expected_newer": "Allhallows Staining Church Act 2010",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Auctions (Bidding Agreements) Act 1969' is older, as it was enacted in 1969. \n\nThe 'Allhallows Staining Church Act 2010' is newer, as it was enacted in 2010.",
+    "llama_with_dates_snippet": "The 'Auctions (Bidding Agreements) Act 1969' is older, as it was enacted on 22nd October 1969.\n\nThe 'Allhallows Staining Church Act 2010' is newer, as it was enacted on 27th July 2010, more than 40 years after the 'Auctions (Bidding Agreements) Act 1969'."
+  },
+  {
+    "task_id": "CO083",
+    "expected_older": "Veterinary Surgeons Act 1966",
+    "expected_newer": "Northern Ireland Act 1998",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Veterinary Surgeons Act 1966' is older, as it was enacted in 1966. \n\nThe 'Northern Ireland Act 1998' is newer, as it was enacted in 1998, more than 30 years after the 'Veterinary Surgeons Act 1966'.",
+    "llama_with_dates_snippet": "The 'Veterinary Surgeons Act 1966' is older, as it was enacted on 17th November 1966. \n\nThe 'Northern Ireland Act 1998' is newer, as it was enacted on 19th November 1998, approximately 32 years after the 'Veterinary Surgeons Act 1966'."
+  },
+  {
+    "task_id": "CO084",
+    "expected_older": "Local Government (Interim Provisions) Act 1984",
+    "expected_newer": "Non-Domestic Rating Act 2023",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Local Government (Interim Provisions) Act 1984' is older, as it was enacted in 1984. \n\nThe 'Non-Domestic Rating Act 2023' is newer, as it was enacted in 2023, nearly 40 years after the 'Local Government (Interim Provisions) Act 1984'.",
+    "llama_with_dates_snippet": "The 'Local Government (Interim Provisions) Act 1984' is the older act, as it was enacted on 31st July 1984.\n\nThe 'Non-Domestic Rating Act 2023' is the newer act, as it was enacted on 26th October 2023, nearly 40 years after the older act."
+  },
+  {
+    "task_id": "CO085",
+    "expected_older": "British Railways (No. 2) Order Confirmation Act 1994",
+    "expected_newer": "Addressing Bullying in Schools Act (Northern Ireland) 2016",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'British Railways (No. 2) Order Confirmation Act 1994' is older, as it was enacted in 1994. \n\nThe 'Addressing Bullying in Schools Act (Northern Ireland) 2016' is newer, as it was enacted in 2016.",
+    "llama_with_dates_snippet": "The 'British Railways (No. 2) Order Confirmation Act 1994' is older, as it was enacted on 24th March 1994.\n\nThe 'Addressing Bullying in Schools Act (Northern Ireland) 2016' is newer, as it was enacted on 12th May 2016, approximately 22 years after the 'British Railways (No. 2) Order Confirmation Act"
+  },
+  {
+    "task_id": "CO086",
+    "expected_older": "Citation Amendment (Scotland) Act 1882",
+    "expected_newer": "Local Authority Social Services Act 1970",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Citation Amendment (Scotland) Act 1882' is older, as it was enacted in 1882. \n\nThe 'Local Authority Social Services Act 1970' is newer, as it was enacted in 1970, nearly 90 years after the 'Citation Amendment (Scotland) Act 1882'.",
+    "llama_with_dates_snippet": "The 'Citation Amendment (Scotland) Act 1882' is older, as it was enacted in 1882. \n\nThe 'Local Authority Social Services Act 1970' is newer, as it was enacted in 1970, nearly 90 years after the 'Citation Amendment (Scotland) Act 1882'."
+  },
+  {
+    "task_id": "CO087",
+    "expected_older": "Railway Fires Act 1905",
+    "expected_newer": "Justices of the Peace Act 1949",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Railway Fires Act 1905' is older, and the 'Justices of the Peace Act 1949' is newer. There is a 44-year difference between the two acts.",
+    "llama_with_dates_snippet": "The 'Railway Fires Act 1905' is older, as it was enacted in 1905. \n\nThe 'Justices of the Peace Act 1949' is newer, as it was enacted in 1949, which is 44 years after the 'Railway Fires Act 1905'."
+  },
+  {
+    "task_id": "CO088",
+    "expected_older": "Terrorist Asset-Freezing etc. Act 2010",
+    "expected_newer": "Non-domestic Rates Valuations (Coronavirus) Act (Northern Ireland) 2022",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Terrorist Asset-Freezing etc. Act 2010' is older, as it was enacted in 2010. \n\nThe 'Non-domestic Rates Valuations (Coronavirus) Act (Northern Ireland) 2022' is newer, as it was enacted in 2022.",
+    "llama_with_dates_snippet": "The 'Terrorist Asset-Freezing etc. Act 2010' is older, as it was enacted on 16th December 2010.\n\nThe 'Non-domestic Rates Valuations (Coronavirus) Act (Northern Ireland) 2022' is newer, as it was enacted on 30th March 2022, approximately 11 years after the 'Terrorist Asset-Freezing etc. Act 2010'."
+  },
+  {
+    "task_id": "CO089",
+    "expected_older": "Ordnance Factories and Military Services Act 1984",
+    "expected_newer": "Public Audit (Wales) Act 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Ordnance Factories and Military Services Act 1984' is older, as it was enacted in 1984. \n\nThe 'Public Audit (Wales) Act 2013' is newer, as it was enacted in 2013, nearly 30 years after the 'Ordnance Factories and Military Services Act 1984'.",
+    "llama_with_dates_snippet": "The 'Ordnance Factories and Military Services Act 1984' is older, as it was enacted on 31st October 1984. \n\nThe 'Public Audit (Wales) Act 2013' is newer, as it was enacted on 29 April 2013, nearly 29 years after the 'Ordnance Factories and Military Services Act 1984'."
+  },
+  {
+    "task_id": "CO090",
+    "expected_older": "Transport and Works Act 1992",
+    "expected_newer": "Gas Act 1995",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Transport and Works Act 1992' is older, and the 'Gas Act 1995' is newer. There is a 3-year difference between the two acts.",
+    "llama_with_dates_snippet": "The 'Transport and Works Act 1992' is older, as it was enacted on 16th March 1992. \n\nThe 'Gas Act 1995' is newer, as it was enacted on 8th November 1995, approximately 3 years after the 'Transport and Works Act 1992'."
+  },
+  {
+    "task_id": "CO091",
+    "expected_older": "Legal Deposit Libraries Act 2003",
+    "expected_newer": "Crown Estate Act 2025",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Legal Deposit Libraries Act 2003' is older, as it was enacted in 2003. \n\nThe 'Crown Estate Act 2025' is newer, but it's not possible for this to be a real act yet, as the year 2025 has not been completed. However, based on the year in the title, it would be newer than the 'Legal Deposit Librari",
+    "llama_with_dates_snippet": "The 'Legal Deposit Libraries Act 2003' is older, as it was enacted on 30th October 2003.\n\nThe 'Crown Estate Act 2025' is newer, as it was enacted on 11th March 2025, more than 21 years after the 'Legal Deposit Libraries Act 2003'."
+  },
+  {
+    "task_id": "CO092",
+    "expected_older": "Price’s Patent Candle Company Limited Act 1992",
+    "expected_newer": "Driving Instruction (Suspension and Exemption Powers) Act 2009",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "To determine which legislation is older and which is newer, we need to compare the years in their names.\n\n'Price’s Patent Candle Company Limited Act 1992' has the year 1992, while 'Driving Instruction (Suspension and Exemption Powers) Act 2009' has the year 2009.\n\nSince 1992 is before 2009, 'Price’s",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Price’s Patent Candle Company Limited Act 1992' was enacted on 12th November 1992.\nThe 'Driving Instruction (Suspension and Exemption Powers) Act 2009' was enacted on 12th November 2009.\n\nSince 1992"
+  },
+  {
+    "task_id": "CO093",
+    "expected_older": "Tamar Bridge Act 1998",
+    "expected_newer": "Budget Act (Northern Ireland) 2011",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Tamar Bridge Act 1998' is older, and the 'Budget Act (Northern Ireland) 2011' is newer.",
+    "llama_with_dates_snippet": "The 'Tamar Bridge Act 1998' is older, as it was enacted on 28th July 1998. \n\nThe 'Budget Act (Northern Ireland) 2011' is newer, as it was enacted on 22nd March 2011, approximately 13 years after the 'Tamar Bridge Act 1998'."
+  },
+  {
+    "task_id": "CO094",
+    "expected_older": "Metropolitan Commons Amendment Act 1869",
+    "expected_newer": "Irish Sailors and Soldiers Land Trust Act 1952",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Metropolitan Commons Amendment Act 1869' is older, as it was enacted in 1869. \n\nThe 'Irish Sailors and Soldiers Land Trust Act 1952' is newer, as it was enacted in 1952, approximately 83 years after the 'Metropolitan Commons Amendment Act 1869'.",
+    "llama_with_dates_snippet": "The 'Metropolitan Commons Amendment Act 1869' is older, as it was enacted in 1869. \n\nThe 'Irish Sailors and Soldiers Land Trust Act 1952' is newer, as it was enacted in 1952, approximately 83 years after the 'Metropolitan Commons Amendment Act 1869'."
+  },
+  {
+    "task_id": "CO095",
+    "expected_older": "Medical Act  1983",
+    "expected_newer": "Henry Johnson, Sons & Co., Limited Act 1996",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Medical Act 1983' is older, and the 'Henry Johnson, Sons & Co., Limited Act 1996' is newer. The difference in age is 13 years.",
+    "llama_with_dates_snippet": "The 'Medical Act 1983' is older, as it was enacted on 26th July 1983. \n\nThe 'Henry Johnson, Sons & Co., Limited Act 1996' is newer, as it was enacted on 18th July 1996, approximately 13 years after the 'Medical Act 1983'."
+  },
+  {
+    "task_id": "CO096",
+    "expected_older": "Road Traffic Act 1988",
+    "expected_newer": "Criminal Justice Act 2003",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Road Traffic Act 1988' is older, and the 'Criminal Justice Act 2003' is newer.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Road Traffic Act 1988' was enacted on 15th November 1988.\nThe 'Criminal Justice Act 2003' was enacted on 20th November 2003.\n\nSince 1988 is before 2003, the 'Road Traffic Act 1988' is older, and the"
+  },
+  {
+    "task_id": "CO097",
+    "expected_older": "Theft Act 1968",
+    "expected_newer": "Nuclear Safeguards Act 2018",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Theft Act 1968' is older, and the 'Nuclear Safeguards Act 2018' is newer. There is a 50-year difference between the two acts.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Theft Act 1968' was enacted on 26th July 1968.\nThe 'Nuclear Safeguards Act 2018' was enacted on 26th June 2018.\n\nSince 1968 is earlier than 2018, the 'Theft Act 1968' is older.\nThe 'Nuclear Safeguar"
+  },
+  {
+    "task_id": "CO098",
+    "expected_older": "Savings Accounts and Health in Pregnancy Grant Act 2010",
+    "expected_newer": "Welfare Benefits Up-rating Act 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Savings Accounts and Health in Pregnancy Grant Act 2010' is older, as it was enacted in 2010. \n\nThe 'Welfare Benefits Up-rating Act 2013' is newer, as it was enacted in 2013.",
+    "llama_with_dates_snippet": "The 'Savings Accounts and Health in Pregnancy Grant Act 2010' is older, as it was enacted on 16th December 2010.\n\nThe 'Welfare Benefits Up-rating Act 2013' is newer, as it was enacted on 26th March 2013, approximately 2 years and 3 months after the 'Savings Accounts and Health in Pregnancy Grant Act"
+  },
+  {
+    "task_id": "CO099",
+    "expected_older": "Dangerous Dogs (Amendment) Act 1997",
+    "expected_newer": "Colchester Borough Council Act 2001",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Dangerous Dogs (Amendment) Act 1997' is older, and the 'Colchester Borough Council Act 2001' is newer.",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\nThe 'Dangerous Dogs (Amendment) Act 1997' was enacted on 21st March 1997.\nThe 'Colchester Borough Council Act 2001' was enacted on 22nd March 2001.\n\nSince 1997 is before 2001, the 'Dangerous Dogs (Amendm"
+  },
+  {
+    "task_id": "CO100",
+    "expected_older": "Diocese in Europe Measure 2013",
+    "expected_newer": "Groceries Code Adjudicator Act 2013",
+    "answer_correct": true,
+    "answer_with_dates_correct": true,
+    "llama_main_snippet": "The 'Groceries Code Adjudicator Act 2013' received Royal Assent on April 25, 2013. \n\nThe 'Diocese in Europe Measure 2013' received Royal Assent on March 14, 2013, but as a Measure of the General Synod, it was promulgated on May 1, 2014.\n\nSince the 'Diocese in Europe Measure 2013' received Royal Asse",
+    "llama_with_dates_snippet": "To determine which one is older and which one is newer, we need to compare the enactment dates.\n\n'Groceries Code Adjudicator Act 2013' was enacted on 25th April 2013.\n'Diocese in Europe Measure 2013' was enacted on 26th March 2013.\n\nSince 26th March 2013 is before 25th April 2013, 'Diocese in Europe"
+  }
+]

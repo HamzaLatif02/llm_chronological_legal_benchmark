@@ -1,0 +1,318 @@
+[
+  {
+    "task_id": "SE001",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Clergy Pensions Measure 1961"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation(s) the Pensions Measure 1997 repealed. Let me start by recalling what I know about UK pension legislation. The Pensions Measure 1997 sounds like a piece of legislation related to pensions, possibly from the UK Parliament. But I'm not entirely s"
+  },
+  {
+    "task_id": "SE002",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions (Northern Ireland) Order 2005 (NI 1)"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Pensions (No. 2) Act (Northern Ireland) 2008 amends. Let me start by recalling what I know about this. The title mentions it's an Act related to pensions in Northern Ireland, passed in 2008. The question is about what legislation it amends."
+  },
+  {
+    "task_id": "SE003",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions (Northern Ireland) Order 1995 (NI 22)"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation(s) the Pensions (No. 2) Act (Northern Ireland) 2008 repealed. Let me start by recalling what I know about this. The user is asking about the specific laws that were repealed by this particular Act. \n\nFirst, I remember that when a new law is pas"
+  },
+  {
+    "task_id": "SE004",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Interpretation Act (Northern Ireland) 1954 (c. 33)"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Child Maintenance Act (Northern Ireland) 2008 amends. Let me start by recalling what I know about this Act. The Child Maintenance Act 2008 in Northern Ireland is related to child support and maintenance. It probably updates or modifies exis"
+  },
+  {
+    "task_id": "SE005",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Child Maintenance Act (Northern Ireland) 2008 repealed. Let me start by recalling what I know about this Act. The Child Maintenance Act 2008 in Northern Ireland is related to child support and maintenance. It probably replaced or updated pr"
+  },
+  {
+    "task_id": "SE006",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Civil Partnership Act 2004 (c. 33)"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Pensions Act (Northern Ireland) 2008 repealed. Let me start by recalling what I know about this act. The Pensions Act (Northern Ireland) 2008 is a piece of legislation specific to Northern Ireland, dealing with pensions. Repeal means that i"
+  },
+  {
+    "task_id": "SE007",
+    "correct": true,
+    "found": [
+      "Contributions and Benefits Act"
+    ],
+    "missing": [],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Pensions Act (Northern Ireland) 2008 replaced. Let me start by recalling what I know about pension legislation in Northern Ireland. I know that Northern Ireland often has its own laws separate from the rest of the UK, though sometimes they "
+  },
+  {
+    "task_id": "SE008",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions (Northern Ireland) Order 2005 (NI 1)"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Pensions Act (Northern Ireland) 2008 substituted. Let me start by recalling what I know about this act. The Pensions Act (Northern Ireland) 2008 is a piece of legislation specific to Northern Ireland. I remember that sometimes when a new ac"
+  },
+  {
+    "task_id": "SE009",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions Act 2004 (c. 35)"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so the user is asking which legislation(s) Northern Ireland has repealed. Hmm, I need to start by understanding the context here. Northern Ireland is part of the UK, right? So its legislative framework is a mix of UK-wide laws and specific Northern Ireland legislation. But wait, when t"
+  },
+  {
+    "task_id": "SE010",
+    "correct": true,
+    "found": [
+      "Immigration and Asylum Act 1999"
+    ],
+    "missing": [],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Nationality and Borders Act 2022 amends. Let me start by recalling what I know about this Act. The Nationality and Borders Act 22 was passed in the UK, right? It's related to immigration and nationality law. From what I remember, it introdu"
+  },
+  {
+    "task_id": "SE011",
+    "correct": true,
+    "found": [
+      " Immigration Act 2016"
+    ],
+    "missing": [],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Nationality and Borders Act 2022 in the UK repealed. Let me start by recalling what I know about this Act. The Nationality and Borders Act 2022 was passed in the UK to make changes to immigration rules, asylum processes, and nationality law"
+  },
+  {
+    "task_id": "SE012",
+    "correct": true,
+    "found": [
+      "Immigration Act 2014",
+      "Immigration, Asylum and Nationality Act 2006",
+      "Immigration Act 1971"
+    ],
+    "missing": [],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Immigration Act 2016 in the UK repealed. Let me start by recalling what I know about UK immigration laws. The Immigration Act 2016 was a significant piece of legislation aimed at tightening immigration controls, often referred to as part of"
+  },
+  {
+    "task_id": "SE013",
+    "correct": true,
+    "found": [
+      "Immigration Act 1971"
+    ],
+    "missing": [],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Immigration Act 2014 amends. Let me start by recalling what I know about UK immigration law. The Immigration Act 2014 was a significant piece of legislation introduced by the UK government, probably under David Cameron's administration. I r"
+  },
+  {
+    "task_id": "SE014",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Immigration Act 1971"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Health and Social Care Act 2012 amends. Let me start by recalling what I know about this Act. The Health and Social Care Act 2012 is a significant piece of UK legislation that restructured the National Health Service (NHS) in England. It in"
+  },
+  {
+    "task_id": "SE015",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Criminal Justice and Immigration Act 2008",
+      "Access to Justice Act 1999"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Coroners and Justice Act 2009 repealed. Let me start by recalling what I know about this Act. The Coroners and Justice Act 2009 is a UK law that deals with various aspects of the justice system, including the role of coroners, the handling "
+  },
+  {
+    "task_id": "SE016",
+    "correct": true,
+    "found": [
+      "Jobseekers Act 1995"
+    ],
+    "missing": [],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Welfare Reform Act 2009 repealed. Let me start by recalling what I know about the Welfare Reform Act 2009. I remember that it's a UK law aimed at reforming the welfare system, possibly introducing changes to benefits, employment support, an"
+  },
+  {
+    "task_id": "SE017",
+    "correct": false,
+    "found": [
+      "Pensions Act 2004"
+    ],
+    "missing": [
+      "Pension Schemes Act 1993"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Pensions Act 2008 amends. Let me start by recalling what I know about the Pensions Act 2008. I remember that it's a UK law related to pensions, probably dealing with things like automatic enrollment of employees into workplace pension schem"
+  },
+  {
+    "task_id": "SE018",
+    "correct": true,
+    "found": [
+      "Nationality, Immigration and Asylum Act 2002"
+    ],
+    "missing": [],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the UK Borders Act 2007 amends. Let me start by recalling what I know about the UK Borders Act 2007. I remember that it's related to immigration and border control. The question is about which laws it amends. \n\nFirst, I should probably check th"
+  },
+  {
+    "task_id": "SE019",
+    "correct": true,
+    "found": [
+      "Pensions Act 1995"
+    ],
+    "missing": [],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Pensions Act 2007 amends. Let me start by recalling what I know about UK pension laws. The Pensions Act 2007 was a significant piece of legislation, I think. It introduced automatic enrollment into workplace pensions, which was a big change"
+  },
+  {
+    "task_id": "SE020",
+    "correct": true,
+    "found": [
+      "Pensions Act 1995"
+    ],
+    "missing": [],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Pensions Act 2007 repealed. Let me start by recalling what I know about the Pensions Act 2007. I remember that it was a significant piece of legislation in the UK related to pensions. It introduced automatic enrollment into workplace pensio"
+  },
+  {
+    "task_id": "SE021",
+    "correct": true,
+    "found": [
+      "Pensions Act 1995"
+    ],
+    "missing": [],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Pensions Act 2007 replaced. Let me start by recalling what I know about UK pension laws. The Pensions Act 2007 was a significant piece of legislation, so it's likely that it replaced or amended previous acts. \n\nFirst, I remember that before"
+  },
+  {
+    "task_id": "SE022",
+    "correct": true,
+    "found": [
+      "Pensions Act 2004"
+    ],
+    "missing": [],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Pensions Act 2007 substituted. Let me start by recalling what I know about UK pension laws. The Pensions Act 2007 was a significant piece of legislation, so it's likely that it replaced or amended previous acts. \n\nFirst, I remember that bef"
+  },
+  {
+    "task_id": "SE023",
+    "correct": false,
+    "found": [
+      "Pensions Act 1995"
+    ],
+    "missing": [
+      "Pension Schemes Act 1993"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Pensions Act 2004 amends. Let me start by recalling what I know about UK pension laws. The Pensions Act 2004 was a significant piece of legislation aimed at reforming pension schemes in the UK. But the question is specifically about what it"
+  },
+  {
+    "task_id": "SE024",
+    "correct": true,
+    "found": [
+      "Pensions Act 1995"
+    ],
+    "missing": [],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Pensions Act 2004 repealed. Let me start by recalling what I know about the Pensions Act 2004. I remember that it was a significant piece of UK legislation aimed at reforming pension schemes, particularly in response to issues like the coll"
+  },
+  {
+    "task_id": "SE025",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Atomic Energy Authority Act 1971"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Energy Act 2004 repealed. Let me start by recalling what I know about the Energy Act 2004. It's a UK law, right? I remember that it deals with energy matters, maybe things like energy efficiency, renewable energy, or the regulation of energ"
+  },
+  {
+    "task_id": "SE026",
+    "correct": true,
+    "found": [
+      "Immigration and Asylum Act 1999"
+    ],
+    "missing": [],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Nationality, Immigration and Asylum Act 2002 amended. Let me start by recalling what I know about UK immigration laws. The 2002 Act was a significant piece of legislation, so it's likely that it amended several previous acts. \n\nFirst, I rem"
+  },
+  {
+    "task_id": "SE027",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Matrimonial Causes Act 1973"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Welfare Reform and Pensions Act 1999 amended. Let me start by recalling what I know about this Act. The Welfare Reform and Pensions Act 1999 is a UK law. From what I remember, it dealt with changes to the welfare system and pensions. But th"
+  },
+  {
+    "task_id": "SE028",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Judicial Pensions Act 1981"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Courts and Legal Services Act 1990 amends. Let me start by recalling what I know about this Act. The Courts and Legal Services Act 1990 is a UK statute. I remember that it's related to legal services and court procedures, but I'm not exactl"
+  },
+  {
+    "task_id": "SE029",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions Act"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Social Security Act 1990 amends. Let me start by recalling what I know about the Social Security Act in the UK. The main Social Security Act was passed in 1986, I think. Then there's the 1990 one. The question is about the 1990 Act and what"
+  },
+  {
+    "task_id": "SE030",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Extradition Act 1895"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Extradition Act 1989 replaced. Let me start by recalling what I know about extradition laws in the UK. Extradition is the process by which one country requests the return of a person accused or convicted of a crime to face trial or serve a "
+  },
+  {
+    "task_id": "SE031",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Parliamentary and other Pensions Act 1972"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation(s) the Parliamentary and Other Pensions Act 1987 repealed. Let me start by recalling what I know about this. The user is asking about the specific laws that were repealed by this Act. \n\nFirst, I remember that when a new law is passed, sometimes"
+  },
+  {
+    "task_id": "SE032",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Parliamentary and other Pensions and Salaries Act 1976"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation the Parliamentary Pensions etc. Act 1984 repealed. Let me start by recalling what I know about this. The user is asking about the specific laws that were repealed by the 1984 Act. \n\nFirst, I remember that when a new law is passed, sometimes it "
+  },
+  {
+    "task_id": "SE033",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Extradition Act 1873"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation(s) the Sexual Offences Act 1956 amended. Let me start by recalling what I know about this. The Sexual Offences Act 1956 is a UK law that deals with sexual offenses. I remember that before this act, there were older laws, maybe from the 19th cen"
+  },
+  {
+    "task_id": "SE034",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Local Government (Emergency Provisions) Act 1916",
+      "Pensions (Increase) Act 1971",
+      "Pensions Commutation Act 1871",
+      "Transport Act 1978"
+    ],
+    "qwen_text_snippet": "<think>\nOkay, so I need to figure out which legislation(s) the Civil Partnership (Northern Ireland) Regulations 2023 amend. Let me start by recalling what I know about civil partnerships in Northern Ireland. \n\nFirst, civil partnerships were originally introduced in the UK under the Civil Partnership"
+  }
+]

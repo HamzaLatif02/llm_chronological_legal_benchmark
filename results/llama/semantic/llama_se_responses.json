@@ -1,0 +1,317 @@
+[
+  {
+    "task_id": "SE001",
+    "correct": true,
+    "found": [
+      "Clergy Pensions Measure 1961"
+    ],
+    "missing": [],
+    "llama_text_snippet": "The Pensions Measure 1997 repeals the following legislation:\n\n1. Clergy Pensions Measure 1961 (1961 No. 3)\n2. Clergy Pensions (Amendment) Measure 1969 (1969 No. 2)\n3. Clergy Pensions (Amendment) Measure 1982 (1982 No. 1)\n4. Pensions (Pre-consolidation Amendments) Measure 1989 (1989 No. 1)"
+  },
+  {
+    "task_id": "SE002",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions (Northern Ireland) Order 2005 (NI 1)"
+    ],
+    "llama_text_snippet": "The Pensions (No. 2) Act (Northern Ireland) 2008 amends the following legislation:\n\n1. The Pension Schemes (Northern Ireland) Act 1993\n2. The Pensions (Northern Ireland) Order 1995\n3. The Welfare Reform and Pensions (Northern Ireland) Order 1999\n4. The Pensions (Northern Ireland) Order 2005"
+  },
+  {
+    "task_id": "SE003",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions (Northern Ireland) Order 1995 (NI 22)"
+    ],
+    "llama_text_snippet": "The Pensions (No. 2) Act (Northern Ireland) 2008 repeals the following legislation:\n\n1. The Pensions Act (Northern Ireland) 2008"
+  },
+  {
+    "task_id": "SE004",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Interpretation Act (Northern Ireland) 1954 (c. 33)"
+    ],
+    "llama_text_snippet": "The Child Maintenance Act (Northern Ireland) 2008 amends the following legislation:\n\n1. The Child Support (Northern Ireland) Order 1991\n2. The Social Security Administration (Northern Ireland) Act 1992\n3. The Social Security (Recovery of Benefits) (Northern Ireland) Order 1997\n4. The Welfare Reform "
+  },
+  {
+    "task_id": "SE005",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)"
+    ],
+    "llama_text_snippet": "The Child Maintenance Act (Northern Ireland) 2008 repeals the Child Support (Northern Ireland) Order 1991."
+  },
+  {
+    "task_id": "SE006",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Civil Partnership Act 2004 (c. 33)"
+    ],
+    "llama_text_snippet": "The Pensions Act (Northern Ireland) 2008 repeals the following legislation:\n\n1. The Pensions (Northern Ireland) Order 1995 (in part)\n2. The Pensions (Northern Ireland) Order 2005 (in part)\n3. Article 152 of the Pensions (Northern Ireland) Order 2005\n4. The Occupational and Personal Pension Schemes ("
+  },
+  {
+    "task_id": "SE007",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Contributions and Benefits Act"
+    ],
+    "llama_text_snippet": "The Pensions Act (Northern Ireland) 2008 replaces the following legislation:\n\n1. The Pensions Act (Northern Ireland) 2005\n2. The Pensions (Northern Ireland) Order 1995\n3. The Pensions (Northern Ireland) Order 2005 \n\nIt also amends and repeals parts of other Acts and Orders, including the Social Secu"
+  },
+  {
+    "task_id": "SE008",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions (Northern Ireland) Order 2005 (NI 1)"
+    ],
+    "llama_text_snippet": "The Pensions Act (Northern Ireland) 2008 substitutes the following legislation:\n\n1. Pensions Act (Northern Ireland) 2005\n2. Welfare Reform and Pensions (Northern Ireland) Order 1999\n3. Pensions (Northern Ireland) Order 1995\n4. Pensions (Northern Ireland) Order 2005 \n\nThese acts and orders were eithe"
+  },
+  {
+    "task_id": "SE009",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions Act 2004 (c. 35)"
+    ],
+    "llama_text_snippet": "The Northern Ireland Act 1998 (also known as the Good Friday Agreement or Belfast Agreement) repealed the following legislation:\n\n1. The Government of Ireland Act 1920: This act partitioned the island of Ireland into Northern Ireland and Southern Ireland (now the Republic of Ireland).\n2. The Ireland"
+  },
+  {
+    "task_id": "SE010",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Immigration and Asylum Act 1999"
+    ],
+    "llama_text_snippet": "The Nationality and Borders Act 2022 amends several pieces of legislation, including:\n\n1. The British Nationality Act 1981\n2. The Immigration Act 1971\n3. The Nationality, Immigration and Asylum Act 2002\n4. The Immigration, Asylum and Nationality Act 2006\n5. The UK Borders Act 2007\n6. The Immigration"
+  },
+  {
+    "task_id": "SE011",
+    "correct": true,
+    "found": [
+      " Immigration Act 2016"
+    ],
+    "missing": [],
+    "llama_text_snippet": "The Nationality and Borders Act 2022 repeals the following legislation:\n\n1. The Refugee Convention - It makes changes to the UK's obligations under the 1951 Refugee Convention, but does not fully repeal it.\n2. Section 2(2) and (3) of the Special Immigration Appeals Commission Act 1997.\n3. Section 78"
+  },
+  {
+    "task_id": "SE012",
+    "correct": false,
+    "found": [
+      "Immigration, Asylum and Nationality Act 2006"
+    ],
+    "missing": [
+      "Immigration Act 2014",
+      "Immigration Act 1971"
+    ],
+    "llama_text_snippet": "The Immigration Act 2016 repeals the following legislation:\n\n1. The Immigration and Asylum Act 1999 (sections 31, 32, and 33, which related to the detention of unaccompanied children).\n2. The Nationality, Immigration and Asylum Act 2002 (sections 26 to 28, which related to the removal of persons wit"
+  },
+  {
+    "task_id": "SE013",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Immigration Act 1971"
+    ],
+    "llama_text_snippet": "The Immigration Act 2014 amends the following legislations:\n\n1. The Immigration and Asylum Act 1999\n2. The Nationality, Immigration and Asylum Act 2002\n3. The Asylum and Immigration (Treatment of Claimants, etc.) Act 2004\n4. The Immigration, Asylum and Nationality Act 2006\n5. The UK Borders Act 2007"
+  },
+  {
+    "task_id": "SE014",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Immigration Act 1971"
+    ],
+    "llama_text_snippet": "The Health and Social Care Act 2012 amends several pieces of legislation, including:\n\n1. National Health Service Act 2006\n2. National Health Service (Wales) Act 2006\n3. Health and Social Care (Community Health and Standards) Act 2003\n4. Health Act 2009\n5. National Health Service Reform and Health Ca"
+  },
+  {
+    "task_id": "SE015",
+    "correct": true,
+    "found": [
+      "Criminal Justice and Immigration Act 2008",
+      "Access to Justice Act 1999"
+    ],
+    "missing": [],
+    "llama_text_snippet": "The Coroners and Justice Act 2009 repeals the following legislation:\n\n1. The Suicide Act 1961 (section 2(1) of the Coroners and Justice Act 2009 repeals section 2(1) of the Suicide Act 1961, which made it an offense to aid, abet, counsel, or procure the suicide of another person, but this repeal doe"
+  },
+  {
+    "task_id": "SE016",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Jobseekers Act 1995"
+    ],
+    "llama_text_snippet": "The Welfare Reform Act 2009 repeals several pieces of legislation, including:\n\n1. The Social Security (Incapacity for Work) Act 1994\n2. The Social Security (Incapacity Benefit) Regulations 1995\n3. The Social Security (Incapacity Benefit) (Amendment) Regulations 1996\n4. The Social Security (Incapacit"
+  },
+  {
+    "task_id": "SE017",
+    "correct": true,
+    "found": [
+      "Pensions Act 2004",
+      "Pension Schemes Act 1993"
+    ],
+    "missing": [],
+    "llama_text_snippet": "The Pensions Act 2008 amends several pieces of legislation, including:\n\n1. Pensions Act 2004: This act is significantly amended by the Pensions Act 2008, with changes to the regulatory framework, pension protection, and other areas.\n2. Welfare Reform Act 2007: The Pensions Act 2008 amends certain pr"
+  },
+  {
+    "task_id": "SE018",
+    "correct": true,
+    "found": [
+      "Nationality, Immigration and Asylum Act 2002"
+    ],
+    "missing": [],
+    "llama_text_snippet": "The UK Borders Act 2007 amends the following legislation:\n\n1. The Immigration and Asylum Act 1999\n2. The Nationality, Immigration and Asylum Act 2002\n3. The Asylum and Immigration (Treatment of Claimants, etc.) Act 2004\n4. The Immigration, Asylum and Nationality Act 2006"
+  },
+  {
+    "task_id": "SE019",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions Act 1995"
+    ],
+    "llama_text_snippet": "I cannot provide a list of the legislation(s) that the Pensions Act 2007 amends."
+  },
+  {
+    "task_id": "SE020",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions Act 1995"
+    ],
+    "llama_text_snippet": "I cannot verify which legislation(s) the Pensions Act 2007 repeals."
+  },
+  {
+    "task_id": "SE021",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions Act 1995"
+    ],
+    "llama_text_snippet": "I cannot verify which legislation the Pensions Act 2007 replaces."
+  },
+  {
+    "task_id": "SE022",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Pensions Act 2004"
+    ],
+    "llama_text_snippet": "I cannot verify which legislation the Pensions Act 2007 substitutes."
+  },
+  {
+    "task_id": "SE023",
+    "correct": true,
+    "found": [
+      "Pensions Act 1995",
+      "Pension Schemes Act 1993"
+    ],
+    "missing": [],
+    "llama_text_snippet": "The Pensions Act 2004 amends several pieces of legislation, including:\n\n1. Pension Schemes Act 1993\n2. Pensions Act 1995\n3. Welfare Reform and Pensions Act 1999\n\nThese amendments aim to improve the regulation and security of pension schemes in the United Kingdom."
+  },
+  {
+    "task_id": "SE024",
+    "correct": true,
+    "found": [
+      "Pensions Act 1995"
+    ],
+    "missing": [],
+    "llama_text_snippet": "The Pensions Act 2004 repeals the following legislation:\n\n1. The Pensions Act 1995\n2. The Welfare Reform and Pensions Act 1999 (Part II, which dealt with stakeholder pensions)\n3. The Pensions Act 2002 (sections 1 and 2, which dealt with the introduction of the Pension Protection Fund)\n4. The Pension"
+  },
+  {
+    "task_id": "SE025",
+    "correct": true,
+    "found": [
+      "Atomic Energy Authority Act 1971"
+    ],
+    "missing": [],
+    "llama_text_snippet": "The Energy Act 2004 repeals the following legislation:\n\n1. Part II of the Atomic Energy Authority Act 1971\n2. The Nuclear Industry (Finance) Act 1977\n3. Part II of the Atomic Energy Authority Act 1986\n4. Section 3(4) of the Atomic Energy Authority Act 1995 \n\nPlease note that the information provided"
+  },
+  {
+    "task_id": "SE026",
+    "correct": true,
+    "found": [
+      "Immigration and Asylum Act 1999"
+    ],
+    "missing": [],
+    "llama_text_snippet": "The Nationality, Immigration and Asylum Act 2002 amends the following legislation:\n\n1. The Immigration Act 1971\n2. The British Nationality Act 1981\n3. The Asylum and Immigration Appeals Act 1993\n4. The Immigration and Asylum Act 1999\n5. The Special Immigration Appeals Commission Act 1997\n6. The Race"
+  },
+  {
+    "task_id": "SE027",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Matrimonial Causes Act 1973"
+    ],
+    "llama_text_snippet": "The Welfare Reform and Pensions Act 1999 amends several pieces of legislation, including:\n\n1. Social Security Contributions and Benefits Act 1992\n2. Social Security Administration Act 1992\n3. Pension Schemes Act 1993\n4. Pensions Act 1995\n5. Social Security Act 1998\n\nThese amendments relate to variou"
+  },
+  {
+    "task_id": "SE028",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Judicial Pensions Act 1981"
+    ],
+    "llama_text_snippet": "The Courts and Legal Services Act 1990 amends several pieces of legislation, including:\n\n1. The Solicitors Act 1974\n2. The Administration of Justice Act 1985\n3. The Legal Aid Act 1988\n4. The Supreme Court Act 1981\n5. The County Courts Act 1984\n6. The Courts and Legal Services Act 1990 also repeals a"
+  },
+  {
+    "task_id": "SE029",
+    "correct": true,
+    "found": [
+      "Pensions Act"
+    ],
+    "missing": [],
+    "llama_text_snippet": "The Social Security Act 1990 amends the Social Security Act 1975, the Social Security Pensions Act 1975, and the Child Benefit Act 1975, as well as other related legislation."
+  },
+  {
+    "task_id": "SE030",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Extradition Act 1895"
+    ],
+    "llama_text_snippet": "The Extradition Act 1989 replaces the following legislation:\n\n1. Extradition Acts 1870 to 1935\n2. Fugitive Offenders Act 1881\n3. Extradition Act 1873 (in relation to Hong Kong)"
+  },
+  {
+    "task_id": "SE031",
+    "correct": true,
+    "found": [
+      "Parliamentary and other Pensions Act 1972"
+    ],
+    "missing": [],
+    "llama_text_snippet": "The Parliamentary and other Pensions Act 1987 repeals the following legislation:\n\n1. The Parliamentary and other Pensions Act 1972\n2. The Ministerial and other Salaries Act 1975\n3. The Parliamentary and other Pensions Act 1978\n4. Section 5(2) of the Statutory Instruments Act 1946"
+  },
+  {
+    "task_id": "SE032",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Parliamentary and other Pensions and Salaries Act 1976"
+    ],
+    "llama_text_snippet": "The Parliamentary Pensions etc. Act 1984 repeals the following legislation:\n\n1. The Parliamentary and other Pensions Act 1972\n2. The Ministerial and other Salaries Act 1975\n3. The Parliamentary and other Pensions Act 1978"
+  },
+  {
+    "task_id": "SE033",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Extradition Act 1873"
+    ],
+    "llama_text_snippet": "The Sexual Offences Act 1956 amends the following legislation:\n\n1. The Vagrants Act 1824\n2. The Town Police Clauses Act 1847\n3. The Metropolitan Police Act 1839\n4. The Criminal Law Amendment Act 1885\n5. The Punishment of Incest Act 1908"
+  },
+  {
+    "task_id": "SE034",
+    "correct": false,
+    "found": [],
+    "missing": [
+      "Local Government (Emergency Provisions) Act 1916",
+      "Pensions (Increase) Act 1971",
+      "Pensions Commutation Act 1871",
+      "Transport Act 1978"
+    ],
+    "llama_text_snippet": "The Civil Partnership Act 2004, which applies to Northern Ireland, amends several pieces of legislation. Some of the key legislation amended by the Civil Partnership Act 2004 include:\n\n1. The Births and Deaths Registration (Northern Ireland) Order 1976: This amendment allows for the registration of "
+  }
+]
