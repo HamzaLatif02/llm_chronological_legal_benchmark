@@ -1,0 +1,2002 @@
+[
+  {
+    "task_id": "CH001",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Council Regulation (EU) 2015/1360 of 4 August 2015 amending Regulation (EU) No 407/2010 establishing a European financial stabilisation mechanism, Council Regulation (EEC) No 1641/76 of 29 June 1976 amending Regulations (EEC) No 3152/75 and (EEC) No 3153/75 opening, allocating and providing for the administration of Community tariff quotas for outer garments falling within heading Nos 60.05 and 61.01 of the Common Customs Tariff, originating in Malta (1976), The Tuberculosis (Scotland) Order 2023",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Council Regulation (EU) 2015/1360 of 4 August 2015 amending Regulation (EU) No 407/2010 establishing a European financial stabilisation mechanism (2020-12-13T00:51:14Z); Council Regulation (EEC) No 1641/76 of 29 June 1976 amending Regulations (EEC) No 3152/75 and (EEC) No 3153/75 opening, allocating and providing for the administration of Community tariff quotas for outer garments falling within heading Nos 60.05 and 61.01 of the Common Customs Tariff, originating in Malta (1976) (2020-12-12T06:05:21Z); The Tuberculosis (Scotland) Order 2023 (2023-03-30T10:34:00Z)",
+    "answer": [
+      {
+        "title": "Council Regulation (EEC) No 1641/76 of 29 June 1976 amending Regulations (EEC) No 3152/75 and (EEC) No 3153/75 opening, allocating and providing for the administration of Community tariff quotas for outer garments falling within heading Nos 60.05 and 61.01 of the Common Customs Tariff, originating in Malta (1976)",
+        "entry_updated": "2020-12-12T06:05:21Z"
+      },
+      {
+        "title": "Council Regulation (EU) 2015/1360 of 4 August 2015 amending Regulation (EU) No 407/2010 establishing a European financial stabilisation mechanism",
+        "entry_updated": "2020-12-13T00:51:14Z"
+      },
+      {
+        "title": "The Tuberculosis (Scotland) Order 2023",
+        "entry_updated": "2023-03-30T10:34:00Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH002",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Regulation (EEC) No 948/90 of 11 April 1990 opening an invitation to tender for the supply of olive oil to Romania, The Insolvency (Amendment) (No. 2) Rules 2002, 88/559/EEC: Commission Decision of 21 October 1988 amending Decision 85/472/EEC on health protection measures in respect of Zimbabwe",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Regulation (EEC) No 948/90 of 11 April 1990 opening an invitation to tender for the supply of olive oil to Romania (2020-12-11T10:18:12Z); The Insolvency (Amendment) (No. 2) Rules 2002 (2025-01-01T08:50:25Z); 88/559/EEC: Commission Decision of 21 October 1988 amending Decision 85/472/EEC on health protection measures in respect of Zimbabwe (2020-12-11T19:13:00Z)",
+    "answer": [
+      {
+        "title": "Commission Regulation (EEC) No 948/90 of 11 April 1990 opening an invitation to tender for the supply of olive oil to Romania",
+        "entry_updated": "2020-12-11T10:18:12Z"
+      },
+      {
+        "title": "88/559/EEC: Commission Decision of 21 October 1988 amending Decision 85/472/EEC on health protection measures in respect of Zimbabwe",
+        "entry_updated": "2020-12-11T19:13:00Z"
+      },
+      {
+        "title": "The Insolvency (Amendment) (No. 2) Rules 2002",
+        "entry_updated": "2025-01-01T08:50:25Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH003",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Regulation (EEC) No 3945/87 of 21 December 1987 amending Regulations (EEC) No 171/78, (EEC) No 232/83 and (EEC) No 1700/84 on export refunds for pigmeat, The Social Security (Earnings Factor) Regulations 1979, The Farming with Nature Scheme Regulations (Northern Ireland) 2025",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Regulation (EEC) No 3945/87 of 21 December 1987 amending Regulations (EEC) No 171/78, (EEC) No 232/83 and (EEC) No 1700/84 on export refunds for pigmeat (2020-12-12T20:09:39Z); The Social Security (Earnings Factor) Regulations 1979 (2019-10-11T00:00:00); The Farming with Nature Scheme Regulations (Northern Ireland) 2025 (2025-06-27T02:15:52.127649+01:00)",
+    "answer": [
+      {
+        "title": "The Social Security (Earnings Factor) Regulations 1979",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 3945/87 of 21 December 1987 amending Regulations (EEC) No 171/78, (EEC) No 232/83 and (EEC) No 1700/84 on export refunds for pigmeat",
+        "entry_updated": "2020-12-12T20:09:39Z"
+      },
+      {
+        "title": "The Farming with Nature Scheme Regulations (Northern Ireland) 2025",
+        "entry_updated": "2025-06-27T02:15:52.127649+01:00"
+      }
+    ]
+  },
+  {
+    "task_id": "CH004",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Asylum (First List of Safe Countries) (Amendment) Order 2006, Commission Regulation (EEC) No 1333/76 of 9 June 1976 amending Regulation (EEC) No 1896/73 on detailed rules for the application of intervention measures on the market in beef and veal, The Plant Health (Import Inspection Fees) (England) Regulations 2010",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Asylum (First List of Safe Countries) (Amendment) Order 2006 (2022-06-28T16:21:46Z); Commission Regulation (EEC) No 1333/76 of 9 June 1976 amending Regulation (EEC) No 1896/73 on detailed rules for the application of intervention measures on the market in beef and veal (2020-12-11T21:02:55Z); The Plant Health (Import Inspection Fees) (England) Regulations 2010 (2017-09-06T11:11:51.114606+01:00)",
+    "answer": [
+      {
+        "title": "The Plant Health (Import Inspection Fees) (England) Regulations 2010",
+        "entry_updated": "2017-09-06T11:11:51.114606+01:00"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 1333/76 of 9 June 1976 amending Regulation (EEC) No 1896/73 on detailed rules for the application of intervention measures on the market in beef and veal",
+        "entry_updated": "2020-12-11T21:02:55Z"
+      },
+      {
+        "title": "The Asylum (First List of Safe Countries) (Amendment) Order 2006",
+        "entry_updated": "2022-06-28T16:21:46Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH005",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Landfill Tax (Amendment) Regulations 2013, DOCUMENTS CONCERNING THE ACCESSION OF THE HELLENIC REPUBLIC TO THE EUROPEAN COMMUNITIES, ACT CONCERNING THE CONDITIONS OF ACCESSION OF THE HELLENIC REPUBLIC AND THE ADJUSTMENTS TO THE TREATIES, ANNEX I LIST REFERRED TO IN ARTICLE 21 OF THE ACT OF ACCESSION, II. AGRICULTURE, B. COMMON ORGANIZATION OF MARKETS, I) FISHERIES, The Oil and Fibre Plant Seed (England) Regulations 2002",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Landfill Tax (Amendment) Regulations 2013 (2013-10-31T16:13:14.303Z); DOCUMENTS CONCERNING THE ACCESSION OF THE HELLENIC REPUBLIC TO THE EUROPEAN COMMUNITIES, ACT CONCERNING THE CONDITIONS OF ACCESSION OF THE HELLENIC REPUBLIC AND THE ADJUSTMENTS TO THE TREATIES, ANNEX I LIST REFERRED TO IN ARTICLE 21 OF THE ACT OF ACCESSION, II. AGRICULTURE, B. COMMON ORGANIZATION OF MARKETS, I) FISHERIES (2020-12-11T18:25:02Z); The Oil and Fibre Plant Seed (England) Regulations 2002 (2017-09-15T19:50:43Z)",
+    "answer": [
+      {
+        "title": "The Oil and Fibre Plant Seed (England) Regulations 2002",
+        "entry_updated": "2017-09-15T19:50:43Z"
+      },
+      {
+        "title": "The Landfill Tax (Amendment) Regulations 2013",
+        "entry_updated": "2013-10-31T16:13:14.303Z"
+      },
+      {
+        "title": "DOCUMENTS CONCERNING THE ACCESSION OF THE HELLENIC REPUBLIC TO THE EUROPEAN COMMUNITIES, ACT CONCERNING THE CONDITIONS OF ACCESSION OF THE HELLENIC REPUBLIC AND THE ADJUSTMENTS TO THE TREATIES, ANNEX I LIST REFERRED TO IN ARTICLE 21 OF THE ACT OF ACCESSION, II. AGRICULTURE, B. COMMON ORGANIZATION OF MARKETS, I) FISHERIES",
+        "entry_updated": "2020-12-11T18:25:02Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH006",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Wages Regulation (Pin, Hook and Eye, and Snap Fastener) (No. 2) Order 1974, Commission Regulation (EEC) No 954/87 of 1 April 1987 on sampling of catches for the purpose of determining the percentage of target species and protected species when fishing with small-meshed nets, The Public Services Reform (Corporate Insolvency and Bankruptcy) (Scotland) Order 2017",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Wages Regulation (Pin, Hook and Eye, and Snap Fastener) (No. 2) Order 1974 (2019-10-11T00:00:00); Commission Regulation (EEC) No 954/87 of 1 April 1987 on sampling of catches for the purpose of determining the percentage of target species and protected species when fishing with small-meshed nets (2020-12-12T03:16:58Z); The Public Services Reform (Corporate Insolvency and Bankruptcy) (Scotland) Order 2017 (2024-01-29T10:54:31Z)",
+    "answer": [
+      {
+        "title": "The Public Services Reform (Corporate Insolvency and Bankruptcy) (Scotland) Order 2017",
+        "entry_updated": "2024-01-29T10:54:31Z"
+      },
+      {
+        "title": "The Wages Regulation (Pin, Hook and Eye, and Snap Fastener) (No. 2) Order 1974",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 954/87 of 1 April 1987 on sampling of catches for the purpose of determining the percentage of target species and protected species when fishing with small-meshed nets",
+        "entry_updated": "2020-12-12T03:16:58Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH007",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Noise Emission in the Environment by Equipment for use Outdoors (Amendment) (Northern Ireland) Regulations 2025, Commission Regulation (EC) No 442/2009 of 27 May 2009 opening and providing for the administration of Community tariff quotas in the pigmeat sector, The North Lincolnshire Green Energy Park Order 2025",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Noise Emission in the Environment by Equipment for use Outdoors (Amendment) (Northern Ireland) Regulations 2025 (2025-06-18T10:39:54Z); Commission Regulation (EC) No 442/2009 of 27 May 2009 opening and providing for the administration of Community tariff quotas in the pigmeat sector (2020-12-11T06:09:35Z); The North Lincolnshire Green Energy Park Order 2025 (2025-06-04T09:29:33Z)",
+    "answer": [
+      {
+        "title": "Commission Regulation (EC) No 442/2009 of 27 May 2009 opening and providing for the administration of Community tariff quotas in the pigmeat sector",
+        "entry_updated": "2020-12-11T06:09:35Z"
+      },
+      {
+        "title": "The North Lincolnshire Green Energy Park Order 2025",
+        "entry_updated": "2025-06-04T09:29:33Z"
+      },
+      {
+        "title": "The Noise Emission in the Environment by Equipment for use Outdoors (Amendment) (Northern Ireland) Regulations 2025",
+        "entry_updated": "2025-06-18T10:39:54Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH008",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007, Directive (EU) 2015/2203 of the European Parliament and of the Council of 25 November 2015 on the approximation of the laws of the Member States relating to caseins and caseinates intended for human consumption and repealing Council Directive 83/417/EEC, The Value Added Tax (Input Tax) (Specified Supplies) (EU Exit) (No. 2) Regulations 2019",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007 (2024-08-27T11:05:27.594164+01:00); Directive (EU) 2015/2203 of the European Parliament and of the Council of 25 November 2015 on the approximation of the laws of the Member States relating to caseins and caseinates intended for human consumption and repealing Council Directive 83/417/EEC (2020-12-09T19:22:49Z); The Value Added Tax (Input Tax) (Specified Supplies) (EU Exit) (No. 2) Regulations 2019 (2021-03-08T16:06:58Z)",
+    "answer": [
+      {
+        "title": "Directive (EU) 2015/2203 of the European Parliament and of the Council of 25 November 2015 on the approximation of the laws of the Member States relating to caseins and caseinates intended for human consumption and repealing Council Directive 83/417/EEC",
+        "entry_updated": "2020-12-09T19:22:49Z"
+      },
+      {
+        "title": "The Value Added Tax (Input Tax) (Specified Supplies) (EU Exit) (No. 2) Regulations 2019",
+        "entry_updated": "2021-03-08T16:06:58Z"
+      },
+      {
+        "title": "The Licensing Act 2003 (Summary Review of Premises Licences) Regulations 2007",
+        "entry_updated": "2024-08-27T11:05:27.594164+01:00"
+      }
+    ]
+  },
+  {
+    "task_id": "CH009",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Council Implementing Regulation (EU) No 573/2011 of 16 June 2011 implementing Article 16(2) of Regulation (EU) No 204/2011 concerning restrictive measures in view of the situation in Libya, The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2023, The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions) (Amendment) Regulations (Northern Ireland) 2006",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Council Implementing Regulation (EU) No 573/2011 of 16 June 2011 implementing Article 16(2) of Regulation (EU) No 204/2011 concerning restrictive measures in view of the situation in Libya (2020-12-11T00:37:42Z); The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2023 (2023-03-17T14:21:43Z); The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions) (Amendment) Regulations (Northern Ireland) 2006 (2024-05-17T08:18:18Z)",
+    "answer": [
+      {
+        "title": "Council Implementing Regulation (EU) No 573/2011 of 16 June 2011 implementing Article 16(2) of Regulation (EU) No 204/2011 concerning restrictive measures in view of the situation in Libya",
+        "entry_updated": "2020-12-11T00:37:42Z"
+      },
+      {
+        "title": "The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2023",
+        "entry_updated": "2023-03-17T14:21:43Z"
+      },
+      {
+        "title": "The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions) (Amendment) Regulations (Northern Ireland) 2006",
+        "entry_updated": "2024-05-17T08:18:18Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH010",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Air Navigation (Restriction of Flying) (Security Establishments in Northern Ireland) (Revocation) Regulations 2007, The Bankruptcy (Scotland) Regulations 2014, The Newcastle upon Tyne Hospitals National Health Service Trust (Establishment) Amendment Order 2001",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Air Navigation (Restriction of Flying) (Security Establishments in Northern Ireland) (Revocation) Regulations 2007 (2013-10-12T16:45:53.021+01:00); The Bankruptcy (Scotland) Regulations 2014 (2017-11-13T17:53:11Z); The Newcastle upon Tyne Hospitals National Health Service Trust (Establishment) Amendment Order 2001 (2013-10-13T01:26:12.489+01:00)",
+    "answer": [
+      {
+        "title": "The Air Navigation (Restriction of Flying) (Security Establishments in Northern Ireland) (Revocation) Regulations 2007",
+        "entry_updated": "2013-10-12T16:45:53.021+01:00"
+      },
+      {
+        "title": "The Newcastle upon Tyne Hospitals National Health Service Trust (Establishment) Amendment Order 2001",
+        "entry_updated": "2013-10-13T01:26:12.489+01:00"
+      },
+      {
+        "title": "The Bankruptcy (Scotland) Regulations 2014",
+        "entry_updated": "2017-11-13T17:53:11Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH011",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Implementing Regulation (EU) 2019/893 of 28 May 2019 concerning the renewal of the authorisation of Bacillus subtilis DSM 15544 as a feed additive for chickens for fattening and repealing Regulation (EC) No 1444/2006 (holder of authorisation Asahi Calpis Wellness Co. Ltd, represented in the Union by Asahi Calpis Wellness Co. Ltd Europe Representative Office) (Text with EEA relevance.), Commission Regulation (EEC) No 1663/90 of 20 June 1990 amending Regulation (EEC) No 1385/88 laying down special detailed rules for the application of the system of import licences for fresh sour cherries originating in Yugoslavia, National Health Service Act 2006",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Implementing Regulation (EU) 2019/893 of 28 May 2019 concerning the renewal of the authorisation of Bacillus subtilis DSM 15544 as a feed additive for chickens for fattening and repealing Regulation (EC) No 1444/2006 (holder of authorisation Asahi Calpis Wellness Co. Ltd, represented in the Union by Asahi Calpis Wellness Co. Ltd Europe Representative Office) (Text with EEA relevance.) (2020-12-11T23:34:11Z); Commission Regulation (EEC) No 1663/90 of 20 June 1990 amending Regulation (EEC) No 1385/88 laying down special detailed rules for the application of the system of import licences for fresh sour cherries originating in Yugoslavia (2020-12-12T18:29:26Z); National Health Service Act 2006 (2017-08-21T17:25:33Z)",
+    "answer": [
+      {
+        "title": "National Health Service Act 2006",
+        "entry_updated": "2017-08-21T17:25:33Z"
+      },
+      {
+        "title": "Commission Implementing Regulation (EU) 2019/893 of 28 May 2019 concerning the renewal of the authorisation of Bacillus subtilis DSM 15544 as a feed additive for chickens for fattening and repealing Regulation (EC) No 1444/2006 (holder of authorisation Asahi Calpis Wellness Co. Ltd, represented in the Union by Asahi Calpis Wellness Co. Ltd Europe Representative Office) (Text with EEA relevance.)",
+        "entry_updated": "2020-12-11T23:34:11Z"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 1663/90 of 20 June 1990 amending Regulation (EEC) No 1385/88 laying down special detailed rules for the application of the system of import licences for fresh sour cherries originating in Yugoslavia",
+        "entry_updated": "2020-12-12T18:29:26Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH012",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Official Feed and Food Controls (England) Regulations 2009, The Criminal Justice (Scotland) Act 2016 (Commencement No. 3 and Saving Provision) Order 2016, The Yorkshire Regional Flood Defence Committee Order 2005",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Official Feed and Food Controls (England) Regulations 2009 (2022-07-11T10:34:39Z); The Criminal Justice (Scotland) Act 2016 (Commencement No. 3 and Saving Provision) Order 2016 (2020-10-22T16:29:57Z); The Yorkshire Regional Flood Defence Committee Order 2005 (2012-10-17T05:37:30Z)",
+    "answer": [
+      {
+        "title": "The Yorkshire Regional Flood Defence Committee Order 2005",
+        "entry_updated": "2012-10-17T05:37:30Z"
+      },
+      {
+        "title": "The Official Feed and Food Controls (England) Regulations 2009",
+        "entry_updated": "2022-07-11T10:34:39Z"
+      },
+      {
+        "title": "The Criminal Justice (Scotland) Act 2016 (Commencement No. 3 and Saving Provision) Order 2016",
+        "entry_updated": "2020-10-22T16:29:57Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH013",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Council Directive 96/90/EC of 17 December 1996 amending Directive 92/118/EEC laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A (I) to Directive 89/662/EEC and, as regards pathogens, to Directive 90/425/EEC, The Farm Woodland (Variation) Scheme 1991, The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 2010",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Council Directive 96/90/EC of 17 December 1996 amending Directive 92/118/EEC laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A (I) to Directive 89/662/EEC and, as regards pathogens, to Directive 90/425/EEC (2020-12-11T00:10:46Z); The Farm Woodland (Variation) Scheme 1991 (2019-07-11T00:00:00); The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 2010 (2013-06-14T09:18:05Z)",
+    "answer": [
+      {
+        "title": "The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 2010",
+        "entry_updated": "2013-06-14T09:18:05Z"
+      },
+      {
+        "title": "The Farm Woodland (Variation) Scheme 1991",
+        "entry_updated": "2019-07-11T00:00:00"
+      },
+      {
+        "title": "Council Directive 96/90/EC of 17 December 1996 amending Directive 92/118/EEC laying down animal health and public health requirements governing trade in and imports into the Community of products not subject to the said requirements laid down in specific Community rules referred to in Annex A (I) to Directive 89/662/EEC and, as regards pathogens, to Directive 90/425/EEC",
+        "entry_updated": "2020-12-11T00:10:46Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH014",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Weights and Measures (Intoxicating Liquor) Order 1988, The Portsmouth College of Art, Design and Further Education (Dissolution) Order 1994, Commission Decision of 25 February 1977 derogating from High Authority recommendation 1164 concerning an increase in the protective duty on iron and steel products at the external frontiers of the Community (86th derogation)",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Weights and Measures (Intoxicating Liquor) Order 1988 (2019-10-11T00:00:00); The Portsmouth College of Art, Design and Further Education (Dissolution) Order 1994 (2013-10-12T02:40:35.006+01:00); Commission Decision of 25 February 1977 derogating from High Authority recommendation 1164 concerning an increase in the protective duty on iron and steel products at the external frontiers of the Community (86th derogation) (2020-12-12T04:14:21Z)",
+    "answer": [
+      {
+        "title": "The Portsmouth College of Art, Design and Further Education (Dissolution) Order 1994",
+        "entry_updated": "2013-10-12T02:40:35.006+01:00"
+      },
+      {
+        "title": "The Weights and Measures (Intoxicating Liquor) Order 1988",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "Commission Decision of 25 February 1977 derogating from High Authority recommendation 1164 concerning an increase in the protective duty on iron and steel products at the external frontiers of the Community (86th derogation)",
+        "entry_updated": "2020-12-12T04:14:21Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH015",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The National Health Service (General Dental Services) (Miscellaneous Amendments) (Scotland) (No.2) Regulations 1990, The Education (Grants for Education Support and Training) (Wales) Regulations 1995, The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The National Health Service (General Dental Services) (Miscellaneous Amendments) (Scotland) (No.2) Regulations 1990 (2019-10-11T00:00:00); The Education (Grants for Education Support and Training) (Wales) Regulations 1995 (2019-07-11T00:00:00); The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (2020-01-21T14:44:57Z)",
+    "answer": [
+      {
+        "title": "The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008",
+        "entry_updated": "2020-01-21T14:44:57Z"
+      },
+      {
+        "title": "The Education (Grants for Education Support and Training) (Wales) Regulations 1995",
+        "entry_updated": "2019-07-11T00:00:00"
+      },
+      {
+        "title": "The National Health Service (General Dental Services) (Miscellaneous Amendments) (Scotland) (No.2) Regulations 1990",
+        "entry_updated": "2019-10-11T00:00:00"
+      }
+    ]
+  },
+  {
+    "task_id": "CH016",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Pensions Regulator Tribunal (Transfer of Functions) (2010 Act) (Commencement) Order (Northern Ireland) 2010, 93/79/EEC: Commission Decision of 22 December 1992 laying down certain transitional measures to facilitate transition to the new arrangements for the organization of veterinary checks provided for in Article 8 of Council Directive 91/496/EEC and repealing Decision 92/501/EEC, Commission Implementing Regulation (EU) No 456/2012 of 30 May 2012 amending Regulation (EC) No 1266/2007 on implementing rules for Council Directive 2000/75/EC as regards the control, monitoring, surveillance and restrictions on movements of certain animals of susceptible species in relation to bluetongue  Text with EEA relevance",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Pensions Regulator Tribunal (Transfer of Functions) (2010 Act) (Commencement) Order (Northern Ireland) 2010 (2024-03-14T09:02:04Z); 93/79/EEC: Commission Decision of 22 December 1992 laying down certain transitional measures to facilitate transition to the new arrangements for the organization of veterinary checks provided for in Article 8 of Council Directive 91/496/EEC and repealing Decision 92/501/EEC (2020-12-11T19:27:07Z); Commission Implementing Regulation (EU) No 456/2012 of 30 May 2012 amending Regulation (EC) No 1266/2007 on implementing rules for Council Directive 2000/75/EC as regards the control, monitoring, surveillance and restrictions on movements of certain animals of susceptible species in relation to bluetongue  Text with EEA relevance (2020-12-11T02:24:13Z)",
+    "answer": [
+      {
+        "title": "Commission Implementing Regulation (EU) No 456/2012 of 30 May 2012 amending Regulation (EC) No 1266/2007 on implementing rules for Council Directive 2000/75/EC as regards the control, monitoring, surveillance and restrictions on movements of certain animals of susceptible species in relation to bluetongue  Text with EEA relevance",
+        "entry_updated": "2020-12-11T02:24:13Z"
+      },
+      {
+        "title": "93/79/EEC: Commission Decision of 22 December 1992 laying down certain transitional measures to facilitate transition to the new arrangements for the organization of veterinary checks provided for in Article 8 of Council Directive 91/496/EEC and repealing Decision 92/501/EEC",
+        "entry_updated": "2020-12-11T19:27:07Z"
+      },
+      {
+        "title": "The Pensions Regulator Tribunal (Transfer of Functions) (2010 Act) (Commencement) Order (Northern Ireland) 2010",
+        "entry_updated": "2024-03-14T09:02:04Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH017",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Regulation (EC) No 2472/97 of 11 December 1997 amending Regulation (EEC) No 2568/91 on the characteristics of olive oil and olive-residue oil and on the relevant methods of analysis and Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff, The Health Act 2006 (Commencement No. 6) Order 2008, The Republic of Belarus (Sanctions) (EU Exit) (Isle of Man) (Revocation) Order 2023",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Regulation (EC) No 2472/97 of 11 December 1997 amending Regulation (EEC) No 2568/91 on the characteristics of olive oil and olive-residue oil and on the relevant methods of analysis and Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff (2020-12-11T14:26:37Z); The Health Act 2006 (Commencement No. 6) Order 2008 (2017-12-13T14:32:12Z); The Republic of Belarus (Sanctions) (EU Exit) (Isle of Man) (Revocation) Order 2023 (2023-09-19T17:03:02.175437+01:00)",
+    "answer": [
+      {
+        "title": "The Health Act 2006 (Commencement No. 6) Order 2008",
+        "entry_updated": "2017-12-13T14:32:12Z"
+      },
+      {
+        "title": "Commission Regulation (EC) No 2472/97 of 11 December 1997 amending Regulation (EEC) No 2568/91 on the characteristics of olive oil and olive-residue oil and on the relevant methods of analysis and Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff",
+        "entry_updated": "2020-12-11T14:26:37Z"
+      },
+      {
+        "title": "The Republic of Belarus (Sanctions) (EU Exit) (Isle of Man) (Revocation) Order 2023",
+        "entry_updated": "2023-09-19T17:03:02.175437+01:00"
+      }
+    ]
+  },
+  {
+    "task_id": "CH018",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Transfer of Functions (Asylum Support Adjudicators) Order 2007, The Child Benefit, Tax Credits and Childcare Payments (Section 67 Immigration Act 2016 Leave) (Amendment) Regulations 2018, Commission Regulation (Euratom) No 302/2005 of 8 February 2005 on the application of Euratom safeguards - Council/Commission statement",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Transfer of Functions (Asylum Support Adjudicators) Order 2007 (2021-09-09T16:21:24Z); The Child Benefit, Tax Credits and Childcare Payments (Section 67 Immigration Act 2016 Leave) (Amendment) Regulations 2018 (2020-06-11T14:41:49.493887+01:00); Commission Regulation (Euratom) No 302/2005 of 8 February 2005 on the application of Euratom safeguards - Council/Commission statement (2020-12-11T02:13:06Z)",
+    "answer": [
+      {
+        "title": "The Transfer of Functions (Asylum Support Adjudicators) Order 2007",
+        "entry_updated": "2021-09-09T16:21:24Z"
+      },
+      {
+        "title": "The Child Benefit, Tax Credits and Childcare Payments (Section 67 Immigration Act 2016 Leave) (Amendment) Regulations 2018",
+        "entry_updated": "2020-06-11T14:41:49.493887+01:00"
+      },
+      {
+        "title": "Commission Regulation (Euratom) No 302/2005 of 8 February 2005 on the application of Euratom safeguards - Council/Commission statement",
+        "entry_updated": "2020-12-11T02:13:06Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH019",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Local Government Act 1988 (Defined Activities) (Exemptions) (Wales) (Amendment) Order 1998, Regulation (EU) 2015/1145 of the European Parliament and of the Council of 8 July 2015 on the safeguard measures provided for in the Agreement between the European Economic Community and the Swiss Confederation, Commission Regulation (EC) No 228/2008 of 13 March 2008 amending Regulation (EC) No 595/2004 with regard to intensity of controls on deliveries and direct sales of milk",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Local Government Act 1988 (Defined Activities) (Exemptions) (Wales) (Amendment) Order 1998 (2019-07-11T00:00:00); Regulation (EU) 2015/1145 of the European Parliament and of the Council of 8 July 2015 on the safeguard measures provided for in the Agreement between the European Economic Community and the Swiss Confederation (2020-12-09T20:04:25Z); Commission Regulation (EC) No 228/2008 of 13 March 2008 amending Regulation (EC) No 595/2004 with regard to intensity of controls on deliveries and direct sales of milk (2021-02-17T07:31:59Z)",
+    "answer": [
+      {
+        "title": "The Local Government Act 1988 (Defined Activities) (Exemptions) (Wales) (Amendment) Order 1998",
+        "entry_updated": "2019-07-11T00:00:00"
+      },
+      {
+        "title": "Regulation (EU) 2015/1145 of the European Parliament and of the Council of 8 July 2015 on the safeguard measures provided for in the Agreement between the European Economic Community and the Swiss Confederation",
+        "entry_updated": "2020-12-09T20:04:25Z"
+      },
+      {
+        "title": "Commission Regulation (EC) No 228/2008 of 13 March 2008 amending Regulation (EC) No 595/2004 with regard to intensity of controls on deliveries and direct sales of milk",
+        "entry_updated": "2021-02-17T07:31:59Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH020",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Taxes and Duties (Interest Rate) (Amendment) Regulations 2009, The Road Vehicles (Individual Approval) (Fees) (Amendment) Regulations 2012, Commission Regulation (EU) No 364/2011 of 13 April 2011 amending Annex I to Commission Regulation (EC) No 798/2008 and amending Commission Regulation (EC) No 1291/2008 as regards a control programme for Salmonella in certain poultry and eggs in Croatia in accordance with Regulation (EC) No 2160/2003 of the European Parliament and of the Council and correcting Commission Regulations (EU) No 925/2010 and (EU) No 955/2010  Text with EEA relevance",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Taxes and Duties (Interest Rate) (Amendment) Regulations 2009 (2013-05-24T09:38:15Z); The Road Vehicles (Individual Approval) (Fees) (Amendment) Regulations 2012 (2019-06-18T15:57:56.536548+01:00); Commission Regulation (EU) No 364/2011 of 13 April 2011 amending Annex I to Commission Regulation (EC) No 798/2008 and amending Commission Regulation (EC) No 1291/2008 as regards a control programme for Salmonella in certain poultry and eggs in Croatia in accordance with Regulation (EC) No 2160/2003 of the European Parliament and of the Council and correcting Commission Regulations (EU) No 925/2010 and (EU) No 955/2010  Text with EEA relevance (2020-12-10T23:30:57Z)",
+    "answer": [
+      {
+        "title": "The Road Vehicles (Individual Approval) (Fees) (Amendment) Regulations 2012",
+        "entry_updated": "2019-06-18T15:57:56.536548+01:00"
+      },
+      {
+        "title": "The Taxes and Duties (Interest Rate) (Amendment) Regulations 2009",
+        "entry_updated": "2013-05-24T09:38:15Z"
+      },
+      {
+        "title": "Commission Regulation (EU) No 364/2011 of 13 April 2011 amending Annex I to Commission Regulation (EC) No 798/2008 and amending Commission Regulation (EC) No 1291/2008 as regards a control programme for Salmonella in certain poultry and eggs in Croatia in accordance with Regulation (EC) No 2160/2003 of the European Parliament and of the Council and correcting Commission Regulations (EU) No 925/2010 and (EU) No 955/2010  Text with EEA relevance",
+        "entry_updated": "2020-12-10T23:30:57Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH021",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Non-Domestic Rating (Alteration of Lists and Appeals) (Amendment) (England) Regulations 2004, The Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) Regulations 2015, The County Court Fees (Amendment) Order 1996",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Non-Domestic Rating (Alteration of Lists and Appeals) (Amendment) (England) Regulations 2004 (2013-10-12T13:53:53.811+01:00); The Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) Regulations 2015 (2015-10-24T07:37:36.072+01:00); The County Court Fees (Amendment) Order 1996 (2019-07-11T00:00:00)",
+    "answer": [
+      {
+        "title": "The Non-Domestic Rating (Alteration of Lists and Appeals) (Amendment) (England) Regulations 2004",
+        "entry_updated": "2013-10-12T13:53:53.811+01:00"
+      },
+      {
+        "title": "The Wireless Telegraphy (Ultra-Wideband Equipment) (Exemption) Regulations 2015",
+        "entry_updated": "2015-10-24T07:37:36.072+01:00"
+      },
+      {
+        "title": "The County Court Fees (Amendment) Order 1996",
+        "entry_updated": "2019-07-11T00:00:00"
+      }
+    ]
+  },
+  {
+    "task_id": "CH022",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Implementing Decision (EU) 2016/2279 of 15 December 2016 amending the Annex to Implementing Decision (EU) 2016/2122 on protective measures in relation to outbreaks of the highly pathogenic avian influenza of subtype H5N8 in certain Member States (notified under document C(2016) 8835) (Text with EEA relevance ), The Housing (Prescribed Forms) (Repair Notices etc.) Regulations 1988, Regulation (EEC) No 1063/74 of the Commission of 30 April 1974 suspending the special import arrangements for frozen meat intended for the manufacture of certain preserved foods",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Implementing Decision (EU) 2016/2279 of 15 December 2016 amending the Annex to Implementing Decision (EU) 2016/2122 on protective measures in relation to outbreaks of the highly pathogenic avian influenza of subtype H5N8 in certain Member States (notified under document C(2016) 8835) (Text with EEA relevance ) (2020-12-12T20:33:37Z); The Housing (Prescribed Forms) (Repair Notices etc.) Regulations 1988 (2019-10-11T00:00:00); Regulation (EEC) No 1063/74 of the Commission of 30 April 1974 suspending the special import arrangements for frozen meat intended for the manufacture of certain preserved foods (2020-12-11T19:39:13Z)",
+    "answer": [
+      {
+        "title": "The Housing (Prescribed Forms) (Repair Notices etc.) Regulations 1988",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "Regulation (EEC) No 1063/74 of the Commission of 30 April 1974 suspending the special import arrangements for frozen meat intended for the manufacture of certain preserved foods",
+        "entry_updated": "2020-12-11T19:39:13Z"
+      },
+      {
+        "title": "Commission Implementing Decision (EU) 2016/2279 of 15 December 2016 amending the Annex to Implementing Decision (EU) 2016/2122 on protective measures in relation to outbreaks of the highly pathogenic avian influenza of subtype H5N8 in certain Member States (notified under document C(2016) 8835) (Text with EEA relevance )",
+        "entry_updated": "2020-12-12T20:33:37Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH023",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Implementing Regulation (EU) No 341/2012 of 19 April 2012 fixing the export refunds on poultrymeat, Council Regulation (EEC) No 3756/89 of 11 December 1989 amending Regulation (EEC) No 1678/85 fixing the conversion rates to be applied in agriculture, The Personal Equity Plan (Amendment No. 2) Regulations 2005",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Implementing Regulation (EU) No 341/2012 of 19 April 2012 fixing the export refunds on poultrymeat (2021-02-16T07:51:52Z); Council Regulation (EEC) No 3756/89 of 11 December 1989 amending Regulation (EEC) No 1678/85 fixing the conversion rates to be applied in agriculture (2020-12-11T01:49:16Z); The Personal Equity Plan (Amendment No. 2) Regulations 2005 (2013-10-12T14:44:59.908+01:00)",
+    "answer": [
+      {
+        "title": "The Personal Equity Plan (Amendment No. 2) Regulations 2005",
+        "entry_updated": "2013-10-12T14:44:59.908+01:00"
+      },
+      {
+        "title": "Council Regulation (EEC) No 3756/89 of 11 December 1989 amending Regulation (EEC) No 1678/85 fixing the conversion rates to be applied in agriculture",
+        "entry_updated": "2020-12-11T01:49:16Z"
+      },
+      {
+        "title": "Commission Implementing Regulation (EU) No 341/2012 of 19 April 2012 fixing the export refunds on poultrymeat",
+        "entry_updated": "2021-02-16T07:51:52Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH024",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Damages (Asbestos-related Conditions) (Scotland) Act 2009, Insolvency (No. 2) Act 1994, The Sugar Beet (Research and Education) Order 1976",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Damages (Asbestos-related Conditions) (Scotland) Act 2009 (2021-09-06T17:01:59Z); Insolvency (No. 2) Act 1994 (2024-01-29T10:54:31Z); The Sugar Beet (Research and Education) Order 1976 (2019-10-11T00:00:00)",
+    "answer": [
+      {
+        "title": "The Sugar Beet (Research and Education) Order 1976",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "Damages (Asbestos-related Conditions) (Scotland) Act 2009",
+        "entry_updated": "2021-09-06T17:01:59Z"
+      },
+      {
+        "title": "Insolvency (No. 2) Act 1994",
+        "entry_updated": "2024-01-29T10:54:31Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH025",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 2) Regulations 2021, The Building Societies (Prescribed Contracts) (Amendment) Order 1991, The Dartford – Thurrock Crossing (Amendment) Regulations 2006",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 2) Regulations 2021 (2021-08-12T10:04:50Z); The Building Societies (Prescribed Contracts) (Amendment) Order 1991 (2019-07-11T00:00:00); The Dartford – Thurrock Crossing (Amendment) Regulations 2006 (2013-10-12T16:04:55.059+01:00)",
+    "answer": [
+      {
+        "title": "The Dartford – Thurrock Crossing (Amendment) Regulations 2006",
+        "entry_updated": "2013-10-12T16:04:55.059+01:00"
+      },
+      {
+        "title": "The Building Societies (Prescribed Contracts) (Amendment) Order 1991",
+        "entry_updated": "2019-07-11T00:00:00"
+      },
+      {
+        "title": "The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 2) Regulations 2021",
+        "entry_updated": "2021-08-12T10:04:50Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH026",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Implementing Regulation (EU) No 107/2012 of 8 February 2012 amending the Annex to Regulation (EU) No 37/2010 on pharmacologically active substances and their classification regarding maximum residue limits in foodstuffs of animal origin, as regards the substance octenidine dihydrochloride  Text with EEA relevance, The Walsgrave Hospitals National Health Service Trust (Establishment) Amendment Order 1998, The Rules of the Supreme Court (Northern Ireland) (Amendment No. 2) 2009",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Implementing Regulation (EU) No 107/2012 of 8 February 2012 amending the Annex to Regulation (EU) No 37/2010 on pharmacologically active substances and their classification regarding maximum residue limits in foodstuffs of animal origin, as regards the substance octenidine dihydrochloride  Text with EEA relevance (2021-02-01T14:31:18Z); The Walsgrave Hospitals National Health Service Trust (Establishment) Amendment Order 1998 (2019-07-11T00:00:00); The Rules of the Supreme Court (Northern Ireland) (Amendment No. 2) 2009 (2025-06-28T06:43:36Z)",
+    "answer": [
+      {
+        "title": "The Walsgrave Hospitals National Health Service Trust (Establishment) Amendment Order 1998",
+        "entry_updated": "2019-07-11T00:00:00"
+      },
+      {
+        "title": "Commission Implementing Regulation (EU) No 107/2012 of 8 February 2012 amending the Annex to Regulation (EU) No 37/2010 on pharmacologically active substances and their classification regarding maximum residue limits in foodstuffs of animal origin, as regards the substance octenidine dihydrochloride  Text with EEA relevance",
+        "entry_updated": "2021-02-01T14:31:18Z"
+      },
+      {
+        "title": "The Rules of the Supreme Court (Northern Ireland) (Amendment No. 2) 2009",
+        "entry_updated": "2025-06-28T06:43:36Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH027",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Lincoln Hospitals National Health Service Trust (Change of Name) Order 1996, The Sea Fish Licensing (Wales) Order 2019 (revoked), The Mental Health (Care and Treatment) (Scotland) Act 2003 (Commencement No. 1) Order 2003",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Lincoln Hospitals National Health Service Trust (Change of Name) Order 1996 (2019-07-11T00:00:00); The Sea Fish Licensing (Wales) Order 2019 (revoked) (2023-03-22T14:56:45Z); The Mental Health (Care and Treatment) (Scotland) Act 2003 (Commencement No. 1) Order 2003 (2019-01-21T11:41:20Z)",
+    "answer": [
+      {
+        "title": "The Mental Health (Care and Treatment) (Scotland) Act 2003 (Commencement No. 1) Order 2003",
+        "entry_updated": "2019-01-21T11:41:20Z"
+      },
+      {
+        "title": "The Lincoln Hospitals National Health Service Trust (Change of Name) Order 1996",
+        "entry_updated": "2019-07-11T00:00:00"
+      },
+      {
+        "title": "The Sea Fish Licensing (Wales) Order 2019 (revoked)",
+        "entry_updated": "2023-03-22T14:56:45Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH028",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Crime and Courts Act 2013 (Commencement No. 12) Order 2015, Council Regulation (EEC) No 2410/92 of 23 July 1992 amending Regulation (EEC) No 3975/87 laying down the procedure for the application of the rules on competition to undertakings in the air transport sector, The Upper Tribunal for Scotland (Social Security Rules of Procedure) Regulations 2018",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Crime and Courts Act 2013 (Commencement No. 12) Order 2015 (2018-09-21T13:37:26Z); Council Regulation (EEC) No 2410/92 of 23 July 1992 amending Regulation (EEC) No 3975/87 laying down the procedure for the application of the rules on competition to undertakings in the air transport sector (2020-12-12T18:23:35Z); The Upper Tribunal for Scotland (Social Security Rules of Procedure) Regulations 2018 (2018-09-19T15:46:59Z)",
+    "answer": [
+      {
+        "title": "The Upper Tribunal for Scotland (Social Security Rules of Procedure) Regulations 2018",
+        "entry_updated": "2018-09-19T15:46:59Z"
+      },
+      {
+        "title": "The Crime and Courts Act 2013 (Commencement No. 12) Order 2015",
+        "entry_updated": "2018-09-21T13:37:26Z"
+      },
+      {
+        "title": "Council Regulation (EEC) No 2410/92 of 23 July 1992 amending Regulation (EEC) No 3975/87 laying down the procedure for the application of the rules on competition to undertakings in the air transport sector",
+        "entry_updated": "2020-12-12T18:23:35Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH029",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Civil Jurisdiction and Judgments (Protection Measures) (Scotland) Regulations 2014, Commission Delegated Directive (EU) 2019/1846 of 8 August 2019 amending, for the purposes of adapting to scientific and technical progress, Annex III to Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for lead in solders used in certain combustion engines (Text with EEA relevance), The Sugar (Distribution Payments) (No. 6) Order 1972",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Civil Jurisdiction and Judgments (Protection Measures) (Scotland) Regulations 2014 (2023-08-10T10:35:49.930982+01:00); Commission Delegated Directive (EU) 2019/1846 of 8 August 2019 amending, for the purposes of adapting to scientific and technical progress, Annex III to Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for lead in solders used in certain combustion engines (Text with EEA relevance) (2020-12-11T14:04:22Z); The Sugar (Distribution Payments) (No. 6) Order 1972 (2019-10-11T00:00:00)",
+    "answer": [
+      {
+        "title": "The Sugar (Distribution Payments) (No. 6) Order 1972",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "Commission Delegated Directive (EU) 2019/1846 of 8 August 2019 amending, for the purposes of adapting to scientific and technical progress, Annex III to Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for lead in solders used in certain combustion engines (Text with EEA relevance)",
+        "entry_updated": "2020-12-11T14:04:22Z"
+      },
+      {
+        "title": "The Civil Jurisdiction and Judgments (Protection Measures) (Scotland) Regulations 2014",
+        "entry_updated": "2023-08-10T10:35:49.930982+01:00"
+      }
+    ]
+  },
+  {
+    "task_id": "CH030",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: 2011/26/EU: Commission Decision of 14 January 2011 authorising Member States to adopt certain derogations pursuant to Directive 2008/68/EC of the European Parliament and of the Council on the inland transport of dangerous goods (notified under document C(2010) 9724), The Equality Act 2010 (Work on Ships and Hovercraft) Regulations 2011, 86/567/EEC: Commission Decision of 18 November 1986 extending the date of application of Commission Decision 81/10/EEC determining the regions from which Greece may not consign to other Member States any bovine animal or swine, or any fresh meat from bovine animals, swine, sheep or goats",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: 2011/26/EU: Commission Decision of 14 January 2011 authorising Member States to adopt certain derogations pursuant to Directive 2008/68/EC of the European Parliament and of the Council on the inland transport of dangerous goods (notified under document C(2010) 9724) (2021-02-01T14:39:09Z); The Equality Act 2010 (Work on Ships and Hovercraft) Regulations 2011 (2023-10-05T19:18:17Z); 86/567/EEC: Commission Decision of 18 November 1986 extending the date of application of Commission Decision 81/10/EEC determining the regions from which Greece may not consign to other Member States any bovine animal or swine, or any fresh meat from bovine animals, swine, sheep or goats (2020-12-12T17:28:45Z)",
+    "answer": [
+      {
+        "title": "86/567/EEC: Commission Decision of 18 November 1986 extending the date of application of Commission Decision 81/10/EEC determining the regions from which Greece may not consign to other Member States any bovine animal or swine, or any fresh meat from bovine animals, swine, sheep or goats",
+        "entry_updated": "2020-12-12T17:28:45Z"
+      },
+      {
+        "title": "2011/26/EU: Commission Decision of 14 January 2011 authorising Member States to adopt certain derogations pursuant to Directive 2008/68/EC of the European Parliament and of the Council on the inland transport of dangerous goods (notified under document C(2010) 9724)",
+        "entry_updated": "2021-02-01T14:39:09Z"
+      },
+      {
+        "title": "The Equality Act 2010 (Work on Ships and Hovercraft) Regulations 2011",
+        "entry_updated": "2023-10-05T19:18:17Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH031",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Regulation (EC) No 1358/2003 of 31 July 2003 implementing Regulation (EC) No 437/2003 of the European Parliament and of the Council on statistical returns in respect of the carriage of passengers, freight and mail by air and amending Annexes I and II thereto (Text with EEA relevance), The Child Benefit (General) (Coronavirus) (Amendment) Regulations 2021, The Insolvency (Scotland) (Receivership and Winding up) Rules 2018",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Regulation (EC) No 1358/2003 of 31 July 2003 implementing Regulation (EC) No 437/2003 of the European Parliament and of the Council on statistical returns in respect of the carriage of passengers, freight and mail by air and amending Annexes I and II thereto (Text with EEA relevance) (2020-12-11T00:33:22Z); The Child Benefit (General) (Coronavirus) (Amendment) Regulations 2021 (2022-06-01T12:11:19Z); The Insolvency (Scotland) (Receivership and Winding up) Rules 2018 (2018-05-24T15:40:56Z)",
+    "answer": [
+      {
+        "title": "The Insolvency (Scotland) (Receivership and Winding up) Rules 2018",
+        "entry_updated": "2018-05-24T15:40:56Z"
+      },
+      {
+        "title": "Commission Regulation (EC) No 1358/2003 of 31 July 2003 implementing Regulation (EC) No 437/2003 of the European Parliament and of the Council on statistical returns in respect of the carriage of passengers, freight and mail by air and amending Annexes I and II thereto (Text with EEA relevance)",
+        "entry_updated": "2020-12-11T00:33:22Z"
+      },
+      {
+        "title": "The Child Benefit (General) (Coronavirus) (Amendment) Regulations 2021",
+        "entry_updated": "2022-06-01T12:11:19Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH032",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Council Regulation (EEC) No 596/91 of 4 March 1991 amending Regulation (EEC) No 458/80 on collective projects for the restructuring of vineyards, 1999/640/EC: Commission Decision of 23 September 1999 on protective measures with regard to contamination by dioxins of certain products of porcine and poultry origin intended for human or animal consumption (notified under document number C(1999) 3050) (Text with EEA relevance), Commission Regulation (EC) No 1756/94 of 18 July 1994 opening quantitative import quotas for textile products in categories 122, 123, 124, 125 B, 140 and 146 C from the People's Republic of China and amending Annexes IV and V of Council Regulation (EC) No 517/94 on common rules for imports of textile products from certain third countries",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Council Regulation (EEC) No 596/91 of 4 March 1991 amending Regulation (EEC) No 458/80 on collective projects for the restructuring of vineyards (2020-12-12T19:48:11Z); 1999/640/EC: Commission Decision of 23 September 1999 on protective measures with regard to contamination by dioxins of certain products of porcine and poultry origin intended for human or animal consumption (notified under document number C(1999) 3050) (Text with EEA relevance) (2020-12-10T22:12:43Z); Commission Regulation (EC) No 1756/94 of 18 July 1994 opening quantitative import quotas for textile products in categories 122, 123, 124, 125 B, 140 and 146 C from the People's Republic of China and amending Annexes IV and V of Council Regulation (EC) No 517/94 on common rules for imports of textile products from certain third countries (2021-02-16T07:55:56Z)",
+    "answer": [
+      {
+        "title": "1999/640/EC: Commission Decision of 23 September 1999 on protective measures with regard to contamination by dioxins of certain products of porcine and poultry origin intended for human or animal consumption (notified under document number C(1999) 3050) (Text with EEA relevance)",
+        "entry_updated": "2020-12-10T22:12:43Z"
+      },
+      {
+        "title": "Council Regulation (EEC) No 596/91 of 4 March 1991 amending Regulation (EEC) No 458/80 on collective projects for the restructuring of vineyards",
+        "entry_updated": "2020-12-12T19:48:11Z"
+      },
+      {
+        "title": "Commission Regulation (EC) No 1756/94 of 18 July 1994 opening quantitative import quotas for textile products in categories 122, 123, 124, 125 B, 140 and 146 C from the People's Republic of China and amending Annexes IV and V of Council Regulation (EC) No 517/94 on common rules for imports of textile products from certain third countries",
+        "entry_updated": "2021-02-16T07:55:56Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH033",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Criminal Justice Act 1988 (Reviews of Sentencing) Order 2003, The Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Amendment Order 2014, The Early Years Foundation Stage (Exemption from Learning and Development Requirements) and Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2018",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Criminal Justice Act 1988 (Reviews of Sentencing) Order 2003 (2020-03-25T17:16:36Z); The Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Amendment Order 2014 (2014-03-19T14:01:38.603Z); The Early Years Foundation Stage (Exemption from Learning and Development Requirements) and Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2018 (2018-04-15T22:59:32Z)",
+    "answer": [
+      {
+        "title": "The Protection of Vulnerable Groups (Scotland) Act 2007 (Miscellaneous Provisions) Amendment Order 2014",
+        "entry_updated": "2014-03-19T14:01:38.603Z"
+      },
+      {
+        "title": "The Early Years Foundation Stage (Exemption from Learning and Development Requirements) and Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2018",
+        "entry_updated": "2018-04-15T22:59:32Z"
+      },
+      {
+        "title": "The Criminal Justice Act 1988 (Reviews of Sentencing) Order 2003",
+        "entry_updated": "2020-03-25T17:16:36Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH034",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018, The Limited Liability Partnerships (No. 2) Regulations 2002, Commission Delegated Regulation (EU) 2017/1962 of 9 August 2017 amending Delegated Regulation (EU) No 611/2014 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the support programmes for the olive-oil and table-olives sector",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (2018-10-09T15:54:14Z); The Limited Liability Partnerships (No. 2) Regulations 2002 (2024-01-31T08:54:29Z); Commission Delegated Regulation (EU) 2017/1962 of 9 August 2017 amending Delegated Regulation (EU) No 611/2014 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the support programmes for the olive-oil and table-olives sector (2020-12-13T00:07:21Z)",
+    "answer": [
+      {
+        "title": "The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018",
+        "entry_updated": "2018-10-09T15:54:14Z"
+      },
+      {
+        "title": "Commission Delegated Regulation (EU) 2017/1962 of 9 August 2017 amending Delegated Regulation (EU) No 611/2014 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the support programmes for the olive-oil and table-olives sector",
+        "entry_updated": "2020-12-13T00:07:21Z"
+      },
+      {
+        "title": "The Limited Liability Partnerships (No. 2) Regulations 2002",
+        "entry_updated": "2024-01-31T08:54:29Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH035",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Merchant Shipping (Categorisation of Registries of Overseas Territories) (Amendment) Order 1991, Commission Regulation (EC) No 45/1999 of 11 January 1999 amending Council Directive 70/524/EEC concerning additives in feedingstuffs as regards withdrawal of the authorisation of certain additives belonging to the group of coccidiostats and other medicinal substances, The Food Enzymes (Scotland) Regulations 2009",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Merchant Shipping (Categorisation of Registries of Overseas Territories) (Amendment) Order 1991 (2019-07-11T00:00:00); Commission Regulation (EC) No 45/1999 of 11 January 1999 amending Council Directive 70/524/EEC concerning additives in feedingstuffs as regards withdrawal of the authorisation of certain additives belonging to the group of coccidiostats and other medicinal substances (2020-12-12T22:33:12Z); The Food Enzymes (Scotland) Regulations 2009 (2016-07-20T10:29:26Z)",
+    "answer": [
+      {
+        "title": "The Food Enzymes (Scotland) Regulations 2009",
+        "entry_updated": "2016-07-20T10:29:26Z"
+      },
+      {
+        "title": "The Merchant Shipping (Categorisation of Registries of Overseas Territories) (Amendment) Order 1991",
+        "entry_updated": "2019-07-11T00:00:00"
+      },
+      {
+        "title": "Commission Regulation (EC) No 45/1999 of 11 January 1999 amending Council Directive 70/524/EEC concerning additives in feedingstuffs as regards withdrawal of the authorisation of certain additives belonging to the group of coccidiostats and other medicinal substances",
+        "entry_updated": "2020-12-12T22:33:12Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH036",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Mutual Societies (Electronic Communications) Order 2011, Commission Regulation (EC) No 785/2003 of 8 May 2003 amending Regulation (EEC) No 2921/90 on aid for the production of casein and caseinates from skimmed milk, Commission Regulation (EC) No 2613/95 of 9 November 1995 amending Regulations (EC) No 1305/95 and (EC) No 1739/95 adopting certain transitional measures relating to the entry price arrangements applicable to cucumbers for processing and sour cherries respectively",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Mutual Societies (Electronic Communications) Order 2011 (2017-07-12T15:18:23Z); Commission Regulation (EC) No 785/2003 of 8 May 2003 amending Regulation (EEC) No 2921/90 on aid for the production of casein and caseinates from skimmed milk (2020-12-12T02:07:25Z); Commission Regulation (EC) No 2613/95 of 9 November 1995 amending Regulations (EC) No 1305/95 and (EC) No 1739/95 adopting certain transitional measures relating to the entry price arrangements applicable to cucumbers for processing and sour cherries respectively (2020-12-12T01:19:46Z)",
+    "answer": [
+      {
+        "title": "The Mutual Societies (Electronic Communications) Order 2011",
+        "entry_updated": "2017-07-12T15:18:23Z"
+      },
+      {
+        "title": "Commission Regulation (EC) No 2613/95 of 9 November 1995 amending Regulations (EC) No 1305/95 and (EC) No 1739/95 adopting certain transitional measures relating to the entry price arrangements applicable to cucumbers for processing and sour cherries respectively",
+        "entry_updated": "2020-12-12T01:19:46Z"
+      },
+      {
+        "title": "Commission Regulation (EC) No 785/2003 of 8 May 2003 amending Regulation (EEC) No 2921/90 on aid for the production of casein and caseinates from skimmed milk",
+        "entry_updated": "2020-12-12T02:07:25Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH037",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Income Tax (Indexation) Order 1989, Senedd Cymru (Members and Elections) Act 2024, The Roads (Speed Limit) (No. 2) Order (Northern Ireland) 2010",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Income Tax (Indexation) Order 1989 (2022-04-21T15:01:57Z); Senedd Cymru (Members and Elections) Act 2024 (2024-07-25T10:36:46.332056+01:00); The Roads (Speed Limit) (No. 2) Order (Northern Ireland) 2010 (2022-05-04T00:00:00)",
+    "answer": [
+      {
+        "title": "The Income Tax (Indexation) Order 1989",
+        "entry_updated": "2022-04-21T15:01:57Z"
+      },
+      {
+        "title": "The Roads (Speed Limit) (No. 2) Order (Northern Ireland) 2010",
+        "entry_updated": "2022-05-04T00:00:00"
+      },
+      {
+        "title": "Senedd Cymru (Members and Elections) Act 2024",
+        "entry_updated": "2024-07-25T10:36:46.332056+01:00"
+      }
+    ]
+  },
+  {
+    "task_id": "CH038",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2006, The Welsh in Education Strategic Plans (Wales) (Amendment) (Coronavirus) Regulations 2020, Commission Regulation (EEC) No 3694/90 of 19 December 1990 amending Regulation (EEC) No 2565/90 adopting for 1991 the measures to improve the quality of olive oil production",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2006 (2020-06-10T16:26:47Z); The Welsh in Education Strategic Plans (Wales) (Amendment) (Coronavirus) Regulations 2020 (2021-05-07T13:52:48.478761+01:00); Commission Regulation (EEC) No 3694/90 of 19 December 1990 amending Regulation (EEC) No 2565/90 adopting for 1991 the measures to improve the quality of olive oil production (2020-12-10T20:37:33Z)",
+    "answer": [
+      {
+        "title": "The Mental Health Tribunal for Scotland (Practice and Procedure) (No. 2) Amendment Rules 2006",
+        "entry_updated": "2020-06-10T16:26:47Z"
+      },
+      {
+        "title": "The Welsh in Education Strategic Plans (Wales) (Amendment) (Coronavirus) Regulations 2020",
+        "entry_updated": "2021-05-07T13:52:48.478761+01:00"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 3694/90 of 19 December 1990 amending Regulation (EEC) No 2565/90 adopting for 1991 the measures to improve the quality of olive oil production",
+        "entry_updated": "2020-12-10T20:37:33Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH039",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Directive 2005/31/EC of 29 April 2005 amending Council Directive 84/500/EEC as regards a declaration of compliance and performance criteria of the analytical method for ceramic articles intended to come into contact with foodstuffs (Text with EEA relevance), 2014/880/EU: Commission Implementing Decision of 26 November 2014 on the common specifications of the register of railway infrastructure and repealing Implementing Decision 2011/633/EU (notified under document C(2014) 8784)  Text with EEA relevance, 2001/880/EC: Commission Decision of 10 December 2001 amending Decision 2001/649/EC on the granting of aid for the production of table olives in Greece (notified under document number C(2001) 3962)",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Directive 2005/31/EC of 29 April 2005 amending Council Directive 84/500/EEC as regards a declaration of compliance and performance criteria of the analytical method for ceramic articles intended to come into contact with foodstuffs (Text with EEA relevance) (2020-12-12T05:00:12Z); 2014/880/EU: Commission Implementing Decision of 26 November 2014 on the common specifications of the register of railway infrastructure and repealing Implementing Decision 2011/633/EU (notified under document C(2014) 8784)  Text with EEA relevance (2020-12-10T22:28:40Z); 2001/880/EC: Commission Decision of 10 December 2001 amending Decision 2001/649/EC on the granting of aid for the production of table olives in Greece (notified under document number C(2001) 3962) (2020-12-11T21:09:44Z)",
+    "answer": [
+      {
+        "title": "2014/880/EU: Commission Implementing Decision of 26 November 2014 on the common specifications of the register of railway infrastructure and repealing Implementing Decision 2011/633/EU (notified under document C(2014) 8784)  Text with EEA relevance",
+        "entry_updated": "2020-12-10T22:28:40Z"
+      },
+      {
+        "title": "2001/880/EC: Commission Decision of 10 December 2001 amending Decision 2001/649/EC on the granting of aid for the production of table olives in Greece (notified under document number C(2001) 3962)",
+        "entry_updated": "2020-12-11T21:09:44Z"
+      },
+      {
+        "title": "Commission Directive 2005/31/EC of 29 April 2005 amending Council Directive 84/500/EEC as regards a declaration of compliance and performance criteria of the analytical method for ceramic articles intended to come into contact with foodstuffs (Text with EEA relevance)",
+        "entry_updated": "2020-12-12T05:00:12Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH040",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: 2001/732/EC: Commission Decision of 10 October 2001 amending Decision 95/233/EC to authorise imports of live poultry and hatching eggs from Latvia (Text with EEA relevance) (notified under document number C(2001) 3016), Commission Implementing Regulation (EU) No 751/2011 of 29 July 2011 amending the representative prices and additional import duties for certain products in the sugar sector fixed by Regulation (EU) No 867/2010 for the 2010/11 marketing year, The Youth Justice and Criminal Evidence Act 1999 (Commencement No. 30) Order 2023",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: 2001/732/EC: Commission Decision of 10 October 2001 amending Decision 95/233/EC to authorise imports of live poultry and hatching eggs from Latvia (Text with EEA relevance) (notified under document number C(2001) 3016) (2020-12-12T15:32:18Z); Commission Implementing Regulation (EU) No 751/2011 of 29 July 2011 amending the representative prices and additional import duties for certain products in the sugar sector fixed by Regulation (EU) No 867/2010 for the 2010/11 marketing year (2020-12-10T19:28:55Z); The Youth Justice and Criminal Evidence Act 1999 (Commencement No. 30) Order 2023 (2023-10-10T10:05:53Z)",
+    "answer": [
+      {
+        "title": "Commission Implementing Regulation (EU) No 751/2011 of 29 July 2011 amending the representative prices and additional import duties for certain products in the sugar sector fixed by Regulation (EU) No 867/2010 for the 2010/11 marketing year",
+        "entry_updated": "2020-12-10T19:28:55Z"
+      },
+      {
+        "title": "2001/732/EC: Commission Decision of 10 October 2001 amending Decision 95/233/EC to authorise imports of live poultry and hatching eggs from Latvia (Text with EEA relevance) (notified under document number C(2001) 3016)",
+        "entry_updated": "2020-12-12T15:32:18Z"
+      },
+      {
+        "title": "The Youth Justice and Criminal Evidence Act 1999 (Commencement No. 30) Order 2023",
+        "entry_updated": "2023-10-10T10:05:53Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH041",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The South Africa (United Nations Arms Embargo) (Prohibited Transactions) (Jersey) (Amendment) Order 1978, Council Regulation (EC) No 301/2007 of 19 March 2007 amending Annex I to Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff, The Ironstone Restoration Fund (Rates of Contribution) Order 1980",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The South Africa (United Nations Arms Embargo) (Prohibited Transactions) (Jersey) (Amendment) Order 1978 (2019-10-11T00:00:00); Council Regulation (EC) No 301/2007 of 19 March 2007 amending Annex I to Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff (2020-12-11T14:26:37Z); The Ironstone Restoration Fund (Rates of Contribution) Order 1980 (2019-10-11T00:00:00)",
+    "answer": [
+      {
+        "title": "The South Africa (United Nations Arms Embargo) (Prohibited Transactions) (Jersey) (Amendment) Order 1978",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "The Ironstone Restoration Fund (Rates of Contribution) Order 1980",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "Council Regulation (EC) No 301/2007 of 19 March 2007 amending Annex I to Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff",
+        "entry_updated": "2020-12-11T14:26:37Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH042",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Local Elections (Parishes and Communities) (Amendment) Rules 1999, The Blood Safety and Quality (Amendment) Regulations 2005, Commission Regulation (EC) No 1191/2006 of  4 August 2006  amending Regulation (EC) No 1458/2003 opening and providing for the administration of a tariff quota in the pigmeat sector",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Local Elections (Parishes and Communities) (Amendment) Rules 1999 (2019-03-19T00:00:00); The Blood Safety and Quality (Amendment) Regulations 2005 (2021-11-26T16:20:09Z); Commission Regulation (EC) No 1191/2006 of  4 August 2006  amending Regulation (EC) No 1458/2003 opening and providing for the administration of a tariff quota in the pigmeat sector (2020-12-11T01:47:00Z)",
+    "answer": [
+      {
+        "title": "The Local Elections (Parishes and Communities) (Amendment) Rules 1999",
+        "entry_updated": "2019-03-19T00:00:00"
+      },
+      {
+        "title": "Commission Regulation (EC) No 1191/2006 of  4 August 2006  amending Regulation (EC) No 1458/2003 opening and providing for the administration of a tariff quota in the pigmeat sector",
+        "entry_updated": "2020-12-11T01:47:00Z"
+      },
+      {
+        "title": "The Blood Safety and Quality (Amendment) Regulations 2005",
+        "entry_updated": "2021-11-26T16:20:09Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH043",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) Regulations 2006, The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2007, The Northern Ireland Arms Decommissioning Act 1997 (Cessation of Section 7) Order 2011",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) Regulations 2006 (2012-10-17T05:39:19Z); The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2007 (2019-11-06T08:41:32Z); The Northern Ireland Arms Decommissioning Act 1997 (Cessation of Section 7) Order 2011 (2017-03-23T17:00:04.429Z)",
+    "answer": [
+      {
+        "title": "The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) Regulations 2006",
+        "entry_updated": "2012-10-17T05:39:19Z"
+      },
+      {
+        "title": "The Northern Ireland Arms Decommissioning Act 1997 (Cessation of Section 7) Order 2011",
+        "entry_updated": "2017-03-23T17:00:04.429Z"
+      },
+      {
+        "title": "The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2007",
+        "entry_updated": "2019-11-06T08:41:32Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH044",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Environmental Noise (Scotland) Regulations 2006, The Food Safety (General Food Hygiene) (Amendment) Regulations 1999, The Import of and Trade in Animals and Animal Products (Amendment etc.) (EU Exit) Regulations 2019",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Environmental Noise (Scotland) Regulations 2006 (2022-03-05T17:56:28Z); The Food Safety (General Food Hygiene) (Amendment) Regulations 1999 (2019-03-19T00:00:00); The Import of and Trade in Animals and Animal Products (Amendment etc.) (EU Exit) Regulations 2019 (2021-03-05T17:58:15Z)",
+    "answer": [
+      {
+        "title": "The Food Safety (General Food Hygiene) (Amendment) Regulations 1999",
+        "entry_updated": "2019-03-19T00:00:00"
+      },
+      {
+        "title": "The Import of and Trade in Animals and Animal Products (Amendment etc.) (EU Exit) Regulations 2019",
+        "entry_updated": "2021-03-05T17:58:15Z"
+      },
+      {
+        "title": "The Environmental Noise (Scotland) Regulations 2006",
+        "entry_updated": "2022-03-05T17:56:28Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH045",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Companies (Revision of Defective Accounts and Report) (Amendment) Regulations 2005, The Legal Aid in Criminal Proceedings (General) (Amendment) Regulations 1983, The Misuse of Drugs (Amendment) (No. 2) (England, Wales and Scotland) Regulations 2017",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Companies (Revision of Defective Accounts and Report) (Amendment) Regulations 2005 (2024-01-31T08:54:29Z); The Legal Aid in Criminal Proceedings (General) (Amendment) Regulations 1983 (2019-10-11T00:00:00); The Misuse of Drugs (Amendment) (No. 2) (England, Wales and Scotland) Regulations 2017 (2020-10-15T11:56:10Z)",
+    "answer": [
+      {
+        "title": "The Companies (Revision of Defective Accounts and Report) (Amendment) Regulations 2005",
+        "entry_updated": "2024-01-31T08:54:29Z"
+      },
+      {
+        "title": "The Legal Aid in Criminal Proceedings (General) (Amendment) Regulations 1983",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "The Misuse of Drugs (Amendment) (No. 2) (England, Wales and Scotland) Regulations 2017",
+        "entry_updated": "2020-10-15T11:56:10Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH046",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Directive 2008/27/EC of the European Parliament and of the Council of 11 March 2008 amending Directive 2001/18/EC on the deliberate release into the environment of genetically modified organisms, as regards the implementing powers conferred on the Commission, The National Health Service (General Medical and Pharmaceutical Services) Amendment (No. 3) Regulations 1990, Regulation (EEC) No 2744/75 of the Council of 29 October 1975 on the import and export system for products processed from cereals and from rice",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Directive 2008/27/EC of the European Parliament and of the Council of 11 March 2008 amending Directive 2001/18/EC on the deliberate release into the environment of genetically modified organisms, as regards the implementing powers conferred on the Commission (2020-12-10T22:19:08Z); The National Health Service (General Medical and Pharmaceutical Services) Amendment (No. 3) Regulations 1990 (2019-10-11T00:00:00); Regulation (EEC) No 2744/75 of the Council of 29 October 1975 on the import and export system for products processed from cereals and from rice (2020-12-12T15:02:30Z)",
+    "answer": [
+      {
+        "title": "The National Health Service (General Medical and Pharmaceutical Services) Amendment (No. 3) Regulations 1990",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "Directive 2008/27/EC of the European Parliament and of the Council of 11 March 2008 amending Directive 2001/18/EC on the deliberate release into the environment of genetically modified organisms, as regards the implementing powers conferred on the Commission",
+        "entry_updated": "2020-12-10T22:19:08Z"
+      },
+      {
+        "title": "Regulation (EEC) No 2744/75 of the Council of 29 October 1975 on the import and export system for products processed from cereals and from rice",
+        "entry_updated": "2020-12-12T15:02:30Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH047",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Regulation (EEC) No 1854/83 of 7 July 1983 amending Regulation (EEC) No 2102/75 determining the quantity of potatoes required for the manufacture of one tonne of starch, Council Regulation (EEC) No 1178/79 of 12 June 1979 laying down for 1979 certain interim measures for the conservation and management of fishery resources applicable to vessels registered in the Faroe Islands, Commission Regulation (EU) No 220/2014 of 7 March 2014 amending Council Regulation (EC) No 479/2009 as regards references to the European system of national and regional accounts in the European Union",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Regulation (EEC) No 1854/83 of 7 July 1983 amending Regulation (EEC) No 2102/75 determining the quantity of potatoes required for the manufacture of one tonne of starch (2020-12-12T21:20:14Z); Council Regulation (EEC) No 1178/79 of 12 June 1979 laying down for 1979 certain interim measures for the conservation and management of fishery resources applicable to vessels registered in the Faroe Islands (2020-12-12T04:10:25Z); Commission Regulation (EU) No 220/2014 of 7 March 2014 amending Council Regulation (EC) No 479/2009 as regards references to the European system of national and regional accounts in the European Union (2020-12-11T22:57:27Z)",
+    "answer": [
+      {
+        "title": "Commission Regulation (EU) No 220/2014 of 7 March 2014 amending Council Regulation (EC) No 479/2009 as regards references to the European system of national and regional accounts in the European Union",
+        "entry_updated": "2020-12-11T22:57:27Z"
+      },
+      {
+        "title": "Council Regulation (EEC) No 1178/79 of 12 June 1979 laying down for 1979 certain interim measures for the conservation and management of fishery resources applicable to vessels registered in the Faroe Islands",
+        "entry_updated": "2020-12-12T04:10:25Z"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 1854/83 of 7 July 1983 amending Regulation (EEC) No 2102/75 determining the quantity of potatoes required for the manufacture of one tonne of starch",
+        "entry_updated": "2020-12-12T21:20:14Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH048",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Sea Fishing (Enforcement of Community Quota Measures) Order 1999, The Defence Reform Act 2014 (Commencement No. 3) Order 2014, Commission Regulation (EC) No 736/2002 of 29 April 2002 amending Regulation (EC) No 1555/96 on rules of application for additional import duties on fruit and vegetables",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Sea Fishing (Enforcement of Community Quota Measures) Order 1999 (2019-07-30T17:41:23Z); The Defence Reform Act 2014 (Commencement No. 3) Order 2014 (2020-07-09T16:54:37Z); Commission Regulation (EC) No 736/2002 of 29 April 2002 amending Regulation (EC) No 1555/96 on rules of application for additional import duties on fruit and vegetables (2020-12-12T01:03:03Z)",
+    "answer": [
+      {
+        "title": "The Sea Fishing (Enforcement of Community Quota Measures) Order 1999",
+        "entry_updated": "2019-07-30T17:41:23Z"
+      },
+      {
+        "title": "The Defence Reform Act 2014 (Commencement No. 3) Order 2014",
+        "entry_updated": "2020-07-09T16:54:37Z"
+      },
+      {
+        "title": "Commission Regulation (EC) No 736/2002 of 29 April 2002 amending Regulation (EC) No 1555/96 on rules of application for additional import duties on fruit and vegetables",
+        "entry_updated": "2020-12-12T01:03:03Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH049",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Firefighters’ Pension Scheme (Amendment and Transitional Provisions) Order (Northern Ireland) 2019, The Medicines (Applications for Grant of Product Licences—Products for Human Use) Regulations 1993, Commission Regulation (EC) No 1748/97 of 9 September 1997 amending Regulation (EC) No 1588/94 laying down detailed rules for the application to milk and milk products of the arrangements provided for in the Europe Agreements between the Community of the one part and Bulgaria and Romania of the other part",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Firefighters’ Pension Scheme (Amendment and Transitional Provisions) Order (Northern Ireland) 2019 (2025-01-13T08:46:31Z); The Medicines (Applications for Grant of Product Licences—Products for Human Use) Regulations 1993 (2019-07-11T00:00:00); Commission Regulation (EC) No 1748/97 of 9 September 1997 amending Regulation (EC) No 1588/94 laying down detailed rules for the application to milk and milk products of the arrangements provided for in the Europe Agreements between the Community of the one part and Bulgaria and Romania of the other part (2020-12-12T17:16:41Z)",
+    "answer": [
+      {
+        "title": "The Medicines (Applications for Grant of Product Licences—Products for Human Use) Regulations 1993",
+        "entry_updated": "2019-07-11T00:00:00"
+      },
+      {
+        "title": "Commission Regulation (EC) No 1748/97 of 9 September 1997 amending Regulation (EC) No 1588/94 laying down detailed rules for the application to milk and milk products of the arrangements provided for in the Europe Agreements between the Community of the one part and Bulgaria and Romania of the other part",
+        "entry_updated": "2020-12-12T17:16:41Z"
+      },
+      {
+        "title": "The Firefighters’ Pension Scheme (Amendment and Transitional Provisions) Order (Northern Ireland) 2019",
+        "entry_updated": "2025-01-13T08:46:31Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH050",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: COMMISSION REGULATION (EC) No 919/95 of 26 April 1995 amending Regulation (EC) No 1055/94 deferring the final date for sowing oil seeds in certain areas, The Animal Health and Welfare and Official Controls (Animals, Feed and Food) (EU Exit) (Scotland) (Amendment) Regulations 2019, The Health and Social Care (Community Health and Standards) Act 2003 (Commission for Healthcare Audit and Inspection and Commission for Social Care Inspection) (Transitional and Consequential Provisions) Order 2004",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: COMMISSION REGULATION (EC) No 919/95 of 26 April 1995 amending Regulation (EC) No 1055/94 deferring the final date for sowing oil seeds in certain areas (2020-12-12T17:24:43Z); The Animal Health and Welfare and Official Controls (Animals, Feed and Food) (EU Exit) (Scotland) (Amendment) Regulations 2019 (2022-09-20T21:14:55Z); The Health and Social Care (Community Health and Standards) Act 2003 (Commission for Healthcare Audit and Inspection and Commission for Social Care Inspection) (Transitional and Consequential Provisions) Order 2004 (2013-01-21T12:47:16Z)",
+    "answer": [
+      {
+        "title": "The Health and Social Care (Community Health and Standards) Act 2003 (Commission for Healthcare Audit and Inspection and Commission for Social Care Inspection) (Transitional and Consequential Provisions) Order 2004",
+        "entry_updated": "2013-01-21T12:47:16Z"
+      },
+      {
+        "title": "The Animal Health and Welfare and Official Controls (Animals, Feed and Food) (EU Exit) (Scotland) (Amendment) Regulations 2019",
+        "entry_updated": "2022-09-20T21:14:55Z"
+      },
+      {
+        "title": "COMMISSION REGULATION (EC) No 919/95 of 26 April 1995 amending Regulation (EC) No 1055/94 deferring the final date for sowing oil seeds in certain areas",
+        "entry_updated": "2020-12-12T17:24:43Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH051",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Adoptions with a Foreign Element (Scotland) Regulations 2009, The Police Pensions (Amendment No. 3) Regulations 2012, Commission Regulation (EC) No 1134/2006 of  25 July 2006  amending and correcting Regulation (EC) No 795/2004 laying down detailed rules for the implementation of the single payment scheme provided for in Council Regulation (EC) No 1782/2003",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Adoptions with a Foreign Element (Scotland) Regulations 2009 (2013-10-13T02:41:38.143+01:00); The Police Pensions (Amendment No. 3) Regulations 2012 (2013-08-01T16:57:10.222+01:00); Commission Regulation (EC) No 1134/2006 of  25 July 2006  amending and correcting Regulation (EC) No 795/2004 laying down detailed rules for the implementation of the single payment scheme provided for in Council Regulation (EC) No 1782/2003 (2020-12-11T23:48:02Z)",
+    "answer": [
+      {
+        "title": "The Police Pensions (Amendment No. 3) Regulations 2012",
+        "entry_updated": "2013-08-01T16:57:10.222+01:00"
+      },
+      {
+        "title": "The Adoptions with a Foreign Element (Scotland) Regulations 2009",
+        "entry_updated": "2013-10-13T02:41:38.143+01:00"
+      },
+      {
+        "title": "Commission Regulation (EC) No 1134/2006 of  25 July 2006  amending and correcting Regulation (EC) No 795/2004 laying down detailed rules for the implementation of the single payment scheme provided for in Council Regulation (EC) No 1782/2003",
+        "entry_updated": "2020-12-11T23:48:02Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH052",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Gas Act 1995, The Gambling (Licensing and Advertising) Act 2014 (Commencement No.1) (Amendment and Consequential Amendments) Order 2014, The Police and Crime Commissioner Elections (Designations etc.) (Amendment) Order 2022",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Gas Act 1995 (2013-10-11T23:43:16.753+01:00); The Gambling (Licensing and Advertising) Act 2014 (Commencement No.1) (Amendment and Consequential Amendments) Order 2014 (2017-06-23T14:47:36Z); The Police and Crime Commissioner Elections (Designations etc.) (Amendment) Order 2022 (2023-02-08T12:41:40.206807Z)",
+    "answer": [
+      {
+        "title": "Gas Act 1995",
+        "entry_updated": "2013-10-11T23:43:16.753+01:00"
+      },
+      {
+        "title": "The Gambling (Licensing and Advertising) Act 2014 (Commencement No.1) (Amendment and Consequential Amendments) Order 2014",
+        "entry_updated": "2017-06-23T14:47:36Z"
+      },
+      {
+        "title": "The Police and Crime Commissioner Elections (Designations etc.) (Amendment) Order 2022",
+        "entry_updated": "2023-02-08T12:41:40.206807Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH053",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025, Council Decision (CFSP) 2016/359 of 10 March 2016 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine, The Child Benefit and Guardian’s Allowance (Decisions and Appeals) (Amendment) Regulations 2004",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (2025-04-17T10:20:57.171411+01:00); Council Decision (CFSP) 2016/359 of 10 March 2016 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine (2020-12-16T16:48:01Z); The Child Benefit and Guardian’s Allowance (Decisions and Appeals) (Amendment) Regulations 2004 (2012-10-17T05:37:23Z)",
+    "answer": [
+      {
+        "title": "The Child Benefit and Guardian’s Allowance (Decisions and Appeals) (Amendment) Regulations 2004",
+        "entry_updated": "2012-10-17T05:37:23Z"
+      },
+      {
+        "title": "Council Decision (CFSP) 2016/359 of 10 March 2016 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
+        "entry_updated": "2020-12-16T16:48:01Z"
+      },
+      {
+        "title": "The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025",
+        "entry_updated": "2025-04-17T10:20:57.171411+01:00"
+      }
+    ]
+  },
+  {
+    "task_id": "CH054",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Regulation (EEC) No 718/93 of 26 March 1993 amending Regulation (EEC) No 3889/87 laying down detailed rules for the application of the special measures for certain regions of hops production, Council Decision (CFSP) 2016/1839 of 17 October 2016 amending Decision 2010/638/CFSP concerning restrictive measures against the Republic of Guinea, Regulation (EC) No 273/2004 of the European Parliament and of the Council of 11 February 2004 on drug precursors (Text with EEA relevance)",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Regulation (EEC) No 718/93 of 26 March 1993 amending Regulation (EEC) No 3889/87 laying down detailed rules for the application of the special measures for certain regions of hops production (2020-12-12T05:40:35Z); Council Decision (CFSP) 2016/1839 of 17 October 2016 amending Decision 2010/638/CFSP concerning restrictive measures against the Republic of Guinea (2020-12-11T02:21:16Z); Regulation (EC) No 273/2004 of the European Parliament and of the Council of 11 February 2004 on drug precursors (Text with EEA relevance) (2020-12-12T14:33:26Z)",
+    "answer": [
+      {
+        "title": "Regulation (EC) No 273/2004 of the European Parliament and of the Council of 11 February 2004 on drug precursors (Text with EEA relevance)",
+        "entry_updated": "2020-12-12T14:33:26Z"
+      },
+      {
+        "title": "Council Decision (CFSP) 2016/1839 of 17 October 2016 amending Decision 2010/638/CFSP concerning restrictive measures against the Republic of Guinea",
+        "entry_updated": "2020-12-11T02:21:16Z"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 718/93 of 26 March 1993 amending Regulation (EEC) No 3889/87 laying down detailed rules for the application of the special measures for certain regions of hops production",
+        "entry_updated": "2020-12-12T05:40:35Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH055",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Council Regulation (EEC) No 277/76 of 9 February 1976 maintaining in effect the interim measures adopted with regard to imports of certain textile products originating in the Republic of Korea, The Taxes (Interest Rate) (Amendment) Regulations 2020, Commission Regulation (EC) No 2249/98 of 19 October 1998 imposing provisional anti-dumping and countervailing duties on certain imports of farmed Atlantic salmon originating in Norway and amending Decision 97/634/EC",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Council Regulation (EEC) No 277/76 of 9 February 1976 maintaining in effect the interim measures adopted with regard to imports of certain textile products originating in the Republic of Korea (2020-12-10T23:10:25Z); The Taxes (Interest Rate) (Amendment) Regulations 2020 (2020-03-11T10:59:42Z); Commission Regulation (EC) No 2249/98 of 19 October 1998 imposing provisional anti-dumping and countervailing duties on certain imports of farmed Atlantic salmon originating in Norway and amending Decision 97/634/EC (2020-12-12T14:48:35Z)",
+    "answer": [
+      {
+        "title": "The Taxes (Interest Rate) (Amendment) Regulations 2020",
+        "entry_updated": "2020-03-11T10:59:42Z"
+      },
+      {
+        "title": "Council Regulation (EEC) No 277/76 of 9 February 1976 maintaining in effect the interim measures adopted with regard to imports of certain textile products originating in the Republic of Korea",
+        "entry_updated": "2020-12-10T23:10:25Z"
+      },
+      {
+        "title": "Commission Regulation (EC) No 2249/98 of 19 October 1998 imposing provisional anti-dumping and countervailing duties on certain imports of farmed Atlantic salmon originating in Norway and amending Decision 97/634/EC",
+        "entry_updated": "2020-12-12T14:48:35Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH056",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Regulation (EEC) No 3044/79 of 21 December 1979 amending Regulation (EEC) No 2819/79 as regards certain textile products originating in Malta, Commission Regulation (EC) No 2490/98 of 18 November 1998 amending Regulation (EC) No 1981/98 laying down detailed rules for the application of Council Regulation (EEC) No 1765/92 with regard to the set-aside scheme, The Railways Act 1993 (Consequential Modifications) Order 1994",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Regulation (EEC) No 3044/79 of 21 December 1979 amending Regulation (EEC) No 2819/79 as regards certain textile products originating in Malta (2020-12-10T21:26:03Z); Commission Regulation (EC) No 2490/98 of 18 November 1998 amending Regulation (EC) No 1981/98 laying down detailed rules for the application of Council Regulation (EEC) No 1765/92 with regard to the set-aside scheme (2020-12-11T00:12:06Z); The Railways Act 1993 (Consequential Modifications) Order 1994 (2022-02-17T10:41:07Z)",
+    "answer": [
+      {
+        "title": "The Railways Act 1993 (Consequential Modifications) Order 1994",
+        "entry_updated": "2022-02-17T10:41:07Z"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 3044/79 of 21 December 1979 amending Regulation (EEC) No 2819/79 as regards certain textile products originating in Malta",
+        "entry_updated": "2020-12-10T21:26:03Z"
+      },
+      {
+        "title": "Commission Regulation (EC) No 2490/98 of 18 November 1998 amending Regulation (EC) No 1981/98 laying down detailed rules for the application of Council Regulation (EEC) No 1765/92 with regard to the set-aside scheme",
+        "entry_updated": "2020-12-11T00:12:06Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH057",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Business Tenancies (Coronavirus) (Restriction on Forfeiture: Relevant Period) (Northern Ireland) Regulations 2021, Commission Implementing Regulation (EU) 2020/477 of 31 March 2020 amending Commission Implementing Regulation (EU) 2020/39 imposing a definitive anti-dumping duty on imports of peroxosulphates (persulphates) originating in the People’s Republic of China following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council, The Local Government (Prescribed Expenditure) (Amendment) (No. 2) Regulations 1988",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Business Tenancies (Coronavirus) (Restriction on Forfeiture: Relevant Period) (Northern Ireland) Regulations 2021 (2022-05-20T10:26:05.789741+01:00); Commission Implementing Regulation (EU) 2020/477 of 31 March 2020 amending Commission Implementing Regulation (EU) 2020/39 imposing a definitive anti-dumping duty on imports of peroxosulphates (persulphates) originating in the People’s Republic of China following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council (2020-12-12T06:21:06Z); The Local Government (Prescribed Expenditure) (Amendment) (No. 2) Regulations 1988 (2019-10-11T00:00:00)",
+    "answer": [
+      {
+        "title": "The Local Government (Prescribed Expenditure) (Amendment) (No. 2) Regulations 1988",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "Commission Implementing Regulation (EU) 2020/477 of 31 March 2020 amending Commission Implementing Regulation (EU) 2020/39 imposing a definitive anti-dumping duty on imports of peroxosulphates (persulphates) originating in the People’s Republic of China following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council",
+        "entry_updated": "2020-12-12T06:21:06Z"
+      },
+      {
+        "title": "The Business Tenancies (Coronavirus) (Restriction on Forfeiture: Relevant Period) (Northern Ireland) Regulations 2021",
+        "entry_updated": "2022-05-20T10:26:05.789741+01:00"
+      }
+    ]
+  },
+  {
+    "task_id": "CH058",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Criminal Defence Service (Funding) (Amendment No. 2) Order 2001, Commission Regulation (EEC) No 113/82 of 20 January 1982 laying down special measures for implementation in Greece of the table wine distillation operations referred to in Article 15 of Regulation (EEC) No 337/79, Council Implementing Regulation (EU) 2017/965 of 8 June 2017 implementing Article 2(3) of Regulation (EC) No 2580/2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism and amending Implementing Regulation (EU) 2017/150",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Criminal Defence Service (Funding) (Amendment No. 2) Order 2001 (2013-10-13T00:33:29.529+01:00); Commission Regulation (EEC) No 113/82 of 20 January 1982 laying down special measures for implementation in Greece of the table wine distillation operations referred to in Article 15 of Regulation (EEC) No 337/79 (2020-12-11T00:37:28Z); Council Implementing Regulation (EU) 2017/965 of 8 June 2017 implementing Article 2(3) of Regulation (EC) No 2580/2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism and amending Implementing Regulation (EU) 2017/150 (2020-12-12T16:28:58Z)",
+    "answer": [
+      {
+        "title": "The Criminal Defence Service (Funding) (Amendment No. 2) Order 2001",
+        "entry_updated": "2013-10-13T00:33:29.529+01:00"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 113/82 of 20 January 1982 laying down special measures for implementation in Greece of the table wine distillation operations referred to in Article 15 of Regulation (EEC) No 337/79",
+        "entry_updated": "2020-12-11T00:37:28Z"
+      },
+      {
+        "title": "Council Implementing Regulation (EU) 2017/965 of 8 June 2017 implementing Article 2(3) of Regulation (EC) No 2580/2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism and amending Implementing Regulation (EU) 2017/150",
+        "entry_updated": "2020-12-12T16:28:58Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH059",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Grant-Aided Secondary Schools (Scotland) Grant Regulations 1976, The Control of Salmonella in Broiler Flocks Scheme Order (Northern Ireland) 2009, Commission Regulation (EEC) No 3207/90 of 6 November 1990 amending Regulation (EEC) No 3773/89 laying down transitional measures relating to spirituous beverages",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Grant-Aided Secondary Schools (Scotland) Grant Regulations 1976 (2019-10-11T00:00:00); The Control of Salmonella in Broiler Flocks Scheme Order (Northern Ireland) 2009 (2022-11-21T08:28:19Z); Commission Regulation (EEC) No 3207/90 of 6 November 1990 amending Regulation (EEC) No 3773/89 laying down transitional measures relating to spirituous beverages (2020-12-10T20:41:57Z)",
+    "answer": [
+      {
+        "title": "The Grant-Aided Secondary Schools (Scotland) Grant Regulations 1976",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 3207/90 of 6 November 1990 amending Regulation (EEC) No 3773/89 laying down transitional measures relating to spirituous beverages",
+        "entry_updated": "2020-12-10T20:41:57Z"
+      },
+      {
+        "title": "The Control of Salmonella in Broiler Flocks Scheme Order (Northern Ireland) 2009",
+        "entry_updated": "2022-11-21T08:28:19Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH060",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Council Decision 2011/170/CFSP of 21 March 2011 amending Council Decision 2010/330/CFSP on the European Union Integrated Rule of Law Mission for Iraq, EUJUST LEX – IRAQ, Council Implementing Regulation (EU) No 1063/2011 of 21 October 2011 implementing Article 2(3) of Regulation (EC) No 2580/2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism, Regulation (EU) No 1383/2014 of the European Parliament and of the Council of 18 December 2014 amending Council Regulation (EC) No 55/2008 introducing autonomous trade preferences for the Republic of Moldova",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Council Decision 2011/170/CFSP of 21 March 2011 amending Council Decision 2010/330/CFSP on the European Union Integrated Rule of Law Mission for Iraq, EUJUST LEX – IRAQ (2020-12-11T00:05:53Z); Council Implementing Regulation (EU) No 1063/2011 of 21 October 2011 implementing Article 2(3) of Regulation (EC) No 2580/2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism (2020-12-12T16:28:58Z); Regulation (EU) No 1383/2014 of the European Parliament and of the Council of 18 December 2014 amending Council Regulation (EC) No 55/2008 introducing autonomous trade preferences for the Republic of Moldova (2020-12-11T23:05:27Z)",
+    "answer": [
+      {
+        "title": "Council Decision 2011/170/CFSP of 21 March 2011 amending Council Decision 2010/330/CFSP on the European Union Integrated Rule of Law Mission for Iraq, EUJUST LEX – IRAQ",
+        "entry_updated": "2020-12-11T00:05:53Z"
+      },
+      {
+        "title": "Regulation (EU) No 1383/2014 of the European Parliament and of the Council of 18 December 2014 amending Council Regulation (EC) No 55/2008 introducing autonomous trade preferences for the Republic of Moldova",
+        "entry_updated": "2020-12-11T23:05:27Z"
+      },
+      {
+        "title": "Council Implementing Regulation (EU) No 1063/2011 of 21 October 2011 implementing Article 2(3) of Regulation (EC) No 2580/2001 on specific restrictive measures directed against certain persons and entities with a view to combating terrorism",
+        "entry_updated": "2020-12-12T16:28:58Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH061",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: 84/30/EEC: Commission Decision of 6 January 1984 amending Decision 83/423/EEC as regards the list of establishments in Paraguay approved for the purpose of importing fresh meat into the Community, The European Assembly Elections (Returning Officers' Expenses) (Northern Ireland) Regulations 1984, Council Regulation (EC) No 1922/94 of 25 July 1994 amending Regulation (EC) No 3636/93 opening and providing for the administration of Community tariff quotas for certain fruits and fruit juices",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: 84/30/EEC: Commission Decision of 6 January 1984 amending Decision 83/423/EEC as regards the list of establishments in Paraguay approved for the purpose of importing fresh meat into the Community (2020-12-09T19:34:59Z); The European Assembly Elections (Returning Officers' Expenses) (Northern Ireland) Regulations 1984 (2019-10-11T00:00:00); Council Regulation (EC) No 1922/94 of 25 July 1994 amending Regulation (EC) No 3636/93 opening and providing for the administration of Community tariff quotas for certain fruits and fruit juices (2020-12-09T21:18:06Z)",
+    "answer": [
+      {
+        "title": "The European Assembly Elections (Returning Officers' Expenses) (Northern Ireland) Regulations 1984",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "84/30/EEC: Commission Decision of 6 January 1984 amending Decision 83/423/EEC as regards the list of establishments in Paraguay approved for the purpose of importing fresh meat into the Community",
+        "entry_updated": "2020-12-09T19:34:59Z"
+      },
+      {
+        "title": "Council Regulation (EC) No 1922/94 of 25 July 1994 amending Regulation (EC) No 3636/93 opening and providing for the administration of Community tariff quotas for certain fruits and fruit juices",
+        "entry_updated": "2020-12-09T21:18:06Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH062",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Asian Development Bank (Extension of Limit on Guarantees) Order 1995, The Health and Care Professions Council (Registration and Fees) (Amendment) (No. 2) Rules Order of Council 2015, The Criminal Justice and Immigration Act 2008 (Commencement No. 9) Order 2009",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Asian Development Bank (Extension of Limit on Guarantees) Order 1995 (2013-10-12T01:33:39.862+01:00); The Health and Care Professions Council (Registration and Fees) (Amendment) (No. 2) Rules Order of Council 2015 (2020-12-21T15:39:28Z); The Criminal Justice and Immigration Act 2008 (Commencement No. 9) Order 2009 (2020-04-09T19:37:14Z)",
+    "answer": [
+      {
+        "title": "The Asian Development Bank (Extension of Limit on Guarantees) Order 1995",
+        "entry_updated": "2013-10-12T01:33:39.862+01:00"
+      },
+      {
+        "title": "The Criminal Justice and Immigration Act 2008 (Commencement No. 9) Order 2009",
+        "entry_updated": "2020-04-09T19:37:14Z"
+      },
+      {
+        "title": "The Health and Care Professions Council (Registration and Fees) (Amendment) (No. 2) Rules Order of Council 2015",
+        "entry_updated": "2020-12-21T15:39:28Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH063",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The M25 Junction 10/A3 Wisley Interchange Development Consent Order 2022, The Export Restrictions (Foot-and-Mouth Disease) (Amendment) Regulations (Northern Ireland) 2007, The Jam and Similar Products Regulations (Northern Ireland) 2018",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The M25 Junction 10/A3 Wisley Interchange Development Consent Order 2022 (2022-10-31T17:09:53Z); The Export Restrictions (Foot-and-Mouth Disease) (Amendment) Regulations (Northern Ireland) 2007 (2025-04-09T08:49:23Z); The Jam and Similar Products Regulations (Northern Ireland) 2018 (2025-01-08T19:24:34Z)",
+    "answer": [
+      {
+        "title": "The Jam and Similar Products Regulations (Northern Ireland) 2018",
+        "entry_updated": "2025-01-08T19:24:34Z"
+      },
+      {
+        "title": "The M25 Junction 10/A3 Wisley Interchange Development Consent Order 2022",
+        "entry_updated": "2022-10-31T17:09:53Z"
+      },
+      {
+        "title": "The Export Restrictions (Foot-and-Mouth Disease) (Amendment) Regulations (Northern Ireland) 2007",
+        "entry_updated": "2025-04-09T08:49:23Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH064",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Public Service Vehicles Accessibility (Amendment) Regulations 2004, Industrial Tribunals Act 1996, The Lotteries (Gaming Board Fees) Order 1996",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Public Service Vehicles Accessibility (Amendment) Regulations 2004 (2024-08-20T00:40:19.558567+01:00); Industrial Tribunals Act 1996 (2015-09-08T15:06:23Z); The Lotteries (Gaming Board Fees) Order 1996 (2016-02-05T10:54:17Z)",
+    "answer": [
+      {
+        "title": "Industrial Tribunals Act 1996",
+        "entry_updated": "2015-09-08T15:06:23Z"
+      },
+      {
+        "title": "The Lotteries (Gaming Board Fees) Order 1996",
+        "entry_updated": "2016-02-05T10:54:17Z"
+      },
+      {
+        "title": "The Public Service Vehicles Accessibility (Amendment) Regulations 2004",
+        "entry_updated": "2024-08-20T00:40:19.558567+01:00"
+      }
+    ]
+  },
+  {
+    "task_id": "CH065",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: 94/490/EC: Commission Decision of 26 July 1994 on additional financial aid from the Community for the work of the Laboratoire des médicaments vétérinaires, Fougères, France, a Community reference laboratory for residue testing (Text with EEA relevance), The Non-Domestic Rating (Transitional Period) (Amendment) (England) Regulations 2003, The National Health Service (General Ophthalmic Services) (Scotland) Amendment (No. 3) Regulations 2004",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: 94/490/EC: Commission Decision of 26 July 1994 on additional financial aid from the Community for the work of the Laboratoire des médicaments vétérinaires, Fougères, France, a Community reference laboratory for residue testing (Text with EEA relevance) (2020-12-11T18:17:57Z); The Non-Domestic Rating (Transitional Period) (Amendment) (England) Regulations 2003 (2013-10-13T03:08:52.675+01:00); The National Health Service (General Ophthalmic Services) (Scotland) Amendment (No. 3) Regulations 2004 (2013-10-13T00:57:35.774+01:00)",
+    "answer": [
+      {
+        "title": "The National Health Service (General Ophthalmic Services) (Scotland) Amendment (No. 3) Regulations 2004",
+        "entry_updated": "2013-10-13T00:57:35.774+01:00"
+      },
+      {
+        "title": "The Non-Domestic Rating (Transitional Period) (Amendment) (England) Regulations 2003",
+        "entry_updated": "2013-10-13T03:08:52.675+01:00"
+      },
+      {
+        "title": "94/490/EC: Commission Decision of 26 July 1994 on additional financial aid from the Community for the work of the Laboratoire des médicaments vétérinaires, Fougères, France, a Community reference laboratory for residue testing (Text with EEA relevance)",
+        "entry_updated": "2020-12-11T18:17:57Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH066",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Regulation (EEC) No 1564/72 of the Council of 20 July 1972 making a second amendment to Regulation (EEC) No 1093/70 concerning the addition of alcohol to products in the wine sector originating in the Community, The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1991, The Avian Influenza (Preventive Measures in Zoos) (Scotland) Amendment Regulations 2005",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Regulation (EEC) No 1564/72 of the Council of 20 July 1972 making a second amendment to Regulation (EEC) No 1093/70 concerning the addition of alcohol to products in the wine sector originating in the Community (2020-12-09T19:46:21Z); The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1991 (2025-04-20T22:31:28Z); The Avian Influenza (Preventive Measures in Zoos) (Scotland) Amendment Regulations 2005 (2013-10-13T01:28:02.209+01:00)",
+    "answer": [
+      {
+        "title": "The Avian Influenza (Preventive Measures in Zoos) (Scotland) Amendment Regulations 2005",
+        "entry_updated": "2013-10-13T01:28:02.209+01:00"
+      },
+      {
+        "title": "Regulation (EEC) No 1564/72 of the Council of 20 July 1972 making a second amendment to Regulation (EEC) No 1093/70 concerning the addition of alcohol to products in the wine sector originating in the Community",
+        "entry_updated": "2020-12-09T19:46:21Z"
+      },
+      {
+        "title": "The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1991",
+        "entry_updated": "2025-04-20T22:31:28Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH067",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Regulation (EEC) No 3331/75 of the Council of 18 December 1975 extending the term of validity of Regulation (EEC) No 2829/72 on the Community quota for the carriage of goods by road between Member States, Regulation (EEC) No 456/75 of the Commission of 26 February 1975 amending Regulation (EEC) No 1463/73 laying down detailed rules for the application of monetary compensatory amounts, The Register of Overseas Entities (Definition of Foreign Limited Partner, Protection and Rectification) Regulations 2023",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Regulation (EEC) No 3331/75 of the Council of 18 December 1975 extending the term of validity of Regulation (EEC) No 2829/72 on the Community quota for the carriage of goods by road between Member States (2020-12-12T22:46:37Z); Regulation (EEC) No 456/75 of the Commission of 26 February 1975 amending Regulation (EEC) No 1463/73 laying down detailed rules for the application of monetary compensatory amounts (2020-12-10T21:19:03Z); The Register of Overseas Entities (Definition of Foreign Limited Partner, Protection and Rectification) Regulations 2023 (2023-08-30T15:33:41.064348+01:00)",
+    "answer": [
+      {
+        "title": "Regulation (EEC) No 456/75 of the Commission of 26 February 1975 amending Regulation (EEC) No 1463/73 laying down detailed rules for the application of monetary compensatory amounts",
+        "entry_updated": "2020-12-10T21:19:03Z"
+      },
+      {
+        "title": "Regulation (EEC) No 3331/75 of the Council of 18 December 1975 extending the term of validity of Regulation (EEC) No 2829/72 on the Community quota for the carriage of goods by road between Member States",
+        "entry_updated": "2020-12-12T22:46:37Z"
+      },
+      {
+        "title": "The Register of Overseas Entities (Definition of Foreign Limited Partner, Protection and Rectification) Regulations 2023",
+        "entry_updated": "2023-08-30T15:33:41.064348+01:00"
+      }
+    ]
+  },
+  {
+    "task_id": "CH068",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Council Regulation (EC) No 1151/2002 of 27 June 2002 establishing certain concessions in the form of Community tariff quotas for certain agricultural products and providing for an adjustment, as an autonomous and transitional measure, of certain agricultural concessions provided for in the Europe Agreement with Estonia, Commission Directive 2004/29/EC of 4 March 2004 on determining the characteristics and minimum conditions for inspecting vine varieties, Commission Regulation (EC) No 1305/2003 of 23 July 2003 amending Regulation (EC) No 285/2003 on the issue of import licences for sheepmeat and goatmeat products under GATT-WTO non-country-specific tariff quotas for the first quarter of 2003",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Council Regulation (EC) No 1151/2002 of 27 June 2002 establishing certain concessions in the form of Community tariff quotas for certain agricultural products and providing for an adjustment, as an autonomous and transitional measure, of certain agricultural concessions provided for in the Europe Agreement with Estonia (2020-12-12T16:35:44Z); Commission Directive 2004/29/EC of 4 March 2004 on determining the characteristics and minimum conditions for inspecting vine varieties (2020-12-11T18:02:52Z); Commission Regulation (EC) No 1305/2003 of 23 July 2003 amending Regulation (EC) No 285/2003 on the issue of import licences for sheepmeat and goatmeat products under GATT-WTO non-country-specific tariff quotas for the first quarter of 2003 (2020-12-12T16:16:48Z)",
+    "answer": [
+      {
+        "title": "Commission Directive 2004/29/EC of 4 March 2004 on determining the characteristics and minimum conditions for inspecting vine varieties",
+        "entry_updated": "2020-12-11T18:02:52Z"
+      },
+      {
+        "title": "Commission Regulation (EC) No 1305/2003 of 23 July 2003 amending Regulation (EC) No 285/2003 on the issue of import licences for sheepmeat and goatmeat products under GATT-WTO non-country-specific tariff quotas for the first quarter of 2003",
+        "entry_updated": "2020-12-12T16:16:48Z"
+      },
+      {
+        "title": "Council Regulation (EC) No 1151/2002 of 27 June 2002 establishing certain concessions in the form of Community tariff quotas for certain agricultural products and providing for an adjustment, as an autonomous and transitional measure, of certain agricultural concessions provided for in the Europe Agreement with Estonia",
+        "entry_updated": "2020-12-12T16:35:44Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH069",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Government Resources and Accounts Act 2000 (Audit of Health Service Bodies) Order 2004, Council Regulation (EEC) No 1361/78 of 19 June 1978 amending Regulation (EEC) No 355/77 on common measures to improve the conditions under which agricultural products are processed and marketed, The Welfare Reform Act 2012 (Commencement No. 9, 11, 13 14, 16 and 17 and Transitional and Transitory Provisions (Amendment)) Order 2014",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Government Resources and Accounts Act 2000 (Audit of Health Service Bodies) Order 2004 (2022-02-28T21:29:57Z); Council Regulation (EEC) No 1361/78 of 19 June 1978 amending Regulation (EEC) No 355/77 on common measures to improve the conditions under which agricultural products are processed and marketed (2020-12-10T19:13:26Z); The Welfare Reform Act 2012 (Commencement No. 9, 11, 13 14, 16 and 17 and Transitional and Transitory Provisions (Amendment)) Order 2014 (2022-04-27T13:45:37Z)",
+    "answer": [
+      {
+        "title": "The Welfare Reform Act 2012 (Commencement No. 9, 11, 13 14, 16 and 17 and Transitional and Transitory Provisions (Amendment)) Order 2014",
+        "entry_updated": "2022-04-27T13:45:37Z"
+      },
+      {
+        "title": "The Government Resources and Accounts Act 2000 (Audit of Health Service Bodies) Order 2004",
+        "entry_updated": "2022-02-28T21:29:57Z"
+      },
+      {
+        "title": "Council Regulation (EEC) No 1361/78 of 19 June 1978 amending Regulation (EEC) No 355/77 on common measures to improve the conditions under which agricultural products are processed and marketed",
+        "entry_updated": "2020-12-10T19:13:26Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH070",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) (No. 2) Regulations 2019, Commission Implementing Regulation (EU) 2019/283 of 18 February 2019 amending Council Regulation (EC) No 314/2004 concerning certain restrictive measures in respect of Zimbabwe, 86/119/EEC: Commission Decision of 10 March 1986 amending Decision 80/862/EEC authorizing the Member States to provide for derogations from certain provisions of Council Directive 77/93/EEC, in respect of potato breeding material",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) (No. 2) Regulations 2019 (2022-01-20T13:03:31Z); Commission Implementing Regulation (EU) 2019/283 of 18 February 2019 amending Council Regulation (EC) No 314/2004 concerning certain restrictive measures in respect of Zimbabwe (2020-12-12T05:50:42Z); 86/119/EEC: Commission Decision of 10 March 1986 amending Decision 80/862/EEC authorizing the Member States to provide for derogations from certain provisions of Council Directive 77/93/EEC, in respect of potato breeding material (2020-12-11T19:44:17Z)",
+    "answer": [
+      {
+        "title": "The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) (No. 2) Regulations 2019",
+        "entry_updated": "2022-01-20T13:03:31Z"
+      },
+      {
+        "title": "86/119/EEC: Commission Decision of 10 March 1986 amending Decision 80/862/EEC authorizing the Member States to provide for derogations from certain provisions of Council Directive 77/93/EEC, in respect of potato breeding material",
+        "entry_updated": "2020-12-11T19:44:17Z"
+      },
+      {
+        "title": "Commission Implementing Regulation (EU) 2019/283 of 18 February 2019 amending Council Regulation (EC) No 314/2004 concerning certain restrictive measures in respect of Zimbabwe",
+        "entry_updated": "2020-12-12T05:50:42Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH071",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Council Regulation (EU) No 953/2013 of 26 September 2013 amending Annex I to Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff, The Finance Act 2009 (Consequential Amendments) Order 2011, The Payment to Treasury of Penalties Regulations 2013",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Council Regulation (EU) No 953/2013 of 26 September 2013 amending Annex I to Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff (2020-12-11T14:26:37Z); The Finance Act 2009 (Consequential Amendments) Order 2011 (2023-10-18T15:37:41Z); The Payment to Treasury of Penalties Regulations 2013 (2020-08-21T11:02:43Z)",
+    "answer": [
+      {
+        "title": "The Payment to Treasury of Penalties Regulations 2013",
+        "entry_updated": "2020-08-21T11:02:43Z"
+      },
+      {
+        "title": "Council Regulation (EU) No 953/2013 of 26 September 2013 amending Annex I to Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff",
+        "entry_updated": "2020-12-11T14:26:37Z"
+      },
+      {
+        "title": "The Finance Act 2009 (Consequential Amendments) Order 2011",
+        "entry_updated": "2023-10-18T15:37:41Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH072",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Regulation (EC) No 2797/1999 of 29 December 1999 amending Regulation (EC) No 1771/96 laying down detailed rules for the implementation of the specific measures for the supply of hops to the French overseas departments, The Patents (Amendment) Rules 1985, The Haringey London Borough Council (Temporary Governing Body) Order 2005",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Regulation (EC) No 2797/1999 of 29 December 1999 amending Regulation (EC) No 1771/96 laying down detailed rules for the implementation of the specific measures for the supply of hops to the French overseas departments (2020-12-12T16:53:08Z); The Patents (Amendment) Rules 1985 (2019-10-11T00:00:00); The Haringey London Borough Council (Temporary Governing Body) Order 2005 (2013-10-12T14:38:55.911+01:00)",
+    "answer": [
+      {
+        "title": "The Haringey London Borough Council (Temporary Governing Body) Order 2005",
+        "entry_updated": "2013-10-12T14:38:55.911+01:00"
+      },
+      {
+        "title": "The Patents (Amendment) Rules 1985",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "Commission Regulation (EC) No 2797/1999 of 29 December 1999 amending Regulation (EC) No 1771/96 laying down detailed rules for the implementation of the specific measures for the supply of hops to the French overseas departments",
+        "entry_updated": "2020-12-12T16:53:08Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH073",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Tertiary Education and Research (Wales) Act 2022 (Commencement No. 2 and Transitory Provision) Order 2023, The Infrastructure Act 2015 (Commencement No. 5) Regulations 2016, The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2005",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Tertiary Education and Research (Wales) Act 2022 (Commencement No. 2 and Transitory Provision) Order 2023 (2024-05-09T15:55:09Z); The Infrastructure Act 2015 (Commencement No. 5) Regulations 2016 (2016-09-07T13:31:06.257+01:00); The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2005 (2013-10-12T15:06:02.387+01:00)",
+    "answer": [
+      {
+        "title": "The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2005",
+        "entry_updated": "2013-10-12T15:06:02.387+01:00"
+      },
+      {
+        "title": "The Infrastructure Act 2015 (Commencement No. 5) Regulations 2016",
+        "entry_updated": "2016-09-07T13:31:06.257+01:00"
+      },
+      {
+        "title": "The Tertiary Education and Research (Wales) Act 2022 (Commencement No. 2 and Transitory Provision) Order 2023",
+        "entry_updated": "2024-05-09T15:55:09Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH074",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018, The Copyright (Certification of Licensing Scheme for Educational Recording of Broadcasts) (Open University Educational Enterprises Limited) Order 1993, The Judicial Pensions (Contributions) Regulations 1998",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018 (2025-01-31T15:45:04Z); The Copyright (Certification of Licensing Scheme for Educational Recording of Broadcasts) (Open University Educational Enterprises Limited) Order 1993 (2019-07-11T00:00:00); The Judicial Pensions (Contributions) Regulations 1998 (2019-07-11T00:00:00)",
+    "answer": [
+      {
+        "title": "The Copyright (Certification of Licensing Scheme for Educational Recording of Broadcasts) (Open University Educational Enterprises Limited) Order 1993",
+        "entry_updated": "2019-07-11T00:00:00"
+      },
+      {
+        "title": "The Judicial Pensions (Contributions) Regulations 1998",
+        "entry_updated": "2019-07-11T00:00:00"
+      },
+      {
+        "title": "The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018",
+        "entry_updated": "2025-01-31T15:45:04Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH075",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2016, Council Regulation (EU) No 572/2011 of 16 June 2011 amending Regulation (EU) No 204/2011 concerning restrictive measures in view of the situation in Libya, Commission Regulation (EC) No 219/94 of 1 February 1994 on the sale by the procedure laid down in Regulation (EEC) No 2539/84 of beef held by certain intervention agencies and intended for processing within the Community and repealing Regulation (EC) No 3315/93",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2016 (2023-01-31T10:17:56.672562Z); Council Regulation (EU) No 572/2011 of 16 June 2011 amending Regulation (EU) No 204/2011 concerning restrictive measures in view of the situation in Libya (2020-12-11T00:37:42Z); Commission Regulation (EC) No 219/94 of 1 February 1994 on the sale by the procedure laid down in Regulation (EEC) No 2539/84 of beef held by certain intervention agencies and intended for processing within the Community and repealing Regulation (EC) No 3315/93 (2020-12-12T17:19:05Z)",
+    "answer": [
+      {
+        "title": "The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2016",
+        "entry_updated": "2023-01-31T10:17:56.672562Z"
+      },
+      {
+        "title": "Council Regulation (EU) No 572/2011 of 16 June 2011 amending Regulation (EU) No 204/2011 concerning restrictive measures in view of the situation in Libya",
+        "entry_updated": "2020-12-11T00:37:42Z"
+      },
+      {
+        "title": "Commission Regulation (EC) No 219/94 of 1 February 1994 on the sale by the procedure laid down in Regulation (EEC) No 2539/84 of beef held by certain intervention agencies and intended for processing within the Community and repealing Regulation (EC) No 3315/93",
+        "entry_updated": "2020-12-12T17:19:05Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH076",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Institutions of Further Education (Public Sector Audit) Order (Northern Ireland) 2008, The Medical Devices (Amendment) (Great Britain) Regulations 2023, The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Institutions of Further Education (Public Sector Audit) Order (Northern Ireland) 2008 (2015-01-29T11:49:50Z); The Medical Devices (Amendment) (Great Britain) Regulations 2023 (2025-06-18T15:38:21Z); The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002 (2023-03-23T12:30:41.670658Z)",
+    "answer": [
+      {
+        "title": "The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002",
+        "entry_updated": "2023-03-23T12:30:41.670658Z"
+      },
+      {
+        "title": "Institutions of Further Education (Public Sector Audit) Order (Northern Ireland) 2008",
+        "entry_updated": "2015-01-29T11:49:50Z"
+      },
+      {
+        "title": "The Medical Devices (Amendment) (Great Britain) Regulations 2023",
+        "entry_updated": "2025-06-18T15:38:21Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH077",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Regulation (EEC) No 1102/83 of 5 May 1983 amending Regulation (EEC) No 1624/76 concerning special arrangements for the payment of aid for skimmed-milk powder denatured or processed into compound feedingstuffs on the territory of another Member State, Council Regulation (EC) No 1173/95 of 22 May 1995 amending, for the sixteenth time, Regulation (EEC) No 3094/86 laying down certain technical measures for the conservation of fishery resources, The Value Added Tax (General) (Amendment) Regulations 1991",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Regulation (EEC) No 1102/83 of 5 May 1983 amending Regulation (EEC) No 1624/76 concerning special arrangements for the payment of aid for skimmed-milk powder denatured or processed into compound feedingstuffs on the territory of another Member State (2020-12-12T15:05:56Z); Council Regulation (EC) No 1173/95 of 22 May 1995 amending, for the sixteenth time, Regulation (EEC) No 3094/86 laying down certain technical measures for the conservation of fishery resources (2020-12-12T18:44:14Z); The Value Added Tax (General) (Amendment) Regulations 1991 (2019-07-11T00:00:00)",
+    "answer": [
+      {
+        "title": "The Value Added Tax (General) (Amendment) Regulations 1991",
+        "entry_updated": "2019-07-11T00:00:00"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 1102/83 of 5 May 1983 amending Regulation (EEC) No 1624/76 concerning special arrangements for the payment of aid for skimmed-milk powder denatured or processed into compound feedingstuffs on the territory of another Member State",
+        "entry_updated": "2020-12-12T15:05:56Z"
+      },
+      {
+        "title": "Council Regulation (EC) No 1173/95 of 22 May 1995 amending, for the sixteenth time, Regulation (EEC) No 3094/86 laying down certain technical measures for the conservation of fishery resources",
+        "entry_updated": "2020-12-12T18:44:14Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH078",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Regulation (EEC) No 2733/73 of the Commission of 8 October 1973 amending Regulation (EEC) No 1280/71 laying down detailed rules for the buying-in of sugar by intervention agencies, 96/585/EC: Commission Decision of 25 September 1996 amending Decision 92/25/EEC concerning animal health conditions and veterinary certification for the importation of fresh meat from Zimbabwe (Text with EEA relevance), The Controls on Ozone-Depleting Substances Regulations (Northern Ireland) 2011",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Regulation (EEC) No 2733/73 of the Commission of 8 October 1973 amending Regulation (EEC) No 1280/71 laying down detailed rules for the buying-in of sugar by intervention agencies (2020-12-11T18:23:02Z); 96/585/EC: Commission Decision of 25 September 1996 amending Decision 92/25/EEC concerning animal health conditions and veterinary certification for the importation of fresh meat from Zimbabwe (Text with EEA relevance) (2020-12-12T15:11:47Z); The Controls on Ozone-Depleting Substances Regulations (Northern Ireland) 2011 (2021-02-03T10:24:28Z)",
+    "answer": [
+      {
+        "title": "Regulation (EEC) No 2733/73 of the Commission of 8 October 1973 amending Regulation (EEC) No 1280/71 laying down detailed rules for the buying-in of sugar by intervention agencies",
+        "entry_updated": "2020-12-11T18:23:02Z"
+      },
+      {
+        "title": "96/585/EC: Commission Decision of 25 September 1996 amending Decision 92/25/EEC concerning animal health conditions and veterinary certification for the importation of fresh meat from Zimbabwe (Text with EEA relevance)",
+        "entry_updated": "2020-12-12T15:11:47Z"
+      },
+      {
+        "title": "The Controls on Ozone-Depleting Substances Regulations (Northern Ireland) 2011",
+        "entry_updated": "2021-02-03T10:24:28Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH079",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Sheep and Goats (Records, Identification and Movement) (Wales) Order 2008, Commission Regulation (EC) No 1020/2008 of 17 October 2008 amending Annexes II and III to Regulation (EC) No 853/2004 of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin and Regulation (EC) No 2076/2005 as regards identification marking, raw milk and dairy products, eggs and egg products and certain fishery products (Text with EEA relevance), Commission Regulation (EEC) No 1807/87 of 29 June 1987 amending Regulation (EEC) No 3143/85 on the sale at reduced prices of intervention butter intended for direct consumption in the form of concentrated butter",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Sheep and Goats (Records, Identification and Movement) (Wales) Order 2008 (2013-10-12T23:29:39.026+01:00); Commission Regulation (EC) No 1020/2008 of 17 October 2008 amending Annexes II and III to Regulation (EC) No 853/2004 of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin and Regulation (EC) No 2076/2005 as regards identification marking, raw milk and dairy products, eggs and egg products and certain fishery products (Text with EEA relevance) (2022-01-31T16:36:20Z); Commission Regulation (EEC) No 1807/87 of 29 June 1987 amending Regulation (EEC) No 3143/85 on the sale at reduced prices of intervention butter intended for direct consumption in the form of concentrated butter (2020-12-11T02:15:38Z)",
+    "answer": [
+      {
+        "title": "The Sheep and Goats (Records, Identification and Movement) (Wales) Order 2008",
+        "entry_updated": "2013-10-12T23:29:39.026+01:00"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 1807/87 of 29 June 1987 amending Regulation (EEC) No 3143/85 on the sale at reduced prices of intervention butter intended for direct consumption in the form of concentrated butter",
+        "entry_updated": "2020-12-11T02:15:38Z"
+      },
+      {
+        "title": "Commission Regulation (EC) No 1020/2008 of 17 October 2008 amending Annexes II and III to Regulation (EC) No 853/2004 of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin and Regulation (EC) No 2076/2005 as regards identification marking, raw milk and dairy products, eggs and egg products and certain fishery products (Text with EEA relevance)",
+        "entry_updated": "2022-01-31T16:36:20Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH080",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Council Regulation (EC) No 85/2009 of 19 January 2009 amending Regulation (EC) No 1083/2006 laying down general provisions on the European Regional Development Fund, the European Social Fund and the Cohesion Fund concerning certain provisions relating to financial management, The Urban Waste Water Treatment Regulations (Northern Ireland) 1995, Financial Services (Banking Reform) Act 2013",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Council Regulation (EC) No 85/2009 of 19 January 2009 amending Regulation (EC) No 1083/2006 laying down general provisions on the European Regional Development Fund, the European Social Fund and the Cohesion Fund concerning certain provisions relating to financial management (2020-12-11T02:13:29Z); The Urban Waste Water Treatment Regulations (Northern Ireland) 1995 (2013-10-12T01:50:48.499+01:00); Financial Services (Banking Reform) Act 2013 (2018-12-14T17:51:40Z)",
+    "answer": [
+      {
+        "title": "The Urban Waste Water Treatment Regulations (Northern Ireland) 1995",
+        "entry_updated": "2013-10-12T01:50:48.499+01:00"
+      },
+      {
+        "title": "Financial Services (Banking Reform) Act 2013",
+        "entry_updated": "2018-12-14T17:51:40Z"
+      },
+      {
+        "title": "Council Regulation (EC) No 85/2009 of 19 January 2009 amending Regulation (EC) No 1083/2006 laying down general provisions on the European Regional Development Fund, the European Social Fund and the Cohesion Fund concerning certain provisions relating to financial management",
+        "entry_updated": "2020-12-11T02:13:29Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH081",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Army Terms of Service Regulations 1981, The Money Laundering and Terrorist Financing (Amendment) Regulations 2022, The Protection of Animals at the Time of Killing (Amendment) (England) Regulations 2022",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Army Terms of Service Regulations 1981 (2019-10-11T00:00:00); The Money Laundering and Terrorist Financing (Amendment) Regulations 2022 (2022-03-10T11:39:49.621426Z); The Protection of Animals at the Time of Killing (Amendment) (England) Regulations 2022 (2022-04-12T08:00:45Z)",
+    "answer": [
+      {
+        "title": "The Army Terms of Service Regulations 1981",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "The Protection of Animals at the Time of Killing (Amendment) (England) Regulations 2022",
+        "entry_updated": "2022-04-12T08:00:45Z"
+      },
+      {
+        "title": "The Money Laundering and Terrorist Financing (Amendment) Regulations 2022",
+        "entry_updated": "2022-03-10T11:39:49.621426Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH082",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Regulation (EEC) No 2825/82 of 22 October 1982 amending Regulation (EEC) No 1726/70 on the procedure for granting the premium for leaf tobacco, The South West Water Authority (River Exe/River Taw Transfer and River Taw at Newbridge) Order 1985, The Hampshire Fire Services(Combination Scheme) Order 1996",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Regulation (EEC) No 2825/82 of 22 October 1982 amending Regulation (EEC) No 1726/70 on the procedure for granting the premium for leaf tobacco (2020-12-11T18:18:08Z); The South West Water Authority (River Exe/River Taw Transfer and River Taw at Newbridge) Order 1985 (2019-10-11T00:00:00); The Hampshire Fire Services(Combination Scheme) Order 1996 (2024-01-18T19:09:41Z)",
+    "answer": [
+      {
+        "title": "The South West Water Authority (River Exe/River Taw Transfer and River Taw at Newbridge) Order 1985",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 2825/82 of 22 October 1982 amending Regulation (EEC) No 1726/70 on the procedure for granting the premium for leaf tobacco",
+        "entry_updated": "2020-12-11T18:18:08Z"
+      },
+      {
+        "title": "The Hampshire Fire Services(Combination Scheme) Order 1996",
+        "entry_updated": "2024-01-18T19:09:41Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH083",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Council Directive 84/643/EEC of 11 December 1984 amending Directives 64/432/EEC and 72/461/EEC as regards certain measures relating to foot-and-mouth disease and swine vesicular disease, The Child Support Maintenance (Changes to Basic Rate Calculation and Minimum Amount of Liability) Regulations (Northern Ireland) 2012, Council Directive 75/786/EEC of 18 December 1975 amending Directive 72/464/EEC on taxes other than turnover taxes which affect the consumption of manufactured tobacco",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Council Directive 84/643/EEC of 11 December 1984 amending Directives 64/432/EEC and 72/461/EEC as regards certain measures relating to foot-and-mouth disease and swine vesicular disease (2020-12-12T20:38:52Z); The Child Support Maintenance (Changes to Basic Rate Calculation and Minimum Amount of Liability) Regulations (Northern Ireland) 2012 (2024-11-18T09:50:17Z); Council Directive 75/786/EEC of 18 December 1975 amending Directive 72/464/EEC on taxes other than turnover taxes which affect the consumption of manufactured tobacco (2020-12-12T14:46:17Z)",
+    "answer": [
+      {
+        "title": "Council Directive 84/643/EEC of 11 December 1984 amending Directives 64/432/EEC and 72/461/EEC as regards certain measures relating to foot-and-mouth disease and swine vesicular disease",
+        "entry_updated": "2020-12-12T20:38:52Z"
+      },
+      {
+        "title": "Council Directive 75/786/EEC of 18 December 1975 amending Directive 72/464/EEC on taxes other than turnover taxes which affect the consumption of manufactured tobacco",
+        "entry_updated": "2020-12-12T14:46:17Z"
+      },
+      {
+        "title": "The Child Support Maintenance (Changes to Basic Rate Calculation and Minimum Amount of Liability) Regulations (Northern Ireland) 2012",
+        "entry_updated": "2024-11-18T09:50:17Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH084",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Little Loch Broom Scallops Several Fishery Order 2017, Commission Regulation (EEC) No 3801/86 of 12 December 1986 fixing for 1987, the quotas for imports into Portugal of certain pigmeat products from Spain and certain detailed rules for the application thereof, The Import and Export (Plant Health Fees) (England and Wales) (Amendment) Order 1989",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Little Loch Broom Scallops Several Fishery Order 2017 (2017-05-18T16:21:08Z); Commission Regulation (EEC) No 3801/86 of 12 December 1986 fixing for 1987, the quotas for imports into Portugal of certain pigmeat products from Spain and certain detailed rules for the application thereof (2020-12-12T02:51:48Z); The Import and Export (Plant Health Fees) (England and Wales) (Amendment) Order 1989 (2019-10-11T00:00:00)",
+    "answer": [
+      {
+        "title": "The Little Loch Broom Scallops Several Fishery Order 2017",
+        "entry_updated": "2017-05-18T16:21:08Z"
+      },
+      {
+        "title": "The Import and Export (Plant Health Fees) (England and Wales) (Amendment) Order 1989",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 3801/86 of 12 December 1986 fixing for 1987, the quotas for imports into Portugal of certain pigmeat products from Spain and certain detailed rules for the application thereof",
+        "entry_updated": "2020-12-12T02:51:48Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH085",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Education (Student Support) (Wales) Regulations 2017, Commission Regulation (EC) No 1283/2000 of 19 June 2000 amending Regulation (EC) No 1185/2000 on the supply of cereals as food aid, The Offshore Installations (Safety Zones) (Revocation) (No. 64) Order 1984",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Education (Student Support) (Wales) Regulations 2017 (2025-05-19T14:10:54.070442+01:00); Commission Regulation (EC) No 1283/2000 of 19 June 2000 amending Regulation (EC) No 1185/2000 on the supply of cereals as food aid (2020-12-12T16:31:31Z); The Offshore Installations (Safety Zones) (Revocation) (No. 64) Order 1984 (2019-10-11T00:00:00)",
+    "answer": [
+      {
+        "title": "The Offshore Installations (Safety Zones) (Revocation) (No. 64) Order 1984",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "Commission Regulation (EC) No 1283/2000 of 19 June 2000 amending Regulation (EC) No 1185/2000 on the supply of cereals as food aid",
+        "entry_updated": "2020-12-12T16:31:31Z"
+      },
+      {
+        "title": "The Education (Student Support) (Wales) Regulations 2017",
+        "entry_updated": "2025-05-19T14:10:54.070442+01:00"
+      }
+    ]
+  },
+  {
+    "task_id": "CH086",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Regulation (EC) No 2169/2004 of 17 December 2004 amending Regulation (EC) No 1535/2003 laying down detailed rules for applying Council Regulation (EC) No 2201/96 as regards the aid scheme for products processed from fruit and vegetables, The Medicines (Manufacturer’s Undertakings for Imported Products) Amendment Regulations 1992, The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 2) Regulations 2021",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Regulation (EC) No 2169/2004 of 17 December 2004 amending Regulation (EC) No 1535/2003 laying down detailed rules for applying Council Regulation (EC) No 2201/96 as regards the aid scheme for products processed from fruit and vegetables (2020-12-12T16:19:28Z); The Medicines (Manufacturer’s Undertakings for Imported Products) Amendment Regulations 1992 (2019-07-11T00:00:00); The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 2) Regulations 2021 (2021-05-12T14:31:26Z)",
+    "answer": [
+      {
+        "title": "The Medicines (Manufacturer’s Undertakings for Imported Products) Amendment Regulations 1992",
+        "entry_updated": "2019-07-11T00:00:00"
+      },
+      {
+        "title": "Commission Regulation (EC) No 2169/2004 of 17 December 2004 amending Regulation (EC) No 1535/2003 laying down detailed rules for applying Council Regulation (EC) No 2201/96 as regards the aid scheme for products processed from fruit and vegetables",
+        "entry_updated": "2020-12-12T16:19:28Z"
+      },
+      {
+        "title": "The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 2) Regulations 2021",
+        "entry_updated": "2021-05-12T14:31:26Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH087",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Implementing Regulation (EU) No 7/2012 of 5 January 2012 amending Council Regulation (EC) No 1183/2005 imposing certain specific restrictive measures directed against persons acting in violation of the arms embargo with regard to the Democratic Republic of the Congo, The Edinburgh Tram (Line Two) Act 2006 (Extension of Time for Land Acquisition) Order 2011, The Petty Sessions Areas (Amendment) Order 2000",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Implementing Regulation (EU) No 7/2012 of 5 January 2012 amending Council Regulation (EC) No 1183/2005 imposing certain specific restrictive measures directed against persons acting in violation of the arms embargo with regard to the Democratic Republic of the Congo (2021-03-26T07:32:15Z); The Edinburgh Tram (Line Two) Act 2006 (Extension of Time for Land Acquisition) Order 2011 (2015-09-22T14:37:03.876+01:00); The Petty Sessions Areas (Amendment) Order 2000 (2019-02-12T00:00:00Z)",
+    "answer": [
+      {
+        "title": "The Edinburgh Tram (Line Two) Act 2006 (Extension of Time for Land Acquisition) Order 2011",
+        "entry_updated": "2015-09-22T14:37:03.876+01:00"
+      },
+      {
+        "title": "The Petty Sessions Areas (Amendment) Order 2000",
+        "entry_updated": "2019-02-12T00:00:00Z"
+      },
+      {
+        "title": "Commission Implementing Regulation (EU) No 7/2012 of 5 January 2012 amending Council Regulation (EC) No 1183/2005 imposing certain specific restrictive measures directed against persons acting in violation of the arms embargo with regard to the Democratic Republic of the Congo",
+        "entry_updated": "2021-03-26T07:32:15Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH088",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Registration of Marriages (Amendment) Regulations 2005, The Consular Fees (Amendment) Order 2003, The Education (National Curriculum) (Assessment Arrangements for English, Welsh, Mathematics and Science) (Key Stage 1) (Wales) Order 1997",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Registration of Marriages (Amendment) Regulations 2005 (2013-10-12T14:10:58.619+01:00); The Consular Fees (Amendment) Order 2003 (2013-10-13T03:26:27.949+01:00); The Education (National Curriculum) (Assessment Arrangements for English, Welsh, Mathematics and Science) (Key Stage 1) (Wales) Order 1997 (2019-05-02T00:00:00)",
+    "answer": [
+      {
+        "title": "The Registration of Marriages (Amendment) Regulations 2005",
+        "entry_updated": "2013-10-12T14:10:58.619+01:00"
+      },
+      {
+        "title": "The Consular Fees (Amendment) Order 2003",
+        "entry_updated": "2013-10-13T03:26:27.949+01:00"
+      },
+      {
+        "title": "The Education (National Curriculum) (Assessment Arrangements for English, Welsh, Mathematics and Science) (Key Stage 1) (Wales) Order 1997",
+        "entry_updated": "2019-05-02T00:00:00"
+      }
+    ]
+  },
+  {
+    "task_id": "CH089",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Council Regulation (EEC) No 1309/85 of 23 May 1985 amending Regulation (EEC) No 1199/82 on the granting of an additional premium for maintaining suckler cows in Ireland and Northern Ireland, The Lloyd's Underwriters (Tax) (No. 2) Regulations 1974, Commission Regulation (EEC) No 295/79 of 14 February 1979 amending Regulation (EEC) No 2036/74 fixing prices for the sale at reduced prices to certain institutions and bodies of a social character of hindquarters of adult bovine animals held by the intervention agencies",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Council Regulation (EEC) No 1309/85 of 23 May 1985 amending Regulation (EEC) No 1199/82 on the granting of an additional premium for maintaining suckler cows in Ireland and Northern Ireland (2020-12-12T16:50:03Z); The Lloyd's Underwriters (Tax) (No. 2) Regulations 1974 (2019-10-11T00:00:00); Commission Regulation (EEC) No 295/79 of 14 February 1979 amending Regulation (EEC) No 2036/74 fixing prices for the sale at reduced prices to certain institutions and bodies of a social character of hindquarters of adult bovine animals held by the intervention agencies (2020-12-12T13:52:00Z)",
+    "answer": [
+      {
+        "title": "The Lloyd's Underwriters (Tax) (No. 2) Regulations 1974",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 295/79 of 14 February 1979 amending Regulation (EEC) No 2036/74 fixing prices for the sale at reduced prices to certain institutions and bodies of a social character of hindquarters of adult bovine animals held by the intervention agencies",
+        "entry_updated": "2020-12-12T13:52:00Z"
+      },
+      {
+        "title": "Council Regulation (EEC) No 1309/85 of 23 May 1985 amending Regulation (EEC) No 1199/82 on the granting of an additional premium for maintaining suckler cows in Ireland and Northern Ireland",
+        "entry_updated": "2020-12-12T16:50:03Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH090",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Pigs (Records, Identification and Movement) (Wales) (Amendment) Order 2018, The Optical Charges and Payments (Amendment) Regulations (Northern Ireland) 2016, The Halton General Hospital and the Warrington Hospital National Health Service Trusts (Dissolution) Order 2001",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Pigs (Records, Identification and Movement) (Wales) (Amendment) Order 2018 (2018-11-13T13:22:08Z); The Optical Charges and Payments (Amendment) Regulations (Northern Ireland) 2016 (2016-09-30T10:59:08Z); The Halton General Hospital and the Warrington Hospital National Health Service Trusts (Dissolution) Order 2001 (2013-10-13T00:38:38.675+01:00)",
+    "answer": [
+      {
+        "title": "The Halton General Hospital and the Warrington Hospital National Health Service Trusts (Dissolution) Order 2001",
+        "entry_updated": "2013-10-13T00:38:38.675+01:00"
+      },
+      {
+        "title": "The Optical Charges and Payments (Amendment) Regulations (Northern Ireland) 2016",
+        "entry_updated": "2016-09-30T10:59:08Z"
+      },
+      {
+        "title": "The Pigs (Records, Identification and Movement) (Wales) (Amendment) Order 2018",
+        "entry_updated": "2018-11-13T13:22:08Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH091",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Additional Paternity Leave (Adoptions from Overseas) Regulations (Northern Ireland) 2010, The Police (Conduct) (Senior Officers) Regulations 1999, Council Regulation (EC) No 1152/2007 of 26 September 2007 amending Regulation (EC) No 1255/1999 on the common organisation of the market in milk and milk products",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Additional Paternity Leave (Adoptions from Overseas) Regulations (Northern Ireland) 2010 (2024-05-20T16:44:06Z); The Police (Conduct) (Senior Officers) Regulations 1999 (2019-04-03T16:02:44Z); Council Regulation (EC) No 1152/2007 of 26 September 2007 amending Regulation (EC) No 1255/1999 on the common organisation of the market in milk and milk products (2020-12-11T05:28:57Z)",
+    "answer": [
+      {
+        "title": "The Police (Conduct) (Senior Officers) Regulations 1999",
+        "entry_updated": "2019-04-03T16:02:44Z"
+      },
+      {
+        "title": "Council Regulation (EC) No 1152/2007 of 26 September 2007 amending Regulation (EC) No 1255/1999 on the common organisation of the market in milk and milk products",
+        "entry_updated": "2020-12-11T05:28:57Z"
+      },
+      {
+        "title": "The Additional Paternity Leave (Adoptions from Overseas) Regulations (Northern Ireland) 2010",
+        "entry_updated": "2024-05-20T16:44:06Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH092",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 24) Regulations 2021, The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (Scotland) Regulations 2005, The Jobseeker's Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations 2019",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 24) Regulations 2021 (2022-02-24T13:43:38Z); The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (Scotland) Regulations 2005 (2018-03-17T01:20:13Z); The Jobseeker's Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations 2019 (2020-11-18T11:58:23Z)",
+    "answer": [
+      {
+        "title": "The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (Scotland) Regulations 2005",
+        "entry_updated": "2018-03-17T01:20:13Z"
+      },
+      {
+        "title": "The Jobseeker's Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations 2019",
+        "entry_updated": "2020-11-18T11:58:23Z"
+      },
+      {
+        "title": "The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 24) Regulations 2021",
+        "entry_updated": "2022-02-24T13:43:38Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH093",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Implementing Regulation (EU) 2017/1530 of 7 September 2017 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval period of the active substance quizalofop-p-tefuryl (Text with EEA relevance. ), The Domestic Fire Safety (Definition of Residence) (Wales) Order 2013, The Eritrea and Ethiopia (United Nations Sanctions) Order 2000",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Implementing Regulation (EU) 2017/1530 of 7 September 2017 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval period of the active substance quizalofop-p-tefuryl (Text with EEA relevance. ) (2020-12-11T10:57:03Z); The Domestic Fire Safety (Definition of Residence) (Wales) Order 2013 (2017-06-30T12:23:05Z); The Eritrea and Ethiopia (United Nations Sanctions) Order 2000 (2017-09-07T13:40:24Z)",
+    "answer": [
+      {
+        "title": "The Eritrea and Ethiopia (United Nations Sanctions) Order 2000",
+        "entry_updated": "2017-09-07T13:40:24Z"
+      },
+      {
+        "title": "The Domestic Fire Safety (Definition of Residence) (Wales) Order 2013",
+        "entry_updated": "2017-06-30T12:23:05Z"
+      },
+      {
+        "title": "Commission Implementing Regulation (EU) 2017/1530 of 7 September 2017 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval period of the active substance quizalofop-p-tefuryl (Text with EEA relevance. )",
+        "entry_updated": "2020-12-11T10:57:03Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH094",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Misuse of Drugs Act 1971 (Amendment) (No. 2) Order 2014, Commission Regulation (EC) No 2208/98 of 14 October 1998 fixing representative prices and additional import duties in the poultrymeat and egg sectors and for egg albumin, and amending Regulation (EC) No 1484/95, The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2021",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Misuse of Drugs Act 1971 (Amendment) (No. 2) Order 2014 (2025-01-18T16:47:14Z); Commission Regulation (EC) No 2208/98 of 14 October 1998 fixing representative prices and additional import duties in the poultrymeat and egg sectors and for egg albumin, and amending Regulation (EC) No 1484/95 (2021-02-09T07:52:58Z); The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2021 (2022-09-29T16:30:31.995693+01:00)",
+    "answer": [
+      {
+        "title": "Commission Regulation (EC) No 2208/98 of 14 October 1998 fixing representative prices and additional import duties in the poultrymeat and egg sectors and for egg albumin, and amending Regulation (EC) No 1484/95",
+        "entry_updated": "2021-02-09T07:52:58Z"
+      },
+      {
+        "title": "The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2021",
+        "entry_updated": "2022-09-29T16:30:31.995693+01:00"
+      },
+      {
+        "title": "The Misuse of Drugs Act 1971 (Amendment) (No. 2) Order 2014",
+        "entry_updated": "2025-01-18T16:47:14Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH095",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Employment Act 2008 (Commencement No. 1, Transitional Provisions and Savings) Order 2008, Commission Regulation (EEC) No 1046/80 of 29 April 1980 amending for the 12th time Regulation (EEC) No 2044/75 as regards the advance fixing of refunds for cheese exported to the United States and Canada, Council Regulation (EEC) No 2999/87 of 5 October 1987 amending Regulation (EEC) No 4034/86 fixing, for certain fish stocks and groups of fish stocks, the total allowable catches for 1987 and certain conditions under which they may be fished",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Employment Act 2008 (Commencement No. 1, Transitional Provisions and Savings) Order 2008 (2025-04-09T11:01:38Z); Commission Regulation (EEC) No 1046/80 of 29 April 1980 amending for the 12th time Regulation (EEC) No 2044/75 as regards the advance fixing of refunds for cheese exported to the United States and Canada (2020-12-12T14:58:34Z); Council Regulation (EEC) No 2999/87 of 5 October 1987 amending Regulation (EEC) No 4034/86 fixing, for certain fish stocks and groups of fish stocks, the total allowable catches for 1987 and certain conditions under which they may be fished (2020-12-12T18:39:34Z)",
+    "answer": [
+      {
+        "title": "The Employment Act 2008 (Commencement No. 1, Transitional Provisions and Savings) Order 2008",
+        "entry_updated": "2025-04-09T11:01:38Z"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 1046/80 of 29 April 1980 amending for the 12th time Regulation (EEC) No 2044/75 as regards the advance fixing of refunds for cheese exported to the United States and Canada",
+        "entry_updated": "2020-12-12T14:58:34Z"
+      },
+      {
+        "title": "Council Regulation (EEC) No 2999/87 of 5 October 1987 amending Regulation (EEC) No 4034/86 fixing, for certain fish stocks and groups of fish stocks, the total allowable catches for 1987 and certain conditions under which they may be fished",
+        "entry_updated": "2020-12-12T18:39:34Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH096",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Workmen’s Compensation (Supplementation) Amendment Scheme 1992, The Motorways Traffic (England and Wales) Regulations 1982, The Blackburn with Darwen (Maintained Nursery School Governance) (Amendment) Order 2007",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Workmen’s Compensation (Supplementation) Amendment Scheme 1992 (2019-07-11T00:00:00); The Motorways Traffic (England and Wales) Regulations 1982 (2023-08-19T07:23:56.020277+01:00); The Blackburn with Darwen (Maintained Nursery School Governance) (Amendment) Order 2007 (2013-10-12T17:21:47.251+01:00)",
+    "answer": [
+      {
+        "title": "The Blackburn with Darwen (Maintained Nursery School Governance) (Amendment) Order 2007",
+        "entry_updated": "2013-10-12T17:21:47.251+01:00"
+      },
+      {
+        "title": "The Workmen’s Compensation (Supplementation) Amendment Scheme 1992",
+        "entry_updated": "2019-07-11T00:00:00"
+      },
+      {
+        "title": "The Motorways Traffic (England and Wales) Regulations 1982",
+        "entry_updated": "2023-08-19T07:23:56.020277+01:00"
+      }
+    ]
+  },
+  {
+    "task_id": "CH097",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The National Health Service (Payments and Remission of Charges) (Miscellaneous Amendments) (Scotland) Regulations 2015, Coroners Act 1988, The Landfill Tax (Amendment) Regulations 1999",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The National Health Service (Payments and Remission of Charges) (Miscellaneous Amendments) (Scotland) Regulations 2015 (2023-07-21T09:50:03Z); Coroners Act 1988 (2019-10-11T00:00:00); The Landfill Tax (Amendment) Regulations 1999 (2025-06-19T08:13:55Z)",
+    "answer": [
+      {
+        "title": "The National Health Service (Payments and Remission of Charges) (Miscellaneous Amendments) (Scotland) Regulations 2015",
+        "entry_updated": "2023-07-21T09:50:03Z"
+      },
+      {
+        "title": "Coroners Act 1988",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "The Landfill Tax (Amendment) Regulations 1999",
+        "entry_updated": "2025-06-19T08:13:55Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH098",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: Commission Regulation (EEC) No 3324/81 of 20 November 1981 amending Regulation (EEC) No 2964/81 laying down detailed rules for the application of the additional measures applicable to holders of long-term storage contracts for table wine for the 1980/81 wine-growing year, The Occupational Pension Schemes (Transitional Provisions) (Amendment) Regulations 1996, The Education (Pupil Exclusions) (Miscellaneous Amendments) (England) Regulations 2004",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: Commission Regulation (EEC) No 3324/81 of 20 November 1981 amending Regulation (EEC) No 2964/81 laying down detailed rules for the application of the additional measures applicable to holders of long-term storage contracts for table wine for the 1980/81 wine-growing year (2020-12-12T03:46:03Z); The Occupational Pension Schemes (Transitional Provisions) (Amendment) Regulations 1996 (2019-05-02T00:00:00); The Education (Pupil Exclusions) (Miscellaneous Amendments) (England) Regulations 2004 (2013-10-13T04:31:42.454+01:00)",
+    "answer": [
+      {
+        "title": "The Education (Pupil Exclusions) (Miscellaneous Amendments) (England) Regulations 2004",
+        "entry_updated": "2013-10-13T04:31:42.454+01:00"
+      },
+      {
+        "title": "The Occupational Pension Schemes (Transitional Provisions) (Amendment) Regulations 1996",
+        "entry_updated": "2019-05-02T00:00:00"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 3324/81 of 20 November 1981 amending Regulation (EEC) No 2964/81 laying down detailed rules for the application of the additional measures applicable to holders of long-term storage contracts for table wine for the 1980/81 wine-growing year",
+        "entry_updated": "2020-12-12T03:46:03Z"
+      }
+    ]
+  },
+  {
+    "task_id": "CH099",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Weights and Measures (Local and Working Standard Capacity Measures and Testing Equipment) Regulations 1990, The Rent Regulation (Forms etc.) (Consolidation) Regulations 1973, The Late Payment of Commercial Debts (Interest) Act 1998 (Commencement No. 4) Order 2000",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Weights and Measures (Local and Working Standard Capacity Measures and Testing Equipment) Regulations 1990 (2019-10-11T00:00:00); The Rent Regulation (Forms etc.) (Consolidation) Regulations 1973 (2019-10-11T00:00:00); The Late Payment of Commercial Debts (Interest) Act 1998 (Commencement No. 4) Order 2000 (2013-10-12T03:36:03.078+01:00)",
+    "answer": [
+      {
+        "title": "The Late Payment of Commercial Debts (Interest) Act 1998 (Commencement No. 4) Order 2000",
+        "entry_updated": "2013-10-12T03:36:03.078+01:00"
+      },
+      {
+        "title": "The Weights and Measures (Local and Working Standard Capacity Measures and Testing Equipment) Regulations 1990",
+        "entry_updated": "2019-10-11T00:00:00"
+      },
+      {
+        "title": "The Rent Regulation (Forms etc.) (Consolidation) Regulations 1973",
+        "entry_updated": "2019-10-11T00:00:00"
+      }
+    ]
+  },
+  {
+    "task_id": "CH100",
+    "task_type": "change_ordering",
+    "prompt": "Arrange the following legislative changes in chronological order of when they were last updated: The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2008, Regulation (EEC) No 259/75 of the Commission of 31 January 1975 amending Regulation (EEC) No 2778/74 as concerns the equivalence for the purposes of boning in connection with private storage contracts and boned beef, Commission Regulation (EEC) No 632/79 of 30 March 1979 amending Regulation (EEC) No 685/69 on detailed rules of application for intervention on the market in butter and cream",
+    "prompt_with_dates": "Arrange these legislative changes in chronological order based on the following update dates: The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2008 (2013-04-26T12:03:08Z); Regulation (EEC) No 259/75 of the Commission of 31 January 1975 amending Regulation (EEC) No 2778/74 as concerns the equivalence for the purposes of boning in connection with private storage contracts and boned beef (2020-12-10T23:13:32Z); Commission Regulation (EEC) No 632/79 of 30 March 1979 amending Regulation (EEC) No 685/69 on detailed rules of application for intervention on the market in butter and cream (2020-12-12T15:21:47Z)",
+    "answer": [
+      {
+        "title": "The Less Favoured Area Support Scheme (Scotland) Amendment Regulations 2008",
+        "entry_updated": "2013-04-26T12:03:08Z"
+      },
+      {
+        "title": "Regulation (EEC) No 259/75 of the Commission of 31 January 1975 amending Regulation (EEC) No 2778/74 as concerns the equivalence for the purposes of boning in connection with private storage contracts and boned beef",
+        "entry_updated": "2020-12-10T23:13:32Z"
+      },
+      {
+        "title": "Commission Regulation (EEC) No 632/79 of 30 March 1979 amending Regulation (EEC) No 685/69 on detailed rules of application for intervention on the market in butter and cream",
+        "entry_updated": "2020-12-12T15:21:47Z"
+      }
+    ]
+  }
+]

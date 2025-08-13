@@ -1,0 +1,1242 @@
+[
+  {
+    "task_id": "RC001",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Act of Settlement (1700)?",
+    "answer": [
+      "Armed Forces Act 2006",
+      "Constitutional Reform and Governance Act 2010",
+      "Courts Act 2003",
+      "Electoral Administration Act 2006",
+      "Government of Wales Act 1998",
+      "Northern Ireland (Elections) Act 1998",
+      "Northern Ireland Act 1998",
+      "Scotland Act 1998",
+      "Succession to the Crown Act 2013",
+      "The Armed Forces Act 2006 (Commencement No. 4) Order 2009",
+      "The Armed Forces Act 2006 (Commencement No. 5) Order 2009",
+      "The Courts Act 2003 (Commencement No. 6 and Savings) Order 2004",
+      "The Electoral Administration Act 2006 (Commencement No. 2, Transitional and Savings Provisions) Order 2006",
+      "The Electoral Administration Act 2006 (Commencement No.7) Order 2008",
+      "The Government of Wales Act 1998 (Commencement No. 2) Order 1998",
+      "The Northern Ireland (Elections) Act 1998(Commencement) Order 1998",
+      "The Northern Ireland Act 1998 (Commencement No. 5) Order 1999"
+    ]
+  },
+  {
+    "task_id": "RC002",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Crown Lands Act 1702?",
+    "answer": [
+      "Kew Gardens (Leases) Act 2019",
+      "Land at Palace Avenue, Kensington (Acquisition of Freehold) Act 2002"
+    ]
+  },
+  {
+    "task_id": "RC003",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the The Act 1 Anne Stat. 2 1702?",
+    "answer": [
+      "Crime and Disorder Act 1998",
+      "The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998"
+    ]
+  },
+  {
+    "task_id": "RC004",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Union with Scotland Act 1706?",
+    "answer": [
+      "Electoral Administration Act 2006",
+      "Scotland Act 1998",
+      "The Electoral Administration Act 2006 (Commencement No. 2, Transitional and Savings Provisions) Order 2006",
+      "The Electoral Administration Act 2006 (Commencement No.3) Order 2007",
+      "The Scotland Act 1998 (Commencement) Order 1998"
+    ]
+  },
+  {
+    "task_id": "RC005",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Election Act 1707(repealed)?",
+    "answer": [
+      "Electoral Administration Act 2006",
+      "The Electoral Administration Act 2006 (Commencement No. 2, Transitional and Savings Provisions) Order 2006",
+      "The Electoral Administration Act 2006 (Commencement No.3) Order 2007"
+    ]
+  },
+  {
+    "task_id": "RC006",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Succession to the Crown Act 1707?",
+    "answer": [
+      "Dissolution and Calling of Parliament Act 2022",
+      "Fixed-term Parliaments Act 2011"
+    ]
+  },
+  {
+    "task_id": "RC007",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the The Cestui Que Vie Act 1707?",
+    "answer": [
+      "Constitutional Reform Act 2005",
+      "The Constitutional Reform Act 2005 (Commencement No. 5) Order 2006"
+    ]
+  },
+  {
+    "task_id": "RC008",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Parochial Libraries Act 1708?",
+    "answer": [
+      "Access to Justice Act 1999",
+      "Courts Act 2003",
+      "Ecclesiastical Jurisdiction and Care of Churches Measure 2018",
+      "Statute Law (Repeals) Act 2004",
+      "Statute Law (Repeals) Measure 2018",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Local Government Changes for England (Magistrates' Courts) Regulations 1996",
+      "The Magistrates' Courts (Wales) (Consequences of Local Government Changes) Order 1996"
+    ]
+  },
+  {
+    "task_id": "RC009",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Gaming Act 1710?",
+    "answer": [
+      "Gambling Act 2005",
+      "The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006"
+    ]
+  },
+  {
+    "task_id": "RC010",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Distress for Rent Act 1737?",
+    "answer": [
+      "Access to Justice Act 1999",
+      "Courts Act 2003",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Local Government Changes for England (Magistrates' Courts) Regulations 1996",
+      "The Magistrates' Courts (Wales) (Consequences of Local Government Changes) Order 1996",
+      "The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022",
+      "Tribunals, Courts and Enforcement Act 2007"
+    ]
+  },
+  {
+    "task_id": "RC011",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Gaming Act 1738?",
+    "answer": [
+      "Gambling Act 2005",
+      "The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006"
+    ]
+  },
+  {
+    "task_id": "RC012",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Universities (Wine Licences) Act 1743?",
+    "answer": [
+      "Licensing Act 2003",
+      "The Licensing Act 2003 (Commencement No. 7 and Transitional Provisions) Order 2005"
+    ]
+  },
+  {
+    "task_id": "RC013",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Tenures Abolition Act 1746?",
+    "answer": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ]
+  },
+  {
+    "task_id": "RC014",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Disorderly Houses Act 1751?",
+    "answer": [
+      "Licensing Act 2003",
+      "Statute Law (Repeals) Act 2008",
+      "The Licensing Act 2003 (Commencement No. 7 and Transitional Provisions) Order 2005"
+    ]
+  },
+  {
+    "task_id": "RC015",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Entail Improvement Act 1770?",
+    "answer": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ]
+  },
+  {
+    "task_id": "RC016",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the White Herring Fisheries Act 1771?",
+    "answer": [
+      "Marine and Coastal Access Act 2009",
+      "The Marine and Coastal Access Act 2009 (Commencement No.2 and Transitional Provisions) Order 2010"
+    ]
+  },
+  {
+    "task_id": "RC017",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Game (Scotland) Act 1772?",
+    "answer": [
+      "The Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 1) Order 2011",
+      "Wildlife and Natural Environment (Scotland) Act 2011"
+    ]
+  },
+  {
+    "task_id": "RC018",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Inclosure Act 1773?",
+    "answer": [
+      "Access to Justice Act 1999",
+      "Courts Act 2003",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Local Government Changes for England (Magistrates' Courts) Regulations 1996",
+      "The Magistrates' Courts (Wales) (Consequences of Local Government Changes) Order 1996",
+      "Tribunals, Courts and Enforcement Act 2007"
+    ]
+  },
+  {
+    "task_id": "RC019",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Life Assurance Act 1774?",
+    "answer": [
+      "Justice Act (Northern Ireland) 2011",
+      "Local Government Act (Northern Ireland) 2014",
+      "Police (Insurance of Voluntary Assistants) Act 1997",
+      "Police (Northern Ireland) Act 2003",
+      "The Justice (2011 Act) (Commencement No. 3) Order (Northern Ireland) 2012",
+      "The Local Government (2014 Act) (Commencement No. 2) Order (Northern Ireland) 2014",
+      "The Police (Northern Ireland) Act 2003 (Commencement No.2) Order 2007",
+      "The Police Act 1997 (Provisions in relation to the NCIS Service Authority) Order 1998"
+    ]
+  },
+  {
+    "task_id": "RC020",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Sunday Observance Act 1780?",
+    "answer": [
+      "Deregulation and Contracting Out Act 1994",
+      "Licensing Act 2003",
+      "The Deregulation (Sunday Dancing) Order 2000",
+      "The Licensing Act 2003 (Commencement No. 7 and Transitional Provisions) Order 2005"
+    ]
+  },
+  {
+    "task_id": "RC021",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the National Debt Reduction Act 1786?",
+    "answer": [
+      "Bank of England Act 1998",
+      "The Bank of England Act 1998 (Commencement) Order 1998"
+    ]
+  },
+  {
+    "task_id": "RC022",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Treason Act 1790 (repealed 30.9.1998)?",
+    "answer": [
+      "Crime and Disorder Act 1998",
+      "The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998"
+    ]
+  },
+  {
+    "task_id": "RC023",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Libel Act 1792?",
+    "answer": [
+      "Criminal Justice and Licensing (Scotland) Act 2010",
+      "The Criminal Justice and Licensing (Scotland) Act 2010 (Commencement No. 8, Transitional and Savings Provisions) Order 2011"
+    ]
+  },
+  {
+    "task_id": "RC024",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Treason Act 1795 (repealed 30.9.1998)?",
+    "answer": [
+      "Crime and Disorder Act 1998",
+      "The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998"
+    ]
+  },
+  {
+    "task_id": "RC025",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Burghs of Barony (Scotland) Act 1795?",
+    "answer": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ]
+  },
+  {
+    "task_id": "RC026",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Thirlage Act 1799?",
+    "answer": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ]
+  },
+  {
+    "task_id": "RC027",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ecclesiastical Leases Act 1800 (repealed 19.11.1998)?",
+    "answer": [
+      "Cathedrals Measure 1999",
+      "Statute Law (Repeals) Act 1998"
+    ]
+  },
+  {
+    "task_id": "RC028",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Public Notaries Act 1801?",
+    "answer": [
+      "Access to Justice Act 1999",
+      "Legal Services Act 2007",
+      "The Access to Justice Act 1999 (Commencement No. 1) Order 1999",
+      "The Legal Services Act 2007 (Commencement No. 6, Transitory, Transitional and Saving Provisions) Order 2009"
+    ]
+  },
+  {
+    "task_id": "RC029",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Teinds Act 1808?",
+    "answer": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ]
+  },
+  {
+    "task_id": "RC030",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Life Annuities Act 1808?",
+    "answer": [
+      "Bank of England Act 1998",
+      "The Bank of England Act 1998 (Commencement) Order 1998"
+    ]
+  },
+  {
+    "task_id": "RC031",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Probate and Legacy Duties Act 1808?",
+    "answer": [
+      "Finance Act 2004",
+      "The Finance Act 2004, Section 294 (Appointed Day) Order 2004",
+      "The Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (Commencement No. 13) Order 1996",
+      "The Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (Commencement No.13) (Amendment) Order 1996"
+    ]
+  },
+  {
+    "task_id": "RC032",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Gifts for Churches Act 1811?",
+    "answer": [
+      "Commons Act 2006",
+      "The Commons Act 2006 (Commencement No. 3, Transitional Provisions and Savings) (England) Order 2007"
+    ]
+  },
+  {
+    "task_id": "RC033",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Treason Act 1814?",
+    "answer": [
+      "Crime and Disorder Act 1998",
+      "The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998"
+    ]
+  },
+  {
+    "task_id": "RC034",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Sale of Farming Stock Act 1816?",
+    "answer": [
+      "Courts Act 2003",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Courts Act 2003 (Commencement No. 3 and Transitional Provisions) Order 2004"
+    ]
+  },
+  {
+    "task_id": "RC035",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Burial Ground Act 1816?",
+    "answer": [
+      "Access to Justice Act 1999",
+      "Courts Act 2003",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Local Government Changes for England (Magistrates' Courts) Regulations 1996",
+      "The Magistrates' Courts (Wales) (Consequences of Local Government Changes) Order 1996"
+    ]
+  },
+  {
+    "task_id": "RC036",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Treason Act 1817 (repealed 30.9.1998)?",
+    "answer": [
+      "Crime and Disorder Act 1998",
+      "The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998"
+    ]
+  },
+  {
+    "task_id": "RC037",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Distress (Costs) Act 1817 (repealed 8.11.1995)?",
+    "answer": [
+      "Statute Law (Repeals) Act 1995",
+      "The Local Government Changes for England (Magistrates' Courts) Regulations 1996",
+      "The Magistrates' Courts (Wales) (Consequences of Local Government Changes) Order 1996"
+    ]
+  },
+  {
+    "task_id": "RC038",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Duchy of Lancaster Act 1817?",
+    "answer": [
+      "Agricultural Tenancies Act 1995",
+      "Commonhold and Leasehold Reform Act 2002",
+      "The Commonhold and Leasehold Reform Act 2002 (Commencement No. 2 and Savings) (England) Order 2003",
+      "The Commonhold and Leasehold Reform Act 2002 (Commencement No. 2 and Savings) (Wales) Order 2004",
+      "The Commonhold and Leasehold Reform Act 2002 (Commencement No. 3 and Saving and Transitional Provision) (Wales) Order 2005",
+      "The Legislative Reform (Duchy of Lancaster) Order 2015"
+    ]
+  },
+  {
+    "task_id": "RC039",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Unlawful Drilling Act 1819?",
+    "answer": [
+      "Northern Ireland (Emergency Provisions) Act 1996",
+      "Serious Organised Crime and Police Act 2005",
+      "Statute Law (Repeals) Act 1995",
+      "Statute Law (Repeals) Act 2008",
+      "The Firearms (Northern Ireland) Order 2004",
+      "The Firearms (Northern Ireland) Order 2004 (Commencement and Transitional Provisions) Order 2005",
+      "The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007",
+      "The Serious Organised Crime and Police Act 2005 (Commencement No. 4 and Transitory Provision) Order 2005"
+    ]
+  },
+  {
+    "task_id": "RC040",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Criminal Libel Act 1819?",
+    "answer": [
+      "Coroners and Justice Act 2009",
+      "Criminal Justice and Immigration Act 2008",
+      "Criminal Justice and Licensing (Scotland) Act 2010",
+      "The Criminal Justice and Licensing (Scotland) Act 2010 (Commencement No. 8, Transitional and Savings Provisions) Order 2011"
+    ]
+  },
+  {
+    "task_id": "RC041",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Riotous Assemblies (Scotland) Act 1822?",
+    "answer": [
+      "Local Government etc. (Scotland) Act 1994",
+      "Merchant Shipping Act 1995",
+      "The Local Government etc. (Scotland) Act 1994 (Commencement No.7 and Savings) Order 1996"
+    ]
+  },
+  {
+    "task_id": "RC042",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Parliamentary Elections (Ireland) Act 1823?",
+    "answer": [
+      "Electoral Administration Act 2006",
+      "The Electoral Administration Act 2006 (Commencement No. 2, Transitional and Savings Provisions) Order 2006",
+      "The Electoral Administration Act 2006 (Commencement No.3) Order 2007"
+    ]
+  },
+  {
+    "task_id": "RC043",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Confirmation of Executors (Scotland) Act 1823?",
+    "answer": [
+      "Succession (Scotland) Act 2016",
+      "The Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (Commencement No. 13) Order 1996",
+      "The Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (Commencement No.13) (Amendment) Order 1996"
+    ]
+  },
+  {
+    "task_id": "RC044",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Vagrancy Act 1824?",
+    "answer": [
+      "Criminal Justice Act 2003",
+      "Justice Act (Northern Ireland) 2011",
+      "Museums and Galleries (Northern Ireland) Order 1997",
+      "Police, Crime, Sentencing and Courts Act 2022",
+      "Serious Organised Crime and Police Act 2005",
+      "Sexual Offences Act 2003",
+      "The Serious Organised Crime and Police Act 2005 (Commencement No. 4 and Transitory Provision) Order 2005",
+      "The Sexual Offences Act 2003 (Commencement) Order 2004"
+    ]
+  },
+  {
+    "task_id": "RC045",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Entail Provisions Act 1824?",
+    "answer": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ]
+  },
+  {
+    "task_id": "RC046",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Jurors (Scotland) Act 1825?",
+    "answer": [
+      "Criminal Justice (Scotland) Act 1995",
+      "Criminal Procedure (Consequential Provisions) (Scotland) Act 1995",
+      "The Criminal Justice (Scotland) Act 1995 (Commencement No.2, Transitional Provisions and Savings) Order 1996"
+    ]
+  },
+  {
+    "task_id": "RC047",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Chelsea and Kilmainham Hospitals Act 1826?",
+    "answer": [
+      "Constitutional Reform Act 2005",
+      "Statute Law (Repeals) Act 2008",
+      "The Constitutional Reform Act 2005 (Commencement No. 11) Order 2009"
+    ]
+  },
+  {
+    "task_id": "RC048",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Criminal Law Act 1826?",
+    "answer": [
+      "Serious Organised Crime and Police Act 2005",
+      "Statute Law (Repeals) Act 1998",
+      "The Serious Organised Crime and Police Act 2005 (Commencement No. 4 and Transitory Provision) Order 2005"
+    ]
+  },
+  {
+    "task_id": "RC049",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Night Poaching Act 1828?",
+    "answer": [
+      "Criminal Procedure (Consequential Provisions) (Scotland) Act 1995",
+      "Criminal Procedure (Scotland) Act 1995",
+      "Police, Crime, Sentencing and Courts Act 2022",
+      "The Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 1) Order 2011",
+      "Wildlife and Natural Environment (Scotland) Act 2011"
+    ]
+  },
+  {
+    "task_id": "RC050",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Roman Catholic Relief Act 1829?",
+    "answer": [
+      "Church of Scotland (Lord High Commissioner) Act 2025",
+      "House of Commons (Removal of Clergy Disqualification) Act 2001"
+    ]
+  },
+  {
+    "task_id": "RC051",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Register of Sasines Act 1829?",
+    "answer": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ]
+  },
+  {
+    "task_id": "RC052",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the London Hackney Carriage Act 1831?",
+    "answer": [
+      "Statute Law (Repeals) Act 2004",
+      "Transport for London Act 2008"
+    ]
+  },
+  {
+    "task_id": "RC053",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Game Act 1831?",
+    "answer": [
+      "Criminal Justice and Public Order Act 1994",
+      "Hunting Act 2004",
+      "Police, Crime, Sentencing and Courts Act 2022",
+      "The Local Authorities (Functions and Responsibilities) (England) Regulations 2000",
+      "The Regulatory Reform (Game) Order 2007",
+      "The Wildlife and Natural Environment (2011 Act) (Commencement No.2) Order (Northern Ireland) 2011",
+      "The Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 1) Order 2011",
+      "Wildlife and Natural Environment (Scotland) Act 2011",
+      "Wildlife and Natural Environment Act (Northern Ireland) 2011"
+    ]
+  },
+  {
+    "task_id": "RC054",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Game (Scotland) Act 1832?",
+    "answer": [
+      "Criminal Justice and Public Order Act 1994",
+      "Protection of Wild Mammals (Scotland) Act 2002",
+      "The Criminal Justice and Public Order Act 1994 (Commencement No. 5 and Transitional Provisions) Order 1995",
+      "The Protection of Wild Mammals (Scotland) Act 2002 (Commencement) Order 2002",
+      "The Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 1) Order 2011",
+      "Wildlife and Natural Environment (Scotland) Act 2011"
+    ]
+  },
+  {
+    "task_id": "RC055",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Prescription Act 1832?",
+    "answer": [
+      "The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019",
+      "The Cross-Border Mediation (EU Directive) Regulations 2011"
+    ]
+  },
+  {
+    "task_id": "RC056",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Lord Chancellor’s Pension Act 1832?",
+    "answer": [
+      "Public Service Pensions Act 2013",
+      "The Judicial Pensions and Retirement Act 1993 (Commencement) Order 1995"
+    ]
+  },
+  {
+    "task_id": "RC057",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Public Revenue (Scotland) Act 1833?",
+    "answer": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "Scotland Act 1998",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003",
+      "The Scotland Act 1998 (Commencement) Order 1998",
+      "The Transfer of Functions (Lord Advocate and Secretary of State) Order 1999"
+    ]
+  },
+  {
+    "task_id": "RC058",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Inclosure and Drainage (Rates) Act 1833?",
+    "answer": [
+      "Access to Justice Act 1999",
+      "Courts Act 2003",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Local Government Changes for England (Magistrates' Courts) Regulations 1996",
+      "The Magistrates' Courts (Wales) (Consequences of Local Government Changes) Order 1996"
+    ]
+  },
+  {
+    "task_id": "RC059",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Judicial Committee Act 1833?",
+    "answer": [
+      "Chiropractors Act 1994",
+      "Constitutional Reform Act 2005",
+      "Northern Ireland Act 1998",
+      "Scotland Act 1998",
+      "Statute Law (Repeals) Act 2004",
+      "The Chiropractors Act 1994 (Commencement No. 4) Order 2000",
+      "The Constitutional Reform Act 2005 (Commencement No. 11) Order 2009",
+      "The Northern Ireland Act 1998 (Commencement No. 1) Order 1999",
+      "The Osteopaths Act 1993 (Commencement No. 4) Order 1999",
+      "The Osteopaths Act 1993 (Commencement No. 5) Order 2000",
+      "The Scotland Act 1998 (Commencement) Order 1998"
+    ]
+  },
+  {
+    "task_id": "RC060",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Fines and Recoveries Act 1833?",
+    "answer": [
+      "Mental Capacity Act 2005",
+      "The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016",
+      "The Mental Capacity Act 2005 (Commencement No. 2) Order 2007",
+      "The Trusts of Land and Appointment of Trustees Act 1996 (Commencement) Order 1996",
+      "Tribunals, Courts and Enforcement Act 2007",
+      "Trusts of Land and Appointment of Trustees Act 1996"
+    ]
+  },
+  {
+    "task_id": "RC061",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Fines Act 1833 (repealed)?",
+    "answer": [
+      "Constitutional Reform Act 2005",
+      "The Constitutional Reform Act 2005 (Commencement No. 5) Order 2006"
+    ]
+  },
+  {
+    "task_id": "RC062",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the New Churches (Scotland) Act 1834?",
+    "answer": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ]
+  },
+  {
+    "task_id": "RC063",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Gaming Act 1835?",
+    "answer": [
+      "Gambling Act 2005",
+      "The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006"
+    ]
+  },
+  {
+    "task_id": "RC064",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Statutory Declarations Act 1835?",
+    "answer": [
+      "Justice (Northern Ireland) Act 2002",
+      "Statute Law (Repeals) Act 2004",
+      "The Justice (Northern Ireland) Act 2002 (Commencement No. 8) Order 2005",
+      "The Scotland Act 1998 (Transitory and Transitional Provisions) (Publication and Interpretation etc. of Acts of the Scottish Parliament) Order 1999"
+    ]
+  },
+  {
+    "task_id": "RC065",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ecclesiastical Leases Act 1836?",
+    "answer": [
+      "Cathedrals Measure 1999",
+      "Statute Law (Repeals) Measure 2018"
+    ]
+  },
+  {
+    "task_id": "RC066",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Erasures in Deeds (Scotland) Act 1836?",
+    "answer": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "Requirements of Writing (Scotland) Act 1995",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ]
+  },
+  {
+    "task_id": "RC067",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Entail Powers Act 1836?",
+    "answer": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ]
+  },
+  {
+    "task_id": "RC068",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ecclesiastical Leases (Amendment) Act 1836?",
+    "answer": [
+      "Cathedrals Measure 1999",
+      "Statute Law (Repeals) Measure 2018"
+    ]
+  },
+  {
+    "task_id": "RC069",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ecclesiastical Commissioners Act 1836?",
+    "answer": [
+      "Statute Law (Repeals) Act 2004",
+      "Statute Law (Repeals) Measure 2018"
+    ]
+  },
+  {
+    "task_id": "RC070",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Wills Act 1837?",
+    "answer": [
+      "Civil Partnership Act 2004",
+      "Divorce, Dissolution and Separation Act 2020",
+      "Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011",
+      "Family Law Act 1996",
+      "Human Tissue Act 2004",
+      "Human Transplantation (Wales) Act 2013",
+      "Law Reform (Succession) Act 1995",
+      "Mental Capacity Act 2005",
+      "The Civil Partnership (Opposite-sex Couples) Regulations 2019",
+      "The Civil Partnership (Treatment of Overseas Relationships No.2) Order 2005",
+      "The Civil Partnership (Treatment of Overseas Relationships) Order 2005",
+      "The Civil Partnership Act 2004 (Commencement No. 2) Order 2005",
+      "The Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011 (Commencement) Order 2011",
+      "The Human Tissue Act 2004 (Commencement No. 5 and Transitional Provisions) Order 2006",
+      "The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014",
+      "The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020",
+      "The Mental Capacity Act 2005 (Commencement No. 2) Order 2007",
+      "The Trustee Act 2000 (Commencement) Order 2001",
+      "The Trusts of Land and Appointment of Trustees Act 1996 (Commencement) Order 1996",
+      "The Wills Act 1837 (Electronic Communications) (Amendment) (Coronavirus) Order 2020",
+      "The Wills Act 1837 (Electronic Communications) (Amendment) Order 2022",
+      "Trustee Act 2000",
+      "Trusts of Land and Appointment of Trustees Act 1996"
+    ]
+  },
+  {
+    "task_id": "RC071",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Piracy Act 1837?",
+    "answer": [
+      "Crime and Disorder Act 1998",
+      "Criminal Justice Act 2003",
+      "The Crime and Disorder Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998",
+      "The Criminal Justice Act 2003 (Commencement No.8 and Transitional and Saving Provisions) Order 2005",
+      "The Criminal Justice Act 2003 (Commencement No.8 and Transitional and Saving Provisions) Order 2005 (Supplementary Provisions) Order 2005"
+    ]
+  },
+  {
+    "task_id": "RC072",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Queen Anne's Bounty Act 1838?",
+    "answer": [
+      "Statute Law (Repeals) Act 2004",
+      "The M25 Junction 28 Development Consent Order 2022"
+    ]
+  },
+  {
+    "task_id": "RC073",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Parsonages Act 1838?",
+    "answer": [
+      "Church Property Measure 2018",
+      "Ecclesiastical Offices (Terms of Service) Measure 2009",
+      "The Ecclesiastical Offices (Terms of Service) Measure 2009 (Appointed Day No. 4) Instrument"
+    ]
+  },
+  {
+    "task_id": "RC074",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Entail Act 1838?",
+    "answer": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ]
+  },
+  {
+    "task_id": "RC075",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Pluralities Act 1838?",
+    "answer": [
+      "Church Property Measure 2018",
+      "Clergy Discipline Measure 2003",
+      "Clergy Discipline Measure 2003 (Appointed Day Instrument 2005)",
+      "Constitutional Reform Act 2005",
+      "Ecclesiastical Offices (Terms of Service) Measure 2009",
+      "Priests (Ordination of Women) Measure 1993 (Appointed Day Instrument 1994)",
+      "Statute Law (Repeals) Act 2004",
+      "Statute Law (Repeals) Measure 2018",
+      "The Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005",
+      "The Constitutional Reform Act 2005 (Commencement No. 5) Order 2006",
+      "The Ecclesiastical Offices (Terms of Service) (Consequential and Transitional Provisions) Order 2010",
+      "The Ecclesiastical Offices (Terms of Service) Measure 2009 (Appointed Day No. 4) Instrument"
+    ]
+  },
+  {
+    "task_id": "RC076",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Judgments Act 1838?",
+    "answer": [
+      "Companies Act 2006",
+      "Coroners and Justice Act 2009",
+      "Courts Act 2003",
+      "Defence Reform Act 2014",
+      "Digital Markets, Competition and Consumers Act 2024",
+      "Drug Trafficking Act 1994",
+      "Education Act 2011",
+      "Energy Act 2023",
+      "Enterprise Act 2002",
+      "Finance (No. 2) Act 2015",
+      "Leasehold Reform (Ground Rent) Act 2022",
+      "Legal Services Act 2007",
+      "National Lottery Act 1998",
+      "National Security and Investment Act 2021",
+      "Proceeds of Crime Act 1995",
+      "Proceeds of Crime Act 2002",
+      "Qualifications Wales Act 2015",
+      "Tenant Fees Act 2019",
+      "Terrorism (Protection of Premises) Act 2025",
+      "The Civil Procedure (Modification of Enactments) Order 1998",
+      "The Civil Procedure Rules 1998",
+      "The Companies Act 2006 (Commencement No. 8, Transitional Provisions and Savings) Order 2008",
+      "The Coroners and Justice Act 2009 (Commencement No. 4, Transitional and Saving Provisions) Order 2010",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Courts Act 2003 (Commencement No. 3 and Transitional Provisions) Order 2004",
+      "The Energy Administration (Scotland) Rules 2006",
+      "The Energy Supply Company Administration (Scotland) Rules 2013",
+      "The Energy Supply Company Administration Rules 2013",
+      "The Enterprise Act 2002 (Commencement No. 3, Transitional and Transitory Provisions and Savings)Order 2003",
+      "The Housing Administration (England and Wales) Rules 2018",
+      "The Investment Bank Special Administration (England and Wales) Rules 2011",
+      "The Legal Services Act 2007 (Commencement No. 6, Transitory, Transitional and Saving Provisions) Order 2009",
+      "The PPP Administration Order Rules 2007",
+      "The Proceeds of Crime Act 1995 (Commencement) Order 1995",
+      "The Proceeds of Crime Act 2002 (Commencement No. 5, Transitional Provisions, Savings and Amendment) Order 2003",
+      "The Railway Administration Order Rules 2001",
+      "The Relevant Licensee Nuclear Company Administration (England and Wales) Rules 2023",
+      "The Statutory Auditors (Amendment of Companies Act 2006 and Delegation of Functions etc) Order 2012",
+      "The Tribunal Procedure (Amendment No. 3) Rules 2013",
+      "The Water Industry (Special Administration) Rules 2009",
+      "Tribunals, Courts and Enforcement Act 2007"
+    ]
+  },
+  {
+    "task_id": "RC077",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Debtors (Scotland) Act 1838?",
+    "answer": [
+      "Act of Sederunt (Child Care and Maintenance Rules) 1997",
+      "Act of Sederunt (Rules of the Court of Session 1994) 1994",
+      "Bankruptcy and Diligence etc. (Scotland) Act 2007",
+      "The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 3, Savings and Transitionals) Order 2008",
+      "The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 4, Savings and Transitionals) Order 2009",
+      "The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 7 and Transitionals) Order 2011"
+    ]
+  },
+  {
+    "task_id": "RC078",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Court of Session (No. 2) Act 1838 (repealed)?",
+    "answer": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ]
+  },
+  {
+    "task_id": "RC079",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Court of Session Act 1839 (repealed)?",
+    "answer": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ]
+  },
+  {
+    "task_id": "RC080",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Highway (Railway Crossings) Act 1839?",
+    "answer": [
+      "British Railways (No. 2) Order Confirmation Act 1994",
+      "British Railways Act 1994",
+      "Channel Tunnel Rail Link Act 1996",
+      "Crossrail Act 2008",
+      "Croydon Tramlink Act 1994",
+      "Greater Nottingham Light Rapid Transit Act 1994",
+      "High Speed Rail (London - West Midlands) Act 2017",
+      "High Speed Rail (West Midlands - Crewe) Act 2021",
+      "Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004",
+      "The Ashton Vale to Temple Meads and Bristol City Centre Rapid Transit Order",
+      "The Blackpool Tramway (Blackpool North Extension) Order 2017",
+      "The Greater Manchester (Light Rapid Transit System) (Airport Extension) Order 1997",
+      "The Greater Manchester (Light Rapid Transit System) (Ashton-under-Lyne Extension) Order 1998",
+      "The Greater Manchester (Light Rapid Transit System) (Eccles Extension) Order 1996",
+      "The Greater Manchester (Light Rapid Transit System) (Media City Extension) Order 2009",
+      "The Keith and Dufftown Light Railway Order 1999",
+      "The Network Rail (Tinsley Chord) Order 2015",
+      "The Nottingham Express Transit System Order 2009",
+      "The Port of Blyth (Battleship Wharf Railway) Order 2006",
+      "The Railtrack (Swinedyke Level Crossing) Order 1995",
+      "The Railway Safety (Miscellaneous Provisions) Regulations 1997",
+      "The Railways Act 1993 (Commencement No. 2) Order 1994",
+      "The Rother Valley Railway (Bodiam to Robertsbridge Junction) Order 2023",
+      "The South Hampshire Rapid Transit Order 2001",
+      "The Transport for Greater Manchester (Light Rapid Transit System) (Miscellaneous Provisions) Order 2013",
+      "The Transport for Greater Manchester (Light Rapid Transit System) (Second City Crossing) Order 2013",
+      "The Transport for Greater Manchester (Light Rapid Transit System) (Trafford Park Extension) Order 2016",
+      "The Welsh Highland Railway Order 1999",
+      "The Wirral Tramway Order 1999"
+    ]
+  },
+  {
+    "task_id": "RC081",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Metropolitan Police Act 1839?",
+    "answer": [
+      "Access to Justice Act 1999",
+      "Animal Welfare Act 2006",
+      "Courts Act 2003",
+      "Gambling Act 2005",
+      "Law Officers Act 1997",
+      "Licensing Act 2003",
+      "Statute Law (Repeals) Act 1995",
+      "Statute Law (Repeals) Act 1998",
+      "The Access to Justice Act 1999 (Commencement No. 4 and Transitional Provisions) Order 2000",
+      "The Animal Welfare Act 2006 (Commencement No. 1) (England) Order 2007",
+      "The Animal Welfare Act 2006 (Commencement No. 1) (Wales) Order 2007",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006",
+      "The Licensing Act 2003 (Commencement No. 7 and Transitional Provisions) Order 2005"
+    ]
+  },
+  {
+    "task_id": "RC082",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Entail Sites Act 1840?",
+    "answer": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003",
+      "Title Conditions (Scotland) Act 2003"
+    ]
+  },
+  {
+    "task_id": "RC083",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Metropolitan Police Courts Act 1840?",
+    "answer": [
+      "Access to Justice Act 1999",
+      "Statute Law (Repeals) Act 1998",
+      "The Access to Justice Act 1999 (Commencement No. 4 and Transitional Provisions) Order 2000",
+      "Tribunals, Courts and Enforcement Act 2007"
+    ]
+  },
+  {
+    "task_id": "RC084",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Non-Parochial Registers Act 1840?",
+    "answer": [
+      "Statute Law (Repeals) Act 2004",
+      "The Transfer of Functions (Registration and Statistics) Order 1996",
+      "The Transfer of Functions (Registration) Order 2008"
+    ]
+  },
+  {
+    "task_id": "RC085",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Railway Regulation Act 1840?",
+    "answer": [
+      "Channel Tunnel Rail Link Act 1996",
+      "Criminal Justice Act 2003",
+      "Crossrail Act 2008",
+      "Greater Nottingham Light Rapid Transit Act 1994",
+      "High Speed Rail (London - West Midlands) Act 2017",
+      "High Speed Rail (West Midlands - Crewe) Act 2021",
+      "The Ashton Vale to Temple Meads and Bristol City Centre Rapid Transit Order",
+      "The Blackpool Tramway (Blackpool North Extension) Order 2017",
+      "The Greater Manchester (Light Rapid Transit System) (Airport Extension) Order 1997",
+      "The Greater Manchester (Light Rapid Transit System) (Ashton-under-Lyne Extension) Order 1998",
+      "The Greater Manchester (Light Rapid Transit System) (Eccles Extension) Order 1996",
+      "The Transport for Greater Manchester (Light Rapid Transit System) (Second City Crossing) Order 2013",
+      "The Transport for Greater Manchester (Light Rapid Transit System) (Trafford Park Extension) Order 2016",
+      "The Welsh Highland Railway Order 1999",
+      "The Wirral Tramway Light Railway Order 1994",
+      "The Wirral Tramway Order 1999"
+    ]
+  },
+  {
+    "task_id": "RC086",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ecclesiastical Commissioners Act 1840?",
+    "answer": [
+      "Cathedrals Measure 1999",
+      "Cathedrals Measure 2021",
+      "Church of England (Miscellaneous Provisions) Measure 1995",
+      "Church of England (Miscellaneous Provisions) Measure 1995 (Appointed Day Instrument 1995)",
+      "Church of England (Miscellaneous Provisions) Measure 2000",
+      "Church of England (Miscellaneous Provisions) Measure 2000 (Appointed Day Instrument 2000)",
+      "Church of England (Miscellaneous Provisions) Measure 2014",
+      "Church of England (Miscellaneous Provisions) Measure 2024",
+      "Statute Law (Repeals) Act 2004",
+      "Statute Law (Repeals) Measure 2018"
+    ]
+  },
+  {
+    "task_id": "RC087",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ordnance Survey Act 1841?",
+    "answer": [
+      "Access to Justice Act 1999",
+      "Courts Act 2003",
+      "Scotland Act 1998",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The North Killingholme Haven Harbour Empowerment Order 1994"
+    ]
+  },
+  {
+    "task_id": "RC088",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Schools Sites Act 1841?",
+    "answer": [
+      "Commons Act 2006",
+      "Education Act 1993 (Commencement No. 3 and Transitional Provisions) Order 1994",
+      "Education Act 1996",
+      "Levelling-up and Regeneration Act 2023",
+      "School Standards and Framework Act 1998",
+      "The Commons Act 2006 (Commencement No. 3, Transitional Provisions and Savings) (England) Order 2007",
+      "The National Assembly for Wales (Transfer of Functions) Order 1999",
+      "The School Organisation (Transitional Provisions) (England) Regulations 2007",
+      "The School Standards and Framework Act 1998 (Commencement No. 7 and Saving and Transitional Provisions) Order 1999",
+      "Title Conditions (Scotland) Act 2003"
+    ]
+  },
+  {
+    "task_id": "RC089",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ecclesiastical Commissioners Act 1841?",
+    "answer": [
+      "Cathedrals Measure 2021",
+      "Statute Law (Repeals) Act 2004",
+      "Statute Law (Repeals) Measure 2018"
+    ]
+  },
+  {
+    "task_id": "RC090",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ecclesiastical Houses of Residence Act 1842?",
+    "answer": [
+      "Cathedrals Measure 2021",
+      "Constitutional Reform Act 2005",
+      "Statute Law (Repeals) Measure 2018",
+      "The Constitutional Reform Act 2005 (Commencement No. 11) Order 2009"
+    ]
+  },
+  {
+    "task_id": "RC091",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Railway Regulation Act 1842?",
+    "answer": [
+      "British Railways (No. 2) Order Confirmation Act 1994",
+      "British Railways Act 1994",
+      "Channel Tunnel Rail Link Act 1996",
+      "Courts Act 2003",
+      "Criminal Justice Act 2003",
+      "Crossrail Act 2008",
+      "Croydon Tramlink Act 1994",
+      "Greater Nottingham Light Rapid Transit Act 1994",
+      "High Speed Rail (London - West Midlands) Act 2017",
+      "High Speed Rail (West Midlands - Crewe) Act 2021",
+      "Railway Safety Act (Northern Ireland) 2002",
+      "Serious Organised Crime and Police Act 2005",
+      "Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004",
+      "The Ashton Vale to Temple Meads and Bristol City Centre Rapid Transit Order",
+      "The Blackpool Tramway (Blackpool North Extension) Order 2017",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Greater Manchester (Light Rapid Transit System) (Eccles Extension) Order 1996",
+      "The Keith and Dufftown Light Railway Order 1999",
+      "The Network Rail (Tinsley Chord) Order 2015",
+      "The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007",
+      "The Port of Blyth (Battleship Wharf Railway) Order 2006",
+      "The Railway Safety (Miscellaneous Provisions) Regulations 1997",
+      "The Railways Act 1993 (Commencement No. 2) Order 1994",
+      "The Rother Valley Railway (Bodiam to Robertsbridge Junction) Order 2023",
+      "The Serious Organised Crime and Police Act 2005 (Commencement No. 4 and Transitory Provision) Order 2005",
+      "The Transport for Greater Manchester (Light Rapid Transit System) (Miscellaneous Provisions) Order 2013",
+      "The Transport for Greater Manchester (Light Rapid Transit System) (Second City Crossing) Order 2013",
+      "The Transport for Greater Manchester (Light Rapid Transit System) (Trafford Park Extension) Order 2016"
+    ]
+  },
+  {
+    "task_id": "RC092",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Defence Act 1842?",
+    "answer": [
+      "Adults with Incapacity (Scotland) Act 2000",
+      "Courts Act 2003",
+      "Housing and Planning Act 2016",
+      "Justice Act (Northern Ireland) 2015",
+      "Local Government (Wales) Act 1994",
+      "The Adults with Incapacity (Scotland) Act 2000 (Commencement No. 1) Order 2001",
+      "The Constitutional Reform Act 2005 (Commencement No. 11) Order 2009",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Justice (2015 Act) (Commencement No. 7 and Saving Provisions) Order (Northern Ireland) 2016",
+      "The Local Government (Wales) Act 1994 (Commencement No. 6) Order 1995",
+      "The Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006",
+      "The Visiting Forces and International Headquarters (Application of Law) Order 1999"
+    ]
+  },
+  {
+    "task_id": "RC093",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ecclesiastical Leasing Act 1842?",
+    "answer": [
+      "Church of England (Miscellaneous Provisions) Measure 2000",
+      "Church of England (Miscellaneous Provisions) Measure 2000 (Appointed Day Instrument 2000)",
+      "Constitutional Reform Act 2005",
+      "Statute Law (Repeals) Measure 2018",
+      "The Conservation (Natural Habitats, &c.) Regulations 1994"
+    ]
+  },
+  {
+    "task_id": "RC094",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the London Hackney Carriages Act 1843?",
+    "answer": [
+      "Access to Justice Act 1999",
+      "Courts Act 2003",
+      "Criminal Justice Act 2003",
+      "Greater London Authority Act 1999",
+      "Immigration Act 2016",
+      "Statute Law (Repeals) Act 2004",
+      "The Access to Justice Act 1999 (Commencement No. 1) Order 1999",
+      "The Access to Justice Act 1999 (Commencement No. 4 and Transitional Provisions) Order 2000",
+      "The Access to Justice Act 1999 (Commencement No. 7, Transitional Provisions and Savings) Order 2001",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Greater London Authority Act 1999 (Commencement No. 4 and Adaptation) Order 2000",
+      "Transport for London Act 2008"
+    ]
+  },
+  {
+    "task_id": "RC095",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Public Notaries Act 1843?",
+    "answer": [
+      "Access to Justice Act 1999",
+      "Constitutional Reform Act 2005",
+      "Legal Services Act 2007",
+      "Statute Law (Repeals) Act 1998",
+      "The Access to Justice Act 1999 (Commencement No. 1) Order 1999",
+      "The Constitutional Reform Act 2005 (Commencement No. 5) Order 2006",
+      "The Legal Services Act 2007 (Commencement No. 6, Transitory, Transitional and Saving Provisions) Order 2009"
+    ]
+  },
+  {
+    "task_id": "RC096",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Night Poaching Act 1844?",
+    "answer": [
+      "The Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 1) Order 2011",
+      "Wildlife and Natural Environment (Scotland) Act 2011"
+    ]
+  },
+  {
+    "task_id": "RC097",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Bank Charter Act 1844?",
+    "answer": [
+      "Bank of Ireland (UK) plc Act 2012",
+      "Banking Act 2009",
+      "Statute Law (Repeals) Act 2004",
+      "The Banking Act 2009 (Commencement No. 1) Order 2009",
+      "The Banking Act 2009 (Commencement No. 4) Order 2009"
+    ]
+  },
+  {
+    "task_id": "RC098",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the New Parishes (Scotland) Act 1844?",
+    "answer": [
+      "Abolition of Feudal Tenure etc. (Scotland) Act 2000",
+      "The Abolition of Feudal Tenure etc. (Scotland) Act 2000 (Commencement No. 2) (Appointed Day) Order 2003"
+    ]
+  },
+  {
+    "task_id": "RC099",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Lecturers and Parish Clerks Act 1844?",
+    "answer": [
+      "Ecclesiastical Offices (Terms of Service) Measure 2009",
+      "Statute Law (Repeals) Measure 2018",
+      "The Ecclesiastical Offices (Terms of Service) Measure 2009 (Appointed Day No. 4) Instrument"
+    ]
+  },
+  {
+    "task_id": "RC100",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Companies Clauses Consolidation Act 1845?",
+    "answer": [
+      "Courts Act 2003",
+      "Dunham Bridge (Amendment) Act 1994",
+      "Faversham Oyster Fishery Company Act 2017",
+      "Justice Act (Northern Ireland) 2015",
+      "Serious Organised Crime and Police Act 2005",
+      "Statute Law (Repeals) Act 2004",
+      "The Caernarfon and Dinas Welsh Highland Railway (Transfer and Governance) Order 2022",
+      "The Courts Act 2003 (Commencement No. 10) Order 2005",
+      "The Justice (2015 Act) (Commencement No. 7 and Saving Provisions) Order (Northern Ireland) 2016",
+      "The Law Reform (Miscellaneous Provisions) (2005 Order) (Commencement and Transitional Saving) Order (Northern Ireland) 2005",
+      "The Law Reform (Miscellaneous Provisions) (Northern Ireland) Order 2005",
+      "The Manchester Ship Canal Harbour Revision Order 2009",
+      "The Mersey Docks and Harbour Revision Order 2009",
+      "The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007",
+      "The Serious Organised Crime and Police Act 2005 (Commencement No. 4 and Transitory Provision) Order 2005"
+    ]
+  }
+]

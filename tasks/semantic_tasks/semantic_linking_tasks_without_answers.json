@@ -1,0 +1,172 @@
+[
+  {
+    "task_id": "SE001",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Pensions Measure 1997 repeal?"
+  },
+  {
+    "task_id": "SE002",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Pensions (No. 2) Act (Northern Ireland) 2008 amend?"
+  },
+  {
+    "task_id": "SE003",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Pensions (No. 2) Act (Northern Ireland) 2008 repeal?"
+  },
+  {
+    "task_id": "SE004",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Child Maintenance Act (Northern Ireland) 2008 amend?"
+  },
+  {
+    "task_id": "SE005",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Child Maintenance Act (Northern Ireland) 2008 repeal?"
+  },
+  {
+    "task_id": "SE006",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Pensions Act (Northern Ireland) 2008 repeal?"
+  },
+  {
+    "task_id": "SE007",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Pensions Act (Northern Ireland) 2008 replace?"
+  },
+  {
+    "task_id": "SE008",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Pensions Act (Northern Ireland) 2008 substitute?"
+  },
+  {
+    "task_id": "SE009",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does NORTHERN IRELAND repeal?"
+  },
+  {
+    "task_id": "SE010",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Nationality and Borders Act 2022 amend?"
+  },
+  {
+    "task_id": "SE011",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Nationality and Borders Act 2022 repeal?"
+  },
+  {
+    "task_id": "SE012",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Immigration Act 2016 repeal?"
+  },
+  {
+    "task_id": "SE013",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Immigration Act 2014 amend?"
+  },
+  {
+    "task_id": "SE014",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Health and Social Care Act 2012 amend?"
+  },
+  {
+    "task_id": "SE015",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Coroners and Justice Act 2009 repeal?"
+  },
+  {
+    "task_id": "SE016",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Welfare Reform Act 2009 repeal?"
+  },
+  {
+    "task_id": "SE017",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Pensions Act 2008 amend?"
+  },
+  {
+    "task_id": "SE018",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does UK Borders Act 2007 amend?"
+  },
+  {
+    "task_id": "SE019",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Pensions Act 2007 amend?"
+  },
+  {
+    "task_id": "SE020",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Pensions Act 2007 repeal?"
+  },
+  {
+    "task_id": "SE021",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Pensions Act 2007 replace?"
+  },
+  {
+    "task_id": "SE022",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Pensions Act 2007 substitute?"
+  },
+  {
+    "task_id": "SE023",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Pensions Act 2004 amend?"
+  },
+  {
+    "task_id": "SE024",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Pensions Act 2004 repeal?"
+  },
+  {
+    "task_id": "SE025",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Energy Act 2004 repeal?"
+  },
+  {
+    "task_id": "SE026",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Nationality, Immigration and Asylum Act 2002 amend?"
+  },
+  {
+    "task_id": "SE027",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Welfare Reform and Pensions Act 1999 amend?"
+  },
+  {
+    "task_id": "SE028",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Courts and Legal Services Act 1990 amend?"
+  },
+  {
+    "task_id": "SE029",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Social Security Act 1990 amend?"
+  },
+  {
+    "task_id": "SE030",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Extradition Act 1989 replace?"
+  },
+  {
+    "task_id": "SE031",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Parliamentary and other Pensions Act 1987 repeal?"
+  },
+  {
+    "task_id": "SE032",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Parliamentary Pensions etc. Act 1984 repeal?"
+  },
+  {
+    "task_id": "SE033",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Sexual Offences Act 1956 amend?"
+  },
+  {
+    "task_id": "SE034",
+    "task_type": "legislation_linking",
+    "prompt": "Which legislation(s) does Civil Partnership, Northern Ireland amend?"
+  }
+]

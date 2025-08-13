@@ -1,0 +1,730 @@
+[
+  {
+    "task_id": "OV001",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Foster Children (Scotland) Act 1984' and the 'Co-operative Development Agency and Industrial Development Act 1984' enacted on the same day in 1984?",
+    "prompt_with_dates": "'Foster Children (Scotland) Act 1984' was enacted on 1984-10-31, and 'Co-operative Development Agency and Industrial Development Act 1984' was enacted on 1984-10-31. Were they enacted on the same day?",
+    "answer": {
+      "answer": "Yes",
+      "a_title": "Foster Children (Scotland) Act 1984",
+      "a_date": "1984-10-31",
+      "b_title": "Co-operative Development Agency and Industrial Development Act 1984",
+      "b_date": "1984-10-31"
+    }
+  },
+  {
+    "task_id": "OV002",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Health and Social Security Act 1984' and the 'Foster Children (Scotland) Act 1984' enacted on the same day in 1984?",
+    "prompt_with_dates": "'Health and Social Security Act 1984' was enacted on 1984-07-26, and 'Foster Children (Scotland) Act 1984' was enacted on 1984-10-31. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Health and Social Security Act 1984",
+      "a_date": "1984-07-26",
+      "b_title": "Foster Children (Scotland) Act 1984",
+      "b_date": "1984-10-31"
+    }
+  },
+  {
+    "task_id": "OV003",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Health and Social Security Act 1984' and the 'Co-operative Development Agency and Industrial Development Act 1984' enacted on the same day in 1984?",
+    "prompt_with_dates": "'Health and Social Security Act 1984' was enacted on 1984-07-26, and 'Co-operative Development Agency and Industrial Development Act 1984' was enacted on 1984-10-31. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Health and Social Security Act 1984",
+      "a_date": "1984-07-26",
+      "b_title": "Co-operative Development Agency and Industrial Development Act 1984",
+      "b_date": "1984-10-31"
+    }
+  },
+  {
+    "task_id": "OV004",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Co-operative and Community Benefit Societies Act 2014' and the 'Road Races (Amendment) Act (Northern Ireland) 2014' enacted on the same day in 2014?",
+    "prompt_with_dates": "'Co-operative and Community Benefit Societies Act 2014' was enacted on 2014-05-14, and 'Road Races (Amendment) Act (Northern Ireland) 2014' was enacted on 2014-01-17. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Co-operative and Community Benefit Societies Act 2014",
+      "a_date": "2014-05-14",
+      "b_title": "Road Races (Amendment) Act (Northern Ireland) 2014",
+      "b_date": "2014-01-17"
+    }
+  },
+  {
+    "task_id": "OV005",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Road Races (Amendment) Act (Northern Ireland) 2014' and the 'Immigration Act 2014' enacted on the same day in 2014?",
+    "prompt_with_dates": "'Road Races (Amendment) Act (Northern Ireland) 2014' was enacted on 2014-01-17, and 'Immigration Act 2014' was enacted on 2014-05-14. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Road Races (Amendment) Act (Northern Ireland) 2014",
+      "a_date": "2014-01-17",
+      "b_title": "Immigration Act 2014",
+      "b_date": "2014-05-14"
+    }
+  },
+  {
+    "task_id": "OV006",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'National Health Service Finance (Wales) Act 2014' and the 'Immigration Act 2014' enacted on the same day in 2014?",
+    "prompt_with_dates": "'National Health Service Finance (Wales) Act 2014' was enacted on 2014-01-27, and 'Immigration Act 2014' was enacted on 2014-05-14. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "National Health Service Finance (Wales) Act 2014",
+      "a_date": "2014-01-27",
+      "b_title": "Immigration Act 2014",
+      "b_date": "2014-05-14"
+    }
+  },
+  {
+    "task_id": "OV007",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Co-operative and Community Benefit Societies Act 2014' and the 'Immigration Act 2014' enacted on the same day in 2014?",
+    "prompt_with_dates": "'Co-operative and Community Benefit Societies Act 2014' was enacted on 2014-05-14, and 'Immigration Act 2014' was enacted on 2014-05-14. Were they enacted on the same day?",
+    "answer": {
+      "answer": "Yes",
+      "a_title": "Co-operative and Community Benefit Societies Act 2014",
+      "a_date": "2014-05-14",
+      "b_title": "Immigration Act 2014",
+      "b_date": "2014-05-14"
+    }
+  },
+  {
+    "task_id": "OV008",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'National Health Service Finance (Wales) Act 2014' and the 'Co-operative and Community Benefit Societies Act 2014' enacted on the same day in 2014?",
+    "prompt_with_dates": "'National Health Service Finance (Wales) Act 2014' was enacted on 2014-01-27, and 'Co-operative and Community Benefit Societies Act 2014' was enacted on 2014-05-14. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "National Health Service Finance (Wales) Act 2014",
+      "a_date": "2014-01-27",
+      "b_title": "Co-operative and Community Benefit Societies Act 2014",
+      "b_date": "2014-05-14"
+    }
+  },
+  {
+    "task_id": "OV009",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Land at Palace Avenue, Kensington (Acquisition of Freehold) Act 2002' and the 'Railway Safety Act (Northern Ireland) 2002' enacted on the same day in 2002?",
+    "prompt_with_dates": "'Land at Palace Avenue, Kensington (Acquisition of Freehold) Act 2002' was enacted on 2002-06-25, and 'Railway Safety Act (Northern Ireland) 2002' was enacted on 2002-08-13. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Land at Palace Avenue, Kensington (Acquisition of Freehold) Act 2002",
+      "a_date": "2002-06-25",
+      "b_title": "Railway Safety Act (Northern Ireland) 2002",
+      "b_date": "2002-08-13"
+    }
+  },
+  {
+    "task_id": "OV010",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Companies Act 1967' and the 'Sea Fish (Conservation) Act 1967' enacted on the same day in 1967?",
+    "prompt_with_dates": "'Companies Act 1967' was enacted on 1967-07-27, and 'Sea Fish (Conservation) Act 1967' was enacted on 1967-10-27. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Companies Act 1967",
+      "a_date": "1967-07-27",
+      "b_title": "Sea Fish (Conservation) Act 1967",
+      "b_date": "1967-10-27"
+    }
+  },
+  {
+    "task_id": "OV011",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Counsellors of State Act 2022' and the 'Tertiary Education and Research (Wales) Act 2022' enacted on the same day in 2022?",
+    "prompt_with_dates": "'Counsellors of State Act 2022' was enacted on 2022-12-06, and 'Tertiary Education and Research (Wales) Act 2022' was enacted on 2022-09-08. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Counsellors of State Act 2022",
+      "a_date": "2022-12-06",
+      "b_title": "Tertiary Education and Research (Wales) Act 2022",
+      "b_date": "2022-09-08"
+    }
+  },
+  {
+    "task_id": "OV012",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Climate Change Act (Northern Ireland) 2022' and the 'Motor Vehicles (Compulsory Insurance) Act (Northern Ireland) 2022' enacted on the same day in 2022?",
+    "prompt_with_dates": "'Climate Change Act (Northern Ireland) 2022' was enacted on 2022-06-06, and 'Motor Vehicles (Compulsory Insurance) Act (Northern Ireland) 2022' was enacted on 2022-04-26. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Climate Change Act (Northern Ireland) 2022",
+      "a_date": "2022-06-06",
+      "b_title": "Motor Vehicles (Compulsory Insurance) Act (Northern Ireland) 2022",
+      "b_date": "2022-04-26"
+    }
+  },
+  {
+    "task_id": "OV013",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Counsellors of State Act 2022' and the 'Supply and Appropriation (Adjustments) Act 2022' enacted on the same day in 2022?",
+    "prompt_with_dates": "'Counsellors of State Act 2022' was enacted on 2022-12-06, and 'Supply and Appropriation (Adjustments) Act 2022' was enacted on 2022-10-25. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Counsellors of State Act 2022",
+      "a_date": "2022-12-06",
+      "b_title": "Supply and Appropriation (Adjustments) Act 2022",
+      "b_date": "2022-10-25"
+    }
+  },
+  {
+    "task_id": "OV014",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Supply and Appropriation (Adjustments) Act 2022' and the 'Fair Employment (School Teachers) Act (Northern Ireland) 2022' enacted on the same day in 2022?",
+    "prompt_with_dates": "'Supply and Appropriation (Adjustments) Act 2022' was enacted on 2022-10-25, and 'Fair Employment (School Teachers) Act (Northern Ireland) 2022' was enacted on 2022-05-12. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Supply and Appropriation (Adjustments) Act 2022",
+      "a_date": "2022-10-25",
+      "b_title": "Fair Employment (School Teachers) Act (Northern Ireland) 2022",
+      "b_date": "2022-05-12"
+    }
+  },
+  {
+    "task_id": "OV015",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Supply and Appropriation (Adjustments) Act 2022' and the 'Climate Change Act (Northern Ireland) 2022' enacted on the same day in 2022?",
+    "prompt_with_dates": "'Supply and Appropriation (Adjustments) Act 2022' was enacted on 2022-10-25, and 'Climate Change Act (Northern Ireland) 2022' was enacted on 2022-06-06. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Supply and Appropriation (Adjustments) Act 2022",
+      "a_date": "2022-10-25",
+      "b_title": "Climate Change Act (Northern Ireland) 2022",
+      "b_date": "2022-06-06"
+    }
+  },
+  {
+    "task_id": "OV016",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Weights and Measures (Amendment) Act (Northern Ireland) 2000' and the 'Transport Salaried Staffs' Association (Amendment of Rules) Act 2000' enacted on the same day in 2000?",
+    "prompt_with_dates": "'Weights and Measures (Amendment) Act (Northern Ireland) 2000' was enacted on 2000-12-20, and 'Transport Salaried Staffs' Association (Amendment of Rules) Act 2000' was enacted on 2000-03-09. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Weights and Measures (Amendment) Act (Northern Ireland) 2000",
+      "a_date": "2000-12-20",
+      "b_title": "Transport Salaried Staffs' Association (Amendment of Rules) Act 2000",
+      "b_date": "2000-03-09"
+    }
+  },
+  {
+    "task_id": "OV017",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Weights and Measures (Amendment) Act (Northern Ireland) 2000' and the 'Comhairle Nan Eilean Siar (Eriskay Causeway) Order Confirmation Act 2000' enacted on the same day in 2000?",
+    "prompt_with_dates": "'Weights and Measures (Amendment) Act (Northern Ireland) 2000' was enacted on 2000-12-20, and 'Comhairle Nan Eilean Siar (Eriskay Causeway) Order Confirmation Act 2000' was enacted on 2000-02-10. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Weights and Measures (Amendment) Act (Northern Ireland) 2000",
+      "a_date": "2000-12-20",
+      "b_title": "Comhairle Nan Eilean Siar (Eriskay Causeway) Order Confirmation Act 2000",
+      "b_date": "2000-02-10"
+    }
+  },
+  {
+    "task_id": "OV018",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Comhairle Nan Eilean Siar (Eriskay Causeway) Order Confirmation Act 2000' and the 'Transport Salaried Staffs' Association (Amendment of Rules) Act 2000' enacted on the same day in 2000?",
+    "prompt_with_dates": "'Comhairle Nan Eilean Siar (Eriskay Causeway) Order Confirmation Act 2000' was enacted on 2000-02-10, and 'Transport Salaried Staffs' Association (Amendment of Rules) Act 2000' was enacted on 2000-03-09. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Comhairle Nan Eilean Siar (Eriskay Causeway) Order Confirmation Act 2000",
+      "a_date": "2000-02-10",
+      "b_title": "Transport Salaried Staffs' Association (Amendment of Rules) Act 2000",
+      "b_date": "2000-03-09"
+    }
+  },
+  {
+    "task_id": "OV019",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Child Maintenance Act (Northern Ireland) 2008' and the 'Pensions Act (Northern Ireland) 2008' enacted on the same day in 2008?",
+    "prompt_with_dates": "'Child Maintenance Act (Northern Ireland) 2008' was enacted on 2008-07-02, and 'Pensions Act (Northern Ireland) 2008' was enacted on 2008-02-11. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Child Maintenance Act (Northern Ireland) 2008",
+      "a_date": "2008-07-02",
+      "b_title": "Pensions Act (Northern Ireland) 2008",
+      "b_date": "2008-02-11"
+    }
+  },
+  {
+    "task_id": "OV020",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Stipends (Cessation of Special Payments) Measure 2005' and the 'Hunting Act 2004' enacted on the same day in 2004?",
+    "prompt_with_dates": "'Stipends (Cessation of Special Payments) Measure 2005' was enacted on 2004-03-24, and 'Hunting Act 2004' was enacted on 2004-11-18. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Stipends (Cessation of Special Payments) Measure 2005",
+      "a_date": "2004-03-24",
+      "b_title": "Hunting Act 2004",
+      "b_date": "2004-11-18"
+    }
+  },
+  {
+    "task_id": "OV021",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Stipends (Cessation of Special Payments) Measure 2005' and the 'Domestic Violence, Crime and Victims Act 2004' enacted on the same day in 2004?",
+    "prompt_with_dates": "'Stipends (Cessation of Special Payments) Measure 2005' was enacted on 2004-03-24, and 'Domestic Violence, Crime and Victims Act 2004' was enacted on 2004-11-15. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Stipends (Cessation of Special Payments) Measure 2005",
+      "a_date": "2004-03-24",
+      "b_title": "Domestic Violence, Crime and Victims Act 2004",
+      "b_date": "2004-11-15"
+    }
+  },
+  {
+    "task_id": "OV022",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Hunting Act 2004' and the 'Domestic Violence, Crime and Victims Act 2004' enacted on the same day in 2004?",
+    "prompt_with_dates": "'Hunting Act 2004' was enacted on 2004-11-18, and 'Domestic Violence, Crime and Victims Act 2004' was enacted on 2004-11-15. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Hunting Act 2004",
+      "a_date": "2004-11-18",
+      "b_title": "Domestic Violence, Crime and Victims Act 2004",
+      "b_date": "2004-11-15"
+    }
+  },
+  {
+    "task_id": "OV023",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Pneumoconiosis etc. (Workers' Compensation) Act 1979' and the 'Shipbuilding Act 1979' enacted on the same day in 1979?",
+    "prompt_with_dates": "'Pneumoconiosis etc. (Workers' Compensation) Act 1979' was enacted on 1979-04-04, and 'Shipbuilding Act 1979' was enacted on 1979-12-20. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Pneumoconiosis etc. (Workers' Compensation) Act 1979",
+      "a_date": "1979-04-04",
+      "b_title": "Shipbuilding Act 1979",
+      "b_date": "1979-12-20"
+    }
+  },
+  {
+    "task_id": "OV024",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Criminal Appeal Act 1995' and the 'Criminal Injuries Compensation Act 1995' enacted on the same day in 1995?",
+    "prompt_with_dates": "'Criminal Appeal Act 1995' was enacted on 1995-07-19, and 'Criminal Injuries Compensation Act 1995' was enacted on 1995-11-08. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Criminal Appeal Act 1995",
+      "a_date": "1995-07-19",
+      "b_title": "Criminal Injuries Compensation Act 1995",
+      "b_date": "1995-11-08"
+    }
+  },
+  {
+    "task_id": "OV025",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Criminal Appeal Act 1995' and the 'Queen Mary and Westfield College Act 1995' enacted on the same day in 1995?",
+    "prompt_with_dates": "'Criminal Appeal Act 1995' was enacted on 1995-07-19, and 'Queen Mary and Westfield College Act 1995' was enacted on 1995-11-08. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Criminal Appeal Act 1995",
+      "a_date": "1995-07-19",
+      "b_title": "Queen Mary and Westfield College Act 1995",
+      "b_date": "1995-11-08"
+    }
+  },
+  {
+    "task_id": "OV026",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Criminal Injuries Compensation Act 1995' and the 'Queen Mary and Westfield College Act 1995' enacted on the same day in 1995?",
+    "prompt_with_dates": "'Criminal Injuries Compensation Act 1995' was enacted on 1995-11-08, and 'Queen Mary and Westfield College Act 1995' was enacted on 1995-11-08. Were they enacted on the same day?",
+    "answer": {
+      "answer": "Yes",
+      "a_title": "Criminal Injuries Compensation Act 1995",
+      "a_date": "1995-11-08",
+      "b_title": "Queen Mary and Westfield College Act 1995",
+      "b_date": "1995-11-08"
+    }
+  },
+  {
+    "task_id": "OV027",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Local Government Finance (Wales) Act 2024' and the 'Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024' enacted on the same day in 2024?",
+    "prompt_with_dates": "'Local Government Finance (Wales) Act 2024' was enacted on 2024-09-16, and 'Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024' was enacted on 2024-03-20. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Local Government Finance (Wales) Act 2024",
+      "a_date": "2024-09-16",
+      "b_title": "Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024",
+      "b_date": "2024-03-20"
+    }
+  },
+  {
+    "task_id": "OV028",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'UK Borders Act 2007' and the 'Greater London Authority Act 2007' enacted on the same day in 2007?",
+    "prompt_with_dates": "'UK Borders Act 2007' was enacted on 2007-10-30, and 'Greater London Authority Act 2007' was enacted on 2007-10-23. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "UK Borders Act 2007",
+      "a_date": "2007-10-30",
+      "b_title": "Greater London Authority Act 2007",
+      "b_date": "2007-10-23"
+    }
+  },
+  {
+    "task_id": "OV029",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Further Education and Training Act 2007' and the 'Greater London Authority Act 2007' enacted on the same day in 2007?",
+    "prompt_with_dates": "'Further Education and Training Act 2007' was enacted on 2007-10-23, and 'Greater London Authority Act 2007' was enacted on 2007-10-23. Were they enacted on the same day?",
+    "answer": {
+      "answer": "Yes",
+      "a_title": "Further Education and Training Act 2007",
+      "a_date": "2007-10-23",
+      "b_title": "Greater London Authority Act 2007",
+      "b_date": "2007-10-23"
+    }
+  },
+  {
+    "task_id": "OV030",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Further Education and Training Act 2007' and the 'UK Borders Act 2007' enacted on the same day in 2007?",
+    "prompt_with_dates": "'Further Education and Training Act 2007' was enacted on 2007-10-23, and 'UK Borders Act 2007' was enacted on 2007-10-30. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Further Education and Training Act 2007",
+      "a_date": "2007-10-23",
+      "b_title": "UK Borders Act 2007",
+      "b_date": "2007-10-30"
+    }
+  },
+  {
+    "task_id": "OV031",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Education and Training (Welfare of Children) Act 2021' and the 'National Security and Investment Act 2021' enacted on the same day in 2021?",
+    "prompt_with_dates": "'Education and Training (Welfare of Children) Act 2021' was enacted on 2021-04-29, and 'National Security and Investment Act 2021' was enacted on 2021-04-29. Were they enacted on the same day?",
+    "answer": {
+      "answer": "Yes",
+      "a_title": "Education and Training (Welfare of Children) Act 2021",
+      "a_date": "2021-04-29",
+      "b_title": "National Security and Investment Act 2021",
+      "b_date": "2021-04-29"
+    }
+  },
+  {
+    "task_id": "OV032",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Renting Homes (Amendment) (Wales) Act 2021' and the 'National Security and Investment Act 2021' enacted on the same day in 2021?",
+    "prompt_with_dates": "'Renting Homes (Amendment) (Wales) Act 2021' was enacted on 2021-04-07, and 'National Security and Investment Act 2021' was enacted on 2021-04-29. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Renting Homes (Amendment) (Wales) Act 2021",
+      "a_date": "2021-04-07",
+      "b_title": "National Security and Investment Act 2021",
+      "b_date": "2021-04-29"
+    }
+  },
+  {
+    "task_id": "OV033",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Renting Homes (Amendment) (Wales) Act 2021' and the 'Education and Training (Welfare of Children) Act 2021' enacted on the same day in 2021?",
+    "prompt_with_dates": "'Renting Homes (Amendment) (Wales) Act 2021' was enacted on 2021-04-07, and 'Education and Training (Welfare of Children) Act 2021' was enacted on 2021-04-29. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Renting Homes (Amendment) (Wales) Act 2021",
+      "a_date": "2021-04-07",
+      "b_title": "Education and Training (Welfare of Children) Act 2021",
+      "b_date": "2021-04-29"
+    }
+  },
+  {
+    "task_id": "OV034",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Budget (No. 2) Act (Northern Ireland) 2009' and the 'Public Authorities (Reform) Act (Northern Ireland) 2009' enacted on the same day in 2009?",
+    "prompt_with_dates": "'Budget (No. 2) Act (Northern Ireland) 2009' was enacted on 2009-07-08, and 'Public Authorities (Reform) Act (Northern Ireland) 2009' was enacted on 2009-02-16. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Budget (No. 2) Act (Northern Ireland) 2009",
+      "a_date": "2009-07-08",
+      "b_title": "Public Authorities (Reform) Act (Northern Ireland) 2009",
+      "b_date": "2009-02-16"
+    }
+  },
+  {
+    "task_id": "OV035",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Road Traffic Act 1988' and the 'Copyright, Designs and Patents Act 1988' enacted on the same day in 1988?",
+    "prompt_with_dates": "'Road Traffic Act 1988' was enacted on 1988-11-15, and 'Copyright, Designs and Patents Act 1988' was enacted on 1988-11-15. Were they enacted on the same day?",
+    "answer": {
+      "answer": "Yes",
+      "a_title": "Road Traffic Act 1988",
+      "a_date": "1988-11-15",
+      "b_title": "Copyright, Designs and Patents Act 1988",
+      "b_date": "1988-11-15"
+    }
+  },
+  {
+    "task_id": "OV036",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Road Traffic Act 1988' and the 'Electricity (Financial Provisions) (Scotland) Act 1988' enacted on the same day in 1988?",
+    "prompt_with_dates": "'Road Traffic Act 1988' was enacted on 1988-11-15, and 'Electricity (Financial Provisions) (Scotland) Act 1988' was enacted on 1988-07-29. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Road Traffic Act 1988",
+      "a_date": "1988-11-15",
+      "b_title": "Electricity (Financial Provisions) (Scotland) Act 1988",
+      "b_date": "1988-07-29"
+    }
+  },
+  {
+    "task_id": "OV037",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Copyright, Designs and Patents Act 1988' and the 'Electricity (Financial Provisions) (Scotland) Act 1988' enacted on the same day in 1988?",
+    "prompt_with_dates": "'Copyright, Designs and Patents Act 1988' was enacted on 1988-11-15, and 'Electricity (Financial Provisions) (Scotland) Act 1988' was enacted on 1988-07-29. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Copyright, Designs and Patents Act 1988",
+      "a_date": "1988-11-15",
+      "b_title": "Electricity (Financial Provisions) (Scotland) Act 1988",
+      "b_date": "1988-07-29"
+    }
+  },
+  {
+    "task_id": "OV038",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Budget Act (Northern Ireland) 2012' and the 'Domestic Violence, Crime and Victims (Amendment) Act 2012' enacted on the same day in 2012?",
+    "prompt_with_dates": "'Budget Act (Northern Ireland) 2012' was enacted on 2012-03-20, and 'Domestic Violence, Crime and Victims (Amendment) Act 2012' was enacted on 2012-03-08. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Budget Act (Northern Ireland) 2012",
+      "a_date": "2012-03-20",
+      "b_title": "Domestic Violence, Crime and Victims (Amendment) Act 2012",
+      "b_date": "2012-03-08"
+    }
+  },
+  {
+    "task_id": "OV039",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Domestic Violence, Crime and Victims (Amendment) Act 2012' and the 'Health and Social Care Act 2012' enacted on the same day in 2012?",
+    "prompt_with_dates": "'Domestic Violence, Crime and Victims (Amendment) Act 2012' was enacted on 2012-03-08, and 'Health and Social Care Act 2012' was enacted on 2012-03-27. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Domestic Violence, Crime and Victims (Amendment) Act 2012",
+      "a_date": "2012-03-08",
+      "b_title": "Health and Social Care Act 2012",
+      "b_date": "2012-03-27"
+    }
+  },
+  {
+    "task_id": "OV040",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Budget Act (Northern Ireland) 2012' and the 'Health and Social Care Act 2012' enacted on the same day in 2012?",
+    "prompt_with_dates": "'Budget Act (Northern Ireland) 2012' was enacted on 2012-03-20, and 'Health and Social Care Act 2012' was enacted on 2012-03-27. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Budget Act (Northern Ireland) 2012",
+      "a_date": "2012-03-20",
+      "b_title": "Health and Social Care Act 2012",
+      "b_date": "2012-03-27"
+    }
+  },
+  {
+    "task_id": "OV041",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Friendly Societies Act 1974' and the 'Rent Act 1974' enacted on the same day in 1974?",
+    "prompt_with_dates": "'Friendly Societies Act 1974' was enacted on 1974-07-31, and 'Rent Act 1974' was enacted on 1974-07-31. Were they enacted on the same day?",
+    "answer": {
+      "answer": "Yes",
+      "a_title": "Friendly Societies Act 1974",
+      "a_date": "1974-07-31",
+      "b_title": "Rent Act 1974",
+      "b_date": "1974-07-31"
+    }
+  },
+  {
+    "task_id": "OV042",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Trade Union and Labour Relations Act 1974' and the 'Friendly Societies Act 1974' enacted on the same day in 1974?",
+    "prompt_with_dates": "'Trade Union and Labour Relations Act 1974' was enacted on 1974-07-31, and 'Friendly Societies Act 1974' was enacted on 1974-07-31. Were they enacted on the same day?",
+    "answer": {
+      "answer": "Yes",
+      "a_title": "Trade Union and Labour Relations Act 1974",
+      "a_date": "1974-07-31",
+      "b_title": "Friendly Societies Act 1974",
+      "b_date": "1974-07-31"
+    }
+  },
+  {
+    "task_id": "OV043",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Trade Union and Labour Relations Act 1974' and the 'Rent Act 1974' enacted on the same day in 1974?",
+    "prompt_with_dates": "'Trade Union and Labour Relations Act 1974' was enacted on 1974-07-31, and 'Rent Act 1974' was enacted on 1974-07-31. Were they enacted on the same day?",
+    "answer": {
+      "answer": "Yes",
+      "a_title": "Trade Union and Labour Relations Act 1974",
+      "a_date": "1974-07-31",
+      "b_title": "Rent Act 1974",
+      "b_date": "1974-07-31"
+    }
+  },
+  {
+    "task_id": "OV044",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Energy Act 2013' and the 'Mobile Homes Act 2013' enacted on the same day in 2013?",
+    "prompt_with_dates": "'Energy Act 2013' was enacted on 2013-12-18, and 'Mobile Homes Act 2013' was enacted on 2013-03-26. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Energy Act 2013",
+      "a_date": "2013-12-18",
+      "b_title": "Mobile Homes Act 2013",
+      "b_date": "2013-03-26"
+    }
+  },
+  {
+    "task_id": "OV045",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Humber Bridge Act 2013' and the 'Energy Act 2013' enacted on the same day in 2013?",
+    "prompt_with_dates": "'Humber Bridge Act 2013' was enacted on 2013-12-18, and 'Energy Act 2013' was enacted on 2013-12-18. Were they enacted on the same day?",
+    "answer": {
+      "answer": "Yes",
+      "a_title": "Humber Bridge Act 2013",
+      "a_date": "2013-12-18",
+      "b_title": "Energy Act 2013",
+      "b_date": "2013-12-18"
+    }
+  },
+  {
+    "task_id": "OV046",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Energy Act 2013' and the 'Public Service Pensions Act 2013' enacted on the same day in 2013?",
+    "prompt_with_dates": "'Energy Act 2013' was enacted on 2013-12-18, and 'Public Service Pensions Act 2013' was enacted on 2013-04-25. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Energy Act 2013",
+      "a_date": "2013-12-18",
+      "b_title": "Public Service Pensions Act 2013",
+      "b_date": "2013-04-25"
+    }
+  },
+  {
+    "task_id": "OV047",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Humber Bridge Act 2013' and the 'Public Service Pensions Act 2013' enacted on the same day in 2013?",
+    "prompt_with_dates": "'Humber Bridge Act 2013' was enacted on 2013-12-18, and 'Public Service Pensions Act 2013' was enacted on 2013-04-25. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Humber Bridge Act 2013",
+      "a_date": "2013-12-18",
+      "b_title": "Public Service Pensions Act 2013",
+      "b_date": "2013-04-25"
+    }
+  },
+  {
+    "task_id": "OV048",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Humber Bridge Act 2013' and the 'Mobile Homes Act 2013' enacted on the same day in 2013?",
+    "prompt_with_dates": "'Humber Bridge Act 2013' was enacted on 2013-12-18, and 'Mobile Homes Act 2013' was enacted on 2013-03-26. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Humber Bridge Act 2013",
+      "a_date": "2013-12-18",
+      "b_title": "Mobile Homes Act 2013",
+      "b_date": "2013-03-26"
+    }
+  },
+  {
+    "task_id": "OV049",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Access to Medical Treatments (Innovation) Act 2016' and the 'Criminal Cases Review Commission (Information) Act 2016' enacted on the same day in 2016?",
+    "prompt_with_dates": "'Access to Medical Treatments (Innovation) Act 2016' was enacted on 2016-03-23, and 'Criminal Cases Review Commission (Information) Act 2016' was enacted on 2016-05-12. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Access to Medical Treatments (Innovation) Act 2016",
+      "a_date": "2016-03-23",
+      "b_title": "Criminal Cases Review Commission (Information) Act 2016",
+      "b_date": "2016-05-12"
+    }
+  },
+  {
+    "task_id": "OV050",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010' and the 'Debt Relief Act (Northern Ireland) 2010' enacted on the same day in 2010?",
+    "prompt_with_dates": "'Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010' was enacted on 2010-03-12, and 'Debt Relief Act (Northern Ireland) 2010' was enacted on 2010-12-15. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Water and Sewerage Services (Amendment) Act (Northern Ireland) 2010",
+      "a_date": "2010-03-12",
+      "b_title": "Debt Relief Act (Northern Ireland) 2010",
+      "b_date": "2010-12-15"
+    }
+  },
+  {
+    "task_id": "OV051",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Senedd and Elections (Wales) Act 2020' and the 'Private Tenancies (Coronavirus Modifications) Act (Northern Ireland) 2020' enacted on the same day in 2020?",
+    "prompt_with_dates": "'Senedd and Elections (Wales) Act 2020' was enacted on 2020-01-15, and 'Private Tenancies (Coronavirus Modifications) Act (Northern Ireland) 2020' was enacted on 2020-05-04. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Senedd and Elections (Wales) Act 2020",
+      "a_date": "2020-01-15",
+      "b_title": "Private Tenancies (Coronavirus Modifications) Act (Northern Ireland) 2020",
+      "b_date": "2020-05-04"
+    }
+  },
+  {
+    "task_id": "OV052",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Ecumenical Relations Measure 2018' and the 'Additional Learning Needs and Education Tribunal (Wales) Act 2018' enacted on the same day in 2018?",
+    "prompt_with_dates": "'Ecumenical Relations Measure 2018' was enacted on 2018-12-20, and 'Additional Learning Needs and Education Tribunal (Wales) Act 2018' was enacted on 2018-01-24. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Ecumenical Relations Measure 2018",
+      "a_date": "2018-12-20",
+      "b_title": "Additional Learning Needs and Education Tribunal (Wales) Act 2018",
+      "b_date": "2018-01-24"
+    }
+  },
+  {
+    "task_id": "OV053",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'Water Industry Act 1991' and the 'Greater Manchester (Light Rapid Transit System) Act 1991' enacted on the same day in 1991?",
+    "prompt_with_dates": "'Water Industry Act 1991' was enacted on 1991-07-25, and 'Greater Manchester (Light Rapid Transit System) Act 1991' was enacted on 1991-10-22. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "Water Industry Act 1991",
+      "a_date": "1991-07-25",
+      "b_title": "Greater Manchester (Light Rapid Transit System) Act 1991",
+      "b_date": "1991-10-22"
+    }
+  },
+  {
+    "task_id": "OV054",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'London Underground (Safety Measures) Act 1991' and the 'Greater Manchester (Light Rapid Transit System) Act 1991' enacted on the same day in 1991?",
+    "prompt_with_dates": "'London Underground (Safety Measures) Act 1991' was enacted on 1991-11-28, and 'Greater Manchester (Light Rapid Transit System) Act 1991' was enacted on 1991-10-22. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "London Underground (Safety Measures) Act 1991",
+      "a_date": "1991-11-28",
+      "b_title": "Greater Manchester (Light Rapid Transit System) Act 1991",
+      "b_date": "1991-10-22"
+    }
+  },
+  {
+    "task_id": "OV055",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'London Underground (Safety Measures) Act 1991' and the 'Water Industry Act 1991' enacted on the same day in 1991?",
+    "prompt_with_dates": "'London Underground (Safety Measures) Act 1991' was enacted on 1991-11-28, and 'Water Industry Act 1991' was enacted on 1991-07-25. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "London Underground (Safety Measures) Act 1991",
+      "a_date": "1991-11-28",
+      "b_title": "Water Industry Act 1991",
+      "b_date": "1991-07-25"
+    }
+  },
+  {
+    "task_id": "OV056",
+    "task_type": "overlapping_enactment_check",
+    "prompt": "Were the 'River Humber (Upper Pyewipe Outfall) Act 1992' and the 'British Railways (No. 2) Act 1992' enacted on the same day in 1992?",
+    "prompt_with_dates": "'River Humber (Upper Pyewipe Outfall) Act 1992' was enacted on 1992-07-16, and 'British Railways (No. 2) Act 1992' was enacted on 1992-06-18. Were they enacted on the same day?",
+    "answer": {
+      "answer": "No",
+      "a_title": "River Humber (Upper Pyewipe Outfall) Act 1992",
+      "a_date": "1992-07-16",
+      "b_title": "British Railways (No. 2) Act 1992",
+      "b_date": "1992-06-18"
+    }
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "task_id": "DB001",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Courts Act 2003' was 'Church of England Pensions (Application of Capital Funds) Measure 2024' enacted?",
+    "prompt_with_dates": "'Courts Act 2003' was enacted on 2003-11-20, and Church of England Pensions (Application of Capital Funds) Measure 2024' was enacted on 2024-01-25. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB002",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Justice and Security Act 2013' was 'Fire Safety Act 2021' enacted?",
+    "prompt_with_dates": "'Justice and Security Act 2013' was enacted on 2013-04-25, and Fire Safety Act 2021' was enacted on 2021-04-29. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB003",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Medway Ports Authority Act 1973' was 'Administration of Justice Act 1982' enacted?",
+    "prompt_with_dates": "'Medway Ports Authority Act 1973' was enacted on 1973-05-23, and Administration of Justice Act 1982' was enacted on 1982-10-28. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB004",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Churches (Scotland) Act 1905' was 'Consolidated Fund Act 2006' enacted?",
+    "prompt_with_dates": "'Churches (Scotland) Act 1905' was enacted on 1905-08-11, and Consolidated Fund Act 2006' was enacted on 2006-12-19. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB005",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Public Order (Amendment) Act 1996' was 'Childcare Funding (Wales) Act 2019' enacted?",
+    "prompt_with_dates": "'Public Order (Amendment) Act 1996' was enacted on 1996-10-17, and Childcare Funding (Wales) Act 2019' was enacted on 2019-01-30. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB006",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Medicines Act 1968' was 'Water Consolidation (Consequential Provisions) Act 1991' enacted?",
+    "prompt_with_dates": "'Medicines Act 1968' was enacted on 1968-10-25, and Water Consolidation (Consequential Provisions) Act 1991' was enacted on 1991-07-25. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB007",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Railtrack (Waverley Station) Order Confirmation Act 2000' was 'Terrorist Asset-Freezing etc. Act 2010' enacted?",
+    "prompt_with_dates": "'Railtrack (Waverley Station) Order Confirmation Act 2000' was enacted on 2000-06-14, and Terrorist Asset-Freezing etc. Act 2010' was enacted on 2010-12-16. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB008",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Tax Collection and Management (Wales) Act 2016' was 'Social Security (Up-rating of Benefits) Act 2020' enacted?",
+    "prompt_with_dates": "'Tax Collection and Management (Wales) Act 2016' was enacted on 2016-04-25, and Social Security (Up-rating of Benefits) Act 2020' was enacted on 2020-11-23. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB009",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Metropolitan Commons Amendment Act 1869' was 'Coinage (Measurement) Act 2011' enacted?",
+    "prompt_with_dates": "'Metropolitan Commons Amendment Act 1869' was enacted on 1869-08-11, and Coinage (Measurement) Act 2011' was enacted on 2011-11-03. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB010",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Channel Tunnel (Initial Finance) Act 1973' was 'Channel Islands Measure 2020' enacted?",
+    "prompt_with_dates": "'Channel Tunnel (Initial Finance) Act 1973' was enacted on 1973-11-13, and Channel Islands Measure 2020' was enacted on 2020-07-22. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB011",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Gas Act 1995' was 'Financial Services Act 2021' enacted?",
+    "prompt_with_dates": "'Gas Act 1995' was enacted on 1995-11-08, and Financial Services Act 2021' was enacted on 2021-04-29. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB012",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Department of Justice Act (Northern Ireland) 2010' was 'Tax Collection and Management (Wales) Act 2016' enacted?",
+    "prompt_with_dates": "'Department of Justice Act (Northern Ireland) 2010' was enacted on 2010-02-12, and Tax Collection and Management (Wales) Act 2016' was enacted on 2016-04-25. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB013",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Statute Law (Repeals) Act 1995' was 'Appropriation (No. 3) Act 2005' enacted?",
+    "prompt_with_dates": "'Statute Law (Repeals) Act 1995' was enacted on 1995-11-08, and Appropriation (No. 3) Act 2005' was enacted on 2005-07-20. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB014",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'National Health Service (Private Finance) Act 1997' was 'Non-Domestic Rating (Multipliers and Private Schools) Act 2025' enacted?",
+    "prompt_with_dates": "'National Health Service (Private Finance) Act 1997' was enacted on 1997-07-15, and Non-Domestic Rating (Multipliers and Private Schools) Act 2025' was enacted on 2025-04-03. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB015",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Rating and Valuation (Air-Raid Works) (Scotland) Act 1938' was 'Administration of Justice Act 1985' enacted?",
+    "prompt_with_dates": "'Rating and Valuation (Air-Raid Works) (Scotland) Act 1938' was enacted on 1938-07-29, and Administration of Justice Act 1985' was enacted on 1985-10-30. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB016",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Law Reform (Miscellaneous Provisions) Act 1934' was 'Medicines Act 1971' enacted?",
+    "prompt_with_dates": "'Law Reform (Miscellaneous Provisions) Act 1934' was enacted on 1934-07-25, and Medicines Act 1971' was enacted on 1971-08-05. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB017",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Liverpool City Council Act 2006' was 'Co-operative and Community Benefit Societies Act 2014' enacted?",
+    "prompt_with_dates": "'Liverpool City Council Act 2006' was enacted on 2006-07-11, and Co-operative and Community Benefit Societies Act 2014' was enacted on 2014-05-14. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB018",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Fishery Limits Act 1976' was 'Public Authorities (Reform) Act (Northern Ireland) 2009' enacted?",
+    "prompt_with_dates": "'Fishery Limits Act 1976' was enacted on 1976-12-22, and Public Authorities (Reform) Act (Northern Ireland) 2009' was enacted on 2009-02-16. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB019",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Ancient Monuments and Archaeological Areas Act 1979' was 'Social Security (Up-rating of Benefits) Act 2020' enacted?",
+    "prompt_with_dates": "'Ancient Monuments and Archaeological Areas Act 1979' was enacted on 1979-04-04, and Social Security (Up-rating of Benefits) Act 2020' was enacted on 2020-11-23. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB020",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Coastguard Act 1925' was 'Small Charitable Donations Act 2012' enacted?",
+    "prompt_with_dates": "'Coastguard Act 1925' was enacted on 1925-12-22, and Small Charitable Donations Act 2012' was enacted on 2012-12-19. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB021",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Land Acquisition and Compensation (Amendment) Act (Northern Ireland) 2016' was 'Mission and Pastoral' enacted?",
+    "prompt_with_dates": "'Land Acquisition and Compensation (Amendment) Act (Northern Ireland) 2016' was enacted on 2016-05-12, and Mission and Pastoral' was enacted on 2018-05-10. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB022",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Irish Land Act 1903' was 'Department of Justice Act (Northern Ireland) 2010' enacted?",
+    "prompt_with_dates": "'Irish Land Act 1903' was enacted on 1903-08-14, and Department of Justice Act (Northern Ireland) 2010' was enacted on 2010-02-12. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB023",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Administration of Justice Act 1985' was 'Export and Investment Guarantees Act 1991' enacted?",
+    "prompt_with_dates": "'Administration of Justice Act 1985' was enacted on 1985-10-30, and Export and Investment Guarantees Act 1991' was enacted on 1991-10-22. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB024",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Friendly Societies Act 1971' was 'Trade Marks Act 1994' enacted?",
+    "prompt_with_dates": "'Friendly Societies Act 1971' was enacted on 1971-07-27, and Trade Marks Act 1994' was enacted on 1994-07-21. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB025",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Wildlife and Countryside Act 1981' was 'Western Isles Council (Berneray Causeway) Order Confirmation Act 1996' enacted?",
+    "prompt_with_dates": "'Wildlife and Countryside Act 1981' was enacted on 1981-10-30, and Western Isles Council (Berneray Causeway) Order Confirmation Act 1996' was enacted on 1996-12-18. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB026",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Badgers Act 1973' was 'Disqualifications Act 2000' enacted?",
+    "prompt_with_dates": "'Badgers Act 1973' was enacted on 1973-07-25, and Disqualifications Act 2000' was enacted on 2000-11-30. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB027",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Bournemouth Borough Council Act 2010' was 'Local Government (Democracy) (Wales) Act 2013' enacted?",
+    "prompt_with_dates": "'Bournemouth Borough Council Act 2010' was enacted on 2010-04-08, and Local Government (Democracy) (Wales) Act 2013' was enacted on 2013-07-30. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB028",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Pension Schemes Act 1993' was 'Budget Act (Northern Ireland) 2012' enacted?",
+    "prompt_with_dates": "'Pension Schemes Act 1993' was enacted on 1993-11-05, and Budget Act (Northern Ireland) 2012' was enacted on 2012-03-20. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB029",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Consumer Insurance (Disclosure and Representations) Act 2012' was 'School Standards and Organisation (Wales) Act 2013' enacted?",
+    "prompt_with_dates": "'Consumer Insurance (Disclosure and Representations) Act 2012' was enacted on 2012-03-08, and School Standards and Organisation (Wales) Act 2013' was enacted on 2013-03-04. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB030",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Rating and Valuation (Air-Raid Works) (Scotland) Act 1938' was 'Taxis Act (Northern Ireland) 2008' enacted?",
+    "prompt_with_dates": "'Rating and Valuation (Air-Raid Works) (Scotland) Act 1938' was enacted on 1938-07-29, and Taxis Act (Northern Ireland) 2008' was enacted on 2008-04-21. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB031",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Finance Act 1977' was 'Disability Discrimination Act 1995' enacted?",
+    "prompt_with_dates": "'Finance Act 1977' was enacted on 1977-07-29, and Disability Discrimination Act 1995' was enacted on 1995-11-08. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB032",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Nature Conservancy Council Act 1973' was 'British Sign Language Act 2022' enacted?",
+    "prompt_with_dates": "'Nature Conservancy Council Act 1973' was enacted on 1973-07-25, and British Sign Language Act 2022' was enacted on 2022-04-28. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB033",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Shrewsbury and Atcham Borough Council Act 1998' was 'Law Derived from the European Union (Wales) Act 2018' enacted?",
+    "prompt_with_dates": "'Shrewsbury and Atcham Borough Council Act 1998' was enacted on 1998-07-16, and Law Derived from the European Union (Wales) Act 2018' was enacted on 2018-06-06. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB034",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Safeguarding and Clergy Discipline Measure 2016' was 'Houses in Multiple Occupation Act (Northern Ireland) 2016' enacted?",
+    "prompt_with_dates": "'Safeguarding and Clergy Discipline Measure 2016' was enacted on 2016-03-16, and Houses in Multiple Occupation Act (Northern Ireland) 2016' was enacted on 2016-05-12. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB035",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Finance (No. 2) Act 2005' was 'Housing and Planning Act 2016' enacted?",
+    "prompt_with_dates": "'Finance (No. 2) Act 2005' was enacted on 2005-07-20, and Housing and Planning Act 2016' was enacted on 2016-05-12. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB036",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Open-Ended Investment Companies Act (Northern Ireland) 2002' was 'Local Government Act (Northern Ireland) 2014' enacted?",
+    "prompt_with_dates": "'Open-Ended Investment Companies Act (Northern Ireland) 2002' was enacted on 2002-11-22, and Local Government Act (Northern Ireland) 2014' was enacted on 2014-05-12. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB037",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Offices, Shops and Railway Premises Act 1963' was 'European Union (Withdrawal) (No. 2) Act 2019' enacted?",
+    "prompt_with_dates": "'Offices, Shops and Railway Premises Act 1963' was enacted on 1963-07-31, and European Union (Withdrawal) (No. 2) Act 2019' was enacted on 2019-09-09. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB038",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Railway Safety Act (Northern Ireland) 2002' was 'Pension Schemes Act 2017' enacted?",
+    "prompt_with_dates": "'Railway Safety Act (Northern Ireland) 2002' was enacted on 2002-08-13, and Pension Schemes Act 2017' was enacted on 2017-04-27. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB039",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Criminal Justice (Scotland) Act 1980' was 'Deregulation Act 2015' enacted?",
+    "prompt_with_dates": "'Criminal Justice (Scotland) Act 1980' was enacted on 1980-11-13, and Deregulation Act 2015' was enacted on 2015-03-26. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB040",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Education Act 1976' was 'Budget (No. 2) Act (Northern Ireland) 2010' enacted?",
+    "prompt_with_dates": "'Education Act 1976' was enacted on 1976-11-22, and Budget (No. 2) Act (Northern Ireland) 2010' was enacted on 2010-03-26. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB041",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Secretary for Scotland Act 1887' was 'Inquiries Act 2005' enacted?",
+    "prompt_with_dates": "'Secretary for Scotland Act 1887' was enacted on 1887-09-16, and Inquiries Act 2005' was enacted on 2005-04-07. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB042",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Value Added Tax Act 1983' was 'National Health Service (Indemnities) (Wales) Act 2020' enacted?",
+    "prompt_with_dates": "'Value Added Tax Act 1983' was enacted on 1983-07-26, and National Health Service (Indemnities) (Wales) Act 2020' was enacted on 2020-02-26. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB043",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Solicitors (Scotland) Act 1988' was 'River Humber (Upper Pyewipe Outfall) Act 1992' enacted?",
+    "prompt_with_dates": "'Solicitors (Scotland) Act 1988' was enacted on 1988-07-29, and River Humber (Upper Pyewipe Outfall) Act 1992' was enacted on 1992-07-16. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB044",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Regimental Debts (Deposit of Wills) (Scotland) Act 1919' was 'National Health Service (Amendment) Act 1949' enacted?",
+    "prompt_with_dates": "'Regimental Debts (Deposit of Wills) (Scotland) Act 1919' was enacted on 1919-12-23, and National Health Service (Amendment) Act 1949' was enacted on 1949-12-16. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB045",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'European Union Act 2011' was 'Statute Law (Repeals) Measure 2018' enacted?",
+    "prompt_with_dates": "'European Union Act 2011' was enacted on 2011-07-19, and Statute Law (Repeals) Measure 2018' was enacted on 2018-05-10. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB046",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Allied Irish Banks Act 1996' was 'Church of England (Miscellaneous Provisions) Measure 2014' enacted?",
+    "prompt_with_dates": "'Allied Irish Banks Act 1996' was enacted on 1996-07-24, and Church of England (Miscellaneous Provisions) Measure 2014' was enacted on 2014-05-14. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB047",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Pneumoconiosis etc. (Workers' Compensation) Act 1979' was 'Education and Adoption Act 2016' enacted?",
+    "prompt_with_dates": "'Pneumoconiosis etc. (Workers' Compensation) Act 1979' was enacted on 1979-04-04, and Education and Adoption Act 2016' was enacted on 2016-03-16. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB048",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Town and Country Planning Act 1968' was 'Avon Weir Act 1992' enacted?",
+    "prompt_with_dates": "'Town and Country Planning Act 1968' was enacted on 1968-10-25, and Avon Weir Act 1992' was enacted on 1992-03-16. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB049",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Insurance Brokers (Registration) Act 1977' was 'Local Government Finance Act (Northern Ireland) 2011' enacted?",
+    "prompt_with_dates": "'Insurance Brokers (Registration) Act 1977' was enacted on 1977-07-29, and Local Government Finance Act (Northern Ireland) 2011' was enacted on 2011-03-16. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB050",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Finance Act 1971' was 'Private International Law (Implementation of Agreements) Act 2020' enacted?",
+    "prompt_with_dates": "'Finance Act 1971' was enacted on 1971-08-05, and Private International Law (Implementation of Agreements) Act 2020' was enacted on 2020-12-14. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB051",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Companies Act 2006' was 'Control of Horses (Wales) Act 2014' enacted?",
+    "prompt_with_dates": "'Companies Act 2006' was enacted on 2006-11-08, and Control of Horses (Wales) Act 2014' was enacted on 2014-01-27. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB052",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Parliamentary Pensions etc. Act 1984' was 'House of Commons Members' Fund Act 2016' enacted?",
+    "prompt_with_dates": "'Parliamentary Pensions etc. Act 1984' was enacted on 1984-07-31, and House of Commons Members' Fund Act 2016' was enacted on 2016-05-12. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB053",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'National Theatre Act 1974' was 'Sex Discrimination Act 1975' enacted?",
+    "prompt_with_dates": "'National Theatre Act 1974' was enacted on 1974-11-29, and Sex Discrimination Act 1975' was enacted on 1975-11-12. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB054",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Mental Health (Amendment) Act 1982' was 'House of Commons (Removal of Clergy Disqualification) Act 2001' enacted?",
+    "prompt_with_dates": "'Mental Health (Amendment) Act 1982' was enacted on 1982-10-28, and House of Commons (Removal of Clergy Disqualification) Act 2001' was enacted on 2001-05-11. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB055",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Justices of the Peace Act 1968' was 'British Railways Act 1993' enacted?",
+    "prompt_with_dates": "'Justices of the Peace Act 1968' was enacted on 1968-10-25, and British Railways Act 1993' was enacted on 1993-03-29. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB056",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Health (Miscellaneous Provisions) Act (Northern Ireland) 2008' was 'Deregulation Act 2015' enacted?",
+    "prompt_with_dates": "'Health (Miscellaneous Provisions) Act (Northern Ireland) 2008' was enacted on 2008-02-25, and Deregulation Act 2015' was enacted on 2015-03-26. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB057",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'HFC Bank Act 1999' was 'Census (Return Particulars and Removal of Penalties) Act 2019' enacted?",
+    "prompt_with_dates": "'HFC Bank Act 1999' was enacted on 1999-06-30, and Census (Return Particulars and Removal of Penalties) Act 2019' was enacted on 2019-10-08. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB058",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Wills Act 1963' was 'Housing Act 1974' enacted?",
+    "prompt_with_dates": "'Wills Act 1963' was enacted on 1963-07-31, and Housing Act 1974' was enacted on 1974-07-31. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB059",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Small Holdings and Allotments Act 1926' was 'Crossrail Act 2008' enacted?",
+    "prompt_with_dates": "'Small Holdings and Allotments Act 1926' was enacted on 1926-12-15, and Crossrail Act 2008' was enacted on 2008-07-22. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB060",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Police Act 1997' was 'Welfare Reform Act 2012' enacted?",
+    "prompt_with_dates": "'Police Act 1997' was enacted on 1997-03-21, and Welfare Reform Act 2012' was enacted on 2012-03-08. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB061",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Representation of the People Act 1990' was 'Consumer Insurance (Disclosure and Representations) Act 2012' enacted?",
+    "prompt_with_dates": "'Representation of the People Act 1990' was enacted on 1990-07-26, and Consumer Insurance (Disclosure and Representations) Act 2012' was enacted on 2012-03-08. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB062",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Rate Support Grants Act 1988' was 'Planning and Energy Act 2008' enacted?",
+    "prompt_with_dates": "'Rate Support Grants Act 1988' was enacted on 1988-11-15, and Planning and Energy Act 2008' was enacted on 2008-11-13. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB063",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Political Parties, Elections and Referendums Act 2000' was 'Safeguarding and Clergy Discipline Measure 2016' enacted?",
+    "prompt_with_dates": "'Political Parties, Elections and Referendums Act 2000' was enacted on 2000-11-30, and Safeguarding and Clergy Discipline Measure 2016' was enacted on 2016-03-16. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB064",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Postal Services Act 2000' was 'Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021' enacted?",
+    "prompt_with_dates": "'Postal Services Act 2000' was enacted on 2000-07-28, and Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021' was enacted on 2021-08-26. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB065",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Travel Concessions Act 1964' was 'Prisons (Interference with Wireless Telegraphy) Act 2012' enacted?",
+    "prompt_with_dates": "'Travel Concessions Act 1964' was enacted on 1964-12-17, and Prisons (Interference with Wireless Telegraphy) Act 2012' was enacted on 2012-12-19. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB066",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Education (Provision of Meals) Act 1906' was 'Northern Ireland (Miscellaneous Provisions) Act 2014' enacted?",
+    "prompt_with_dates": "'Education (Provision of Meals) Act 1906' was enacted on 1906-12-21, and Northern Ireland (Miscellaneous Provisions) Act 2014' was enacted on 2014-03-13. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB067",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Finance Act 1998' was 'Human Fertilisation and Embryology Act 2008' enacted?",
+    "prompt_with_dates": "'Finance Act 1998' was enacted on 1998-07-31, and Human Fertilisation and Embryology Act 2008' was enacted on 2008-11-13. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB068",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Competition Act 1998' was 'Autism Act 2009' enacted?",
+    "prompt_with_dates": "'Competition Act 1998' was enacted on 1998-11-09, and Autism Act 2009' was enacted on 2009-11-12. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB069",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'House of Lords Reform Act 2014' was 'Health Service Commissioner for England (Complaint Handling) Act 2015' enacted?",
+    "prompt_with_dates": "'House of Lords Reform Act 2014' was enacted on 2014-05-14, and Health Service Commissioner for England (Complaint Handling) Act 2015' was enacted on 2015-03-26. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB070",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Energy Act 2004' was 'Elections Act 2022' enacted?",
+    "prompt_with_dates": "'Energy Act 2004' was enacted on 2004-07-22, and Elections Act 2022' was enacted on 2022-04-28. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB071",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Marshall Aid Commemoration Act 1953' was 'Children and Social Work Act 2017' enacted?",
+    "prompt_with_dates": "'Marshall Aid Commemoration Act 1953' was enacted on 1953-07-31, and Children and Social Work Act 2017' was enacted on 2017-04-27. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB072",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Taxis Act (Northern Ireland) 2008' was 'Public Authorities (Reform) Act (Northern Ireland) 2009' enacted?",
+    "prompt_with_dates": "'Taxis Act (Northern Ireland) 2008' was enacted on 2008-04-21, and Public Authorities (Reform) Act (Northern Ireland) 2009' was enacted on 2009-02-16. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB073",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Queen Mary and Westfield College Act 1995' was 'Education Act 2011' enacted?",
+    "prompt_with_dates": "'Queen Mary and Westfield College Act 1995' was enacted on 1995-11-08, and Education Act 2011' was enacted on 2011-11-15. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB074",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Citation Amendment (Scotland) Act 1882' was 'Export Control Act 2002' enacted?",
+    "prompt_with_dates": "'Citation Amendment (Scotland) Act 1882' was enacted on 1882-08-18, and Export Control Act 2002' was enacted on 2002-07-24. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB075",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Building Control Act 1966' was 'Administration of Justice Act 1977' enacted?",
+    "prompt_with_dates": "'Building Control Act 1966' was enacted on 1966-08-09, and Administration of Justice Act 1977' was enacted on 1977-07-29. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB076",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Rate Support Grants Act 1986' was 'Budget (No. 2) Act (Northern Ireland) 2009' enacted?",
+    "prompt_with_dates": "'Rate Support Grants Act 1986' was enacted on 1986-10-21, and Budget (No. 2) Act (Northern Ireland) 2009' was enacted on 2009-07-08. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB077",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Employment Protection (Consolidation) Act 1978' was 'Nurse Staffing Levels (Wales) Act 2016' enacted?",
+    "prompt_with_dates": "'Employment Protection (Consolidation) Act 1978' was enacted on 1978-07-31, and Nurse Staffing Levels (Wales) Act 2016' was enacted on 2016-03-21. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB078",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Police Reform Act 2002' was 'National Health Service Act 2006' enacted?",
+    "prompt_with_dates": "'Police Reform Act 2002' was enacted on 2002-07-24, and National Health Service Act 2006' was enacted on 2006-11-08. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB079",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Agricultural Holdings (Scotland) Act 1991' was 'Digital Markets, Competition and Consumers Act 2024' enacted?",
+    "prompt_with_dates": "'Agricultural Holdings (Scotland) Act 1991' was enacted on 1991-07-25, and Digital Markets, Competition and Consumers Act 2024' was enacted on 2024-05-24. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB080",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Slave Trade Act 1873' was 'Protection from Eviction Act 1977' enacted?",
+    "prompt_with_dates": "'Slave Trade Act 1873' was enacted on 1873-08-05, and Protection from Eviction Act 1977' was enacted on 1977-07-29. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB081",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Removal Terms (Scotland) Act 1886' was 'Police and Magistrates' Courts Act 1994' enacted?",
+    "prompt_with_dates": "'Removal Terms (Scotland) Act 1886' was enacted on 1886-06-25, and Police and Magistrates' Courts Act 1994' was enacted on 1994-07-21. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB082",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Housing Defects Act 1984' was 'Competition and Service (Utilities) Act 1992' enacted?",
+    "prompt_with_dates": "'Housing Defects Act 1984' was enacted on 1984-07-31, and Competition and Service (Utilities) Act 1992' was enacted on 1992-03-16. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB083",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Dogs (Amendment) Act (Northern Ireland)' was 'Animal Health Act 2002' enacted?",
+    "prompt_with_dates": "'Dogs (Amendment) Act (Northern Ireland)' was enacted on 2001-01-29, and Animal Health Act 2002' was enacted on 2002-11-07. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB084",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Consumer Credit Act 1974' was 'Budget Act (Northern Ireland) 2025' enacted?",
+    "prompt_with_dates": "'Consumer Credit Act 1974' was enacted on 1974-07-31, and Budget Act (Northern Ireland) 2025' was enacted on 2025-03-06. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB085",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Water Industry Act 1991' was 'Public Service Pensions Act (Northern Ireland) 2014' enacted?",
+    "prompt_with_dates": "'Water Industry Act 1991' was enacted on 1991-07-25, and Public Service Pensions Act (Northern Ireland) 2014' was enacted on 2014-03-11. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB086",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Stamp Act 1815' was 'Nottingham City Council Act 2013' enacted?",
+    "prompt_with_dates": "'Stamp Act 1815' was enacted on 1815-07-11, and Nottingham City Council Act 2013' was enacted on 2013-02-28. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB087",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Public Trustee and Administration of Funds Act 1986' was 'Finance Act 2005' enacted?",
+    "prompt_with_dates": "'Public Trustee and Administration of Funds Act 1986' was enacted on 1986-11-07, and Finance Act 2005' was enacted on 2005-04-07. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB088",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Water (Scotland) Act 1967' was 'Northern Ireland (Remission of Sentences) Act 1995' enacted?",
+    "prompt_with_dates": "'Water (Scotland) Act 1967' was enacted on 1967-05-27, and Northern Ireland (Remission of Sentences) Act 1995' was enacted on 1995-11-08. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB089",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Defence Acts Amendment Act 1873' was 'Ports Act 1991' enacted?",
+    "prompt_with_dates": "'Defence Acts Amendment Act 1873' was enacted on 1873-08-05, and Ports Act 1991' was enacted on 1991-07-25. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB090",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Cable and Wireless Act 1946' was 'Administration of Justice Act 1977' enacted?",
+    "prompt_with_dates": "'Cable and Wireless Act 1946' was enacted on 1946-11-06, and Administration of Justice Act 1977' was enacted on 1977-07-29. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB091",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Nature Conservancy Council Act 1973' was 'Pensions Act 2014' enacted?",
+    "prompt_with_dates": "'Nature Conservancy Council Act 1973' was enacted on 1973-07-25, and Pensions Act 2014' was enacted on 2014-05-14. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB092",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Trade Union Act 1984' was 'Forestry Act (Northern Ireland) 2010' enacted?",
+    "prompt_with_dates": "'Trade Union Act 1984' was enacted on 1984-07-26, and Forestry Act (Northern Ireland) 2010' was enacted on 2010-06-28. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB093",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Consumer Protection Act 1987' was 'Care of Cathedrals (Amendment) Measure 2005' enacted?",
+    "prompt_with_dates": "'Consumer Protection Act 1987' was enacted on 1987-05-15, and Care of Cathedrals (Amendment) Measure 2005' was enacted on 2005-03-24. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB094",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Interest on Damages (Scotland) Act 1958' was 'Southern Rhodesia Act 1965' enacted?",
+    "prompt_with_dates": "'Interest on Damages (Scotland) Act 1958' was enacted on 1958-08-01, and Southern Rhodesia Act 1965' was enacted on 1965-11-16. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB095",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Planning and Energy Act 2008' was 'Terrorism (Protection of Premises) Act 2025' enacted?",
+    "prompt_with_dates": "'Planning and Energy Act 2008' was enacted on 2008-11-13, and Terrorism (Protection of Premises) Act 2025' was enacted on 2025-04-03. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB096",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Justices of the Peace Act 1949' was 'Pet Abduction Act 2024' enacted?",
+    "prompt_with_dates": "'Justices of the Peace Act 1949' was enacted on 1949-12-16, and Pet Abduction Act 2024' was enacted on 2024-05-24. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB097",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Wildlife and Countryside Act 1981' was 'Industrial Development Act (Northern Ireland) 2002' enacted?",
+    "prompt_with_dates": "'Wildlife and Countryside Act 1981' was enacted on 1981-10-30, and Industrial Development Act (Northern Ireland) 2002' was enacted on 2002-02-07. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB098",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Removal Terms (Scotland) Act 1886' was 'Nature Conservancy Council Act 1973' enacted?",
+    "prompt_with_dates": "'Removal Terms (Scotland) Act 1886' was enacted on 1886-06-25, and Nature Conservancy Council Act 1973' was enacted on 1973-07-25. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB099",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Employment Protection (Consolidation) Act 1978' was 'Supply and Appropriation (Main Estimates) Act 2017' enacted?",
+    "prompt_with_dates": "'Employment Protection (Consolidation) Act 1978' was enacted on 1978-07-31, and Supply and Appropriation (Main Estimates) Act 2017' was enacted on 2017-07-19. How long after the first was the second enacted?"
+  },
+  {
+    "task_id": "DB100",
+    "task_type": "duration_between_laws",
+    "prompt": "How long after 'Armed Forces Act 1966' was 'Pensions Act 2014' enacted?",
+    "prompt_with_dates": "'Armed Forces Act 1966' was enacted on 1966-12-21, and Pensions Act 2014' was enacted on 2014-05-14. How long after the first was the second enacted?"
+  }
+]

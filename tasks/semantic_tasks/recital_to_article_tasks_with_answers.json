@@ -1,0 +1,1781 @@
+[
+  {
+    "task_id": "RE001",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 1 GDPR Subject-matter and objectives",
+    "answer": {
+      "Art. 1 GDPR Subject-matter and objectives": [
+        {
+          "number": "1",
+          "text": "Data Protection as a Fundamental Right"
+        },
+        {
+          "number": "2",
+          "text": "Respect of the Fundamental Rights and Freedoms"
+        },
+        {
+          "number": "3",
+          "text": "Directive 95/46/EC Harmonisation"
+        },
+        {
+          "number": "4",
+          "text": "Data Protection in Balance with Other Fundamental Rights"
+        },
+        {
+          "number": "5",
+          "text": "Cooperation Between Member States to Exchange Personal Data"
+        },
+        {
+          "number": "6",
+          "text": "Ensuring a High Level of Data Protection Despite the Increased Exchange of Data"
+        },
+        {
+          "number": "7",
+          "text": "The Framework is Based on Control and Certainty"
+        },
+        {
+          "number": "8",
+          "text": "Adoption into National Law"
+        },
+        {
+          "number": "9",
+          "text": "Different Standards of Protection by the Directive 95/46/EC"
+        },
+        {
+          "number": "10",
+          "text": "Harmonised Level of Data Protection Despite National Scope"
+        },
+        {
+          "number": "11",
+          "text": "Harmonisation of the Powers and Sanctions"
+        },
+        {
+          "number": "12",
+          "text": "Authorization of the European Parliament and the Council"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE002",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 2 GDPR Material scope",
+    "answer": {
+      "Art. 2 GDPR Material scope": [
+        {
+          "number": "13",
+          "text": "Taking Account of Micro, Small and Medium-Sized Enterprises"
+        },
+        {
+          "number": "14",
+          "text": "Not Applicable to Legal Persons"
+        },
+        {
+          "number": "15",
+          "text": "Technology Neutrality"
+        },
+        {
+          "number": "16",
+          "text": "Not Applicable to Activities Regarding National and Common Security"
+        },
+        {
+          "number": "18",
+          "text": "Not Applicable to Personal or Household Activities"
+        },
+        {
+          "number": "19",
+          "text": "Not Applicable to Criminal Prosecution"
+        },
+        {
+          "number": "20",
+          "text": "Respecting the Independence of the Judiciary"
+        },
+        {
+          "number": "21",
+          "text": "Liability Rules of Intermediary Service Providers Shall Remain Unaffected"
+        },
+        {
+          "number": "27",
+          "text": "Not Applicable to Data of Deceased Persons"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE003",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 3 GDPR Territorial scope",
+    "answer": {
+      "Art. 3 GDPR Territorial scope": [
+        {
+          "number": "22",
+          "text": "Processing by an Establishment"
+        },
+        {
+          "number": "23",
+          "text": "Applicable to Controllers/Processors Not Established in the Union if Data Subjects Within the Union are Targeted"
+        },
+        {
+          "number": "24",
+          "text": "Applicable to Controllers/Processors Not Established in the Union if Data Subjects Within the Union are Profiled"
+        },
+        {
+          "number": "25",
+          "text": "Applicable to Controllers Due to International Law"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE004",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 4 GDPR Definitions",
+    "answer": {
+      "Art. 4 GDPR Definitions": [
+        {
+          "number": "15",
+          "text": "Technology Neutrality"
+        },
+        {
+          "number": "24",
+          "text": "Applicable to Controllers/Processors Not Established in the Union if Data Subjects Within the Union are Profiled"
+        },
+        {
+          "number": "26",
+          "text": "Not Applicable to Anonymous Data"
+        },
+        {
+          "number": "28",
+          "text": "Introduction of Pseudonymisation"
+        },
+        {
+          "number": "29",
+          "text": "Pseudonymisation at the Same Controller"
+        },
+        {
+          "number": "30",
+          "text": "Online Identifiers for Profiling and Identification"
+        },
+        {
+          "number": "31",
+          "text": "Not Applicable to Public Authorities in Connection with Their Official Tasks"
+        },
+        {
+          "number": "34",
+          "text": "Genetic Data"
+        },
+        {
+          "number": "35",
+          "text": "Health Data"
+        },
+        {
+          "number": "36",
+          "text": "Determination of the Main Establishment"
+        },
+        {
+          "number": "37",
+          "text": "Group of undertakings"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE005",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 5 GDPR Principles relating to processing of personal data",
+    "answer": {
+      "Art. 5 GDPR Principles relating to processing of personal data": [
+        {
+          "number": "39",
+          "text": "Principles of Data Processing"
+        },
+        {
+          "number": "74",
+          "text": "Responsibility and Liability of the Controller"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE006",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 6 GDPR Lawfulness of processing",
+    "answer": {
+      "Art. 6 GDPR Lawfulness of processing": [
+        {
+          "number": "39",
+          "text": "Principles of Data Processing"
+        },
+        {
+          "number": "40",
+          "text": "Lawfulness of Data Processing"
+        },
+        {
+          "number": "41",
+          "text": "Legal Basis or Legislative Measures"
+        },
+        {
+          "number": "42",
+          "text": "Burden of Proof and Requirements for Consent"
+        },
+        {
+          "number": "43",
+          "text": "Freely Given Consent"
+        },
+        {
+          "number": "44",
+          "text": "Performance of a Contract"
+        },
+        {
+          "number": "45",
+          "text": "Fulfillment of Legal Obligations"
+        },
+        {
+          "number": "46",
+          "text": "Vital Interests of the Data Subject"
+        },
+        {
+          "number": "47",
+          "text": "Overriding Legitimate Interest"
+        },
+        {
+          "number": "48",
+          "text": "Overriding Legitimate Interest Within Group of Undertakings"
+        },
+        {
+          "number": "49",
+          "text": "Network and Information Security as Overriding Legitimate Interest"
+        },
+        {
+          "number": "50",
+          "text": "Further Processing of Personal Data"
+        },
+        {
+          "number": "171",
+          "text": "Repeal of Directive 95/46/EC and Transitional Provisions"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE007",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 7 GDPR Conditions for consent",
+    "answer": {
+      "Art. 7 GDPR Conditions for consent": [
+        {
+          "number": "32",
+          "text": "Conditions for Consent"
+        },
+        {
+          "number": "33",
+          "text": "Consent to Certain Areas of Scientific Research"
+        },
+        {
+          "number": "42",
+          "text": "Burden of Proof and Requirements for Consent"
+        },
+        {
+          "number": "43",
+          "text": "Freely Given Consent"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE008",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 8 GDPR Conditions applicable to child's consent in relation to information society services",
+    "answer": {
+      "Art. 8 GDPR Conditions applicable to child's consent in relation to information society services": [
+        {
+          "number": "38",
+          "text": "Special Protection of Children's Personal Data"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE009",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 9 GDPR Processing of special categories of personal data",
+    "answer": {
+      "Art. 9 GDPR Processing of special categories of personal data": [
+        {
+          "number": "46",
+          "text": "Vital Interests of the Data Subject"
+        },
+        {
+          "number": "51",
+          "text": "Protecting Sensitive Personal Data"
+        },
+        {
+          "number": "52",
+          "text": "Exceptions to the Prohibition on Processing Special Categories of Personal Data"
+        },
+        {
+          "number": "53",
+          "text": "Processing of Sensitive Data in Health and Social Sector"
+        },
+        {
+          "number": "54",
+          "text": "Processing of Sensitive Data in Public Health Sector"
+        },
+        {
+          "number": "55",
+          "text": "Public Interest in Processing by Official Authorities for Objectives of Recognized Religious Communities"
+        },
+        {
+          "number": "56",
+          "text": "Processing Personal Data on People's Political Opinions by Parties"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE010",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 10 GDPR Processing of personal data relating to criminal convictions and offences",
+    "answer": {
+      "Art. 10 GDPR Processing of personal data relating to criminal convictions and offences": [
+        {
+          "number": "50",
+          "text": "Further Processing of Personal Data"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE011",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 11 GDPR Processing which does not require identification",
+    "answer": {
+      "Art. 11 GDPR Processing which does not require identification": [
+        {
+          "number": "57",
+          "text": "Additional Data for Identification Purposes"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE012",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 12 GDPR Transparent information, communication and modalities for the exercise of the rights of the data subject",
+    "answer": {
+      "Art. 12 GDPR Transparent information, communication and modalities for the exercise of the rights of the data subject": [
+        {
+          "number": "38",
+          "text": "Special Protection of Children's Personal Data"
+        },
+        {
+          "number": "58",
+          "text": "The Principle of Transparency"
+        },
+        {
+          "number": "59",
+          "text": "Procedures for the Exercise of the Rights of the Data Subjects"
+        },
+        {
+          "number": "60",
+          "text": "Information Obligation"
+        },
+        {
+          "number": "73",
+          "text": "Restrictions of Rights and Principles"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE013",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 13 GDPR Information to be provided where personal data are collected from the data subject",
+    "answer": {
+      "Art. 13 GDPR Information to be provided where personal data are collected from the data subject": [
+        {
+          "number": "60",
+          "text": "Information Obligation"
+        },
+        {
+          "number": "61",
+          "text": "Time of Information"
+        },
+        {
+          "number": "62",
+          "text": "Exceptions to the Obligation to Provide Information"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE014",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 14 GDPR Information to be provided where personal data have not been obtained from the data subject",
+    "answer": {
+      "Art. 14 GDPR Information to be provided where personal data have not been obtained from the data subject": [
+        {
+          "number": "60",
+          "text": "Information Obligation"
+        },
+        {
+          "number": "61",
+          "text": "Time of Information"
+        },
+        {
+          "number": "62",
+          "text": "Exceptions to the Obligation to Provide Information"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE015",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 15 GDPR Right of access by the data subject",
+    "answer": {
+      "Art. 15 GDPR Right of access by the data subject": [
+        {
+          "number": "63",
+          "text": "Right of Access"
+        },
+        {
+          "number": "64",
+          "text": "Identity Verification"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE016",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 16 GDPR Right to rectification",
+    "answer": {
+      "Art. 16 GDPR Right to rectification": [
+        {
+          "number": "65",
+          "text": "Right of Rectification and Erasure"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE017",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 17 GDPR Right to erasure (‘right to be forgotten’)",
+    "answer": {
+      "Art. 17 GDPR Right to erasure (‘right to be forgotten’)": [
+        {
+          "number": "65",
+          "text": "Right of Rectification and Erasure"
+        },
+        {
+          "number": "66",
+          "text": "Right to be Forgotten"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE018",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 18 GDPR Right to restriction of processing",
+    "answer": {
+      "Art. 18 GDPR Right to restriction of processing": [
+        {
+          "number": "67",
+          "text": "Restriction of Processing"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE019",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 19 GDPR Notification obligation regarding rectification or erasure of personal data or restriction of processing",
+    "answer": {
+      "Art. 19 GDPR Notification obligation regarding rectification or erasure of personal data or restriction of processing": [
+        {
+          "number": "66",
+          "text": "Right to be Forgotten"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE020",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 20 GDPR Right to data portability",
+    "answer": {
+      "Art. 20 GDPR Right to data portability": [
+        {
+          "number": "68",
+          "text": "Right of Data Portability"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE021",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 21 GDPR Right to object",
+    "answer": {
+      "Art. 21 GDPR Right to object": [
+        {
+          "number": "69",
+          "text": "Right to Object"
+        },
+        {
+          "number": "70",
+          "text": "Right to Object to Direct Marketing"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE022",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 22 GDPR Automated individual decision-making, including profiling",
+    "answer": {
+      "Art. 22 GDPR Automated individual decision-making, including profiling": [
+        {
+          "number": "71",
+          "text": "Profiling"
+        },
+        {
+          "number": "72",
+          "text": "Guidance of the European Data Protection Board Regarding Profiling"
+        },
+        {
+          "number": "91",
+          "text": "Necessity of a Data Protection Impact Assessment"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE023",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 23 GDPR Restrictions",
+    "answer": {
+      "Art. 23 GDPR Restrictions": [
+        {
+          "number": "73",
+          "text": "Restrictions of Rights and Principles"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE024",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 24 GDPR Responsibility of the controller",
+    "answer": {
+      "Art. 24 GDPR Responsibility of the controller": [
+        {
+          "number": "74",
+          "text": "Responsibility and Liability of the Controller"
+        },
+        {
+          "number": "75",
+          "text": "Risks to the Rights and Freedoms of Natural Persons"
+        },
+        {
+          "number": "76",
+          "text": "Risk Assessment"
+        },
+        {
+          "number": "77",
+          "text": "Risk Assessment Guidelines"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE025",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 25 GDPR Data protection by design and by default",
+    "answer": {
+      "Art. 25 GDPR Data protection by design and by default": [
+        {
+          "number": "78",
+          "text": "Appropriate Technical and Organisational Measures"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE026",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 26 GDPR Joint controllers",
+    "answer": {
+      "Art. 26 GDPR Joint controllers": [
+        {
+          "number": "58",
+          "text": "The Principle of Transparency"
+        },
+        {
+          "number": "79",
+          "text": "Allocation of the Responsibilities"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE027",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 27 GDPR Representatives of controllers or processors not established in the Union",
+    "answer": {
+      "Art. 27 GDPR Representatives of controllers or processors not established in the Union": [
+        {
+          "number": "80",
+          "text": "Designation of a Representative"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE028",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 28 GDPR Processor",
+    "answer": {
+      "Art. 28 GDPR Processor": [
+        {
+          "number": "81",
+          "text": "The Use of Processors"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE029",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 29 GDPR Processing under the authority of the controller or processor",
+    "answer": {
+      "Art. 29 GDPR Processing under the authority of the controller or processor": []
+    }
+  },
+  {
+    "task_id": "RE030",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 30 GDPR Records of processing activities",
+    "answer": {
+      "Art. 30 GDPR Records of processing activities": [
+        {
+          "number": "13",
+          "text": "Taking Account of Micro, Small and Medium-Sized Enterprises"
+        },
+        {
+          "number": "82",
+          "text": "Record of Processing Activities"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE031",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 31 GDPR Cooperation with the supervisory authority",
+    "answer": {
+      "Art. 31 GDPR Cooperation with the supervisory authority": [
+        {
+          "number": "82",
+          "text": "Record of Processing Activities"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE032",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 32 GDPR Security of processing",
+    "answer": {
+      "Art. 32 GDPR Security of processing": [
+        {
+          "number": "75",
+          "text": "Risks to the Rights and Freedoms of Natural Persons"
+        },
+        {
+          "number": "76",
+          "text": "Risk Assessment"
+        },
+        {
+          "number": "77",
+          "text": "Risk Assessment Guidelines"
+        },
+        {
+          "number": "78",
+          "text": "Appropriate Technical and Organisational Measures"
+        },
+        {
+          "number": "79",
+          "text": "Allocation of the Responsibilities"
+        },
+        {
+          "number": "83",
+          "text": "Security of Processing"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE033",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 33 GDPR Notification of a personal data breach to the supervisory authority",
+    "answer": {
+      "Art. 33 GDPR Notification of a personal data breach to the supervisory authority": [
+        {
+          "number": "85",
+          "text": "Notification Obligation of Breaches to the Supervisory Authority"
+        },
+        {
+          "number": "87",
+          "text": "Promptness of Reporting / Notification"
+        },
+        {
+          "number": "88",
+          "text": "Format and Procedures of the Notification"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE034",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 34 GDPR Communication of a personal data breach to the data subject",
+    "answer": {
+      "Art. 34 GDPR Communication of a personal data breach to the data subject": [
+        {
+          "number": "86",
+          "text": "Notification of Data Subjects in Case of Data Breaches"
+        },
+        {
+          "number": "87",
+          "text": "Promptness of Reporting / Notification"
+        },
+        {
+          "number": "88",
+          "text": "Format and Procedures of the Notification"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE035",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 35 GDPR Data protection impact assessment",
+    "answer": {
+      "Art. 35 GDPR Data protection impact assessment": [
+        {
+          "number": "75",
+          "text": "Risks to the Rights and Freedoms of Natural Persons"
+        },
+        {
+          "number": "84",
+          "text": "Risk Evaluation and Impact Assessment"
+        },
+        {
+          "number": "89",
+          "text": "Elimination of the General Reporting Requirement"
+        },
+        {
+          "number": "90",
+          "text": "Data Protection Impact Assessement"
+        },
+        {
+          "number": "91",
+          "text": "Necessity of a Data Protection Impact Assessment"
+        },
+        {
+          "number": "92",
+          "text": "Broader Data Protection Impact Assessment"
+        },
+        {
+          "number": "93",
+          "text": "Data Protection Impact Assessment at Authorities"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE036",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 36 GDPR Prior consultation",
+    "answer": {
+      "Art. 36 GDPR Prior consultation": [
+        {
+          "number": "94",
+          "text": "Consultation of the Supervisory Authority"
+        },
+        {
+          "number": "95",
+          "text": "Support by the Processor"
+        },
+        {
+          "number": "96",
+          "text": "Consultation of the Supervisory Authority in the Course of a Legislative Process"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE037",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 37 GDPR Designation of the data protection officer",
+    "answer": {
+      "Art. 37 GDPR Designation of the data protection officer": [
+        {
+          "number": "97",
+          "text": "Data Protection Officer"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE038",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 38 GDPR Position of the data protection officer",
+    "answer": {
+      "Art. 38 GDPR Position of the data protection officer": [
+        {
+          "number": "97",
+          "text": "Data Protection Officer"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE039",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 39 GDPR Tasks of the data protection officer",
+    "answer": {
+      "Art. 39 GDPR Tasks of the data protection officer": [
+        {
+          "number": "97",
+          "text": "Data Protection Officer"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE040",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 40 GDPR Codes of conduct",
+    "answer": {
+      "Art. 40 GDPR Codes of conduct": [
+        {
+          "number": "98",
+          "text": "Preparation of Codes of Conduct by Organisations and Associations"
+        },
+        {
+          "number": "99",
+          "text": "Consultation of Stakeholders and Data Subjects in the Development of Codes of Conduct"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE041",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 41 GDPR Monitoring of approved codes of conduct",
+    "answer": {
+      "Art. 41 GDPR Monitoring of approved codes of conduct": []
+    }
+  },
+  {
+    "task_id": "RE042",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 42 GDPR Certification",
+    "answer": {
+      "Art. 42 GDPR Certification": [
+        {
+          "number": "100",
+          "text": "Certification"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE043",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 43 GDPR Certification bodies",
+    "answer": {
+      "Art. 43 GDPR Certification bodies": []
+    }
+  },
+  {
+    "task_id": "RE044",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 44 GDPR General principle for transfers",
+    "answer": {
+      "Art. 44 GDPR General principle for transfers": [
+        {
+          "number": "101",
+          "text": "General Principles for International Data Transfers"
+        },
+        {
+          "number": "102",
+          "text": "International Agreements for an Appropriate Level of Data Protection"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE045",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 45 GDPR Transfers on the basis of an adequacy decision",
+    "answer": {
+      "Art. 45 GDPR Transfers on the basis of an adequacy decision": [
+        {
+          "number": "103",
+          "text": "Appropriate Level of Data Protection Based on an Adequacy Decision"
+        },
+        {
+          "number": "104",
+          "text": "Criteria for an Adequacy Decision"
+        },
+        {
+          "number": "105",
+          "text": "Consideration of International Agreements for an Adequacy Decision"
+        },
+        {
+          "number": "106",
+          "text": "Monitoring and Periodic Review of the Level of Data Protection"
+        },
+        {
+          "number": "107",
+          "text": "Amendment, Revocation and Suspension of Adequacy Decisions"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE046",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 46 GDPR Transfers subject to appropriate safeguards",
+    "answer": {
+      "Art. 46 GDPR Transfers subject to appropriate safeguards": [
+        {
+          "number": "108",
+          "text": "Appropriate Safeguards"
+        },
+        {
+          "number": "109",
+          "text": "Standard Data Protection Clauses"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE047",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 47 GDPR Binding corporate rules",
+    "answer": {
+      "Art. 47 GDPR Binding corporate rules": [
+        {
+          "number": "110",
+          "text": "Binding Corporate Rules"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE048",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 48 GDPR Transfers or disclosures not authorised by Union law",
+    "answer": {
+      "Art. 48 GDPR Transfers or disclosures not authorised by Union law": [
+        {
+          "number": "115",
+          "text": "Rules in Third Countries Contrary to the Regulation"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE049",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 49 GDPR Derogations for specific situations",
+    "answer": {
+      "Art. 49 GDPR Derogations for specific situations": [
+        {
+          "number": "111",
+          "text": "Exceptions for Certain Cases of International Transfers"
+        },
+        {
+          "number": "112",
+          "text": "Data Transfers due to Important Reasons of Public Interest"
+        },
+        {
+          "number": "113",
+          "text": "Transfers Qualified as Not Repetitive and that Only Concern a Limited Number of Data Subjects"
+        },
+        {
+          "number": "114",
+          "text": "Safeguarding of Enforceability of Rights and Obligations in the Absence of an Adequacy Decision"
+        },
+        {
+          "number": "115",
+          "text": "Rules in Third Countries Contrary to the Regulation"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE050",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 50 GDPR International cooperation for the protection of personal data",
+    "answer": {
+      "Art. 50 GDPR International cooperation for the protection of personal data": [
+        {
+          "number": "116",
+          "text": "Cooperation Among Supervisory Authorities"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE051",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 51 GDPR Supervisory authority",
+    "answer": {
+      "Art. 51 GDPR Supervisory authority": [
+        {
+          "number": "117",
+          "text": "Establishment of Supervisory Authorities"
+        },
+        {
+          "number": "118",
+          "text": "Monitoring of the Supervisory Authorities"
+        },
+        {
+          "number": "119",
+          "text": "Organisation of Several Supervisory Authorities of a Member State"
+        },
+        {
+          "number": "120",
+          "text": "Features of Supervisory Authorities"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE052",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 52 GDPR Independence",
+    "answer": {
+      "Art. 52 GDPR Independence": [
+        {
+          "number": "117",
+          "text": "Establishment of Supervisory Authorities"
+        },
+        {
+          "number": "118",
+          "text": "Monitoring of the Supervisory Authorities"
+        },
+        {
+          "number": "120",
+          "text": "Features of Supervisory Authorities"
+        },
+        {
+          "number": "121",
+          "text": "Independence of the Supervisory Authorities"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE053",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 53 GDPR General conditions for the members of the supervisory authority",
+    "answer": {
+      "Art. 53 GDPR General conditions for the members of the supervisory authority": [
+        {
+          "number": "121",
+          "text": "Independence of the Supervisory Authorities"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE054",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 54 GDPR Rules on the establishment of the supervisory authority",
+    "answer": {
+      "Art. 54 GDPR Rules on the establishment of the supervisory authority": [
+        {
+          "number": "117",
+          "text": "Establishment of Supervisory Authorities"
+        },
+        {
+          "number": "121",
+          "text": "Independence of the Supervisory Authorities"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE055",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 55 GDPR Competence",
+    "answer": {
+      "Art. 55 GDPR Competence": [
+        {
+          "number": "122",
+          "text": "Responsibility of the Supervisory Authorities"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE056",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 56 GDPR Competence of the lead supervisory authority",
+    "answer": {
+      "Art. 56 GDPR Competence of the lead supervisory authority": [
+        {
+          "number": "124",
+          "text": "Lead Authority Regarding Processing in Several Member States"
+        },
+        {
+          "number": "127",
+          "text": "Information of the Supervisory Authority Regarding Local Processing"
+        },
+        {
+          "number": "128",
+          "text": "Responsibility Regarding Processing in the Public Interest"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE057",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 57 GDPR Tasks",
+    "answer": {
+      "Art. 57 GDPR Tasks": [
+        {
+          "number": "122",
+          "text": "Responsibility of the Supervisory Authorities"
+        },
+        {
+          "number": "123",
+          "text": "Cooperation of the Supervisory Authorities with Each Other and with the Commission"
+        },
+        {
+          "number": "132",
+          "text": "Awareness-Raising Activities and Specific Measures"
+        },
+        {
+          "number": "133",
+          "text": "Mutual Assistance and Provisional Measures"
+        },
+        {
+          "number": "137",
+          "text": "Provisional Measures"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE058",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 58 GDPR Powers",
+    "answer": {
+      "Art. 58 GDPR Powers": [
+        {
+          "number": "122",
+          "text": "Responsibility of the Supervisory Authorities"
+        },
+        {
+          "number": "129",
+          "text": "Tasks and Powers of the Supervisory Authorities"
+        },
+        {
+          "number": "131",
+          "text": "Attempt of an Amicable Settlement"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE059",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 59 GDPR Activity reports",
+    "answer": {
+      "Art. 59 GDPR Activity reports": []
+    }
+  },
+  {
+    "task_id": "RE060",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 60 GDPR Cooperation between the lead supervisory authority and the other supervisory authorities concerned",
+    "answer": {
+      "Art. 60 GDPR Cooperation between the lead supervisory authority and the other supervisory authorities concerned": [
+        {
+          "number": "124",
+          "text": "Lead Authority Regarding Processing in Several Member States"
+        },
+        {
+          "number": "125",
+          "text": "Competences of the Lead Authority"
+        },
+        {
+          "number": "130",
+          "text": "Consideration of the Authority with which the Complaint has been Lodged"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE061",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 61 GDPR Mutual assistance",
+    "answer": {
+      "Art. 61 GDPR Mutual assistance": [
+        {
+          "number": "123",
+          "text": "Cooperation of the Supervisory Authorities with Each Other and with the Commission"
+        },
+        {
+          "number": "132",
+          "text": "Awareness-Raising Activities and Specific Measures"
+        },
+        {
+          "number": "133",
+          "text": "Mutual Assistance and Provisional Measures"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE062",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 62 GDPR Joint operations of supervisory authorities",
+    "answer": {
+      "Art. 62 GDPR Joint operations of supervisory authorities": [
+        {
+          "number": "126",
+          "text": "Joint Decisions"
+        },
+        {
+          "number": "134",
+          "text": "Participation in Joint Operations"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE063",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 63 GDPR Consistency mechanism",
+    "answer": {
+      "Art. 63 GDPR Consistency mechanism": [
+        {
+          "number": "135",
+          "text": "Consistency Mechanism"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE064",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 64 GDPR Opinion of the Board",
+    "answer": {
+      "Art. 64 GDPR Opinion of the Board": [
+        {
+          "number": "136",
+          "text": "Binding Decisions and Opinions of the Board"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE065",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 65 GDPR Dispute resolution by the Board",
+    "answer": {
+      "Art. 65 GDPR Dispute resolution by the Board": [
+        {
+          "number": "136",
+          "text": "Binding Decisions and Opinions of the Board"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE066",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 66 GDPR Urgency procedure",
+    "answer": {
+      "Art. 66 GDPR Urgency procedure": [
+        {
+          "number": "137",
+          "text": "Provisional Measures"
+        },
+        {
+          "number": "138",
+          "text": "Urgency Procedure"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE067",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 67 GDPR Exchange of information",
+    "answer": {
+      "Art. 67 GDPR Exchange of information": []
+    }
+  },
+  {
+    "task_id": "RE068",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 68 GDPR European Data Protection Board",
+    "answer": {
+      "Art. 68 GDPR European Data Protection Board": [
+        {
+          "number": "139",
+          "text": "European Data Protection Board"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE069",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 69 GDPR Independence",
+    "answer": {
+      "Art. 69 GDPR Independence": [
+        {
+          "number": "139",
+          "text": "European Data Protection Board"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE070",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 70 GDPR Tasks of the Board",
+    "answer": {
+      "Art. 70 GDPR Tasks of the Board": [
+        {
+          "number": "136",
+          "text": "Binding Decisions and Opinions of the Board"
+        },
+        {
+          "number": "139",
+          "text": "European Data Protection Board"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE071",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 71 GDPR Reports",
+    "answer": {
+      "Art. 71 GDPR Reports": []
+    }
+  },
+  {
+    "task_id": "RE072",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 72 GDPR Procedure",
+    "answer": {
+      "Art. 72 GDPR Procedure": []
+    }
+  },
+  {
+    "task_id": "RE073",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 73 GDPR Chair",
+    "answer": {
+      "Art. 73 GDPR Chair": []
+    }
+  },
+  {
+    "task_id": "RE074",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 74 GDPR Tasks of the Chair",
+    "answer": {
+      "Art. 74 GDPR Tasks of the Chair": []
+    }
+  },
+  {
+    "task_id": "RE075",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 75 GDPR Secretariat",
+    "answer": {
+      "Art. 75 GDPR Secretariat": [
+        {
+          "number": "140",
+          "text": "Secretariat and Staff of the Board"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE076",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 76 GDPR Confidentiality",
+    "answer": {
+      "Art. 76 GDPR Confidentiality": []
+    }
+  },
+  {
+    "task_id": "RE077",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 77 GDPR Right to lodge a complaint with a supervisory authority",
+    "answer": {
+      "Art. 77 GDPR Right to lodge a complaint with a supervisory authority": [
+        {
+          "number": "141",
+          "text": "Right to Lodge a Complaint"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE078",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 78 GDPR Right to an effective judicial remedy against a supervisory authority",
+    "answer": {
+      "Art. 78 GDPR Right to an effective judicial remedy against a supervisory authority": [
+        {
+          "number": "141",
+          "text": "Right to Lodge a Complaint"
+        },
+        {
+          "number": "143",
+          "text": "Judicial Remedies"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE079",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 79 GDPR Right to an effective judicial remedy against a controller or processor",
+    "answer": {
+      "Art. 79 GDPR Right to an effective judicial remedy against a controller or processor": [
+        {
+          "number": "141",
+          "text": "Right to Lodge a Complaint"
+        },
+        {
+          "number": "145",
+          "text": "Choice of Venue"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE080",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 80 GDPR Representation of data subjects",
+    "answer": {
+      "Art. 80 GDPR Representation of data subjects": [
+        {
+          "number": "142",
+          "text": "The Right of Data Subjects to Mandate a Not-For-Profit Body, Organisation or Association"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE081",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 81 GDPR Suspension of proceedings",
+    "answer": {
+      "Art. 81 GDPR Suspension of proceedings": [
+        {
+          "number": "144",
+          "text": "Related Proceedings"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE082",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 82 GDPR Right to compensation and liability",
+    "answer": {
+      "Art. 82 GDPR Right to compensation and liability": [
+        {
+          "number": "146",
+          "text": "Indemnity"
+        },
+        {
+          "number": "147",
+          "text": "Jurisdiction"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE083",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 83 GDPR General conditions for imposing administrative fines",
+    "answer": {
+      "Art. 83 GDPR General conditions for imposing administrative fines": [
+        {
+          "number": "148",
+          "text": "Penalties"
+        },
+        {
+          "number": "149",
+          "text": "Penalties for Infringements of National Rules"
+        },
+        {
+          "number": "150",
+          "text": "Administrative Fines"
+        },
+        {
+          "number": "151",
+          "text": "Administrative Fines in Denmark and Estonia"
+        },
+        {
+          "number": "152",
+          "text": "Power of Sanction of the Member States"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE084",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 84 GDPR Penalties",
+    "answer": {
+      "Art. 84 GDPR Penalties": [
+        {
+          "number": "149",
+          "text": "Penalties for Infringements of National Rules"
+        },
+        {
+          "number": "150",
+          "text": "Administrative Fines"
+        },
+        {
+          "number": "151",
+          "text": "Administrative Fines in Denmark and Estonia"
+        },
+        {
+          "number": "152",
+          "text": "Power of Sanction of the Member States"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE085",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 85 GDPR Processing and freedom of expression and information",
+    "answer": {
+      "Art. 85 GDPR Processing and freedom of expression and information": [
+        {
+          "number": "153",
+          "text": "Processing of Personal Data Solely for Journalistic Purposes or for the Purposes of Academic, Artistic or Literary Expression"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE086",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 86 GDPR Processing and public access to official documents",
+    "answer": {
+      "Art. 86 GDPR Processing and public access to official documents": [
+        {
+          "number": "154",
+          "text": "Principle of Public Access to Official Documents"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE087",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 87 GDPR Processing of the national identification number",
+    "answer": {
+      "Art. 87 GDPR Processing of the national identification number": []
+    }
+  },
+  {
+    "task_id": "RE088",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 88 GDPR Processing in the context of employment",
+    "answer": {
+      "Art. 88 GDPR Processing in the context of employment": [
+        {
+          "number": "155",
+          "text": "Processing in the Employment Context"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE089",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 89 GDPR Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes",
+    "answer": {
+      "Art. 89 GDPR Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes": [
+        {
+          "number": "156",
+          "text": "Processing for Archiving, Scientific or Historical Research or Statistical Purposes"
+        },
+        {
+          "number": "157",
+          "text": "Information from Registries and Scientific Research"
+        },
+        {
+          "number": "158",
+          "text": "Processing for Archiving Purposes"
+        },
+        {
+          "number": "159",
+          "text": "Processing for Scientific Research Purposes"
+        },
+        {
+          "number": "160",
+          "text": "Processing for Historical Research Purposes"
+        },
+        {
+          "number": "161",
+          "text": "Consenting to the Participation in Clinical Trials"
+        },
+        {
+          "number": "162",
+          "text": "Processing for Statistical Purposes"
+        },
+        {
+          "number": "163",
+          "text": "Production of European and National Statistics"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE090",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 90 GDPR Obligations of secrecy",
+    "answer": {
+      "Art. 90 GDPR Obligations of secrecy": [
+        {
+          "number": "164",
+          "text": "Professional or Other Equivalent Secrecy Obligations"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE091",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 91 GDPR Existing data protection rules of churches and religious associations",
+    "answer": {
+      "Art. 91 GDPR Existing data protection rules of churches and religious associations": [
+        {
+          "number": "165",
+          "text": "No Prejudice of the Status of Churches and Religious Associations"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE092",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 92 GDPR Exercise of the delegation",
+    "answer": {
+      "Art. 92 GDPR Exercise of the delegation": [
+        {
+          "number": "166",
+          "text": "Delegated Acts of the Commission"
+        },
+        {
+          "number": "167",
+          "text": "Implementing Powers of the Commission"
+        },
+        {
+          "number": "168",
+          "text": "Implementing Acts on Standard Contractual Clauses"
+        },
+        {
+          "number": "169",
+          "text": "Immediately Applicable Implementing Acts"
+        },
+        {
+          "number": "170",
+          "text": "Principle of Subsidiarity and Principle of Proportionality"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE093",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 93 GDPR Committee procedure",
+    "answer": {
+      "Art. 93 GDPR Committee procedure": []
+    }
+  },
+  {
+    "task_id": "RE094",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 94 GDPR Repeal of Directive 95/46/EC",
+    "answer": {
+      "Art. 94 GDPR Repeal of Directive 95/46/EC": [
+        {
+          "number": "171",
+          "text": "Repeal of Directive 95/46/EC and Transitional Provisions"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE095",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 95 GDPR Relationship with Directive 2002/58/EC",
+    "answer": {
+      "Art. 95 GDPR Relationship with Directive 2002/58/EC": [
+        {
+          "number": "173",
+          "text": "Relationship to Directive 2002/58/EC"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": "RE096",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 96 GDPR Relationship with previously concluded Agreements",
+    "answer": {
+      "Art. 96 GDPR Relationship with previously concluded Agreements": []
+    }
+  },
+  {
+    "task_id": "RE097",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 97 GDPR Commission reports",
+    "answer": {
+      "Art. 97 GDPR Commission reports": []
+    }
+  },
+  {
+    "task_id": "RE098",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 98 GDPR Review of other Union legal acts on data protection",
+    "answer": {
+      "Art. 98 GDPR Review of other Union legal acts on data protection": []
+    }
+  },
+  {
+    "task_id": "RE099",
+    "task_type": "gdpr_recital",
+    "prompt": "List the corresponding recital(s) for the following GDPR article: Art. 99 GDPR Entry into force and application",
+    "answer": {
+      "Art. 99 GDPR Entry into force and application": []
+    }
+  }
+]

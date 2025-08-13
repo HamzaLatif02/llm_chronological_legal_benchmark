@@ -1,0 +1,502 @@
+[
+  {
+    "task_id": "RC001",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Act of Settlement (1700)?"
+  },
+  {
+    "task_id": "RC002",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Crown Lands Act 1702?"
+  },
+  {
+    "task_id": "RC003",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the The Act 1 Anne Stat. 2 1702?"
+  },
+  {
+    "task_id": "RC004",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Union with Scotland Act 1706?"
+  },
+  {
+    "task_id": "RC005",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Election Act 1707(repealed)?"
+  },
+  {
+    "task_id": "RC006",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Succession to the Crown Act 1707?"
+  },
+  {
+    "task_id": "RC007",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the The Cestui Que Vie Act 1707?"
+  },
+  {
+    "task_id": "RC008",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Parochial Libraries Act 1708?"
+  },
+  {
+    "task_id": "RC009",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Gaming Act 1710?"
+  },
+  {
+    "task_id": "RC010",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Distress for Rent Act 1737?"
+  },
+  {
+    "task_id": "RC011",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Gaming Act 1738?"
+  },
+  {
+    "task_id": "RC012",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Universities (Wine Licences) Act 1743?"
+  },
+  {
+    "task_id": "RC013",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Tenures Abolition Act 1746?"
+  },
+  {
+    "task_id": "RC014",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Disorderly Houses Act 1751?"
+  },
+  {
+    "task_id": "RC015",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Entail Improvement Act 1770?"
+  },
+  {
+    "task_id": "RC016",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the White Herring Fisheries Act 1771?"
+  },
+  {
+    "task_id": "RC017",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Game (Scotland) Act 1772?"
+  },
+  {
+    "task_id": "RC018",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Inclosure Act 1773?"
+  },
+  {
+    "task_id": "RC019",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Life Assurance Act 1774?"
+  },
+  {
+    "task_id": "RC020",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Sunday Observance Act 1780?"
+  },
+  {
+    "task_id": "RC021",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the National Debt Reduction Act 1786?"
+  },
+  {
+    "task_id": "RC022",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Treason Act 1790 (repealed 30.9.1998)?"
+  },
+  {
+    "task_id": "RC023",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Libel Act 1792?"
+  },
+  {
+    "task_id": "RC024",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Treason Act 1795 (repealed 30.9.1998)?"
+  },
+  {
+    "task_id": "RC025",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Burghs of Barony (Scotland) Act 1795?"
+  },
+  {
+    "task_id": "RC026",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Thirlage Act 1799?"
+  },
+  {
+    "task_id": "RC027",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ecclesiastical Leases Act 1800 (repealed 19.11.1998)?"
+  },
+  {
+    "task_id": "RC028",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Public Notaries Act 1801?"
+  },
+  {
+    "task_id": "RC029",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Teinds Act 1808?"
+  },
+  {
+    "task_id": "RC030",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Life Annuities Act 1808?"
+  },
+  {
+    "task_id": "RC031",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Probate and Legacy Duties Act 1808?"
+  },
+  {
+    "task_id": "RC032",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Gifts for Churches Act 1811?"
+  },
+  {
+    "task_id": "RC033",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Treason Act 1814?"
+  },
+  {
+    "task_id": "RC034",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Sale of Farming Stock Act 1816?"
+  },
+  {
+    "task_id": "RC035",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Burial Ground Act 1816?"
+  },
+  {
+    "task_id": "RC036",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Treason Act 1817 (repealed 30.9.1998)?"
+  },
+  {
+    "task_id": "RC037",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Distress (Costs) Act 1817 (repealed 8.11.1995)?"
+  },
+  {
+    "task_id": "RC038",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Duchy of Lancaster Act 1817?"
+  },
+  {
+    "task_id": "RC039",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Unlawful Drilling Act 1819?"
+  },
+  {
+    "task_id": "RC040",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Criminal Libel Act 1819?"
+  },
+  {
+    "task_id": "RC041",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Riotous Assemblies (Scotland) Act 1822?"
+  },
+  {
+    "task_id": "RC042",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Parliamentary Elections (Ireland) Act 1823?"
+  },
+  {
+    "task_id": "RC043",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Confirmation of Executors (Scotland) Act 1823?"
+  },
+  {
+    "task_id": "RC044",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Vagrancy Act 1824?"
+  },
+  {
+    "task_id": "RC045",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Entail Provisions Act 1824?"
+  },
+  {
+    "task_id": "RC046",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Jurors (Scotland) Act 1825?"
+  },
+  {
+    "task_id": "RC047",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Chelsea and Kilmainham Hospitals Act 1826?"
+  },
+  {
+    "task_id": "RC048",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Criminal Law Act 1826?"
+  },
+  {
+    "task_id": "RC049",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Night Poaching Act 1828?"
+  },
+  {
+    "task_id": "RC050",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Roman Catholic Relief Act 1829?"
+  },
+  {
+    "task_id": "RC051",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Register of Sasines Act 1829?"
+  },
+  {
+    "task_id": "RC052",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the London Hackney Carriage Act 1831?"
+  },
+  {
+    "task_id": "RC053",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Game Act 1831?"
+  },
+  {
+    "task_id": "RC054",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Game (Scotland) Act 1832?"
+  },
+  {
+    "task_id": "RC055",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Prescription Act 1832?"
+  },
+  {
+    "task_id": "RC056",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Lord Chancellor’s Pension Act 1832?"
+  },
+  {
+    "task_id": "RC057",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Public Revenue (Scotland) Act 1833?"
+  },
+  {
+    "task_id": "RC058",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Inclosure and Drainage (Rates) Act 1833?"
+  },
+  {
+    "task_id": "RC059",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Judicial Committee Act 1833?"
+  },
+  {
+    "task_id": "RC060",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Fines and Recoveries Act 1833?"
+  },
+  {
+    "task_id": "RC061",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Fines Act 1833 (repealed)?"
+  },
+  {
+    "task_id": "RC062",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the New Churches (Scotland) Act 1834?"
+  },
+  {
+    "task_id": "RC063",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Gaming Act 1835?"
+  },
+  {
+    "task_id": "RC064",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Statutory Declarations Act 1835?"
+  },
+  {
+    "task_id": "RC065",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ecclesiastical Leases Act 1836?"
+  },
+  {
+    "task_id": "RC066",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Erasures in Deeds (Scotland) Act 1836?"
+  },
+  {
+    "task_id": "RC067",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Entail Powers Act 1836?"
+  },
+  {
+    "task_id": "RC068",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ecclesiastical Leases (Amendment) Act 1836?"
+  },
+  {
+    "task_id": "RC069",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ecclesiastical Commissioners Act 1836?"
+  },
+  {
+    "task_id": "RC070",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Wills Act 1837?"
+  },
+  {
+    "task_id": "RC071",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Piracy Act 1837?"
+  },
+  {
+    "task_id": "RC072",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Queen Anne's Bounty Act 1838?"
+  },
+  {
+    "task_id": "RC073",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Parsonages Act 1838?"
+  },
+  {
+    "task_id": "RC074",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Entail Act 1838?"
+  },
+  {
+    "task_id": "RC075",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Pluralities Act 1838?"
+  },
+  {
+    "task_id": "RC076",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Judgments Act 1838?"
+  },
+  {
+    "task_id": "RC077",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Debtors (Scotland) Act 1838?"
+  },
+  {
+    "task_id": "RC078",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Court of Session (No. 2) Act 1838 (repealed)?"
+  },
+  {
+    "task_id": "RC079",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Court of Session Act 1839 (repealed)?"
+  },
+  {
+    "task_id": "RC080",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Highway (Railway Crossings) Act 1839?"
+  },
+  {
+    "task_id": "RC081",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Metropolitan Police Act 1839?"
+  },
+  {
+    "task_id": "RC082",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Entail Sites Act 1840?"
+  },
+  {
+    "task_id": "RC083",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Metropolitan Police Courts Act 1840?"
+  },
+  {
+    "task_id": "RC084",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Non-Parochial Registers Act 1840?"
+  },
+  {
+    "task_id": "RC085",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Railway Regulation Act 1840?"
+  },
+  {
+    "task_id": "RC086",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ecclesiastical Commissioners Act 1840?"
+  },
+  {
+    "task_id": "RC087",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ordnance Survey Act 1841?"
+  },
+  {
+    "task_id": "RC088",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Schools Sites Act 1841?"
+  },
+  {
+    "task_id": "RC089",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ecclesiastical Commissioners Act 1841?"
+  },
+  {
+    "task_id": "RC090",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ecclesiastical Houses of Residence Act 1842?"
+  },
+  {
+    "task_id": "RC091",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Railway Regulation Act 1842?"
+  },
+  {
+    "task_id": "RC092",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Defence Act 1842?"
+  },
+  {
+    "task_id": "RC093",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Ecclesiastical Leasing Act 1842?"
+  },
+  {
+    "task_id": "RC094",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the London Hackney Carriages Act 1843?"
+  },
+  {
+    "task_id": "RC095",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Public Notaries Act 1843?"
+  },
+  {
+    "task_id": "RC096",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Night Poaching Act 1844?"
+  },
+  {
+    "task_id": "RC097",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Bank Charter Act 1844?"
+  },
+  {
+    "task_id": "RC098",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the New Parishes (Scotland) Act 1844?"
+  },
+  {
+    "task_id": "RC099",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Lecturers and Parish Clerks Act 1844?"
+  },
+  {
+    "task_id": "RC100",
+    "task_type": "relationship_chain_completion",
+    "prompt": "Which acts have affected the Companies Clauses Consolidation Act 1845?"
+  }
+]
