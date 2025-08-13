@@ -19,16 +19,21 @@ The benchmark tests **semantic, numerical, and timeline-based reasoning**, with 
 - **GDPR** – Extracted from [gdpr-info.eu](https://gdpr-info.eu)
 - **UK Public General Acts (UKPGA)** – From [Legislation.gov.uk](https://www.legislation.gov.uk)
 - **Primary & Secondary Legislation** – From [Legislation.gov.uk](https://www.legislation.gov.uk)
-- **Legislation Changes** – From [Legislation.gov.uk Changes](https://www.legislation.gov.uk/changes)
+- **Legislation Changes** – From [Legislation.gov.uk/Changes](https://www.legislation.gov.uk/changes)
+
+---
+
+## Dataset
+The dataset, in JSON format, is publicly available on [Kaggle](https://www.kaggle.com/datasets/hamza49/uk-legislations/data)
 
 ---
 
 ## Folder Structure
 project_root/
 
-1. database/ # Python scripts & JSON files for building the legal database
+1. database/ # Python scripts for building the legal database
   - temporal_relationships/ # Scripts for linking laws and creating timelines
-  - *.py, *.json
+  - *.py,
 
 2. tasks/ # Scripts to generate 12 task types + generated task files
   - semantic_tasks/
